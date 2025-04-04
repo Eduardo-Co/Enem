@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Níveis de Estudante"
             }
+          },
+          {
+            "id": "e1faa205aa396125",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Estudos/Drawing 2025-04-04 15.36.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-04 15.36.46.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c57ca7899f853cc5",
+  "active": "e1faa205aa396125",
   "lastOpenFiles": [
-    "Geografia/Geopolítica/Velha ordem Mundial.md",
     "Estudos/Níveis de Estudante.md",
+    "Estudos/Drawing 2025-04-04 15.36.46.excalidraw.md",
+    "Ink/Writing/2025.4.4 - 15.36pm.writing",
+    "Ink/Writing",
+    "Ink",
+    "Geografia/Geopolítica/Velha ordem Mundial.md",
     "Estudos",
     "Interpretação de Texto",
     "Geografia/Conceitos de geografia/Definição de Geografia.md",
@@ -204,18 +221,14 @@
     "Excalidraw/Calculo 1/Ex Teo Confontro/Exemplos/Exemplo 1.md",
     "Excalidraw/Calculo 1/Ex Teo Confontro/Exemplos",
     "Excalidraw/Calculo 1/Ex Teo Confontro/Exercícios",
-    "Excalidraw/Calculo 1/Ex Teo Confontro",
     "Calculo 1/Limite e continuidade/Derivada como tangente.md",
     "Calculo 1/Limite e continuidade/Teorema do confronto/Exemplo 1.md",
     "Calculo 1/Limite e continuidade/Definição de função contínua/Definição de função contínua.md",
     "Norti Sistemas/Kanban.md",
     "Circuitos elétricos - 1/Prática 5.md",
     "Circuitos elétricos - 1/Resistência interna.md",
-    "Ink/Writing/2025.4.2 - 11.22am.writing",
-    "ROTEIRO PRÁTICA 05.pdf",
     "Circuitos elétricos - 1/Exer.md",
     "Equações diferenciais/Parciais/Séries de Fourier/Funções pares e ímpares.md",
-    "Equações diferenciais/Parciais/Séries de Fourier/Definição da série de Fourier.md",
     "Excalidraw/Problema de probabilidade.png",
     "Pasted image 20250322132616.png",
     "Images/Estatistica/Pasted image 20250219173536.png",
