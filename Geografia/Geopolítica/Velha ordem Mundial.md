@@ -24,8 +24,8 @@
     - **Pacto de Varsóvia:** Aliança dos países do bloco oriental.
 
 - **Símbolos e Marcos Importantes**
-  - **Muro de Berlim:** Ícone da divisão ideológica e física na Europa.
-  - Divisão da Alemanha como símbolo central da Guerra Fria.
+  - **Muro de Berlim:** Ícone da divisão ideológica e física na Europa criado pela república alemã 
+  - Divisão da Alemanha como símbolo central da Guerra Fria
 
 - **Conflitos Regionais e Influência Global**
   - Conflitos indiretos sem confronto direto entre as superpotências (guerra fria "quente" sem batalhas diretas).
