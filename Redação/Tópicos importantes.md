@@ -3,4 +3,5 @@
 Internalize isso. 
 
 ---
-- 
+- TREINE E SIMULE, melhor focar inicialmente no treino do que na simulação
+---
