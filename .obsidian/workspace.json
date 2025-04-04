@@ -25,21 +25,14 @@
             "id": "0e948c83abe2da66",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Geografia/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Geografia/O que mais cai em geografia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "O que mais cai em geografia"
             }
           }
         ],
@@ -202,11 +195,12 @@
   },
   "active": "0e948c83abe2da66",
   "lastOpenFiles": [
-    "Geografia/O que mais cai em geografia.md",
-    "Geografia/Untitled Kanban.md",
-    "O que mais cai.md",
     "Geografia/Milton Santos - Geógrafo.md",
+    "Geografia/Definição de Paisagem.md",
     "Geografia/Definição de Geografia.md",
+    "Geografia/ZGeo Kanban.md",
+    "Geografia/O que mais cai em geografia.md",
+    "O que mais cai.md",
     "README.md",
     "Geografia",
     "Welcome.md",
@@ -234,7 +228,6 @@
     "Equações diferenciais/Parciais/Séries de Fourier/Definição da série de Fourier.md",
     "Equações diferenciais/Parciais/Séries de Fourier/Coeficientes de uma série de Fourier.md",
     "Equações diferenciais/Parciais/Séries de Fourier/Função contínua por partes.md",
-    "Calculo 1/Limite e continuidade/Noção intuitiva de continuidade.md",
     "Equações diferenciais/Parciais/Séries de Fourier",
     "Atividade Eng Sistemas.pdf",
     "~$ividade Eng Sistemas.docx",
