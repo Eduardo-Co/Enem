@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4918df4c03791e12",
+        "id": "6b9f5ccf0deb5cbe",
         "type": "tabs",
         "children": [
           {
-            "id": "01c495a950c25df2",
+            "id": "c57ca7899f853cc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geografia/Definição de Geografia.md",
+                "file": "Geografia/Geopolítica/Velha ordem Mundial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definição de Geografia"
-            }
-          },
-          {
-            "id": "0e948c83abe2da66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geografia/O que mais cai em geografia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "O que mais cai em geografia"
+              "title": "Velha ordem Mundial"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,13 +178,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0e948c83abe2da66",
+  "active": "c57ca7899f853cc5",
   "lastOpenFiles": [
-    "Geografia/Milton Santos - Geógrafo.md",
-    "Geografia/Definição de Paisagem.md",
-    "Geografia/Definição de Geografia.md",
-    "Geografia/ZGeo Kanban.md",
+    "Geografia/Conceitos de geografia/Definição de Geografia.md",
+    "Geografia/Geopolítica/Velha ordem Mundial.md",
+    "Geografia/Geopolítica",
+    "Geografia/Conceitos de geografia/Milton Santos - Geógrafo.md",
+    "Geografia/Conceitos de geografia/Definição de Paisagem.md",
     "Geografia/O que mais cai em geografia.md",
+    "Geografia/Conceitos de geografia",
+    "Geografia/ZGeo Kanban.md",
     "O que mais cai.md",
     "README.md",
     "Geografia",
@@ -227,10 +215,7 @@
     "Equações diferenciais/Parciais/Séries de Fourier/Funções pares e ímpares.md",
     "Equações diferenciais/Parciais/Séries de Fourier/Definição da série de Fourier.md",
     "Equações diferenciais/Parciais/Séries de Fourier/Coeficientes de uma série de Fourier.md",
-    "Equações diferenciais/Parciais/Séries de Fourier/Função contínua por partes.md",
     "Equações diferenciais/Parciais/Séries de Fourier",
-    "Atividade Eng Sistemas.pdf",
-    "~$ividade Eng Sistemas.docx",
     "Excalidraw/Problema de probabilidade.png",
     "Pasted image 20250322132616.png",
     "Images/Estatistica/Pasted image 20250219173536.png",
