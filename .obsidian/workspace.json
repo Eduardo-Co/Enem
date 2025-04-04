@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "e3e588a7e7707f9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4918df4c03791e12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01c495a950c25df2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e17e6ec1782a666",
+    "type": "split",
+    "children": [
+      {
+        "id": "0135582a147cd19a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20b4fce5db701f68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e6689a8c8a183101",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "6b340e8f86ba571e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "58e3cf5b5003b992",
+    "type": "split",
+    "children": [
+      {
+        "id": "6842b8235316c478",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abf7120bdb32f9d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a2435c3bdb5e5c99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3df17a08702f802b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "04a22be91559427d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calculo 1/Limite e continuidade/Teorema da existência dos limites laterais para haver limite no ponto.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Teorema da existência dos limites laterais para haver limite no ponto"
+            }
+          },
+          {
+            "id": "0875c2dbe25baa01",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "20b4fce5db701f68",
+  "lastOpenFiles": [
+    "README.md",
+    "Welcome.md",
+    "Excalidraw/Calculo 1/Ex Teo Confontro/Meu Exemplo 1.md",
+    "Excalidraw/Calculo 1/Ex Teo Confontro/Exercícios/Ex 2.md",
+    "Excalidraw/Calculo 1/Ex Teo Confontro/Exercícios/Ex 1.md",
+    "Excalidraw/Calculo 1/Ex Teo Confontro/Exemplos/Exemplo 3.md",
+    "Excalidraw/Calculo 1/Demonstrações/Teorema do confronto.md",
+    "Excalidraw/Calculo 1/Ex Teo Confontro/Exemplos/Exemplo 2.md",
+    "Excalidraw/Calculo 1/Ex Teo Confontro/Exemplos/Exemplo 1.md",
+    "Excalidraw/Calculo 1/Ex Teo Confontro/Exemplos",
+    "Excalidraw/Calculo 1/Ex Teo Confontro/Exercícios",
+    "Excalidraw/Calculo 1/Ex Teo Confontro",
+    "Calculo 1/Limite e continuidade/Derivada como tangente.md",
+    "Calculo 1/Limite e continuidade/Teorema do confronto/Exemplo 1.md",
+    "Calculo 1/Limite e continuidade/Definição de função contínua/Definição de função contínua.md",
+    "Norti Sistemas/Kanban.md",
+    "Circuitos elétricos - 1/Prática 5.md",
+    "Circuitos elétricos - 1/Resistência interna.md",
+    "Ink/Writing/2025.4.2 - 11.22am.writing",
+    "ROTEIRO PRÁTICA 05.pdf",
+    "Circuitos elétricos - 1/Exer.md",
+    "Circuitos elétricos - 1",
+    "Equações diferenciais/Parciais/Séries de Fourier/Funções pares e ímpares.md",
+    "Equações diferenciais/Parciais/Séries de Fourier/Definição da série de Fourier.md",
+    "Equações diferenciais/Parciais/Séries de Fourier/Coeficientes de uma série de Fourier.md",
+    "Equações diferenciais/Parciais/Séries de Fourier/Função contínua por partes.md",
+    "Calculo 1/Limite e continuidade/Noção intuitiva de continuidade.md",
+    "Excalidraw/Exercícios de estatística/Drawing 2025-03-31 17.04.21.excalidraw.md",
+    "Equações diferenciais/Parciais/Séries de Fourier",
+    "Equações diferenciais/Ordinarias/Equações de primeira Ordem/Caso Geral.md",
+    "Excalidraw/Exercícios de estatística/cap 2.3/1.md",
+    "Excalidraw/Exercícios de estatística/Drawing 2025-03-31 17.03.22.excalidraw.md",
+    "Atividade Eng Sistemas.pdf",
+    "Excalidraw/Exercícios de estatística/Exercício 1 Class.md",
+    "~$ividade Eng Sistemas.docx",
+    "Atividade Eng Sistemas.docx",
+    "Excalidraw/Problema de probabilidade.png",
+    "Pasted image 20250322132616.png",
+    "Images/Estatistica/Pasted image 20250219173536.png",
+    "Images/Estatistica/Pasted image 20250220101720.png",
+    "Images/Estatistica/Pasted image 20250219162956.png",
+    "Images/Calulo 1/Pasted image 20250301151006.png",
+    "Images/Estatistica/Pasted image 20250219173756.png",
+    "Images/Calulo 1/Pasted image 20250210115258.png",
+    "Images/Circuitos elétricos/Pasted Image 20250321174523_838.png",
+    "Excalidraw/Problema de probabilidade caso 2.png",
+    "Excalidraw/Calculo 1/E.canvas",
+    "Sem título.canvas"
+  ]
+}
