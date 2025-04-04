@@ -1,2 +1,0 @@
-- Não se sentir pressionado 
-- 
