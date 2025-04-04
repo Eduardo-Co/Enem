@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/Níveis de Estudante.md",
+                "file": "Redação/Fazer redação no início.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Níveis de Estudante"
-            }
-          },
-          {
-            "id": "e1faa205aa396125",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Estudos/Drawing 2025-04-04 15.36.46.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-04 15.36.46.excalidraw"
+              "title": "Fazer redação no início"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,11 +178,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e1faa205aa396125",
+  "active": "c57ca7899f853cc5",
   "lastOpenFiles": [
-    "Pasted Image 20250404154321_266.png",
+    "Redação/Informações básicas.md",
+    "Redação/Fazer redação no início.md",
     "Estudos/Níveis de Estudante.md",
+    "Pasted Image 20250404154321_266.png",
     "Estudos/Drawing 2025-04-04 15.36.46.excalidraw.md",
+    "Redação",
     "Ink/Writing/2025.4.4 - 15.36pm.writing",
     "Ink/Writing",
     "Ink",
@@ -221,14 +211,12 @@
     "Excalidraw/Calculo 1/Ex Teo Confontro/Exemplos/Exemplo 2.md",
     "Excalidraw/Calculo 1/Ex Teo Confontro/Exemplos/Exemplo 1.md",
     "Excalidraw/Calculo 1/Ex Teo Confontro/Exemplos",
-    "Excalidraw/Calculo 1/Ex Teo Confontro/Exercícios",
     "Calculo 1/Limite e continuidade/Derivada como tangente.md",
     "Calculo 1/Limite e continuidade/Teorema do confronto/Exemplo 1.md",
     "Calculo 1/Limite e continuidade/Definição de função contínua/Definição de função contínua.md",
     "Norti Sistemas/Kanban.md",
     "Circuitos elétricos - 1/Prática 5.md",
     "Circuitos elétricos - 1/Resistência interna.md",
-    "Circuitos elétricos - 1/Exer.md",
     "Excalidraw/Problema de probabilidade.png",
     "Pasted image 20250322132616.png",
     "Images/Estatistica/Pasted image 20250219173536.png",
@@ -238,7 +226,6 @@
     "Images/Estatistica/Pasted image 20250219173756.png",
     "Images/Calulo 1/Pasted image 20250210115258.png",
     "Images/Circuitos elétricos/Pasted Image 20250321174523_838.png",
-    "Excalidraw/Problema de probabilidade caso 2.png",
     "Excalidraw/Calculo 1/E.canvas",
     "Sem título.canvas"
   ]

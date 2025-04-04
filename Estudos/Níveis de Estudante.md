@@ -28,9 +28,3 @@
 - Vai estrar entre os primeiros
 -  80% de acertos
 
-```handwritten-ink
-{
-	"versionAtEmbed": "0.3.4",
-	"filepath": "Ink/Writing/2025.4.4 - 15.36pm.writing"
-}
-```
