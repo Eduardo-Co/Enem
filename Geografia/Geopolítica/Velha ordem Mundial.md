@@ -1,28 +1,41 @@
+# Guerra Fria (1947 – 1989)
 
-período 1947 0 1989 40 anos aprox;
-- Começa com bipartição política e ideológica
-- Foco na europa - SIMBOLO : Muro de Berlim simbolo de bipartição na europa
-- Grande influência nos conflitos regionais
-	tanto que as guerras do viatinan e da corea foram uma representação disso 
-	surgimento de grandes autoritarismos nessas regioões
-- Reforçando Sistemas ideológicos e econômicos incompatíveis como capitalismo e socialismo real (economia planificada)
-- Guerra fria - sem conflito choque direto - arsenal nuclear
-- cai muro de berlim
-- Fim da união soviética, emergência da Superpotência Global EUA
+## Contexto Histórico**
+  - Pós-Segunda Guerra Mundial, após o pacto hitler-stálin e a divisão da Polônia.
+  - Reconfiguração da ordem global pelos vencedores da guerra.
+---
 
+## **Bipartição Política e Ideológica**
+  - Confronto indireto entre:
+    - **Estados Unidos:** Representando o capitalismo.
+    - **União Soviética:** Representando o socialismo real (economia planificada).
+  - Formação de duas esferas de influência:
+    - **Bloco Ocidental:** Liderado pelos EUA.
+    - **Bloco Oriental:** Liderado pela URSS, com satélites nos territórios recém liberados do nazismo.
+---
 
-Entendnedo melhor, antes o pacto hitler-stálin na segunda guerra mundial trouxe uma hegemonia totalitária, comunista, na divisão da polônia, mas após isso houve uma conferência da 2 guerra mundial para desenhar ordem-nacional pós-guerra vencedores da 2 guerra desenhando ordem global. 
+## **Medidas e Estratégias Adotadas**
 
-Soviéticos contra Americanos. 
+  - **Doutrina Truman:** Política dos EUA para conter a expansão soviética.
+  - 
+  - **Plano Marshall:** Auxílio econômico para reconstruir a Europa e enfraquecer a influência soviética.
+  - Criação de alianças militares:
+    - **OTAN:** União dos países ocidentais.
+    - **Pacto de Varsóvia:** Aliança dos países do bloco oriental.
 
-Começa com a ocupação dos territórios por parte da união soviética aos territórios recem-liberatdos do nazismo. Transformando em ***satélites** da união  soviética.
+- **Símbolos e Marcos Importantes**
+  - **Muro de Berlim:** Ícone da divisão ideológica e física na Europa.
+  - Divisão da Alemanha como símbolo central da Guerra Fria.
 
-Tendo então uma reação dos estados unidos por parte de Truman que implementa a Doutrina Truman com foco em enfraquecer a união soviética assim começa o cenário da guerra fria ao mesmo tempo que acontecia o ***Plano Marshall*** como resposta dos EUA a dominação soviética
+- **Conflitos Regionais e Influência Global**
+  - Conflitos indiretos sem confronto direto entre as superpotências (guerra fria "quente" sem batalhas diretas).
+  - Exemplos de conflitos:
+    - **Guerra da Coreia**
+    - **Guerra do Vietnã**
+  - Surgimento de regimes autoritários em diversas regiões como reflexo da polarização.
 
-Assim as coisas foram progredindo de forma que Foi criado a ***Otan*** e ***Pacto de Versósvia*** Separando o ocidente do oriente EEUU e URSS.  
-
-Grande marco disso é a divisão da alemanha e o muro de berlim 
-
-Veja que essas superpotências geravam dependentes então e subordinação as duas bipolaridades políticas economicas e ideologicas. 
-
-Acabando com a china rompendo com a união soviética e aprox do EUA
+- **Desfecho da Guerra Fria**
+  - **Queda do Muro de Berlim (1989):** Símbolo do fim da divisão na Europa.
+  - Colapso da União Soviética e o fim dos regimes satélites.
+  - Emergência dos Estados Unidos como a superpotência global.
+  - Redefinição das alianças, com a China rompendo com a URSS e aproximando-se dos EUA.
