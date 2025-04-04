@@ -5,3 +5,7 @@ Internalize isso.
 ---
 - TREINE E SIMULE, melhor focar inicialmente no treino do que na simulação
 ---
+- Focar muito nos comentários da redação 
+---
+- Focar em gabaritar cada competência 
+---
