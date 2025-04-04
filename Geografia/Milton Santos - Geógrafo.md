@@ -1,0 +1,3 @@
+## Exemplos / Definição utilizada por Milton Santos : Rugosidade:
+
+Marcas do tempo no espaço, ações da história em um espaço, exemplo construções antigas e novas misturadas, Diamantina....
