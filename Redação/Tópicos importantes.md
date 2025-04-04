@@ -1,0 +1,6 @@
+- O que acontece na verdade é que você **BUSCA FAZER UM TEXTO PERFEITO** e, quando ele não está — *na sua concepção* — perfeito, você trava e prefere não fazê-lo do que fazê-lo sem estar — *na sua concepção* — perfeito!
+
+Internalize isso. 
+
+---
+- 
