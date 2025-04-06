@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"77a1a2ab53705c4c","type":"text","text":"Biologia\n","x":-190,"y":240,"width":250,"height":60},
+		{"id":"4fdc8e72afbeb5c9","type":"text","text":"1° Ecologia\n","x":-560,"y":400,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7850183ac40bc320","fromNode":"77a1a2ab53705c4c","fromSide":"left","toNode":"4fdc8e72afbeb5c9","toSide":"top"}
+	]
+}
