@@ -10,4 +10,7 @@ Livros:
 ---
 
 - Sapiens
+- Corrida para o século 21
+- A cultura do mundo
+- Grandes livros de Filosofia
 - 
