@@ -1,13 +1,21 @@
 {
 	"nodes":[
-		{"id":"4adbe9d4cedbe65a","x":-220,"y":320,"width":250,"height":60,"type":"text","text":"Matemática"},
-		{"id":"feedf13f5a805657","x":-560,"y":500,"width":250,"height":60,"type":"text","text":"Matemática Básica"},
-		{"id":"b60e72d47ba4361e","x":-400,"y":720,"width":250,"height":60,"color":"6","type":"text","text":"Produto e divisão"},
-		{"id":"f8c5185df523f889","x":-700,"y":720,"width":250,"height":60,"type":"text","text":"Fração"}
+		{"id":"4adbe9d4cedbe65a","type":"text","text":"Matemática","x":-220,"y":320,"width":250,"height":60},
+		{"id":"feedf13f5a805657","type":"text","text":"Matemática Básica","x":-560,"y":500,"width":250,"height":60},
+		{"id":"b60e72d47ba4361e","type":"text","text":"Produto e divisão","x":-400,"y":720,"width":250,"height":60,"color":"6"},
+		{"id":"f8c5185df523f889","type":"text","text":"Fração","x":-810,"y":720,"width":250,"height":60},
+		{"id":"7e8f81a69a6047f0","x":-1580,"y":905,"width":250,"height":50,"type":"text","text":"Dizima periódica"},
+		{"id":"a569648dc982d9ed","x":-1300,"y":900,"width":250,"height":60,"type":"text","text":"MDC / MMC"},
+		{"id":"d08ef0df9a5cbb99","x":-1020,"y":900,"width":250,"height":60,"type":"text","text":"Números decimais\n"},
+		{"id":"9366845aaf39afae","x":-720,"y":900,"width":250,"height":55,"type":"text","text":"Divisores de um número"}
 	],
 	"edges":[
 		{"id":"b17dd3f65a23fac2","fromNode":"4adbe9d4cedbe65a","fromSide":"left","toNode":"feedf13f5a805657","toSide":"top"},
 		{"id":"beb61a94418fda8d","fromNode":"feedf13f5a805657","fromSide":"bottom","toNode":"b60e72d47ba4361e","toSide":"top"},
-		{"id":"5f0e59775dc789ba","fromNode":"feedf13f5a805657","fromSide":"bottom","toNode":"f8c5185df523f889","toSide":"top"}
+		{"id":"5f0e59775dc789ba","fromNode":"feedf13f5a805657","fromSide":"bottom","toNode":"f8c5185df523f889","toSide":"top"},
+		{"id":"7bd21f9ea97623ae","fromNode":"f8c5185df523f889","fromSide":"bottom","toNode":"7e8f81a69a6047f0","toSide":"top"},
+		{"id":"9d447dbed432b0b6","fromNode":"f8c5185df523f889","fromSide":"bottom","toNode":"a569648dc982d9ed","toSide":"top"},
+		{"id":"05f754857ff8295f","fromNode":"d08ef0df9a5cbb99","fromSide":"top","toNode":"f8c5185df523f889","toSide":"bottom"},
+		{"id":"804407d0da85ee00","fromNode":"f8c5185df523f889","fromSide":"bottom","toNode":"9366845aaf39afae","toSide":"top"}
 	]
 }
