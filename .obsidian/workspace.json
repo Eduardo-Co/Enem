@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a2943eb92f463483",
+        "id": "fe9a58d693723b1f",
         "type": "tabs",
         "children": [
           {
-            "id": "a3ae971eb470e9aa",
+            "id": "b0b3126daa55cce2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Linguagens/Interpretar Poemas.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Interpretar Poemas"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -178,10 +176,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "b0b3126daa55cce2",
   "lastOpenFiles": [
-    "Linguagens/Como estudar.md",
     "Linguagens/Interpretar Poemas.md",
+    "Linguagens/Como estudar.md",
     "Interpretação de Texto/Como treinar interpretação.md",
     "Linguagens",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
