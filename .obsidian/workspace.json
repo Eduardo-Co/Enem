@@ -11,12 +11,14 @@
             "id": "b0b3126daa55cce2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Matemática/Fração.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Fração"
             }
           }
         ]
@@ -178,11 +180,16 @@
   },
   "active": "b0b3126daa55cce2",
   "lastOpenFiles": [
+    "Matemática/Untitled.canvas",
+    "Matemática/Fração.md",
+    "Matemática/Produto e divisão.md",
+    "Untitled.md",
+    "Matemática",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Linguagens/Interpretar Poemas.md",
     "Linguagens/Como estudar.md",
     "Interpretação de Texto/Como treinar interpretação.md",
     "Linguagens",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Metacognição/Estratégia de estudo.md",
     "Biologia/Caixinhas.canvas",
     "Redação/Tópicos importantes.md",
@@ -219,12 +226,7 @@
     "Geografia/Conceitos de geografia/Milton Santos - Geógrafo.md",
     "Geografia/Conceitos de geografia/Definição de Paisagem.md",
     "Geografia/Conceitos de geografia/Definição de Geografia.md",
-    "Estudos/Drawing 2025-04-04 15.36.46.excalidraw.md",
     "Redação",
-    "Ink/Writing/2025.4.4 - 15.36pm.writing",
-    "Geografia/O que mais cai em geografia.md",
-    "README.md",
-    "Welcome.md",
     "Excalidraw/Calculo 1/E.canvas",
     "Sem título.canvas"
   ]

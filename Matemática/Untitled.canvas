@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4adbe9d4cedbe65a","x":-220,"y":320,"width":250,"height":60,"type":"text","text":"Matemática"},
+		{"id":"feedf13f5a805657","x":-560,"y":500,"width":250,"height":60,"type":"text","text":"Matemática Básica"},
+		{"id":"b60e72d47ba4361e","x":-400,"y":720,"width":250,"height":60,"color":"6","type":"text","text":"Produto e divisão"},
+		{"id":"f8c5185df523f889","x":-700,"y":720,"width":250,"height":60,"type":"text","text":"Fração"}
+	],
+	"edges":[
+		{"id":"b17dd3f65a23fac2","fromNode":"4adbe9d4cedbe65a","fromSide":"left","toNode":"feedf13f5a805657","toSide":"top"},
+		{"id":"beb61a94418fda8d","fromNode":"feedf13f5a805657","fromSide":"bottom","toNode":"b60e72d47ba4361e","toSide":"top"},
+		{"id":"5f0e59775dc789ba","fromNode":"feedf13f5a805657","fromSide":"bottom","toNode":"f8c5185df523f889","toSide":"top"}
+	]
+}
