@@ -24,7 +24,8 @@ Simplificada: "Compreendemos nosso dever ao olhar para bandeira"
 # Fique bom em figuras de linguagem
 
 
+# Li e não entendi porra nenhuma 
 
-
-
-
+- Leu uma parte e o resto não, e tá travado nela, esqueça o resto e foque somente nela para responder a questão, uma parte compõem um todo. 
+- 
+ 
