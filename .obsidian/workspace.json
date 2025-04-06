@@ -25,12 +25,31 @@
             "id": "16b467f4e64e84bc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Untitled.canvas",
+                "viewState": {
+                  "x": 19.405528394768858,
+                  "y": 625.8375451163553,
+                  "zoom": -0.666666603088379
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "c401385d498c2a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que mais cai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O que mais cai"
             }
           }
         ],
@@ -193,18 +212,23 @@
   },
   "active": "16b467f4e64e84bc",
   "lastOpenFiles": [
-    "Geografia/Geopolítica/Velha ordem Mundial.md",
+    "O que mais cai.md",
+    "Biologia/Untitled.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Estudos/Níveis de Estudante.md",
+    "Biologia",
+    "Cronograma (2) 1.xlsx",
+    "Cronograma (2).xlsx",
+    "Metacognição",
+    "Geografia/Geopolítica/Velha ordem Mundial.md",
     "Geografia/Geo Kanban.md",
     "Geografia/Conceitos de geografia/Milton Santos - Geógrafo.md",
     "Geografia/Conceitos de geografia/Definição de Paisagem.md",
     "Geografia/Conceitos de geografia/Definição de Geografia.md",
-    "O que mais cai.md",
     "Interpretação de Texto/Drawing 2025-04-05 15.10.17.excalidraw.md",
     "Redação/Tópicos importantes.md",
     "Pasted image 20250404172553.png",
     "Redação/Informações básicas.md",
-    "Estudos/Níveis de Estudante.md",
     "Pasted Image 20250404154321_266.png",
     "Estudos/Drawing 2025-04-04 15.36.46.excalidraw.md",
     "Redação",
@@ -212,12 +236,8 @@
     "Ink/Writing",
     "Ink",
     "Estudos",
-    "Interpretação de Texto",
-    "Geografia/Geopolítica",
     "Geografia/O que mais cai em geografia.md",
-    "Geografia/Conceitos de geografia",
     "README.md",
-    "Geografia",
     "Welcome.md",
     "Excalidraw/Calculo 1/Ex Teo Confontro/Meu Exemplo 1.md",
     "Excalidraw/Calculo 1/Ex Teo Confontro/Exercícios/Ex 2.md",
