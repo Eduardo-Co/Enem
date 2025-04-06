@@ -3,23 +3,21 @@
 		{"id":"4adbe9d4cedbe65a","type":"text","text":"Matemática","x":-220,"y":320,"width":250,"height":60},
 		{"id":"feedf13f5a805657","type":"text","text":"Matemática Básica","x":-560,"y":500,"width":250,"height":60},
 		{"id":"b60e72d47ba4361e","type":"text","text":"Produto e divisão","x":-1070,"y":560,"width":250,"height":60,"color":"6"},
-		{"id":"f8c5185df523f889","type":"text","text":"Fração","x":-2185,"y":725,"width":250,"height":60},
-		{"id":"7e8f81a69a6047f0","type":"text","text":"Dizima periódica","x":-2620,"y":981,"width":250,"height":50},
-		{"id":"a569648dc982d9ed","type":"text","text":"MDC / MMC","x":-2340,"y":976,"width":250,"height":60},
-		{"id":"d08ef0df9a5cbb99","type":"text","text":"Números decimais\n","x":-2060,"y":976,"width":250,"height":60},
-		{"id":"9366845aaf39afae","type":"text","text":"Divisores de um número","x":-1760,"y":976,"width":250,"height":55},
 		{"id":"fab6ba8c0d5e5acc","type":"text","text":"Divisores","x":-1120,"y":725,"width":250,"height":60},
-		{"id":"770b9e36ae9721df","x":-1420,"y":979,"width":250,"height":50,"type":"text","text":"Primos"}
+		{"id":"770b9e36ae9721df","type":"text","text":"Primos","x":-1420,"y":979,"width":250,"height":50,"color":"5"},
+		{"id":"3d1239394ffc62bb","x":-1120,"y":979,"width":250,"height":50,"color":"3","type":"text","text":"Divisores"},
+		{"id":"d08ef0df9a5cbb99","type":"text","text":"Números decimais\n","x":-1980,"y":969,"width":250,"height":60},
+		{"id":"f8c5185df523f889","type":"text","text":"Fração","x":-2105,"y":820,"width":250,"height":60},
+		{"id":"7e8f81a69a6047f0","type":"text","text":"Dizima periódica","x":-2260,"y":968,"width":250,"height":61}
 	],
 	"edges":[
 		{"id":"b17dd3f65a23fac2","fromNode":"4adbe9d4cedbe65a","fromSide":"left","toNode":"feedf13f5a805657","toSide":"top"},
 		{"id":"beb61a94418fda8d","fromNode":"feedf13f5a805657","fromSide":"bottom","toNode":"b60e72d47ba4361e","toSide":"top"},
 		{"id":"5f0e59775dc789ba","fromNode":"b60e72d47ba4361e","fromSide":"bottom","toNode":"f8c5185df523f889","toSide":"top"},
 		{"id":"7bd21f9ea97623ae","fromNode":"f8c5185df523f889","fromSide":"bottom","toNode":"7e8f81a69a6047f0","toSide":"top"},
-		{"id":"9d447dbed432b0b6","fromNode":"f8c5185df523f889","fromSide":"bottom","toNode":"a569648dc982d9ed","toSide":"top"},
 		{"id":"05f754857ff8295f","fromNode":"d08ef0df9a5cbb99","fromSide":"top","toNode":"f8c5185df523f889","toSide":"bottom"},
-		{"id":"804407d0da85ee00","fromNode":"f8c5185df523f889","fromSide":"bottom","toNode":"9366845aaf39afae","toSide":"top"},
 		{"id":"32253e0f8754d28f","fromNode":"b60e72d47ba4361e","fromSide":"bottom","toNode":"fab6ba8c0d5e5acc","toSide":"top"},
-		{"id":"79109999cefd86e1","fromNode":"fab6ba8c0d5e5acc","fromSide":"bottom","toNode":"770b9e36ae9721df","toSide":"top"}
+		{"id":"79109999cefd86e1","fromNode":"fab6ba8c0d5e5acc","fromSide":"bottom","toNode":"770b9e36ae9721df","toSide":"top"},
+		{"id":"7122343c5c3b1b4e","fromNode":"fab6ba8c0d5e5acc","fromSide":"bottom","toNode":"3d1239394ffc62bb","toSide":"top"}
 	]
 }

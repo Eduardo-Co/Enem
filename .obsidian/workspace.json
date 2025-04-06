@@ -11,14 +11,17 @@
             "id": "7c2ffb788c546f4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Matemática/Matemática básica/Dica de decomposição de um número.md",
-                "mode": "source",
-                "source": false
+                "file": "Matemática/Untitled.canvas",
+                "viewState": {
+                  "x": -1226.560979645571,
+                  "y": 889.3477701316815,
+                  "zoom": 0.04833233422976399
+                }
               },
-              "icon": "lucide-file",
-              "title": "Dica de decomposição de um número"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -180,8 +183,9 @@
   },
   "active": "7c2ffb788c546f4a",
   "lastOpenFiles": [
+    "Matemática/Matemática básica/Divisores.md",
+    "Ink/Writing/2025.4.6 - 20.10pm.writing",
     "Matemática/Matemática básica/Divisor de um número.md",
-    "Matemática/Matemática básica/Dica de decomposição de um número.md",
     "Matemática/Matemática básica/Dizima periódica.md",
     "Matemática/Matemática básica/Primos.md",
     "Matemática/Matemática básica/Divisores",
@@ -225,9 +229,7 @@
     "Estudos/Níveis de Estudante.md",
     "Biologia",
     "Cronograma (2) 1.xlsx",
-    "Cronograma (2).xlsx",
     "Geografia/Geopolítica/Velha ordem Mundial.md",
-    "Geografia/Geo Kanban.md",
     "Excalidraw/Calculo 1/E.canvas",
     "Sem título.canvas"
   ]
