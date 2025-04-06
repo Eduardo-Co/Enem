@@ -25,17 +25,14 @@
             "id": "16b467f4e64e84bc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/Untitled.canvas",
-                "viewState": {
-                  "x": 19.405528394768858,
-                  "y": 625.8375451163553,
-                  "zoom": -0.666666603088379
-                }
+                "file": "Metacognição/Estratégia de estudo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Estratégia de estudo"
             }
           },
           {
@@ -212,8 +209,9 @@
   },
   "active": "16b467f4e64e84bc",
   "lastOpenFiles": [
-    "O que mais cai.md",
     "Biologia/Untitled.canvas",
+    "Metacognição/Estratégia de estudo.md",
+    "O que mais cai.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Estudos/Níveis de Estudante.md",
     "Biologia",
@@ -249,7 +247,6 @@
     "Calculo 1/Limite e continuidade/Derivada como tangente.md",
     "Calculo 1/Limite e continuidade/Teorema do confronto/Exemplo 1.md",
     "Calculo 1/Limite e continuidade/Definição de função contínua/Definição de função contínua.md",
-    "Norti Sistemas/Kanban.md",
     "Excalidraw/Problema de probabilidade.png",
     "Pasted image 20250322132616.png",
     "Images/Estatistica/Pasted image 20250219173536.png",
