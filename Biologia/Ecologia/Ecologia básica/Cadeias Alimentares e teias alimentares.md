@@ -28,9 +28,13 @@ Acumulação de compostos químicos em uma cadeia alimentar, ex: mercúrio ou ag
 
 ***E QUANTO MAIOR O NÍVEL TRÓFICO MAIOR A QUANTIDADE DE COMPOSTOS QUÍMICOS***
 
+FICAM NO TECIDO ***==ADIPOSO==***
+
 ==porque não há liberação desses elementos químicos.== 
 
 ==***O produtor conta como 1° nível trófico***==
+
+
 
 ---
 
