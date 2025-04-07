@@ -22,11 +22,25 @@ Não preservam a forma, minimizam as deformações em conjunto.
 
 # Tipos de projeções:
 
-- Cilíndrica:
-	Onde encosta no cilindro é menos problemático, mas quanto mais longe mais deformado. ***Meridianos e paralelos forma ângulos reto***. QUANDO MAIS SE AFASTA DA LINHA DO EQUADOR MAIS DISTORCE.  
-	
-	Ela é uma projeção ==conforme== pois distorce as áreas e preserva os ângulos
-	
-- Cônica:
+==Onde encosta seja cilindro plano o cônico, tem mais uniformidade e representa melhor a região, quanto mais se afasta mais fica desproporcional==
 
-- Plana: 
+- Cilíndrica: ==FOCADA NOS TRÓPICOS==
+	***Meridianos e paralelos forma ângulos reto***. QUANDO MAIS SE AFASTA DA LINHA DO EQUADOR MAIS DISTORCE.  
+	
+	Ela é uma projeção ==conforme== pois distorce as áreas e preserva os ângulos, visão eurocêntrica - mercato
+
+
+- Cônica: ==FOCADA NAS REGIÕES TEMPERADAS==
+
+- Plana:  ==FOCADA NOS POLOS==
+	Representa melhor regiões **polares**, altas latitudes. Formam círculos concêntricos e meridianos convergem para o polo.
+	***Mantém a distância***
+	
+
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2025.4.7 - 17.11pm (2).writing"
+}
+```
