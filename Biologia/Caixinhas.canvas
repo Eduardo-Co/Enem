@@ -2,16 +2,18 @@
 	"nodes":[
 		{"id":"77a1a2ab53705c4c","type":"text","text":"Biologia\n","x":-190,"y":240,"width":250,"height":60},
 		{"id":"4fdc8e72afbeb5c9","type":"text","text":"1° Ecologia\n","x":-560,"y":400,"width":250,"height":60},
-		{"id":"4002b18236030e7a","type":"text","text":"Ecologia Básica","x":-810,"y":580,"width":250,"height":60},
-		{"id":"9cbb7c016895e561","x":-2270,"y":860,"width":250,"height":60,"type":"text","text":"especie\n"},
-		{"id":"62869cb57b854b74","x":-1990,"y":860,"width":250,"height":60,"type":"text","text":"bioma\n"},
-		{"id":"41400c0a95072958","x":-1710,"y":860,"width":250,"height":60,"type":"text","text":"população\n"},
-		{"id":"ee44cd5291bd2b86","x":-1425,"y":860,"width":250,"height":60,"type":"text","text":"Biocenose / Comunidade\n"},
-		{"id":"cab05c933b3d7759","x":-2145,"y":980,"width":250,"height":60,"type":"text","text":"Ecosistema"},
-		{"id":"e9940c7033cdcd7c","x":-1865,"y":985,"width":250,"height":51,"type":"text","text":"Bioma\n"},
-		{"id":"ac52252b5a8d5456","x":-1585,"y":980,"width":250,"height":60,"type":"text","text":"Biosfera"},
+		{"id":"9cbb7c016895e561","type":"text","text":"especie\n","x":-2270,"y":860,"width":250,"height":60},
+		{"id":"62869cb57b854b74","type":"text","text":"bioma\n","x":-1990,"y":860,"width":250,"height":60},
+		{"id":"41400c0a95072958","type":"text","text":"população\n","x":-1710,"y":860,"width":250,"height":60},
+		{"id":"ee44cd5291bd2b86","type":"text","text":"Biocenose / Comunidade\n","x":-1425,"y":860,"width":250,"height":60},
+		{"id":"cab05c933b3d7759","type":"text","text":"Ecosistema","x":-2145,"y":980,"width":250,"height":60},
+		{"id":"e9940c7033cdcd7c","type":"text","text":"Bioma\n","x":-1865,"y":985,"width":250,"height":51},
+		{"id":"ac52252b5a8d5456","type":"text","text":"Biosfera","x":-1585,"y":980,"width":250,"height":60},
 		{"id":"d0b82dd16d5a8770","type":"text","text":"Conceitos fundamentais\n","x":-1865,"y":680,"width":250,"height":50},
-		{"id":"f68f20f1ff50268c","x":-862,"y":883,"width":250,"height":60,"type":"text","text":"Fatores biót"}
+		{"id":"4002b18236030e7a","type":"text","text":"Ecologia Básica","x":-1140,"y":540,"width":250,"height":60},
+		{"id":"f68f20f1ff50268c","type":"text","text":"Fatores bióticos\n","x":-1140,"y":700,"width":250,"height":60},
+		{"id":"e4979768c235b0f3","x":-841,"y":700,"width":250,"height":60,"type":"text","text":"Fatores Abióticos"},
+		{"id":"b19a8faa24476e21","x":-540,"y":700,"width":250,"height":60,"type":"text","text":"Fatores antrópicos\n"}
 	],
 	"edges":[
 		{"id":"7850183ac40bc320","fromNode":"77a1a2ab53705c4c","fromSide":"left","toNode":"4fdc8e72afbeb5c9","toSide":"top"},
@@ -24,6 +26,8 @@
 		{"id":"3432e138d090a98c","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"cab05c933b3d7759","toSide":"top"},
 		{"id":"b24f9298c1a13f89","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"e9940c7033cdcd7c","toSide":"top"},
 		{"id":"ee65a678abe5be45","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"ac52252b5a8d5456","toSide":"top"},
-		{"id":"22c99450a82bf3a6","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"f68f20f1ff50268c","toSide":"top"}
+		{"id":"22c99450a82bf3a6","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"f68f20f1ff50268c","toSide":"top"},
+		{"id":"5b7881e3681bc5dd","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"e4979768c235b0f3","toSide":"top"},
+		{"id":"3786937198d762d6","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"b19a8faa24476e21","toSide":"top"}
 	]
 }
