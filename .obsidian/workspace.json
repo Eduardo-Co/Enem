@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "45f855aa6cb76778",
+        "id": "ea5c9003df015fa9",
         "type": "tabs",
         "children": [
           {
-            "id": "7c2ffb788c546f4a",
+            "id": "206cc2e87185df01",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/Caixinhas.canvas",
-                "viewState": {
-                  "x": -1602.5162771135836,
-                  "y": 812.1253419109748,
-                  "zoom": -0.24120466198151314
-                }
+                "file": "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-file",
+              "title": "Cadeias Alimentares"
             }
           }
         ]
@@ -181,12 +178,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7c2ffb788c546f4a",
+  "active": "206cc2e87185df01",
   "lastOpenFiles": [
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
-    "Biologia/Caixinhas.canvas",
+    "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Redação/Informações básicas.md",
+    "Lumber.md",
     "Untitled.md",
+    "Drawing 2025-04-07 13.09.12.excalidraw.md",
+    "Biologia/Caixinhas.canvas",
     "Untitled 1.md",
     "Biologia/Ecologia/Ecologia básica",
     "Biologia/Ecologia",
@@ -207,7 +208,6 @@
     "Linguagens",
     "Metacognição/Estratégia de estudo.md",
     "Redação/Tópicos importantes.md",
-    "Redação/Informações básicas.md",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/Química.md",
     "O que Estudar/imagens",
@@ -228,8 +228,6 @@
     "Pasted image 20250406150536.png",
     "O que Estudar",
     "Interpretação de Texto/Como treinar interpretação de textos.md",
-    "Interpretação de Texto/Drawing 2025-04-05 15.10.17.excalidraw.md",
-    "O que mais cai.md",
     "Excalidraw/Calculo 1/E.canvas",
     "Sem título.canvas"
   ]
