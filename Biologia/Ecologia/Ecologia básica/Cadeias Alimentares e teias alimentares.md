@@ -37,3 +37,31 @@ Acumulação de compostos químicos em uma cadeia alimentar, ex: mercúrio ou ag
 # Teia alimentar:
 
 - Conjunto de cadeias alimentares
+
+
+---
+# Biomassa:
+
+peso do indivíduo sem ar. 
+
+
+Caso eu tiver uma pirâmide invertida de biomassa: 
+
+==***REPRODUÇÃO DA MENOR É MAIOR***==
+
+Ex:
+Zooplâncton e fitoplancton
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2025.4.7 - 13.48pm.writing"
+}
+```
+A única solução nesse caso é o fito reproduzindo mais rápido que o zoo.
+
+---
+
+# Pirâmide de energia invertida
+
+***Não existe pirâmide de energia invertida***
