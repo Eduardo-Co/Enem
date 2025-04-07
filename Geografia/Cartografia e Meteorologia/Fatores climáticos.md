@@ -43,3 +43,23 @@ Intuitivamente:
 ## Massas de ar:
 
 São bolsões de ar que adquirem a característica de onde foram formadas, como temperatura e umidade.
+
+---
+
+# Tipos de nuvens: 
+
+Definidas entre $C,A,S$ 
+- cabeça
+
+- Rabo de galo, cabeça, nuvem soltas que forma meio que penas ou um rabo de galo mesmo presságio de frente fia, ou seja chuva.
+
+- abdômen
+- sapato
+
+Seguindo essa ordem de altitude 
+
+---
+## Tipo de chuvas:
+
+- Chuva convectiva: Formado por trocas de calor em camadas mais baixas da troposfera, chuva de verão.
+- 

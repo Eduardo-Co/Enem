@@ -11,12 +11,14 @@
             "id": "e723a53c7e48ba8b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Fatores climáticos"
             }
           }
         ]
@@ -178,9 +180,9 @@
   },
   "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
     "Geografia/Cartografia e Meteorologia/Projeções.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Cartografia e Meteorologia/Fatores climáticos - II.md",
     "Biologia/Caixinhas.canvas",
     "Geografia/Caixinhas.canvas",
