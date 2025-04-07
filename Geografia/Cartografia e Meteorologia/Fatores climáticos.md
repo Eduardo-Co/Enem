@@ -16,8 +16,19 @@ Intuitivamente:
 > ou seja quanto maior for a latitude maior é a variação de temperatura média
 
 
-# Pressão atmosféricas:
+3) ***Pressão atmosféricas***:
 
 - ***Maior Altitude*** menor calor porque há menos pressão, menor retenção do calor, moléculas mais afastadas.
 - ***Menor Altitude*** maior calor porque há mais pressão, maior retenção de calor, moléculas mais juntas.
 
+4) ***Continentalidade e maritimidade*** 
+
+	A água por ter um calor específico muito algo ela regula o calor, ou seja, a água esfria.
+	Ex: Hemisfério norte e hemisfério sul
+	
+	!! O hemisfério norte tem mais continente que o hemisfério sul, então ele faz mais ***calor***
+	
+	- Portanto um terceiro fator que pode mudar o clima é a continentalidade ou seja a presença de terra, mais calor
+	- Podemos falar que a maritimidade é a presença de mar então variam menos a temperatura, mais frio
+
+5) 
