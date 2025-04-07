@@ -15,8 +15,8 @@
               "state": {
                 "file": "Biologia/Caixinhas.canvas",
                 "viewState": {
-                  "x": -1481.3632377923482,
-                  "y": 1019.0597173329126,
+                  "x": -2381.194006362604,
+                  "y": 1169.0315120946218,
                   "zoom": -1.44718767441385
                 }
               },
@@ -211,14 +211,14 @@
         "direction": "vertical",
         "x": 1879,
         "y": 19,
-        "width": 1086,
-        "height": 650,
-        "maximize": true,
+        "width": 870,
+        "height": 521,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "065e8c8e979ca8f5",
+  "active": "a15c436f78cd4e94",
   "lastOpenFiles": [
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
     "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares e teias alimentares.md",
