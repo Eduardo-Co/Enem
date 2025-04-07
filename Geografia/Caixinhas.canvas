@@ -1,1 +1,37 @@
-{}
+{
+	"nodes":[
+		{"id":"283c68ea475ff434","type":"text","text":"Geografia\n","x":-125,"y":1,"width":250,"height":60},
+		{"id":"c79daeee250fcd75","type":"text","text":"Cartografia e Meteorologia","x":-1988,"y":61,"width":250,"height":60},
+		{"id":"ff13d9f4052952b8","type":"text","text":"Termosfera/Ionsfera","x":-1693,"y":410,"width":250,"height":60},
+		{"id":"4a31244e61d3fa56","x":-1388,"y":410,"width":250,"height":60,"type":"text","text":"Esosfera"},
+		{"id":"a0d3fe0970244017","type":"text","text":"Escalas","x":-2721,"y":240,"width":250,"height":60},
+		{"id":"4816024a052df521","type":"text","text":"Toposfera","x":-2568,"y":410,"width":250,"height":60},
+		{"id":"a5767cb31bc605d4","type":"text","text":"Extratosfera","x":-2268,"y":410,"width":250,"height":60},
+		{"id":"f1f906d5ee2b4092","type":"text","text":"Atmosfera","x":-1988,"y":240,"width":250,"height":60},
+		{"id":"e3edf541d79fc926","type":"text","text":"Mesosfera","x":-1988,"y":410,"width":250,"height":60},
+		{"id":"a9fc50bc993de015","type":"text","text":"Cilíndrica","x":-3488,"y":420,"width":250,"height":60},
+		{"id":"9b2c12ad26765460","type":"text","text":"Projeções","x":-3208,"y":240,"width":250,"height":60},
+		{"id":"de8068910aa96601","type":"text","text":"Plana","x":-3208,"y":420,"width":250,"height":60},
+		{"id":"968fbbbeac233aee","type":"text","text":"Cônica","x":-2938,"y":420,"width":250,"height":60},
+		{"id":"6793d7a93c267049","x":-900,"y":240,"width":250,"height":50,"type":"text","text":"Clima"},
+		{"id":"91cff99fc551e4f5","x":-1060,"y":410,"width":250,"height":60,"type":"text","text":"Fatores climáticos"},
+		{"id":"fdbc2a5c918d787f","x":-1252,"y":598,"width":250,"height":60,"type":"text","text":"Pressão atmosférica"}
+	],
+	"edges":[
+		{"id":"a24537f7b7de932d","fromNode":"283c68ea475ff434","fromSide":"left","toNode":"c79daeee250fcd75","toSide":"top"},
+		{"id":"a91a0cea48ba4846","fromNode":"c79daeee250fcd75","fromSide":"bottom","toNode":"9b2c12ad26765460","toSide":"top"},
+		{"id":"522ea7fedec0b43d","fromNode":"c79daeee250fcd75","fromSide":"bottom","toNode":"a0d3fe0970244017","toSide":"top"},
+		{"id":"dd36d4fee6d8b27d","fromNode":"9b2c12ad26765460","fromSide":"bottom","toNode":"a9fc50bc993de015","toSide":"top"},
+		{"id":"fe61814f3a4828c7","fromNode":"9b2c12ad26765460","fromSide":"bottom","toNode":"de8068910aa96601","toSide":"top"},
+		{"id":"d157ee5f9f9240d6","fromNode":"968fbbbeac233aee","fromSide":"top","toNode":"9b2c12ad26765460","toSide":"bottom"},
+		{"id":"2e3e3ea28aae62ef","fromNode":"c79daeee250fcd75","fromSide":"bottom","toNode":"f1f906d5ee2b4092","toSide":"top"},
+		{"id":"de024302c114f36c","fromNode":"f1f906d5ee2b4092","fromSide":"bottom","toNode":"4816024a052df521","toSide":"top"},
+		{"id":"c998826d8a3c3a49","fromNode":"f1f906d5ee2b4092","fromSide":"bottom","toNode":"a5767cb31bc605d4","toSide":"top"},
+		{"id":"7ca3fc57eb12ebee","fromNode":"f1f906d5ee2b4092","fromSide":"bottom","toNode":"e3edf541d79fc926","toSide":"top"},
+		{"id":"5763db10b21bc981","fromNode":"f1f906d5ee2b4092","fromSide":"bottom","toNode":"ff13d9f4052952b8","toSide":"top"},
+		{"id":"1874343bff7f0c42","fromNode":"f1f906d5ee2b4092","fromSide":"bottom","toNode":"4a31244e61d3fa56","toSide":"top"},
+		{"id":"8e363aada2fb0032","fromNode":"c79daeee250fcd75","fromSide":"right","toNode":"6793d7a93c267049","toSide":"top"},
+		{"id":"c4735ed8f683e422","fromNode":"6793d7a93c267049","fromSide":"bottom","toNode":"91cff99fc551e4f5","toSide":"top"},
+		{"id":"dde178ff37c087fc","fromNode":"91cff99fc551e4f5","fromSide":"bottom","toNode":"fdbc2a5c918d787f","toSide":"top"}
+	]
+}
