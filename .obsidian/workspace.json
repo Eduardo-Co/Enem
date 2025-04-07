@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "644be2ed2c676f94",
+        "id": "67153ddecdd87c5a",
         "type": "tabs",
         "children": [
           {
-            "id": "20fb44e5a619b5a3",
+            "id": "065e8c8e979ca8f5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Biologia/Caixinhas.canvas",
                 "viewState": {
-                  "x": -2775.1744250446072,
-                  "y": 1019.290913552827,
-                  "zoom": -0.6113538170477061
+                  "x": -1481.3632377923482,
+                  "y": 1019.0597173329126,
+                  "zoom": -1.44718767441385
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -218,13 +218,13 @@
       }
     ]
   },
-  "active": "20b4fce5db701f68",
+  "active": "065e8c8e979ca8f5",
   "lastOpenFiles": [
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Biologia/Caixinhas.canvas",
-    "Redação/Tópicos importantes.md",
     "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares e teias alimentares.md",
+    "Biologia/Caixinhas.canvas",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Redação/Tópicos importantes.md",
     "Ink/Writing/2025.4.7 - 15.01pm.writing",
     "Redação/Informações básicas.md",
     "Ink/Writing/2025.4.7 - 13.48pm.writing",
