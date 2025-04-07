@@ -62,6 +62,25 @@ A única solução nesse caso é o fito reproduzindo mais rápido que o zoo.
 
 ---
 
-# Pirâmide de energia invertida
+# Pirâmides:
 
-***Não existe pirâmide de energia invertida***
+Há três tipos de pirâmides:
+- energia: ==***Não existe pirâmide de energia invertida***==
+
+Claro, pois a única fonte de energia vem dos consumidor/produtor anterior, encerrando nos decompositores, mas a energia que vem do anterior é menor, então, logicamente a do próximo será menor. 
+
+- número: apresenta forma invertida
+- biomassa: apresenta forma invertida
+
+
+
+
+---
+
+# Eficiência ecológica
+
+Eficiência de energia que passa de uma categoria, nível trófico para o outro, ou seja a quantidade de energia retira de um nível trófico ao consumir o anterior.
+
+Na maioria dos casos os ***consumidores primários possuem menor eficiência ecológica***
+
+---
