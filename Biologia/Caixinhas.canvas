@@ -2,10 +2,28 @@
 	"nodes":[
 		{"id":"77a1a2ab53705c4c","type":"text","text":"Biologia\n","x":-190,"y":240,"width":250,"height":60},
 		{"id":"4fdc8e72afbeb5c9","type":"text","text":"1° Ecologia\n","x":-560,"y":400,"width":250,"height":60},
-		{"id":"4002b18236030e7a","x":-810,"y":580,"width":250,"height":60,"type":"text","text":"Ecologia Básica"}
+		{"id":"4002b18236030e7a","type":"text","text":"Ecologia Básica","x":-810,"y":580,"width":250,"height":60},
+		{"id":"9cbb7c016895e561","x":-2270,"y":860,"width":250,"height":60,"type":"text","text":"especie\n"},
+		{"id":"62869cb57b854b74","x":-1990,"y":860,"width":250,"height":60,"type":"text","text":"bioma\n"},
+		{"id":"41400c0a95072958","x":-1710,"y":860,"width":250,"height":60,"type":"text","text":"população\n"},
+		{"id":"ee44cd5291bd2b86","x":-1425,"y":860,"width":250,"height":60,"type":"text","text":"Biocenose / Comunidade\n"},
+		{"id":"cab05c933b3d7759","x":-2145,"y":980,"width":250,"height":60,"type":"text","text":"Ecosistema"},
+		{"id":"e9940c7033cdcd7c","x":-1865,"y":985,"width":250,"height":51,"type":"text","text":"Bioma\n"},
+		{"id":"ac52252b5a8d5456","x":-1585,"y":980,"width":250,"height":60,"type":"text","text":"Biosfera"},
+		{"id":"d0b82dd16d5a8770","type":"text","text":"Conceitos fundamentais\n","x":-1865,"y":680,"width":250,"height":50},
+		{"id":"f68f20f1ff50268c","x":-862,"y":883,"width":250,"height":60,"type":"text","text":"Fatores biót"}
 	],
 	"edges":[
 		{"id":"7850183ac40bc320","fromNode":"77a1a2ab53705c4c","fromSide":"left","toNode":"4fdc8e72afbeb5c9","toSide":"top"},
-		{"id":"38fba73802af1b7f","fromNode":"4fdc8e72afbeb5c9","fromSide":"left","toNode":"4002b18236030e7a","toSide":"top"}
+		{"id":"38fba73802af1b7f","fromNode":"4fdc8e72afbeb5c9","fromSide":"left","toNode":"4002b18236030e7a","toSide":"top"},
+		{"id":"8879b600c42c49e3","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"d0b82dd16d5a8770","toSide":"top"},
+		{"id":"c5c72fb3d526d520","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"9cbb7c016895e561","toSide":"top"},
+		{"id":"166c77acac7961e0","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"62869cb57b854b74","toSide":"top"},
+		{"id":"fa7279cf9d9a6a8e","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"41400c0a95072958","toSide":"top"},
+		{"id":"9be499e4765acae9","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"ee44cd5291bd2b86","toSide":"top"},
+		{"id":"3432e138d090a98c","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"cab05c933b3d7759","toSide":"top"},
+		{"id":"b24f9298c1a13f89","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"e9940c7033cdcd7c","toSide":"top"},
+		{"id":"ee65a678abe5be45","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"ac52252b5a8d5456","toSide":"top"},
+		{"id":"22c99450a82bf3a6","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"f68f20f1ff50268c","toSide":"top"}
 	]
 }
