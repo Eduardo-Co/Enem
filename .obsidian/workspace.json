@@ -11,17 +11,14 @@
             "id": "065e8c8e979ca8f5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/Caixinhas.canvas",
-                "viewState": {
-                  "x": -2381.194006362604,
-                  "y": 1169.0315120946218,
-                  "zoom": -1.44718767441385
-                }
+                "file": "Geografia/Cartografia e Meteorologia/Cartografia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-file",
+              "title": "Cartografia"
             }
           }
         ]
@@ -181,49 +178,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "708da60ac8c9bcb9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7ca14ac011e827dd",
-        "type": "window",
-        "children": [
-          {
-            "id": "3862d11874f609a0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a15c436f78cd4e94",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1879,
-        "y": 19,
-        "width": 870,
-        "height": 521,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a15c436f78cd4e94",
+  "active": "065e8c8e979ca8f5",
   "lastOpenFiles": [
+    "Ink/Writing/2025.4.7 - 17.00pm.writing",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Geografia/Cartografia e Meteorologia/Cartografia.md",
+    "Geografia/Caixinhas.canvas",
+    "Geografia/Cartografia e Meteorologia",
+    "Geografia/Cartografia",
+    "Geografia/Geo Kanban.md",
+    "Geografia/O que mais cai em geografia.md",
+    "Biologia/Caixinhas.canvas",
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
     "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares e teias alimentares.md",
-    "Biologia/Caixinhas.canvas",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Tópicos importantes.md",
     "Ink/Writing/2025.4.7 - 15.01pm.writing",
     "Redação/Informações básicas.md",
@@ -242,10 +209,8 @@
     "Matemática/Matemática básica/Divisor de um número.md",
     "Matemática/Matemática básica/Dizima periódica.md",
     "Matemática/Matemática básica/Primos.md",
-    "Matemática/Matemática básica/Divisores",
     "Matemática/Matemática básica/Fração.md",
     "Matemática/Matemática básica/Produto e divisão.md",
-    "Matemática/Matemática básica",
     "Linguagens/Interpretar Poemas.md",
     "Linguagens/Como estudar.md",
     "Interpretação de Texto/Como treinar interpretação.md",
@@ -258,11 +223,8 @@
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/Matemática.md",
     "O que Estudar/imagens/Pasted image 20250406150841.png",
-    "O que Estudar/Geografia e sociologia.md",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
-    "O que Estudar/Ranking Linguagens.md",
     "O que Estudar/imagens/Pasted image 20250406150734.png",
-    "O que Estudar/História e filosofia.md",
     "O que Estudar/Pasted image 20250406150453.png",
     "Pasted image 20250406150539.png",
     "O que Estudar/imagens/Pasted image 20250406150647.png",
