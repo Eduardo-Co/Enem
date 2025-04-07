@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"77a1a2ab53705c4c","type":"text","text":"Biologia\n","x":-190,"y":240,"width":250,"height":60},
-		{"id":"4fdc8e72afbeb5c9","type":"text","text":"1° Ecologia\n","x":-560,"y":400,"width":250,"height":60}
+		{"id":"4fdc8e72afbeb5c9","type":"text","text":"1° Ecologia\n","x":-560,"y":400,"width":250,"height":60},
+		{"id":"4002b18236030e7a","x":-810,"y":580,"width":250,"height":60,"type":"text","text":"Ecologia Básica"}
 	],
 	"edges":[
-		{"id":"7850183ac40bc320","fromNode":"77a1a2ab53705c4c","fromSide":"left","toNode":"4fdc8e72afbeb5c9","toSide":"top"}
+		{"id":"7850183ac40bc320","fromNode":"77a1a2ab53705c4c","fromSide":"left","toNode":"4fdc8e72afbeb5c9","toSide":"top"},
+		{"id":"38fba73802af1b7f","fromNode":"4fdc8e72afbeb5c9","fromSide":"left","toNode":"4002b18236030e7a","toSide":"top"}
 	]
 }
