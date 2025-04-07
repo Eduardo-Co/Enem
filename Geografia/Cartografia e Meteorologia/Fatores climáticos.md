@@ -23,12 +23,23 @@ Intuitivamente:
 
 4) ***Continentalidade e maritimidade*** 
 
-	A água por ter um calor específico muito algo ela regula o calor, ou seja, a água esfria.
-	Ex: Hemisfério norte e hemisfério sul
+	Quanto mais água mais regulação térmica ou seja menos variação de temperatura
 	
-	!! O hemisfério norte tem mais continente que o hemisfério sul, então ele faz mais ***calor***
-	
-	- Portanto um terceiro fator que pode mudar o clima é a continentalidade ou seja a presença de terra, mais calor
-	- Podemos falar que a maritimidade é a presença de mar então variam menos a temperatura, mais frio
+	- Hemisfério norte: mais variação de temperatura
+	- Hemisfério sul: menos variação de temperatura
 
-5) 
+5) ***Vegetação***
+
+	Com a evapotranspiração segue o mesmo conceito da continentalidade e maritimidade, quanto mais água mais regulação térmica então menos variação de temperatura
+
+6) ***Corrente marítimas***
+ - Correntes de ar quentes:
+	levam calor e humidade, então auxiliar no processo de construção de vegetação.
+	
+ - Correntes de ar frias:
+	 retiram humidade do ambiente, então mais desertificação da vegetação.
+
+
+## Massas de ar:
+
+São bolsões de ar que adquirem a característica de onde foram formadas, como temperatura e umidade.
