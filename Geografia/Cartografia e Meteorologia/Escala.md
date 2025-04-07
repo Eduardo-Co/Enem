@@ -16,6 +16,12 @@ Se a escala é de 1:100.000 (ou seja, 1 cm no mapa representa 100.000 cm na real
   \text{Distância real} = \frac{5}{1} \times 100.000 = 500.000 \text{ cm} = 5 \text{ km}
   $$
 
+
+Escala:
+
+Km dm dam m dm cm mm
+Essa é a escala.
+
 ---
 
 📌 **Importante:**  
