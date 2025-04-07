@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a0abdfc8ded2f71c",
+        "id": "644be2ed2c676f94",
         "type": "tabs",
         "children": [
           {
-            "id": "a15c436f78cd4e94",
+            "id": "20fb44e5a619b5a3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Caixinhas.canvas",
+                "viewState": {
+                  "x": -2775.1744250446072,
+                  "y": 1019.290913552827,
+                  "zoom": -0.6113538170477061
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-layout-dashboard",
+              "title": "Caixinhas"
             }
           }
         ]
@@ -176,20 +181,58 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a15c436f78cd4e94",
+  "floating": {
+    "id": "708da60ac8c9bcb9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7ca14ac011e827dd",
+        "type": "window",
+        "children": [
+          {
+            "id": "3862d11874f609a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a15c436f78cd4e94",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1879,
+        "y": 19,
+        "width": 1086,
+        "height": 650,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Caixinhas.canvas",
+    "Redação/Tópicos importantes.md",
     "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares e teias alimentares.md",
     "Ink/Writing/2025.4.7 - 15.01pm.writing",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Informações básicas.md",
-    "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
     "Ink/Writing/2025.4.7 - 13.48pm.writing",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
     "Ink/Writing/2025.4.7 - 13.35pm.writing",
     "Lumber.md",
     "Untitled.md",
     "Drawing 2025-04-07 13.09.12.excalidraw.md",
-    "Biologia/Caixinhas.canvas",
     "Untitled 1.md",
     "Biologia/Ecologia/Ecologia básica",
     "Biologia/Ecologia",
@@ -207,7 +250,6 @@
     "Linguagens/Como estudar.md",
     "Interpretação de Texto/Como treinar interpretação.md",
     "Metacognição/Estratégia de estudo.md",
-    "Redação/Tópicos importantes.md",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/Química.md",
     "O que Estudar/Física.md",
