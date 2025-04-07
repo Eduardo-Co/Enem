@@ -11,6 +11,20 @@
             "id": "065e8c8e979ca8f5",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geografia/Cartografia e Meteorologia/Escala.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escala"
+            }
+          },
+          {
+            "id": "6e82202732120b40",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
@@ -178,7 +192,8 @@
   },
   "active": "065e8c8e979ca8f5",
   "lastOpenFiles": [
-    "Geografia/Cartografia e Meteorologia/Cartografia.md",
+    "Geografia/Cartografia e Meteorologia/Projeções.md",
+    "Geografia/Cartografia e Meteorologia/Escala.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Ink/Writing/2025.4.7 - 17.11pm (2).writing",
     "Ink/Writing/2025.4.7 - 17.11pm.writing",
