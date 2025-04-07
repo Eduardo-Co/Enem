@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "065e8c8e979ca8f5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
-            }
-          },
-          {
             "id": "6e82202732120b40",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Fatores climáticos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,9 +180,10 @@
   },
   "active": "6e82202732120b40",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
     "Geografia/Cartografia e Meteorologia/Atmosfera.md",
     "Ink/Writing/2025.4.7 - 17.55pm.writing",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Cartografia e Meteorologia/Escala.md",
     "Geografia/Cartografia e Meteorologia/Projeções.md",
     "Ink/Writing/2025.4.7 - 17.11pm (2).writing",
@@ -229,7 +219,6 @@
     "Metacognição/Estratégia de estudo.md",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/Química.md",
-    "O que Estudar/Física.md",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150841.png",
