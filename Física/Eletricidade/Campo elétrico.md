@@ -1,3 +1,10 @@
+
+
+> [!important] Campo elétrco
+> Contents
+
+
+
 Uma das explicações da eletricidade por indução é a presença de um campo elétrico, que pode ser definido por:
 
 $$
@@ -39,10 +46,3 @@ $$
 
 
 Agora para entender com essa força é representada vetorialmente em um campo elétrico
-
-```handwritten-ink
-{
-	"versionAtEmbed": "0.3.4",
-	"filepath": "Ink/Writing/2025.4.8 - 10.17am.writing"
-}
-```

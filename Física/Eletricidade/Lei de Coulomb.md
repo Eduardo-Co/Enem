@@ -1,4 +1,4 @@
-A lei de coulomb mede a força de interação entre cargas elétricas. Representada por:
+A lei de coulomb mede a força de interação entre cargas elétricas, ou seja, força elétrica. Representada por:
 
 $$
 F = k \frac{|Q_1|\cdot|Q_2|}{d^2} 
