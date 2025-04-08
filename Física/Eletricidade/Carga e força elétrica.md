@@ -1,4 +1,17 @@
 
+
+> [!important] Carga elétrica
+> A carga elétrica total de um corpo é, necessariamente, um múltiplo inteiro da carga elétrica fundamental (e). Então
+> $$
+> Q = n e
+> $$
+
+
+> [!important] Força Elétrica
+> A **força elétrica** é a interação que ocorre entre cargas elétricas, sendo um conceito central na eletrostática. Essa força pode ser de atração ou repulsão, dependendo dos sinais das cargas envolvidas.
+
+
+
 ## Conceito de carga elétrica
 
 Começando com conceito básico de prótons neutrons e elétrons.
@@ -25,20 +38,6 @@ $$
 ***íon positivo*** : cátion
 ***íon negativo:*** ânion 
 
-# Quantização da carga elétrica
-
-
-> [!important] Carga elétrica
-> A carga elétrica total de um corpo é, necessariamente, um múltiplo inteiro da carga elétrica fundamental (e). Então
-> $$
-> Q = n e
-> $$
-
-
-
 
 ---
 
-## Definição de força elétrica:
-
-A **força elétrica** é a interação que ocorre entre cargas elétricas, sendo um conceito central na eletrostática. Essa força pode ser de atração ou repulsão, dependendo dos sinais das cargas envolvidas.

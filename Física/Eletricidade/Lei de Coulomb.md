@@ -1,3 +1,13 @@
+
+
+> [!important] A lei de Coulomb
+> Ela virá para fazer a mensuração da força elétrica entre duas cargas, e até mesmo posteriormente expressará como ficará o campo elétrico já que o campo nada mais é do que a força divido pela Carga:
+> $$
+> E = \frac{F}{Q}$$ 
+> Nessa formula, a a lei de coloumb virá para determinar essa força 
+ 
+ 
+
 A lei de coulomb mede a força de interação entre cargas elétricas, ou seja, força elétrica. Representada por:
 
 $$

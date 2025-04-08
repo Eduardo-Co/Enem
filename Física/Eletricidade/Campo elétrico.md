@@ -1,7 +1,12 @@
 
 
 > [!important] Campo elétrco
-> Contents
+> O campo elétrico é gerado por uma única carga, agora para você conseguir fazer a mensuração desse campo elétrico é preciso de uma carga de teste, basicamente o campo é uma vetorização da força elétrica / interação das cargas, tanto que a formula se expressa por: 
+> $$
+> E = \frac{F}{Q}
+> $$
+> Veja que é a força por unidade de carga elétrica. Meio que o tanto de carga que ali foi medido
+
 
 
 
