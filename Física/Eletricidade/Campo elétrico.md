@@ -6,6 +6,9 @@
 > E = \frac{F}{Q}
 > $$
 > Veja que é a força por unidade de carga elétrica. Meio que o tanto de carga que ali foi medido
+> - Diferença de potencial em um campo elétrico é valido e é força $F$ 
+
+
 
 
 
