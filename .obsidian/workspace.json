@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c1196850d1ee8128",
+        "id": "442d9bf9d91fbd5e",
         "type": "tabs",
         "children": [
           {
-            "id": "e723a53c7e48ba8b",
+            "id": "15fe463d6deb8ca2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Geografia/Gerenciador.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-trello",
-              "title": "Gerenciador"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -184,10 +176,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e723a53c7e48ba8b",
+  "active": "15fe463d6deb8ca2",
   "lastOpenFiles": [
-    "Geografia/Caixinhas.canvas",
     "Geografia/Gerenciador.md",
+    "Geografia/Caixinhas.canvas",
+    "Física/Untitled Kanban.md",
+    "Física/Caixinhas.canvas",
+    "Física",
     "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Cartografia e Meteorologia/Projeções.md",
@@ -203,7 +198,6 @@
     "Ink/Writing/2025.4.7 - 17.09pm.writing",
     "Ink/Writing/2025.4.7 - 17.04pm.writing",
     "Ink/Writing/2025.4.7 - 17.00pm.writing",
-    "Geografia/Cartografia e Meteorologia",
     "Geografia/Geo Kanban.md",
     "Geografia/O que mais cai em geografia.md",
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
@@ -223,7 +217,6 @@
     "Matemática/Matemática básica/Produto e divisão.md",
     "Linguagens/Interpretar Poemas.md",
     "Linguagens/Como estudar.md",
-    "Interpretação de Texto/Como treinar interpretação.md",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
     "O que Estudar/imagens/Pasted image 20250406150918.png",

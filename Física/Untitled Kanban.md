@@ -6,14 +6,13 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Climatologia
 
 
 ## Concluido
 
 
 
-## Importantissimo
+## Importante
 
 
 
