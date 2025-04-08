@@ -22,6 +22,7 @@ kanban-plugin: board
 ## Revisar
 
 - [ ] Direção vetores campo elétrico
+- [ ] Resolver os exercícios
 
 
 
