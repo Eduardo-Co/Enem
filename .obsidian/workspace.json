@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15fe463d6deb8ca2",
+            "id": "6f2a34ab6a25214d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Física/Eletricidade/Exercícios de aprofundamento/Drawing 2025-04-08 10.40.52.excalidraw.md"
+                "file": "Física/Eletricidade/Exercícios de aprofundamento/Campo e potencial elétrico.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-08 10.40.52.excalidraw"
+              "title": "Campo e potencial elétrico"
             }
           }
         ]
@@ -176,11 +176,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "15fe463d6deb8ca2",
+  "active": "6f2a34ab6a25214d",
   "lastOpenFiles": [
+    "Física/Eletricidade/Exercícios de aprofundamento/Carga e força elétrica.md",
+    "Física/Eletricidade/Exercícios de aprofundamento/Campo e potencial elétrico.md",
+    "FSC_AP_Eletrostática_Exercícios Aprofundados_ Campo Elétrico e Potencial Elétrico.pdf",
     "Física/Eletricidade/Exercícios de aprofundamento/FSC_AP_Eletrostática_Exercícios Aprofundados_ Força Elétrica e Processos de Eletrização.pdf",
     "Física/Eletricidade/Carga e força elétrica.md",
-    "Física/Eletricidade/Exercícios de aprofundamento/Drawing 2025-04-08 10.40.52.excalidraw.md",
     "Física/Eletricidade/Lei de Coulomb.md",
     "Física/Eletricidade/Campo elétrico.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -205,7 +207,6 @@
     "Biologia/Caixinhas.canvas",
     "Geografia/Cartografia e Meteorologia/Atmosfera.md",
     "Geografia/Cartografia e Meteorologia/Escala.md",
-    "Ink/Writing/2025.4.7 - 17.55pm.writing",
     "Geografia/Geo Kanban.md",
     "Geografia/O que mais cai em geografia.md",
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
@@ -218,7 +219,6 @@
     "Untitled 1.md",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Divisores.md",
-    "Matemática/Matemática básica/Divisor de um número.md",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
