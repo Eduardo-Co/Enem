@@ -5,6 +5,9 @@
 > $$
 > Q = n e
 > $$
+> Lembre-se que isso pode ser representado da seguinte forma $Q= 1u$ 
+> o u significa $10^{-6}$ 
+> 
 
 
 > [!important] Força Elétrica
