@@ -1,5 +1,5 @@
 
-## Conceito de energia
+## Conceito de carga elétrica
 
 Começando com conceito básico de prótons neutrons e elétrons.
 
@@ -12,10 +12,10 @@ $$
 (e): e = 1,6 . 10-19 C 
 $$A diferença é que os prótons possuem uma carga elétrica positiva:
 $$
-q = +1,6 . 10-19 C 
+Q = +1,6 . 10-19 C 
 $$E os elétrons possuem uma carga elétrica negativa: 
 $$
-q = -1,6 . 10-19 C
+Q = -1,6 . 10-19 C
 $$
 
 
@@ -26,7 +26,6 @@ $$
 ***íon negativo:*** ânion 
 
 # Quantização da carga elétrica
-
 
 
 > [!important] Carga elétrica
@@ -62,4 +61,4 @@ Basicamente, quando você atrita dois objetos, ==um irá ganhar e o outro perder
 
 ## 3) Eletrização por indução
 
-Há uma polarização dos elétrons e s
+Há uma polarização dos elétrons e caso você ligue o aterramento e onde ele está polarizado, e depois cortar, pronto ele esta carregado eletricamente, pode ser perdendo elétrons ou ganhando elétrons. 
