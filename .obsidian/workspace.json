@@ -11,12 +11,14 @@
             "id": "15fe463d6deb8ca2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Eletricidade/Eletrização de corpos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Eletrização de corpos"
             }
           }
         ]
@@ -178,13 +180,15 @@
   },
   "active": "15fe463d6deb8ca2",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Eletricidade/Eletrização de corpos.md",
+    "Física/Eletricidade",
     "Geografia/Gerenciador.md",
     "Geografia/Caixinhas.canvas",
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Física",
     "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Cartografia e Meteorologia/Projeções.md",
     "Geografia/Cartografia e Meteorologia/Fatores climáticos - II.md",
     "Biologia/Caixinhas.canvas",
@@ -197,7 +201,6 @@
     "Ink/Writing/2025.4.7 - 17.09pm (2).writing",
     "Ink/Writing/2025.4.7 - 17.09pm.writing",
     "Ink/Writing/2025.4.7 - 17.04pm.writing",
-    "Ink/Writing/2025.4.7 - 17.00pm.writing",
     "Geografia/Geo Kanban.md",
     "Geografia/O que mais cai em geografia.md",
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
@@ -216,7 +219,6 @@
     "Matemática/Matemática básica/Fração.md",
     "Matemática/Matemática básica/Produto e divisão.md",
     "Linguagens/Interpretar Poemas.md",
-    "Linguagens/Como estudar.md",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
