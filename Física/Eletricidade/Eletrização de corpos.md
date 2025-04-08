@@ -18,18 +18,31 @@ $$
 q = -1,6 . 10-19 C
 $$
 
+
+
+***Íons***: corpos carregados eletricamente, seja de elétrons a mais ou prótons a mais.
+
+***íon positivo*** : cátion
+***íon negativo:*** ânion 
+
 # Quantização da carga elétrica
 
-$$
-Q = n \cdot e
-$$
 
-e = carga elétrica elementar = $1,6 \cdot 10^{-19}C$ 
-n = número ***inteiro*** de cargas em excesso
+
+> [!important] Carga elétrica
+> A carga elétrica total de um corpo é, necessariamente, um múltiplo inteiro da carga elétrica fundamental (e). Então
+> $$
+> Q = n e
+> $$
+
+
+
 
 ---
 
 # Processor de eletrização
+
+***Aterramento:*** O aterramento funciona basicamente como uma eletrização por contato, a terra funcionando como um condutor gigantesco, neutro, então tanto cargas positivas quanto negativas são neutralizadas após entrar em contato com a terra.
 
 ## 1) Eletrização por Contato:
 
@@ -45,3 +58,8 @@ Logo se pode ver que quanto maior o raio maior a carga, uma vez que se ambos sã
 ## 2) Eletrização por atrito:
 
 Basicamente, quando você atrita dois objetos, ==um irá ganhar e o outro perder elétrons,== ficando negativo e positivo respectivamente, para isso, é necessário olhar como eles estão distribuídos na série ==triboelétrica, quem está perto do positivo tem facilidade em perder elétron, e quem está no negativo tem mais chance de ganhar elétrons.==
+
+
+## 3) Eletrização por indução
+
+Há uma polarização dos elétrons e s
