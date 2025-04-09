@@ -11,37 +11,17 @@
             "id": "902025ac59b10f90",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Química/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "Química/Modelos atômicos/Modelo de Rutheford.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "c00d8f317b94780f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Química/Untitled.canvas",
-                "viewState": {
-                  "x": -641.5314509021512,
-                  "y": 961.4497763291199,
-                  "zoom": -0.6566621616354921
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Modelo de Rutheford"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,13 +178,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c00d8f317b94780f",
+  "active": "902025ac59b10f90",
   "lastOpenFiles": [
+    "Química/Modelos atômicos/Modelo de Thomson.md",
+    "Química/Modelos atômicos/Modelo de Rutheford.md",
+    "Química/Modelos atômicos/Modelo de Dalton.md",
     "Química/Untitled Kanban.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Untitled.canvas",
     "Ink/Writing/2025.4.9 - 13.50pm.writing",
     "Ink/Writing/2025.4.9 - 13.49pm.writing",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Modelos atômicos",
     "Química",
     "FSC_AP_Eletrostática_Exercícios Aprofundados_ Campo Elétrico e Potencial Elétrico.pdf",
@@ -239,8 +222,6 @@
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
     "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares e teias alimentares.md",
     "Redação/Tópicos importantes.md",
-    "Redação/Informações básicas.md",
-    "Lumber.md",
     "Matemática/Untitled.canvas",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/imagens/Pasted image 20250406150946.png",

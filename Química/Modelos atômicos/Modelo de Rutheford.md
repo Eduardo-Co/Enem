@@ -1,0 +1,1 @@
+O modelo de Rutherford já traz um conceito de eletrosfera
