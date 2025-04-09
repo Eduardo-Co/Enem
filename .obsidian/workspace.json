@@ -11,10 +11,14 @@
             "id": "fe6856272c7f4410",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Química/Modelos atômicos/Modelo de Bohr.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Modelo de Bohr"
             }
           }
         ]
@@ -176,13 +180,13 @@
   },
   "active": "fe6856272c7f4410",
   "lastOpenFiles": [
-    "Química/Modelos atômicos/Modelo de Bohr.md",
     "Química/Modelos atômicos/Modelo de Thomson.md",
+    "Química/Untitled.canvas",
+    "Química/Untitled Kanban.md",
+    "Química/Modelos atômicos/Modelo de Bohr.md",
     "Química/Modelos atômicos/Modelo de Rutheford.md",
     "Química/Modelos atômicos/Modelo de Dalton.md",
-    "Química/Untitled Kanban.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Química/Untitled.canvas",
     "Ink/Writing/2025.4.9 - 13.50pm.writing",
     "Ink/Writing/2025.4.9 - 13.49pm.writing",
     "Química/Modelos atômicos",
@@ -217,7 +221,6 @@
     "Geografia/Geo Kanban.md",
     "Geografia/O que mais cai em geografia.md",
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
-    "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares e teias alimentares.md",
     "Matemática/Untitled.canvas",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
