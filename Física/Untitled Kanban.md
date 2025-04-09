@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Placa fotovoltáica
 
 
 ## Concluido
@@ -22,7 +23,6 @@ kanban-plugin: board
 ## Revisar
 
 - [ ] Direção vetores campo elétrico
-- [ ] Resolver os exercícios
 
 
 
