@@ -11,16 +11,12 @@
             "id": "902025ac59b10f90",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Química/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -180,11 +176,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "902025ac59b10f90",
   "lastOpenFiles": [
+    "Química/Untitled Kanban.md",
     "Química/Modelos atômicos",
     "Química/Untitled.canvas",
-    "Química/Untitled Kanban.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química",
     "FSC_AP_Eletrostática_Exercícios Aprofundados_ Campo Elétrico e Potencial Elétrico.pdf",
@@ -206,7 +202,6 @@
     "Ink/Writing/2025.4.8 - 10.17am.writing",
     "Ink/Writing/2025.4.8 - 10.14am.writing",
     "Ink/Writing/2025.4.8 - 9.39am.writing",
-    "Física/img",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
     "Geografia/Gerenciador.md",
