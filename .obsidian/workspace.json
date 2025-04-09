@@ -11,17 +11,16 @@
             "id": "902025ac59b10f90",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Física/Caixinhas.canvas",
-                "viewState": {
-                  "x": 19.939898585427983,
-                  "y": 555.29052226029,
-                  "zoom": -0.9223611460126818
+                "file": "Química/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -181,23 +180,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "902025ac59b10f90",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Física/Untitled Kanban.md",
+    "Química/Modelos atômicos",
+    "Química/Untitled.canvas",
+    "Química/Untitled Kanban.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química",
+    "FSC_AP_Eletrostática_Exercícios Aprofundados_ Campo Elétrico e Potencial Elétrico.pdf",
     "Física/Caixinhas.canvas",
+    "Física/Untitled Kanban.md",
     "Física/Eletricidade/Processos de eletrização.md",
     "Física/Eletricidade/Potencial elétrico.md",
     "Física/Eletricidade/Linhas de campo.md",
     "Física/Eletricidade/Lei de Coulomb.md",
     "Física/Eletricidade/Carga e força elétrica.md",
     "Física/Eletricidade/Campo elétrico.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Untitled Kanban.md",
     "Física/Eletricidade/Exercícios de aprofundamento/Campo e potencial elétrico.md",
     "Física/Eletricidade/Energia potencial elétrica.md",
     "Ink/Writing/2025.4.8 - 15.44pm.writing",
     "Física/Eletricidade/Exercícios de aprofundamento/Carga e força elétrica.md",
-    "FSC_AP_Eletrostática_Exercícios Aprofundados_ Campo Elétrico e Potencial Elétrico.pdf",
     "Física/Eletricidade/Exercícios de aprofundamento/FSC_AP_Eletrostática_Exercícios Aprofundados_ Força Elétrica e Processos de Eletrização.pdf",
     "Física/Eletricidade/Exercícios de aprofundamento",
     "Ink/Writing/2025.4.8 - 10.17am.writing",
@@ -206,7 +209,6 @@
     "Física/img",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
-    "Física/Eletricidade",
     "Geografia/Gerenciador.md",
     "Geografia/Caixinhas.canvas",
     "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
@@ -222,7 +224,6 @@
     "Redação/Tópicos importantes.md",
     "Redação/Informações básicas.md",
     "Lumber.md",
-    "Untitled.md",
     "Matemática/Untitled.canvas",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
