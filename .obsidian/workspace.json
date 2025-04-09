@@ -11,30 +11,37 @@
             "id": "902025ac59b10f90",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Química/Untitled.canvas",
-                "viewState": {
-                  "x": -1052.2173019310853,
-                  "y": 943.2240522886735,
-                  "zoom": -0.3333088965912662
+                "file": "Química/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           },
           {
             "id": "c00d8f317b94780f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Química/Untitled.canvas",
+                "viewState": {
+                  "x": -641.5314509021512,
+                  "y": 961.4497763291199,
+                  "zoom": -0.6566621616354921
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,10 +198,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "902025ac59b10f90",
+  "active": "c00d8f317b94780f",
   "lastOpenFiles": [
-    "Química/Untitled.canvas",
     "Química/Untitled Kanban.md",
+    "Química/Untitled.canvas",
+    "Ink/Writing/2025.4.9 - 13.50pm.writing",
+    "Ink/Writing/2025.4.9 - 13.49pm.writing",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Modelos atômicos",
     "Química",
@@ -215,8 +224,6 @@
     "Física/Eletricidade/Exercícios de aprofundamento/FSC_AP_Eletrostática_Exercícios Aprofundados_ Força Elétrica e Processos de Eletrização.pdf",
     "Física/Eletricidade/Exercícios de aprofundamento",
     "Ink/Writing/2025.4.8 - 10.17am.writing",
-    "Ink/Writing/2025.4.8 - 10.14am.writing",
-    "Ink/Writing/2025.4.8 - 9.39am.writing",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
     "Geografia/Gerenciador.md",
