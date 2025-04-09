@@ -11,12 +11,16 @@
             "id": "902025ac59b10f90",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -178,10 +182,10 @@
   },
   "active": "902025ac59b10f90",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Untitled Kanban.md",
     "Química/Modelos atômicos",
     "Química/Untitled.canvas",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química",
     "FSC_AP_Eletrostática_Exercícios Aprofundados_ Campo Elétrico e Potencial Elétrico.pdf",
     "Física/Caixinhas.canvas",
