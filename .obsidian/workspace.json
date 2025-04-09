@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5cd60a2725bd570c",
+        "id": "becf120f6b6db47a",
         "type": "tabs",
         "children": [
           {
-            "id": "7bcc61b66ac90f22",
+            "id": "76417a64fe9e62f4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Caixinhas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-layout-dashboard",
+              "title": "Caixinhas"
             }
           }
         ]
@@ -176,17 +181,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7bcc61b66ac90f22",
+  "active": "76417a64fe9e62f4",
   "lastOpenFiles": [
+    "Física/Eletricidade/Potencial elétrico.md",
+    "Física/Eletricidade/Linhas de campo.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Untitled Kanban.md",
     "Física/Untitled Kanban.md",
     "Física/Eletricidade/Processos de eletrização.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletricidade/Carga e força elétrica.md",
     "Física/Eletricidade/Lei de Coulomb.md",
     "Física/Eletricidade/Campo elétrico.md",
-    "Física/Eletricidade/Linhas de campo.md",
-    "Física/Eletricidade/Potencial elétrico.md",
     "Física/Eletricidade/Exercícios de aprofundamento/Campo e potencial elétrico.md",
     "Física/Eletricidade/Energia potencial elétrica.md",
     "Física/Caixinhas.canvas",
@@ -218,7 +223,6 @@
     "Redação/Informações básicas.md",
     "Lumber.md",
     "Untitled.md",
-    "Drawing 2025-04-07 13.09.12.excalidraw.md",
     "Matemática/Untitled.canvas",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/imagens/Pasted image 20250406150946.png",

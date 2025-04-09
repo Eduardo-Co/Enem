@@ -1,12 +1,29 @@
-1. **Diferença de Potencial e Lei de Coulomb**:
-    
-    - A diferença de potencial (ddp) entre dois pontos A e B é dada por VA​−VB​ e, de fato, está relacionada à força elétrica. No entanto, a relação entre a força eletrostática (de acordo com a Lei de Coulomb) e o potencial elétrico é que o potencial elétrico é criado pela presença de cargas. A Lei de Coulomb envolve uma relação como F=kd2∣q1​q2​∣​, enquanto a diferença de potencial considera o trabalho realizado para mover uma carga, que é onde entra a diferença de potencial d.
-2. **Comportamento do Potencial Elétrico**:
-    - para uma carga positiva, o potencial elétrico diminui à medida que se afasta da carga e, para uma carga negativa, o potencial diminui quando se aproxima. Isso se alinha com a definição de superfícies equipotenciais e como o potencial varia em relação às linhas de campo elétrico.
-3. **Trabalho ao Mover Cargas**:
-    - O trabalho necessário para mover uma carga elétrico entre dois pontos é dado pela fórmula W=q⋅UAB​, onde q é a carga e UAB​ é a diferença de potencial entre os pontos A e B. Portanto, você captou a essência de que o trabalho está diretamente relacionado à diferença de potencial e à carga que está sendo deslocada.
+### Linhas de Campo na Eletrostática
 
-Para reforçar a compreensão, lembre-se de que:
+Na eletrostática, as **linhas de campo elétrico** representam graficamente a direção e o sentido da força elétrica que uma carga de prova positiva sofreria ao ser colocada em um ponto do espaço.
 
-- A diferença de potencial é uma medida da energia por unidade de carga que é necessária para mover uma carga entre dois pontos em um campo elétrico.
-- As superfícies equipotenciais são aquelas onde o potencial é o mesmo, e, ao mover uma carga ao longo de uma superfície equipotencial, o trabalho feito pela força elétrica é zero.
+O **campo elétrico** gerado por uma carga pontual $Q$ é dado por:
+
+$$
+\vec{E} = \frac{1}{4\pi\varepsilon_0} \cdot \frac{Q}{r^2} \hat{r}
+$$
+pode-se trocar  $\frac{1}{4\pi\varepsilon_0}$ por $k$  
+
+Onde:
+- $\vec{E}$ é o vetor campo elétrico,
+- $Q$ é a carga geradora,
+- $r$ é a distância até o ponto considerado,
+- $\hat{r}$ é o vetor unitário na direção do ponto,
+- $\varepsilon_0$ é a permissividade do vácuo.
+
+### Características das Linhas de Campo:
+- Saem de cargas **positivas** e entram em cargas **negativas**.
+- ==Nunca se cruzam.==
+- ==Quanto mais próximas, **maior a intensidade** do campo.==
+- ==São sempre **tangentes** ao vetor campo elétrico em cada ponto.==
+
+### Exemplo Visual:
+- Uma carga positiva isolada gera linhas que **saem radialmente**.
+- Uma carga negativa isolada gera linhas que **entram radialmente**.
+- Entre duas cargas de sinais opostos, as linhas vão da positiva para a negativa.
+
