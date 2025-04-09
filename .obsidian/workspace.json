@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "becf120f6b6db47a",
+        "id": "3910fca48dd3df8a",
         "type": "tabs",
         "children": [
           {
-            "id": "76417a64fe9e62f4",
+            "id": "902025ac59b10f90",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Física/Caixinhas.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 19.939898585427983,
+                  "y": 555.29052226029,
+                  "zoom": -0.9223611460126818
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -181,20 +181,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "76417a64fe9e62f4",
+  "active": "902025ac59b10f90",
   "lastOpenFiles": [
+    "Física/Untitled Kanban.md",
+    "Física/Caixinhas.canvas",
+    "Física/Eletricidade/Processos de eletrização.md",
     "Física/Eletricidade/Potencial elétrico.md",
     "Física/Eletricidade/Linhas de campo.md",
+    "Física/Eletricidade/Lei de Coulomb.md",
+    "Física/Eletricidade/Carga e força elétrica.md",
+    "Física/Eletricidade/Campo elétrico.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Untitled Kanban.md",
-    "Física/Untitled Kanban.md",
-    "Física/Eletricidade/Processos de eletrização.md",
-    "Física/Eletricidade/Carga e força elétrica.md",
-    "Física/Eletricidade/Lei de Coulomb.md",
-    "Física/Eletricidade/Campo elétrico.md",
     "Física/Eletricidade/Exercícios de aprofundamento/Campo e potencial elétrico.md",
     "Física/Eletricidade/Energia potencial elétrica.md",
-    "Física/Caixinhas.canvas",
     "Ink/Writing/2025.4.8 - 15.44pm.writing",
     "Física/Eletricidade/Exercícios de aprofundamento/Carga e força elétrica.md",
     "FSC_AP_Eletrostática_Exercícios Aprofundados_ Campo Elétrico e Potencial Elétrico.pdf",

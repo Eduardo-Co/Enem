@@ -30,17 +30,15 @@ $$A diferença é que os prótons possuem uma carga elétrica positiva:
 $$
 Q = +1,6 . 10-19 C 
 $$E os elétrons possuem uma carga elétrica negativa: 
+
 $$
 Q = -1,6 . 10-19 C
 $$
-
-
 
 ***Íons***: corpos carregados eletricamente, seja de elétrons a mais ou prótons a mais.
 
 ***íon positivo*** : cátion
 ***íon negativo:*** ânion 
-
 
 ---
 
