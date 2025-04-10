@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "23b88245efa2fc23",
+        "id": "3d158a81f8483209",
         "type": "tabs",
         "children": [
           {
-            "id": "fe6856272c7f4410",
+            "id": "ad3b229ce29ac0d1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Untitled.canvas",
-                "viewState": {
-                  "x": -737.6676688059497,
-                  "y": 744.202361743942,
-                  "zoom": -0.6926382870482383
-                }
+                "file": "Matemática/Matemática básica/Conjuntos/Cálculo de subconjuntos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Cálculo de subconjuntos"
             }
           }
         ]
@@ -181,13 +178,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fe6856272c7f4410",
+  "active": "ad3b229ce29ac0d1",
   "lastOpenFiles": [
+    "Matemática/Matemática básica/Conjuntos/União e interseção subtração e adição.md",
+    "Matemática/Matemática básica/Conjuntos/Complementar.md",
+    "Matemática/Matemática básica/Conjuntos/Cálculo de subconjuntos.md",
+    "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
+    "Matemática/Matemática básica/Untitled.md",
+    "Matemática/Matemática básica/Conjuntos",
+    "Matemática/Matemática básica/Divisores.md",
+    "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Produto e divisão.md",
     "Matemática/Matemática básica/Primos.md",
     "Matemática/Matemática básica/MMC e MDC.md",
     "Matemática/Matemática básica/Dizima periódica.md",
-    "Matemática/Matemática básica/Divisores.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Modelos atômicos/Partículas subatomicas.md",
     "Química/Modelos atômicos/Modelo de Bohr.md",
@@ -213,19 +217,12 @@
     "Física/Eletricidade/Exercícios de aprofundamento/Campo e potencial elétrico.md",
     "Física/Eletricidade/Energia potencial elétrica.md",
     "Ink/Writing/2025.4.8 - 15.44pm.writing",
-    "Física/Eletricidade/Exercícios de aprofundamento/Carga e força elétrica.md",
     "Física/Eletricidade/Exercícios de aprofundamento/FSC_AP_Eletrostática_Exercícios Aprofundados_ Força Elétrica e Processos de Eletrização.pdf",
     "Física/Eletricidade/Exercícios de aprofundamento",
-    "Ink/Writing/2025.4.8 - 10.17am.writing",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
-    "Geografia/Gerenciador.md",
     "Geografia/Caixinhas.canvas",
-    "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
-    "Geografia/Cartografia e Meteorologia/Projeções.md",
-    "Geografia/Cartografia e Meteorologia/Fatores climáticos - II.md",
     "Biologia/Caixinhas.canvas",
-    "Matemática/Untitled.canvas",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
