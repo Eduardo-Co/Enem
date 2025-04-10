@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Conjuntos numéricos"
             }
+          },
+          {
+            "id": "638f1ed5a8518bf8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matemática/Matemática básica/Simulados/Simulado 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Simulado 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,11 +191,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ad3b229ce29ac0d1",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Matemática/Matemática básica/Conjuntos/Conjuntos numéricos.md",
+    "Matemática/Matemática básica/Simulados/Simulado 1.md",
+    "Matemática/Matemática básica/Simulados/Untitled.md",
+    "Matemática/Matemática básica/Simulados",
     "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
-    "Matemática/Matemática básica/Conjuntos/Conjuntos numéricos.md",
     "Matemática/Matemática básica/Conjuntos/Operações com conjuntos.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Informações básicas.md",
@@ -214,10 +230,8 @@
     "Física/Eletricidade/Potencial elétrico.md",
     "Física/Eletricidade/Linhas de campo.md",
     "Física/Eletricidade/Lei de Coulomb.md",
-    "Física/Eletricidade/Carga e força elétrica.md",
     "Ink/Writing/2025.4.8 - 15.44pm.writing",
     "Física/Eletricidade/Exercícios de aprofundamento/FSC_AP_Eletrostática_Exercícios Aprofundados_ Força Elétrica e Processos de Eletrização.pdf",
-    "Física/Eletricidade/Exercícios de aprofundamento",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
     "Geografia/Caixinhas.canvas",
