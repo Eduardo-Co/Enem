@@ -8,16 +8,21 @@ O modelo de **Bohr** aperfeiçoa a proposta de Rutherford ao introduzir quantiza
 
 O modelo de Bohr foi composto junto com Rutherford, uma vez que, Bohr era aluno de Rutherford. A partir dele foi capaz de estabelecer um conceito de camada de valência, nível eletrônico , etc...
 
+
 Que se estabelece como:
 - **Camadas eletrônicas:**
-    
-    - **K** – 1º nível (mais próximo do núcleo)
-    - **L** – 2º nível        
-    - **M** – 3º nível
-    - **N** – 4º nível
-    - **O** – 5º nível
-    - **P** – 6º nível
-    - **Q** – 7º nível (mais externo)
+
+| Camada | Nível (n) | Máx. de elétrons (2n²) |
+|--------|-----------|------------------------|
+| K      | 1         | 2                      |
+| L      | 2         | 8                      |
+| M      | 3         | 18                     |
+| N      | 4         | 32                     |
+| O      | 5         | 50                     |
+| P      | 6         | 72                     |
+| Q      | 7         | 98                     |
+
+
 
 Cada camada possui uma **capacidade máxima de elétrons**, determinada pela fórmula:  
 **2n²**, onde **n** é o número do nível.
