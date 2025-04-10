@@ -1,4 +1,3 @@
-# Operações com Conjuntos
 
 ## União
 - **Definição:** A união de dois conjuntos $A$ e $B$, denotada por $A \cup B$, é o conjunto formado por todos os elementos que pertencem a $A$, a $B$ ou a ambos.
@@ -28,3 +27,12 @@
   - Se $A = \{1, 2, 3, 4\}$ e $B = \{2, 4\}$, então:  
     $$A - B = \{1, 3\}$$
 ==***Lembre-se A-B não é igual a B-A***==
+
+
+## Complemento
+- **Definição:** O complemento de um conjunto $A$, denotado por $A^c$, é o conjunto de todos os elementos do conjunto universo $U$ que não pertencem a $A$.
+- **Notação:**  
+  $A^c = \{x \in U \mid x \notin A\}$
+- **Exemplo:**  
+  - Se o conjunto universo é $U = \{1, 2, 3, 4, 5\}$ e $A = \{2, 4\}$, então:  
+    $A^c = \{1, 3, 5\}$
