@@ -11,12 +11,17 @@
             "id": "fe6856272c7f4410",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Matemática/Untitled.canvas",
+                "viewState": {
+                  "x": -737.6676688059497,
+                  "y": 744.202361743942,
+                  "zoom": -0.6926382870482383
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -178,6 +183,12 @@
   },
   "active": "fe6856272c7f4410",
   "lastOpenFiles": [
+    "Matemática/Matemática básica/Produto e divisão.md",
+    "Matemática/Matemática básica/Primos.md",
+    "Matemática/Matemática básica/MMC e MDC.md",
+    "Matemática/Matemática básica/Dizima periódica.md",
+    "Matemática/Matemática básica/Divisores.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Modelos atômicos/Partículas subatomicas.md",
     "Química/Modelos atômicos/Modelo de Bohr.md",
     "Química/Modelos atômicos/Modelo de Thomson.md",
@@ -185,7 +196,6 @@
     "Química/Untitled Kanban.md",
     "Química/Modelos atômicos/Modelo de Rutheford.md",
     "Química/Modelos atômicos/Modelo de Dalton.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Ink/Writing/2025.4.9 - 13.50pm.writing",
     "Ink/Writing/2025.4.9 - 13.49pm.writing",
     "Química/Modelos atômicos",
@@ -215,11 +225,6 @@
     "Geografia/Cartografia e Meteorologia/Projeções.md",
     "Geografia/Cartografia e Meteorologia/Fatores climáticos - II.md",
     "Biologia/Caixinhas.canvas",
-    "Geografia/Cartografia e Meteorologia/Atmosfera.md",
-    "Geografia/Cartografia e Meteorologia/Escala.md",
-    "Geografia/Geo Kanban.md",
-    "Geografia/O que mais cai em geografia.md",
-    "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
     "Matemática/Untitled.canvas",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/imagens/Pasted image 20250406150946.png",

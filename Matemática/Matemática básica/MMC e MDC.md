@@ -32,4 +32,4 @@ Para calcular o MMC de 12 e 18:
 2) procure um que divida os dois ao mesmo tempo
 3) realize divisões e repita o processo 2
 4) Encerre quando ao menos um chegue a 1 ou quando não houver mais números pelos quais possamos dividir ambos
-5) Multiplique os resultados encontradosca
+5) Multiplique os resultados encontrados
