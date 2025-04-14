@@ -11,12 +11,17 @@
             "id": "352ed866a6992d85",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Caixinhas.canvas",
+                "viewState": {
+                  "x": -3839.685364327731,
+                  "y": 845.8112772739429,
+                  "zoom": -1.133747514772021
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-layout-dashboard",
+              "title": "Caixinhas"
             }
           }
         ]
@@ -178,11 +183,11 @@
   },
   "active": "352ed866a6992d85",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Caixinhas.canvas",
     "Biologia/Ecologia/Ecologia básica/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
     "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares e teias alimentares.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Resumos/1 Semana/Biolgoia.md",
     "Redação/Untitled Kanban.md",
     "Redação/Redações/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
