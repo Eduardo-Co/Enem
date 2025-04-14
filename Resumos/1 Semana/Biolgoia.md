@@ -2,16 +2,21 @@
 
 Buscamos estudar então os ecossistemas para isso então vimos o que é:
 
-- Habitat: Lugar onde espécie vive
-- Nicho ecológico: Função daquela espécie característica em determinado ambiente
-- Comunidade/Biocenose: Lugar onde se estabelece uma relação entre espécies 
-
+- ***população***: conjunto formado pelos indivíduos de uma espécie, vivendo em uma área durante um tempo.
+- ***Espécie***: conjunto de população, que produz descente fértil
+- ***Habitat***: Lugar onde espécie vive
+- ***Nicho ecológico***: Função daquela espécie característica em determinado ambiente
+- ***Comunidade/Biocenose***: conjunto de relações entre espécies em um ambiente, ou seja um conjunto de fatores bióticos.
 
 Relações em um meio:
-- Fatores abióticos: estudo relação influência dos não vivos em um ambiente 
-- Fatores bióticos: estudo relação influência do Ser vivo em um ambiente 
-- Fatores atróficos: estudo relação influência dos  Humano em um ambiente 
-- 
+- ***Fatores abióticos***: estudo relação influência dos não vivos em um ambiente 
+- ***Fatores antrópicos***:  relação influência dos  Humano em um ambiente 
+
+Agora o principal
+- ***Fator biótico***: são as relações entre espécies, predatismo, comensalismo, competição, comunidade, etc...
+
+Ver todas amanhã
+
 ---
 ## Níveis de tróficos
 

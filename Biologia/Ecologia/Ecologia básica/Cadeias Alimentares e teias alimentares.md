@@ -77,8 +77,6 @@ Claro, pois a única fonte de energia vem dos consumidor/produtor anterior, ence
 - biomassa: apresenta forma invertida
 
 
-
-
 ---
 
 # Eficiência ecológica

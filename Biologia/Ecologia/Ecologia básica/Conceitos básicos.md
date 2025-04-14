@@ -44,15 +44,12 @@ Se relacionam à interação entre os organismos vivos presentes em um ecossiste
 
 Em resumo, os fatores bióticos são os organismos vivos e suas interações, enquanto a biocenose se refere à organização e composição dessas interações em uma comunidade específica.
 
-
 ## Fatores antrópicos:
 
 São as ações humanas que interferem ***NEGATIVAMENTE no meio***
 
 ## Fatores abióticos:
 Constituintes físicos e químicos do ambiente, luz, temperatura, pressão etc...
-
-
 
 ## Princípio de Gause: Exclusão competitiva 
 
