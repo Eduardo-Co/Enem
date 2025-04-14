@@ -49,3 +49,4 @@ Temos as seguintes pirâmides:
 
 ---
 
+***Eficiência ecológica***: o quanto se aproveita de energia de um determinado alimento, tende a ser uma pirâmide não invertível.
