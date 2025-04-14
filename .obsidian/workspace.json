@@ -11,17 +11,14 @@
             "id": "352ed866a6992d85",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/Caixinhas.canvas",
-                "viewState": {
-                  "x": -3839.685364327731,
-                  "y": 845.8112772739429,
-                  "zoom": -1.133747514772021
-                }
+                "file": "Biologia/Ecologia/Ecologia básica/Relações ecológicas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-file",
+              "title": "Relações ecológicas"
             }
           }
         ]
@@ -183,8 +180,8 @@
   },
   "active": "352ed866a6992d85",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Caixinhas.canvas",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Ecologia/Ecologia básica/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
     "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares e teias alimentares.md",
