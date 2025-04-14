@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7e318e23a8088dba",
+        "id": "e91191df07698140",
         "type": "tabs",
         "children": [
           {
-            "id": "352ed866a6992d85",
+            "id": "b9f73f50b4e9c6fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biologia/Ecologia/Ecologia básica/Relações ecológicas.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Relações ecológicas"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -178,11 +176,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "352ed866a6992d85",
+  "active": "b9f73f50b4e9c6fd",
   "lastOpenFiles": [
     "Biologia/Caixinhas.canvas",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Ecologia/Ecologia básica/Relações ecológicas.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
     "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares e teias alimentares.md",
     "Resumos/1 Semana/Biolgoia.md",
