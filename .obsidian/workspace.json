@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c58e2ef6f127dcba",
+        "id": "24976276229438a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f341e8a8f9ae17bd",
+            "id": "afbb2c0ce4afc56f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Resumos/1 Semana/Física.md",
-                "mode": "source",
-                "source": false
+                "file": "Física/Caixinhas.canvas",
+                "viewState": {
+                  "x": 429.77280964176833,
+                  "y": 409.461842818428,
+                  "zoom": -0.8145976619387426
+                }
               },
-              "icon": "lucide-file",
-              "title": "Física"
+              "icon": "lucide-layout-dashboard",
+              "title": "Caixinhas"
             }
           }
         ]
@@ -178,16 +181,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f341e8a8f9ae17bd",
+  "active": "afbb2c0ce4afc56f",
   "lastOpenFiles": [
     "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
+    "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
+    "Resumos/1 Semana/Física.md",
     "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Pasted image 20250415065538.png",
     "Física/Eletrodinâmica",
     "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
     "Física/img/Pasted image 20250415065518.png",
-    "Resumos/1 Semana/Física.md",
     "Física/Caixinhas.canvas",
     "Física/Untitled Kanban.md",
     "Resumos/1 Semana/Biolgoia.md",
@@ -218,7 +222,6 @@
     "Matemática/Matemática básica/Conjuntos",
     "Matemática/Matemática básica/Divisores.md",
     "Matemática/Untitled.canvas",
-    "Matemática/Matemática básica/Produto e divisão.md",
     "Química/Untitled.canvas",
     "Ink/Writing/2025.4.9 - 13.50pm.writing",
     "Ink/Writing/2025.4.9 - 13.49pm.writing",
