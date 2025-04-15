@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "e91191df07698140",
+        "id": "20c35ffb28056cf5",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f73f50b4e9c6fd",
+            "id": "fd84475b8f1d547b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -176,13 +184,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b9f73f50b4e9c6fd",
+  "active": "fd84475b8f1d547b",
   "lastOpenFiles": [
-    "Biologia/Caixinhas.canvas",
-    "Biologia/Ecologia/Ecologia básica/Relações ecológicas.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Biologia/Ecologia/Ecologia básica/Conceitos básicos.md",
-    "Biologia/Ecologia/Ecologia básica/Cadeias Alimentares e teias alimentares.md",
+    "Biologia/Untitled Kanban.md",
+    "Biologia/Caixinhas.canvas",
+    "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
     "Resumos/1 Semana/Biolgoia.md",
     "Redação/Untitled Kanban.md",
     "Redação/Redações/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
@@ -211,7 +220,6 @@
     "Matemática/Matemática básica/Dizima periódica.md",
     "Química/Modelos atômicos/Partículas subatomicas.md",
     "Química/Modelos atômicos/Modelo de Bohr.md",
-    "Química/Modelos atômicos/Modelo de Thomson.md",
     "Química/Untitled.canvas",
     "Ink/Writing/2025.4.9 - 13.50pm.writing",
     "Ink/Writing/2025.4.9 - 13.49pm.writing",
