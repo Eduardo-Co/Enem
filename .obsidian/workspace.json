@@ -11,18 +11,6 @@
             "id": "afbb2c0ce4afc56f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
-            }
-          },
-          {
-            "id": "bbe5e2fcfd75c3b9",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Física/Exercícios/Questões Lumb.md"
@@ -31,8 +19,7 @@
               "title": "Questões Lumb"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,13 +176,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bbe5e2fcfd75c3b9",
+  "active": "afbb2c0ce4afc56f",
   "lastOpenFiles": [
-    "Física/Exercícios/Questões Lumb.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Untitled Kanban.md",
+    "Física/Exercícios/Questões Lumb.md",
     "Física/Exercícios/Untitled.md",
     "Física/Exercícios",
-    "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",

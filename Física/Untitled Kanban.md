@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Área de um círculo
 
 
 ## Concluido
