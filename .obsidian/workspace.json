@@ -11,17 +11,12 @@
             "id": "afbb2c0ce4afc56f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Física/Caixinhas.canvas",
-                "viewState": {
-                  "x": 429.77280964176833,
-                  "y": 409.461842818428,
-                  "zoom": -0.8145976619387426
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -181,18 +176,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "afbb2c0ce4afc56f",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Física/img/Pasted image 20250415065538.png",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Caixinhas.canvas",
     "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
     "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
     "Resumos/1 Semana/Física.md",
     "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Pasted image 20250415065538.png",
     "Física/Eletrodinâmica",
     "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
     "Física/img/Pasted image 20250415065518.png",
-    "Física/Caixinhas.canvas",
     "Física/Untitled Kanban.md",
     "Resumos/1 Semana/Biolgoia.md",
     "Biologia/Untitled Kanban.md",
@@ -220,7 +215,6 @@
     "Matemática/Matemática básica/Conjuntos/Complementar.md",
     "Matemática/Matemática básica/Untitled.md",
     "Matemática/Matemática básica/Conjuntos",
-    "Matemática/Matemática básica/Divisores.md",
     "Matemática/Untitled.canvas",
     "Química/Untitled.canvas",
     "Ink/Writing/2025.4.9 - 13.50pm.writing",
