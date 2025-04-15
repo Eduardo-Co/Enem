@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"a7341c6cf9a44305","type":"text","text":"Física","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"25c670d331482f6c","type":"text","text":"Eletroestática","x":-700,"y":120,"width":250,"height":60},
 		{"id":"a2783423d73dc75b","type":"text","text":"Carga elétrica","x":-700,"y":300,"width":250,"height":60},
 		{"id":"360d5ef264ff3487","type":"text","text":"Força elétrica","x":-923,"y":464,"width":250,"height":60},
@@ -10,10 +9,11 @@
 		{"id":"98a807724cf165f4","type":"text","text":"Linhas de campo","x":-750,"y":838,"width":250,"height":60},
 		{"id":"7e3a78b654f9c54e","type":"text","text":"Potencial elétrico","x":-423,"y":840,"width":250,"height":60},
 		{"id":"6464b2b30af3f389","type":"text","text":"Diferença de potencial","x":-548,"y":1000,"width":250,"height":60},
-		{"id":"d5ff991ffb296fb8","type":"text","text":"Processos de eletrização ","x":-500,"y":469,"width":250,"height":50}
+		{"id":"d5ff991ffb296fb8","type":"text","text":"Processos de eletrização ","x":-500,"y":469,"width":250,"height":50},
+		{"id":"a7341c6cf9a44305","type":"text","text":"Física","x":120,"y":-120,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"2e8db3b31ee01fea","fromNode":"a7341c6cf9a44305","fromSide":"left","toNode":"25c670d331482f6c","toSide":"top","color":"3"},
+		{"id":"2e8db3b31ee01fea","fromNode":"a7341c6cf9a44305","fromSide":"bottom","toNode":"25c670d331482f6c","toSide":"top","color":"3"},
 		{"id":"d76f5ed70c87e650","fromNode":"25c670d331482f6c","fromSide":"bottom","toNode":"a2783423d73dc75b","toSide":"top"},
 		{"id":"e8a7a58175e67e25","fromNode":"a2783423d73dc75b","fromSide":"bottom","toNode":"360d5ef264ff3487","toSide":"top","color":"4"},
 		{"id":"512dfd664d6d1752","fromNode":"360d5ef264ff3487","fromSide":"bottom","toNode":"7f4a4239e374daf5","toSide":"top","color":"4"},

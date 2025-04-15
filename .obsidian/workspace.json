@@ -25,17 +25,12 @@
             "id": "dab8a377330aa6bc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Física/Caixinhas.canvas",
-                "viewState": {
-                  "x": -485,
-                  "y": 746.3518011821964,
-                  "zoom": -0.7001389373538277
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ],
@@ -199,9 +194,9 @@
   "active": "dab8a377330aa6bc",
   "lastOpenFiles": [
     "Resumos/1 Semana/Física.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Caixinhas.canvas",
     "Física/Untitled Kanban.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Resumos/1 Semana/Biolgoia.md",
     "Biologia/Untitled Kanban.md",
     "Biologia/Caixinhas.canvas",

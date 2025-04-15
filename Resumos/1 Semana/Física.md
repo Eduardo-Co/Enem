@@ -1,92 +1,121 @@
+# Eletroestática (Resumo Corrigido)
 
-# Eletroestática
+## 1. Carga Elétrica
 
-## Carga elétrica:
+A carga elétrica (medida em coulombs, C) de um corpo está relacionada ao **excesso ou à falta de elétrons** em relação ao número de prótons. Se um corpo tiver um número \( n \) de elétrons excedentes (ou em falta), então:
 
-a carga é calcula em coulomb e é feita por meio da carga elementar vezes a quantidade da diferença entre prótons e nêutrons. Dada pela fórmula:
+\[
+Q = n \cdot e
+\]
 
-Q = n $\cdot$ e
+- \(Q\): carga total do corpo (em coulombs, C)  
+- \(n\): número de partículas em excesso (ou em déficit, se for negativo)  
+- \(e = 1{,}6 \times 10^{-19} \, \mathrm{C}\): **carga elementar** (módulo da carga do elétron ou próton)
 
-Sendo:
-
-$e = 1.6 \cdot 10^{-16}$
-
----
-
-## Processos de eletrização
-
-> [!important] Cai bastante
-> Por atrito: é gerado quando há atrito, dois corpos trocam entre si cargas elétricas, e ficam com cargas opostas no final do processo
-> 
-> Por contato: é gerado quando dois corpos se aproximam, eles ficam com a mesma carga no final do processo, se mantendo em equilíbrio, no entanto isso depende do tamanho do corpo em relação ao outro, sendo:
-> $$
-> \frac{Q_1}{R_1} = \frac{Q_2}{R_2}
-> $$
-> Para esferas.
-> 
-> Por indução: é gerado quando dois corpos se aproximam mas não se tocam, isso faz com que cada carga se polarize, visando que + atrai negativo então um polo, que é por onde se aproxima ficará polarizado, geralmente transforma-se em íon por meio de indução aterrando a parte polarizada, e deixo ele carregado com a carga que desejamos. 
-
-
-
-
-
-
-
-Bom temos carga positiva cations e negativa anions e cada um gera seu grau de atração com as demais moléculas, então, a partir disso estudamos:
-
-
-## Campo elétrico
-
-$$
-E = \frac{F}{q}
-$$
-
-
-- O campo elétrico é gerado pela força divida por uma carga de teste essa força entenderemos melhor agora:
-
-
-A força que um campo elétrico exerce, ou melhor, qualquer íon exerce é a força que tende a atrair ou repelir outras moléculas de si, ela é calculada pela ***lei de couloumb***:
-
-
-$$
-F = \frac{k \cdot Q_1 \cdot Q_2}{d²}
-$$
-Sendo:
-
-$k =$ uma constante que geralmente é $9 \cdot 10^{-6}$ ,
-$Q_1,Q_2$ = duas cargas elétricas diferentes,
-d² = distância entre as cargas
-
-Geralmente se utilizada de $Q_2$ como carga de teste e $Q_1$ como a do campo que desejamos saber isso porquê uma carga já é capaz de gerar essa força e usamos uma de teste para entender melhor naquele contexto. ***Lembre-se isso é uma força então questões para calcular equilíbrio do sistema são cobradas, com vetores.***
-
----
-## Potencial elétrico
-
-$$
-V = \frac{k \cdot Q_1 \cdot Q_2}{d}
-$$
-Possui fórmula similar ao da lei de coulomb mas aqui se calcula o potencial elétrico, dessa maneira também podemos calcular o campo elétrico, sendo:
-
-$$
-V = E \cdot d \text{ ou } E = \frac{V}{d} 
-$$
-
-Veja é o potencial elétrico divido pela distância.
+> **Observação**: Os nêutrons não influenciam a carga, pois são eletricamente neutros.
 
 ---
 
-## Diferença de potencial elétrico e trabalho
+## 2. Processos de Eletrização
 
+### 2.1. Eletrização por Atrito
+- Dois corpos inicialmente neutros são atritados e ocorre **transferência** de elétrons.
+- Ao final, **adquirem cargas de sinais opostos** (um fica positivo e o outro, negativo).
 
-A diferença de potencial elétrico e dado literalmente pela a subtração do potencial elétrico em dois pontos e isso também é:
+### 2.2. Eletrização por Contato
+- Dois condutores são colocados em contato, permitindo a redistribuição de cargas.
+- Ao final, **ficam com a mesma carga** e a mesma diferença de potencial.
+- Para duas **esferas** condutoras de raios \( R_1 \) e \( R_2 \), vale:
+  \[
+    \frac{Q_1}{R_1} = \frac{Q_2}{R_2},
+  \]
+  pois \( V_1 = V_2 \implies k \frac{Q_1}{R_1} = k \frac{Q_2}{R_2} \).
 
+### 2.3. Eletrização por Indução
+1. Aproxima-se um corpo carregado de outro corpo **condutor e neutro** (sem tocar).
+2. Há uma **separação de cargas** (polarização).
+3. Aterrando-se o corpo neutro (ou seja, ligando à Terra), elétrons entram ou saem, deixando-o carregado.
+4. Remove-se a ligação com a Terra e afasta-se o indutor; o corpo induzido permanece com **carga oposta** à do indutor.
 
-$$
-V_2 - V_1 = E \cdot d
-$$
-A partir disso há como se calcular também o trabalho que é mover uma carga de um ponto ao outro no campo elétrico:
+---
 
-$$
-\text{substitua pela letra grega de trabalho} = (V_2 - V_1) \cdot q
-$$
-sendo $q$ a carga de $Q_2$ a que está sendo influênciada.
+## 3. Campo Elétrico
+
+### 3.1. Definição
+O **campo elétrico** \( \vec{E} \) em um ponto do espaço é definido como a **força elétrica** \(\vec{F}\) exercida sobre uma **carga de teste \(q\)**, dividida pelo valor de \(q\):
+
+\[
+\vec{E} = \frac{\vec{F}}{q}.
+\]
+
+### 3.2. Lei de Coulomb (Força Elétrica)
+A **força elétrica** entre duas cargas pontuais \( Q_1 \) e \( Q_2 \), separadas por uma distância \( d \), é dada por:
+
+\[
+F = \frac{k \cdot Q_1 \cdot Q_2}{d^2},
+\]
+
+onde
+
+- \( k \approx 9 \times 10^{9}\,\mathrm{N \, m^2 / C^2} \) (no vácuo),
+- \( Q_1 \) e \( Q_2 \) são as cargas elétricas (em coulombs, C),
+- \( d \) é a distância entre elas (em metros).
+
+---
+
+## 4. Potencial Elétrico
+
+### 4.1. Definição de Potencial
+O **potencial elétrico** \( V \) gerado por uma carga pontual \( Q \) a uma distância \( d \) é:
+
+\[
+V = k \frac{Q}{d}.
+\]
+
+Essa grandeza representa, de forma simplificada, quanto de **energia potencial** uma carga de teste unitária (1 C) teria ao ser colocada naquele ponto.
+
+### 4.2. Energia Potencial Elétrica (\(\mathbf{U}\))
+Quando há **duas cargas** pontuais \( Q_1 \) e \( Q_2 \) separadas por uma distância \( d \), a **energia potencial elétrica** do sistema é:
+
+\[
+U = k \frac{Q_1 \cdot Q_2}{d}.
+\]
+
+> **Observação Importante**:  
+> - \( V \) (potencial elétrico) envolve **apenas uma carga** (aquela que gera o campo).  
+> - \( U \) (energia potencial elétrica) envolve **duas cargas** interagindo.
+
+---
+
+## 5. Diferença de Potencial e Trabalho
+
+### 5.1. Diferença de Potencial (DDP)
+A **diferença de potencial** (ou **tensão**) entre dois pontos \( 1 \) e \( 2 \) em um **campo elétrico uniforme** é:
+
+\[
+\Delta V = V_2 - V_1 = E \cdot d.
+\]
+
+### 5.2. Trabalho
+O **trabalho** para mover uma carga \( q \) de um ponto 1 até um ponto 2 em um campo elétrico uniforme é:
+
+\[
+W = q \cdot (V_2 - V_1) = q \cdot E \cdot d.
+\]
+
+> Quando o campo não é uniforme, essas equações exigem integrais, mas para **regiões de campo constante**, o uso direto é válido.
+
+---
+
+## 6. Resumo
+
+1. **Carga Elétrica**: \( Q = n \cdot e \), com \( e = 1{,}6 \times 10^{-19}\,\mathrm{C} \).  
+2. **Eletrização**: processos de **atrito**, **contato** e **indução**.  
+3. **Campo Elétrico**: \( \vec{E} = \frac{\vec{F}}{q} \).  
+4. **Lei de Coulomb**: \( F = \frac{k\,Q_1\,Q_2}{d^2} \).  
+5. **Potencial Elétrico**: \( V = k \frac{Q}{d} \).  
+6. **Energia Potencial Elétrica (U)**: \( U = k \frac{Q_1 Q_2}{d} \).  
+7. **Diferença de Potencial**: \( \Delta V = E \cdot d \) (se \(E\) for constante).  
+8. **Trabalho**: \( W = q \cdot \Delta V \).
+
+Pronto! Com esses ajustes numéricos e conceituais, o resumo fica consistente e completo.
