@@ -17,7 +17,8 @@
 		{"id":"a7341c6cf9a44305","type":"text","text":"Física","x":370,"y":-160,"width":250,"height":60},
 		{"id":"0f2d875da14724d5","x":-80,"y":439,"width":250,"height":60,"type":"text","text":"Diferença de potencial"},
 		{"id":"a19c239b023bdf46","x":800,"y":439,"width":250,"height":60,"type":"text","text":"Continua"},
-		{"id":"d7cc645da4b29b9a","x":45,"y":681,"width":250,"height":60,"type":"text","text":"Tensão"}
+		{"id":"ac6a08c8e87041d4","x":-73,"y":702,"width":250,"height":60,"type":"text","text":"Diferença de potencial como área"},
+		{"id":"d7cc645da4b29b9a","x":245,"y":702,"width":250,"height":60,"type":"text","text":"Tensão"}
 	],
 	"edges":[
 		{"id":"2e8db3b31ee01fea","fromNode":"a7341c6cf9a44305","fromSide":"bottom","toNode":"25c670d331482f6c","toSide":"top","color":"2"},
@@ -36,6 +37,7 @@
 		{"id":"4f5085cf4cba4de5","fromNode":"13c0fab890131d3b","fromSide":"bottom","toNode":"725b905272bdda62","toSide":"top"},
 		{"id":"efce6f32bd80b4aa","fromNode":"13c0fab890131d3b","fromSide":"bottom","toNode":"c7739ba286067f03","toSide":"top"},
 		{"id":"b199d80c1db7cd11","fromNode":"13c0fab890131d3b","fromSide":"bottom","toNode":"a19c239b023bdf46","toSide":"top"},
-		{"id":"4cf70c8fc85612fd","fromNode":"0f2d875da14724d5","fromSide":"bottom","toNode":"d7cc645da4b29b9a","toSide":"top"}
+		{"id":"4cf70c8fc85612fd","fromNode":"0f2d875da14724d5","fromSide":"bottom","toNode":"d7cc645da4b29b9a","toSide":"top"},
+		{"id":"10c949fd55aa1c2b","fromNode":"0f2d875da14724d5","fromSide":"bottom","toNode":"ac6a08c8e87041d4","toSide":"top"}
 	]
 }

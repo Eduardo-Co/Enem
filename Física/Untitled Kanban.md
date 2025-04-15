@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] Porque há conservação de carga?
 - [ ] diferenças entre protons e neutrons?
 - [ ] Placa fotovoltáica
+- [ ] Direção vetores campo elétrico
 
 
 ## Importante
@@ -24,7 +25,7 @@ kanban-plugin: board
 
 ## Revisar
 
-- [ ] Direção vetores campo elétrico
+- [ ] Conta elétrica/Painel Solar
 
 
 

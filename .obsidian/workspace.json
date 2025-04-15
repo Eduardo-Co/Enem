@@ -11,17 +11,21 @@
             "id": "afbb2c0ce4afc56f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Física/Caixinhas.canvas",
-                "viewState": {
-                  "x": 507.6876422764229,
-                  "y": 605.762357723577,
-                  "zoom": -0.8145976619387426
+                "file": "Física/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -220,8 +224,9 @@
   },
   "active": "afbb2c0ce4afc56f",
   "lastOpenFiles": [
-    "Física/Exercícios/Questões Lumb.md",
+    "Física/Caixinhas.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Exercícios/Questões Lumb.md",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Untitled Kanban.md",
@@ -232,7 +237,6 @@
     "[Potencial elétrico.md",
     "Física/img/Pasted image 20250415103427.png",
     "Física/img/Pasted image 20250415065538.png",
-    "Física/Caixinhas.canvas",
     "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
     "Resumos/1 Semana/Física.md",
     "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
