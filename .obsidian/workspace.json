@@ -11,21 +11,12 @@
             "id": "afbb2c0ce4afc56f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Exercícios/Questões Lumb.md"
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "excalidraw-icon",
+              "title": "Questões Lumb"
             }
           }
         ]
@@ -185,48 +176,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "7d09381895d9e006",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7469d187dac40e52",
-        "type": "window",
-        "children": [
-          {
-            "id": "ee53d9fd4cc19210",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b0d358f3ef7df95a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1769,
-        "y": -2,
-        "width": 1294,
-        "height": 778,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b0d358f3ef7df95a",
+  "active": "afbb2c0ce4afc56f",
   "lastOpenFiles": [
     "Física/Untitled Kanban.md",
-    "Física/Caixinhas.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Caixinhas.canvas",
     "Física/Exercícios/Questões Lumb.md",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
