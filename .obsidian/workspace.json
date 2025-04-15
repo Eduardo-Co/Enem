@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "20c35ffb28056cf5",
+        "id": "c58e2ef6f127dcba",
         "type": "tabs",
         "children": [
           {
-            "id": "fd84475b8f1d547b",
+            "id": "f341e8a8f9ae17bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física/Eletricidade/Energia fotovoltaica.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Energia fotovoltaica"
-            }
-          },
-          {
-            "id": "dab8a377330aa6bc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +174,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dab8a377330aa6bc",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Física/Eletricidade/Energia fotovoltaica.md",
+    "Física/Eletrodinâmica",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
     "Pasted image 20250415065538.png",
     "Física/img/Pasted image 20250415065518.png",
     "Resumos/1 Semana/Física.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Caixinhas.canvas",
     "Física/Untitled Kanban.md",
     "Resumos/1 Semana/Biolgoia.md",
