@@ -21,3 +21,5 @@ $$
 P = V\cdot i
 $$
 E isso será medido em ***Joules / Segundo***
+
+==Muita vezes eles trazem V como área, uma vez que é o DDp do campo então há uma relação com área mesmo==
