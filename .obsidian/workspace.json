@@ -25,13 +25,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Física/Exercícios/ENEM.2024.2.AM5 - QUESTÃO 101.md"
+                "file": "Física/Exercícios/Questões Lumb.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ENEM.2024.2.AM5 - QUESTÃO 101"
+              "title": "Questões Lumb"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,11 +189,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "afbb2c0ce4afc56f",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Física/Exercícios/ENEM.2024.2.AM5 - QUESTÃO 101.md",
-    "Física/Exercícios/Untitled.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Exercícios/Questões Lumb.md",
+    "Física/Exercícios/Untitled.md",
     "Física/Exercícios",
     "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/Potência.md",
@@ -228,7 +229,6 @@
     "Matemática/Matemática básica/Simulados/Simulado 1.md",
     "Matemática/Matemática básica/Simulados/Untitled.md",
     "Matemática/Matemática básica/Simulados",
-    "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
     "Matemática/Matemática básica/Conjuntos",
     "Matemática/Untitled.canvas",
     "Química/Untitled.canvas",
