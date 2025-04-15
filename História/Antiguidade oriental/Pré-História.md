@@ -15,5 +15,10 @@ Se surgiram na África de onde esse povo foi para américa
 
 Pelo ***Estreito de Bering*** entre a Ásia e a América, são todos de origem mongoloide
 
+***Mas isso foi posto em cheque***, parece que vieram por ilhas mesmo 
+
+---
+
+
 
 

@@ -11,14 +11,17 @@
             "id": "afb9d29b7d1ae2cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "História/Antiguidade oriental/Pré-História.md",
-                "mode": "source",
-                "source": false
+                "file": "História/Untitled.canvas",
+                "viewState": {
+                  "x": 92.46174170150776,
+                  "y": 105.71596055697214,
+                  "zoom": -0.21795343597730005
+                }
               },
-              "icon": "lucide-file",
-              "title": "Pré-História"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -180,8 +183,9 @@
   },
   "active": "afb9d29b7d1ae2cf",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "História/Antiguidade oriental/Civilizações hidráulicas.md",
     "História/Antiguidade oriental/Pré-História.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Potência.md",
     "História/Antiguidade oriental",
     "Física/Eletrodinâmica/Tipos de corrente.md",
