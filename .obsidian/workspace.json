@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Eletrodinâmica/Corrente elétrica.md",
+                "file": "Física/Eletrodinâmica/Potência.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corrente elétrica"
+              "title": "Potência"
             }
           }
         ]
@@ -180,8 +180,11 @@
   },
   "active": "afbb2c0ce4afc56f",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Corrente elétrica.md",
+    "Física/Eletrodinâmica/Potência.md",
+    "Física/Eletrodinâmica/Tipos de corrente.md",
+    "Física/img/Pasted image 20250415103427.png",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/img/Pasted image 20250415065538.png",
     "Física/Caixinhas.canvas",
     "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
@@ -215,7 +218,6 @@
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
     "Matemática/Matemática básica/Conjuntos/Operações com conjuntos.md",
     "Matemática/Matemática básica/Conjuntos/Cálculo de subconjuntos.md",
-    "Matemática/Matemática básica/Conjuntos/Complementar.md",
     "Matemática/Matemática básica/Conjuntos",
     "Matemática/Untitled.canvas",
     "Química/Untitled.canvas",
@@ -230,7 +232,6 @@
     "O que Estudar/imagens/Pasted image 20250406150841.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
     "O que Estudar/imagens/Pasted image 20250406150734.png",
-    "O que Estudar/Pasted image 20250406150453.png",
     "Excalidraw/Calculo 1/E.canvas",
     "Sem título.canvas"
   ]
