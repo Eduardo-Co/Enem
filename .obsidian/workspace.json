@@ -11,12 +11,14 @@
             "id": "afbb2c0ce4afc56f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Eletrodinâmica/Corrente elétrica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Corrente elétrica"
             }
           }
         ]
@@ -176,10 +178,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "afbb2c0ce4afc56f",
   "lastOpenFiles": [
-    "Física/img/Pasted image 20250415065538.png",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Eletrodinâmica/Corrente elétrica.md",
+    "Física/img/Pasted image 20250415065538.png",
     "Física/Caixinhas.canvas",
     "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
     "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
@@ -213,7 +216,6 @@
     "Matemática/Matemática básica/Conjuntos/Operações com conjuntos.md",
     "Matemática/Matemática básica/Conjuntos/Cálculo de subconjuntos.md",
     "Matemática/Matemática básica/Conjuntos/Complementar.md",
-    "Matemática/Matemática básica/Untitled.md",
     "Matemática/Matemática básica/Conjuntos",
     "Matemática/Untitled.canvas",
     "Química/Untitled.canvas",
