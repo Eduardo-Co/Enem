@@ -11,10 +11,14 @@
             "id": "f341e8a8f9ae17bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Resumos/1 Semana/Física.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Física"
             }
           }
         ]
@@ -174,12 +178,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "f341e8a8f9ae17bd",
   "lastOpenFiles": [
-    "Física/Eletrodinâmica",
+    "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
+    "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
     "Pasted image 20250415065538.png",
+    "Física/Eletrodinâmica",
+    "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
     "Física/img/Pasted image 20250415065518.png",
     "Resumos/1 Semana/Física.md",
     "Física/Caixinhas.canvas",
@@ -213,11 +219,9 @@
     "Matemática/Matemática básica/Divisores.md",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Produto e divisão.md",
-    "Matemática/Matemática básica/Primos.md",
     "Química/Untitled.canvas",
     "Ink/Writing/2025.4.9 - 13.50pm.writing",
     "Ink/Writing/2025.4.9 - 13.49pm.writing",
-    "Química/Modelos atômicos",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
     "Geografia/Caixinhas.canvas",

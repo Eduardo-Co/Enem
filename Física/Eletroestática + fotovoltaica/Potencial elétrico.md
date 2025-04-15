@@ -38,10 +38,10 @@ Ou seja, o campo aponta na direção de **maior diminuição** do potencial.
 
 ### Diferenças Principais:
 
-| Campo Elétrico $\vec{E}$        | Potencial Elétrico $V$       |
-|-------------------------------|------------------------------|
-| Vetorial                      | Escalar                      |
+| Campo Elétrico $\vec{E}$        | Potencial Elétrico $V$            |
+| ------------------------------- | --------------------------------- |
+| Vetorial                        | Escalar                           |
 | Mede força por unidade de carga | Mede energia por unidade de carga |
-| Aponta na direção da força     | Indica nível de energia       |
-| $\vec{E} = -\nabla V$         | $V = \frac{U}{q}$            |
+| Aponta na direção da força      | Indica nível de energia           |
+| $\vec{E} = -\nabla V$           | $V = \frac{U}{q}$                 |
 
