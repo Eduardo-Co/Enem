@@ -7,6 +7,7 @@ kanban-plugin: board
 ## A fazer
 
 - [ ] Placa fotovoltáica
+- [ ] diferenças entre protons e neutrons?
 
 
 ## Concluido
