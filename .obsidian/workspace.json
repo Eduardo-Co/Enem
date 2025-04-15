@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "24976276229438a8",
+        "id": "72ffce264e9c8747",
         "type": "tabs",
         "children": [
           {
-            "id": "afbb2c0ce4afc56f",
+            "id": "afb9d29b7d1ae2cf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Física/Exercícios/Questões Lumb.md"
+                "file": "História/Antiguidade oriental/Pré-História.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Questões Lumb"
+              "icon": "lucide-file",
+              "title": "Pré-História"
             }
           }
         ]
@@ -176,17 +178,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "afbb2c0ce4afc56f",
+  "active": "afb9d29b7d1ae2cf",
   "lastOpenFiles": [
-    "Física/Untitled Kanban.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Física/Caixinhas.canvas",
-    "Física/Exercícios/Questões Lumb.md",
+    "História/Antiguidade oriental/Pré-História.md",
     "Física/Eletrodinâmica/Potência.md",
+    "História/Antiguidade oriental",
     "Física/Eletrodinâmica/Tipos de corrente.md",
+    "Física/Eletrodinâmica/Corrente elétrica.md",
+    "Física/Caixinhas.canvas",
+    "Física/Untitled Kanban.md",
+    "História/Untitled.canvas",
+    "História/Untitled Kanban.md",
+    "Física/Exercícios/Questões Lumb.md",
+    "História",
     "Física/Exercícios/Untitled.md",
     "Física/Exercícios",
-    "Física/Eletrodinâmica/Corrente elétrica.md",
     "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
     "[Potencial elétrico.md",
     "Física/img/Pasted image 20250415103427.png",
@@ -213,13 +220,9 @@
     "Matemática/Matemática básica/MMC e MDC.md",
     "Redação/Redações",
     "Matemática/Matemática básica/Conjuntos/Conjuntos numéricos.md",
-    "Matemática/Matemática básica/Simulados/Simulado 1.md",
-    "Matemática/Matemática básica/Simulados/Untitled.md",
     "Matemática/Matemática básica/Simulados",
-    "Matemática/Matemática básica/Conjuntos",
     "Matemática/Untitled.canvas",
     "Química/Untitled.canvas",
-    "Ink/Writing/2025.4.9 - 13.50pm.writing",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
     "Geografia/Caixinhas.canvas",
