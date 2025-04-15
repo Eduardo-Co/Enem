@@ -11,21 +11,24 @@
             "id": "afbb2c0ce4afc56f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
+          },
+          {
+            "id": "bbe5e2fcfd75c3b9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Física/Exercícios/ENEM.2024.2.AM5 - QUESTÃO 101.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ENEM.2024.2.AM5 - QUESTÃO 101"
             }
           }
         ]
@@ -185,9 +188,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "afbb2c0ce4afc56f",
   "lastOpenFiles": [
+    "Física/Exercícios/ENEM.2024.2.AM5 - QUESTÃO 101.md",
+    "Física/Exercícios/Untitled.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Exercícios",
+    "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
@@ -202,7 +209,6 @@
     "Física/Eletrodinâmica",
     "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
     "Física/img/Pasted image 20250415065518.png",
-    "Física/Untitled Kanban.md",
     "Resumos/1 Semana/Biolgoia.md",
     "Biologia/Untitled Kanban.md",
     "Biologia/Caixinhas.canvas",
@@ -223,12 +229,10 @@
     "Matemática/Matemática básica/Simulados/Untitled.md",
     "Matemática/Matemática básica/Simulados",
     "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
-    "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
     "Matemática/Matemática básica/Conjuntos",
     "Matemática/Untitled.canvas",
     "Química/Untitled.canvas",
     "Ink/Writing/2025.4.9 - 13.50pm.writing",
-    "Ink/Writing/2025.4.9 - 13.49pm.writing",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
     "Geografia/Caixinhas.canvas",
