@@ -13,15 +13,15 @@
 		{"id":"d5ff991ffb296fb8","type":"text","text":"Processos de eletrização ","x":-500,"y":469,"width":250,"height":50}
 	],
 	"edges":[
-		{"id":"2e8db3b31ee01fea","fromNode":"a7341c6cf9a44305","fromSide":"left","toNode":"25c670d331482f6c","toSide":"top"},
+		{"id":"2e8db3b31ee01fea","fromNode":"a7341c6cf9a44305","fromSide":"left","toNode":"25c670d331482f6c","toSide":"top","color":"3"},
 		{"id":"d76f5ed70c87e650","fromNode":"25c670d331482f6c","fromSide":"bottom","toNode":"a2783423d73dc75b","toSide":"top"},
-		{"id":"e8a7a58175e67e25","fromNode":"a2783423d73dc75b","fromSide":"bottom","toNode":"360d5ef264ff3487","toSide":"top"},
-		{"id":"512dfd664d6d1752","fromNode":"360d5ef264ff3487","fromSide":"bottom","toNode":"7f4a4239e374daf5","toSide":"top"},
-		{"id":"8315af493a4ad38b","fromNode":"a2783423d73dc75b","fromSide":"bottom","toNode":"d5ff991ffb296fb8","toSide":"top"},
-		{"id":"63bb0f9420309f3b","fromNode":"360d5ef264ff3487","fromSide":"bottom","toNode":"5ec2750a211144fd","toSide":"top"},
-		{"id":"285ba1724e008b96","fromNode":"5ec2750a211144fd","fromSide":"bottom","toNode":"98a807724cf165f4","toSide":"top"},
-		{"id":"b7b127c053201d88","fromNode":"5ec2750a211144fd","fromSide":"bottom","toNode":"7e3a78b654f9c54e","toSide":"top"},
+		{"id":"e8a7a58175e67e25","fromNode":"a2783423d73dc75b","fromSide":"bottom","toNode":"360d5ef264ff3487","toSide":"top","color":"4"},
+		{"id":"512dfd664d6d1752","fromNode":"360d5ef264ff3487","fromSide":"bottom","toNode":"7f4a4239e374daf5","toSide":"top","color":"4"},
+		{"id":"8315af493a4ad38b","fromNode":"a2783423d73dc75b","fromSide":"bottom","toNode":"d5ff991ffb296fb8","toSide":"top","color":"4"},
+		{"id":"63bb0f9420309f3b","fromNode":"360d5ef264ff3487","fromSide":"bottom","toNode":"5ec2750a211144fd","toSide":"top","color":"4"},
+		{"id":"285ba1724e008b96","fromNode":"5ec2750a211144fd","fromSide":"bottom","toNode":"98a807724cf165f4","toSide":"top","color":"3"},
+		{"id":"b7b127c053201d88","fromNode":"5ec2750a211144fd","fromSide":"bottom","toNode":"7e3a78b654f9c54e","toSide":"top","color":"3"},
 		{"id":"800658ab213ca40a","fromNode":"7e3a78b654f9c54e","fromSide":"bottom","toNode":"6464b2b30af3f389","toSide":"top"},
-		{"id":"471dcb2ce4c06786","fromNode":"5ec2750a211144fd","fromSide":"bottom","toNode":"cc2f8bd3bcece0d8","toSide":"top"}
+		{"id":"471dcb2ce4c06786","fromNode":"5ec2750a211144fd","fromSide":"bottom","toNode":"cc2f8bd3bcece0d8","toSide":"top","color":"3"}
 	]
 }

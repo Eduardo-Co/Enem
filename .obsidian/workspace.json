@@ -11,27 +11,6 @@
             "id": "fd84475b8f1d547b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "dab8a377330aa6bc",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Resumos/1 Semana/Física.md",
@@ -40,6 +19,23 @@
               },
               "icon": "lucide-file",
               "title": "Física"
+            }
+          },
+          {
+            "id": "dab8a377330aa6bc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Física/Caixinhas.canvas",
+                "viewState": {
+                  "x": -485,
+                  "y": 746.3518011821964,
+                  "zoom": -0.7001389373538277
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Caixinhas"
             }
           }
         ],
@@ -202,12 +198,12 @@
   },
   "active": "dab8a377330aa6bc",
   "lastOpenFiles": [
-    "Física/Untitled Kanban.md",
-    "Física/Caixinhas.canvas",
     "Resumos/1 Semana/Física.md",
+    "Física/Caixinhas.canvas",
+    "Física/Untitled Kanban.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Resumos/1 Semana/Biolgoia.md",
     "Biologia/Untitled Kanban.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Caixinhas.canvas",
     "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
