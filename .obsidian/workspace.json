@@ -11,12 +11,17 @@
             "id": "afbb2c0ce4afc56f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Física/Exercícios/Questões Lumb.md"
+                "file": "Física/Caixinhas.canvas",
+                "viewState": {
+                  "x": 507.6876422764229,
+                  "y": 605.762357723577,
+                  "zoom": -0.8145976619387426
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Questões Lumb"
+              "icon": "lucide-layout-dashboard",
+              "title": "Caixinhas"
             }
           }
         ]
@@ -215,8 +220,8 @@
   },
   "active": "afbb2c0ce4afc56f",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Exercícios/Questões Lumb.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Untitled Kanban.md",
