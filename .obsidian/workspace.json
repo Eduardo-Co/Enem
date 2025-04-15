@@ -11,14 +11,21 @@
             "id": "afbb2c0ce4afc56f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Física/Eletrodinâmica/Potência.md",
-                "mode": "source",
-                "source": false
+                "file": "Física/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Potência"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -178,16 +185,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "afbb2c0ce4afc56f",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Física/Eletrodinâmica/Corrente elétrica.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
+    "Física/Eletrodinâmica/Corrente elétrica.md",
+    "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
+    "[Potencial elétrico.md",
     "Física/img/Pasted image 20250415103427.png",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/img/Pasted image 20250415065538.png",
     "Física/Caixinhas.canvas",
-    "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
     "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
     "Resumos/1 Semana/Física.md",
     "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
@@ -216,8 +224,6 @@
     "Matemática/Matemática básica/Simulados",
     "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
-    "Matemática/Matemática básica/Conjuntos/Operações com conjuntos.md",
-    "Matemática/Matemática básica/Conjuntos/Cálculo de subconjuntos.md",
     "Matemática/Matemática básica/Conjuntos",
     "Matemática/Untitled.canvas",
     "Química/Untitled.canvas",
