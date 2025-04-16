@@ -11,20 +11,24 @@
             "id": "45669e2e14c7b166",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "Química/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Química/Lumb/Camada eletrônica.md"
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "excalidraw-icon",
+              "title": "Camada eletrônica"
+            }
+          },
+          {
+            "id": "969c18054f4fee90",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Química/Lumb/Camada eletrônica.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Camada eletrônica"
             }
           }
         ]
@@ -228,8 +232,12 @@
   },
   "active": "45669e2e14c7b166",
   "lastOpenFiles": [
-    "Resumos/1 Semana/Química.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Lumb/Camada eletrônica.md",
+    "Química/Lumb/Untitled.md",
+    "Química/Lumb",
+    "Química/Untitled Kanban.md",
+    "Resumos/1 Semana/Química.md",
     "Química/Camadas eletrônicas",
     "Química/Untitled.canvas",
     "Química/Modelos atômicos/Modelo de Bohr.md",
@@ -263,13 +271,9 @@
     "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
-    "Redação/Untitled Kanban.md",
-    "Redação/Redações/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
     "Resumos/1 Semana",
     "Resumos",
-    "Redação/Como fazer redação/Argumento - Desenvolvimento.md",
     "Redação/Como fazer redação",
-    "Redação/Redações",
     "Matemática/Untitled.canvas",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
