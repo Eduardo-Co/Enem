@@ -11,10 +11,12 @@
             "id": "4aea65708469fd57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -174,10 +176,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4aea65708469fd57",
+  "floating": {
+    "id": "0ecccd24ccbf96ea",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a60a39626ad7e109",
+        "type": "window",
+        "children": [
+          {
+            "id": "af1989dfe214cf3a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dac17a7dc1701619",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Química/Untitled.canvas",
+                    "viewState": {
+                      "x": -829.1332527152938,
+                      "y": 876.0325582836199,
+                      "zoom": -0.48113497251948073
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Untitled"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1709,
+        "y": 129,
+        "width": 1294,
+        "height": 776,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Química/Untitled.canvas",
+    "Química/Camadas eletrônicas",
     "Resumos/1 Semana/Química.md",
+    "Química/Untitled.canvas",
     "Química/Modelos atômicos/Modelo de Bohr.md",
     "História/Untitled.canvas",
     "História/Antiguidade oriental/Pré-História.md",

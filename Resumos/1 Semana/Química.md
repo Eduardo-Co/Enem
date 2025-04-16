@@ -26,3 +26,34 @@ Foi estudado inicialmente os modelos atômicos:
 	- Aluno de Rutherford desenvolveu sua teoria e descobriu subníveis nas camadas eletrônicas, trazendo uma deformação no formato circular da eletrosfera para um eliptico
 	- A partir dele desenvolveu a descoberta de orbitais
 	- Probabilidade de onde estar o eletron em um subnível
+
+
+## Característica de um átomo:
+
+- Ion:
+	1. Cation: + doa
+	2. Anion: -  ganha
+
+- Numero atômico: n° protons (Z)
+- Numero da massa: A, protons + neutrons
+- índice: quantos tem daquela molécula daquele átomo
+- Carga elétrica: + ou -, recebeu ou ganhou elétrons
+
+
+Isotopos: protons iguais
+isobaricos: massa atomica igual
+Isoeletronicos: carga eletrica igual
+Isotonos: neutrons iguais
+
+---
+## Processos de eletrificação
+
+São formados pelo deslocamento na camada eletrônica da mais externa para a mais interna. 
+
+## 1. Luminescência: Menor gasto de energia
+1. Fosforescência
+2. Fluorescência
+3. Quimiluminescência
+4. Bioacumulação
+## 2. Incandescência: Maior gasto de energia
+
