@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "8ad599c86ce7ab11",
+        "id": "43ebab85a472411f",
         "type": "tabs",
         "children": [
           {
-            "id": "4aea65708469fd57",
+            "id": "45669e2e14c7b166",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -218,11 +226,11 @@
       }
     ]
   },
-  "active": "4aea65708469fd57",
+  "active": "45669e2e14c7b166",
   "lastOpenFiles": [
+    "Resumos/1 Semana/Química.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Camadas eletrônicas",
-    "Resumos/1 Semana/Química.md",
     "Química/Untitled.canvas",
     "Química/Modelos atômicos/Modelo de Bohr.md",
     "História/Untitled.canvas",
@@ -262,7 +270,6 @@
     "Redação/Como fazer redação/Argumento - Desenvolvimento.md",
     "Redação/Como fazer redação",
     "Redação/Redações",
-    "Matemática/Matemática básica/Simulados",
     "Matemática/Untitled.canvas",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",

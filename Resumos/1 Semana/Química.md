@@ -30,6 +30,8 @@ Foi estudado inicialmente os modelos atômicos:
 
 ## Característica de um átomo:
 
+Todo Átomo permanece neutro a não ser que você o provoque, então lembre-se que o número de prótons deve ser igual ao de elétrons
+
 - Ion:
 	1. Cation: + doa
 	2. Anion: -  ganha
