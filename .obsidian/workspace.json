@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fdd3c2453f64cb1e",
+        "id": "8ad599c86ce7ab11",
         "type": "tabs",
         "children": [
           {
-            "id": "9be2a9d62c1eaf54",
+            "id": "4aea65708469fd57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resumos/1 Semana/Química.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Química"
+              "title": "New tab"
             }
           }
         ]
@@ -178,10 +174,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9be2a9d62c1eaf54",
+  "active": "4aea65708469fd57",
   "lastOpenFiles": [
-    "História/Untitled.canvas",
+    "Química/Untitled.canvas",
     "Resumos/1 Semana/Química.md",
+    "Química/Modelos atômicos/Modelo de Bohr.md",
+    "História/Untitled.canvas",
     "História/Antiguidade oriental/Pré-História.md",
     "História/Antiguidade oriental/Civilizações hidráulicas.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -218,11 +216,9 @@
     "Resumos",
     "Redação/Como fazer redação/Argumento - Desenvolvimento.md",
     "Redação/Como fazer redação",
-    "Redação/Informações básicas.md",
     "Redação/Redações",
     "Matemática/Matemática básica/Simulados",
     "Matemática/Untitled.canvas",
-    "Química/Untitled.canvas",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
     "Geografia/Caixinhas.canvas",
