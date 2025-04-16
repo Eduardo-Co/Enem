@@ -11,17 +11,12 @@
             "id": "afb9d29b7d1ae2cf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "História/Untitled.canvas",
-                "viewState": {
-                  "x": 92.46174170150776,
-                  "y": 105.71596055697214,
-                  "zoom": -0.21795343597730005
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -183,6 +178,7 @@
   },
   "active": "afb9d29b7d1ae2cf",
   "lastOpenFiles": [
+    "História/Untitled.canvas",
     "História/Antiguidade oriental/Civilizações hidráulicas.md",
     "História/Antiguidade oriental/Pré-História.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -192,7 +188,6 @@
     "Física/Eletrodinâmica/Corrente elétrica.md",
     "Física/Caixinhas.canvas",
     "Física/Untitled Kanban.md",
-    "História/Untitled.canvas",
     "História/Untitled Kanban.md",
     "Física/Exercícios/Questões Lumb.md",
     "História",
@@ -223,7 +218,6 @@
     "Redação/Informações básicas.md",
     "Matemática/Matemática básica/MMC e MDC.md",
     "Redação/Redações",
-    "Matemática/Matemática básica/Conjuntos/Conjuntos numéricos.md",
     "Matemática/Matemática básica/Simulados",
     "Matemática/Untitled.canvas",
     "Química/Untitled.canvas",
