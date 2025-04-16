@@ -11,12 +11,21 @@
             "id": "45669e2e14c7b166",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Química/Lumb/Camada eletrônica.md"
+                "file": "Química/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Camada eletrônica"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           },
           {
@@ -232,14 +241,14 @@
   },
   "active": "45669e2e14c7b166",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Untitled.canvas",
     "Química/Lumb/Camada eletrônica.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Lumb/Untitled.md",
     "Química/Lumb",
     "Química/Untitled Kanban.md",
     "Resumos/1 Semana/Química.md",
     "Química/Camadas eletrônicas",
-    "Química/Untitled.canvas",
     "Química/Modelos atômicos/Modelo de Bohr.md",
     "História/Untitled.canvas",
     "História/Antiguidade oriental/Pré-História.md",
