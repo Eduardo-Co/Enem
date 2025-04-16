@@ -11,17 +11,14 @@
             "id": "9be2a9d62c1eaf54",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "História/Untitled.canvas",
-                "viewState": {
-                  "x": 343.95679203539834,
-                  "y": 186.36141592920347,
-                  "zoom": -0.2926948948260324
-                }
+                "file": "Resumos/1 Semana/Química.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Química"
             }
           }
         ]
@@ -183,9 +180,10 @@
   },
   "active": "9be2a9d62c1eaf54",
   "lastOpenFiles": [
+    "História/Untitled.canvas",
+    "Resumos/1 Semana/Química.md",
     "História/Antiguidade oriental/Pré-História.md",
     "História/Antiguidade oriental/Civilizações hidráulicas.md",
-    "História/Untitled.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Potência.md",
     "História/Antiguidade oriental",
@@ -221,7 +219,6 @@
     "Redação/Como fazer redação/Argumento - Desenvolvimento.md",
     "Redação/Como fazer redação",
     "Redação/Informações básicas.md",
-    "Matemática/Matemática básica/MMC e MDC.md",
     "Redação/Redações",
     "Matemática/Matemática básica/Simulados",
     "Matemática/Untitled.canvas",
