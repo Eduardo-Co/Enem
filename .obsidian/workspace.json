@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguagens/Comunicação e função da linguagem/Elementos de comunicação e funções de linguagem.md",
+                "file": "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elementos de comunicação e funções de linguagem"
+              "title": "Propriedades de conjunto"
             }
           },
           {
-            "id": "ae3a5dc4305713f1",
+            "id": "61bde14f86696a50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Resumos/1 Semana/Matemática.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Matemática"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +193,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ace0a7ad28f7f2f3",
+  "active": "61bde14f86696a50",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
+    "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
+    "Matemática/Matemática básica/Produto e divisão.md",
+    "Matemática/Matemática básica/Primos.md",
+    "Matemática/Matemática básica/MMC e MDC.md",
+    "Matemática/Matemática básica/Dizima periódica.md",
+    "Resumos/1 Semana/Matemática.md",
+    "Matemática/Matemática básica/Divisores.md",
     "Linguagens/Comunicação e função da linguagem/Elementos de comunicação e funções de linguagem.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Linguagens/Comunicação e função da linguagem",
     "Untitled",
     "Química/2 - Distribuição eletrônica/Distribuição eletrônica.md",
@@ -222,16 +235,9 @@
     "[Potencial elétrico.md",
     "Física/img/Pasted image 20250415103427.png",
     "Física/img/Pasted image 20250415065538.png",
-    "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
-    "Resumos/1 Semana/Física.md",
-    "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
     "Física/Eletrodinâmica",
-    "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
     "Física/img/Pasted image 20250415065518.png",
-    "Resumos/1 Semana/Biolgoia.md",
-    "Biologia/Untitled Kanban.md",
     "Biologia/Caixinhas.canvas",
-    "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Matemática/Untitled.canvas",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
