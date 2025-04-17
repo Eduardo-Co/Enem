@@ -11,12 +11,20 @@
             "id": "ace0a7ad28f7f2f3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Matemática/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           },
           {
@@ -192,6 +200,8 @@
   },
   "active": "ace0a7ad28f7f2f3",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Untitled Kanban.md",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
@@ -205,7 +215,6 @@
     "Matemática/Matemática básica/Dizima periódica.md",
     "Matemática/Matemática básica/Divisores.md",
     "Linguagens/Comunicação e função da linguagem/Elementos de comunicação e funções de linguagem.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Linguagens/Comunicação e função da linguagem",
     "Untitled",
     "Química/2 - Distribuição eletrônica/Distribuição eletrônica.md",
@@ -227,7 +236,6 @@
     "Física/Eletrodinâmica/Corrente elétrica.md",
     "Física/Caixinhas.canvas",
     "Física/Untitled Kanban.md",
-    "História/Untitled Kanban.md",
     "História",
     "Física/Exercícios",
     "Física/img/Pasted image 20250415103427.png",
