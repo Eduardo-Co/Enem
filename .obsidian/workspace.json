@@ -11,6 +11,18 @@
             "id": "ace0a7ad28f7f2f3",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
+          },
+          {
+            "id": "61bde14f86696a50",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
@@ -20,23 +32,8 @@
               "icon": "lucide-file",
               "title": "Propriedades de conjunto"
             }
-          },
-          {
-            "id": "61bde14f86696a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resumos/1 Semana/Matemática.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matemática"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,15 +190,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "61bde14f86696a50",
+  "active": "ace0a7ad28f7f2f3",
   "lastOpenFiles": [
-    "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
+    "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
+    "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
+    "Matemática/Matemática básica/Conjuntos/Operações com conjuntos.md",
+    "Matemática/Matemática básica/Conjuntos/Conjuntos numéricos.md",
+    "Matemática/Matemática básica/Conjuntos/Cálculo de subconjuntos.md",
+    "Resumos/1 Semana/Matemática.md",
     "Matemática/Matemática básica/Produto e divisão.md",
     "Matemática/Matemática básica/Primos.md",
     "Matemática/Matemática básica/MMC e MDC.md",
     "Matemática/Matemática básica/Dizima periódica.md",
-    "Resumos/1 Semana/Matemática.md",
     "Matemática/Matemática básica/Divisores.md",
     "Linguagens/Comunicação e função da linguagem/Elementos de comunicação e funções de linguagem.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -227,18 +228,13 @@
     "Física/Caixinhas.canvas",
     "Física/Untitled Kanban.md",
     "História/Untitled Kanban.md",
-    "Física/Exercícios/Questões Lumb.md",
     "História",
-    "Física/Exercícios/Untitled.md",
     "Física/Exercícios",
-    "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
-    "[Potencial elétrico.md",
     "Física/img/Pasted image 20250415103427.png",
     "Física/img/Pasted image 20250415065538.png",
     "Física/Eletrodinâmica",
     "Física/img/Pasted image 20250415065518.png",
     "Biologia/Caixinhas.canvas",
-    "Matemática/Untitled.canvas",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
     "Geografia/Caixinhas.canvas",

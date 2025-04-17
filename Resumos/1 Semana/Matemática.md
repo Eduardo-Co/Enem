@@ -24,3 +24,9 @@ Divida ele por uma sucessão de números primos, na sucessão se o quociente for
 
 - ***Igualdade***: dois conjuntos são iguais quando tem os mesmo elementos, mesmo que um tenha mais do que o outro.
 - ***Somar***: apenas soma
+- ***Subtração***: depende da ordem, mas tira elementos do primeiro no segundo.
+
+---
+## Número de subconjuntos:
+
+é sempre $2^n$ sendo n o número de elementos do conjunto ou seja é uma combinação par a par basicamente.
