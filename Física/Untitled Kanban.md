@@ -27,6 +27,7 @@ kanban-plugin: board
 ## Revisar
 
 - [ ] Conta elétrica/Painel Solar
+- [ ] Elétrica/Eletrodinamica/Ohm/etc...
 
 
 

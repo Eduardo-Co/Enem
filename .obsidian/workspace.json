@@ -11,15 +11,45 @@
             "id": "61bde14f86696a50",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Física/Caixinhas.canvas",
+                "viewState": {
+                  "x": -22.5,
+                  "y": 450,
+                  "zoom": -0.8688751014429178
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Caixinhas"
+            }
+          },
+          {
+            "id": "86eed4ac02646c7d",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Física/Exercícios/Semana 2 Lumb.md"
+                "file": "Física/Simulados Aprova/Eletrodinâmica Básica.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Semana 2 Lumb"
+              "title": "Eletrodinâmica Básica"
+            }
+          },
+          {
+            "id": "e04f01e306f506ef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,15 +206,18 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "61bde14f86696a50",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Física/Simulados Aprova/Eletrodin.md",
+    "Física/Simulados Aprova/Eletrodinâmica Básica.md",
+    "Física/Caixinhas.canvas",
+    "Física/Simulados Aprova",
+    "Física/Untitled Kanban.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Exercícios/Semana 2 Lumb.md",
     "Física/img/Pasted Image 20250422105956_785.png",
     "Física/Exercícios/Questões Lumb.md",
     "Resumos/2 Semana/Física.md",
-    "Física/Untitled Kanban.md",
-    "Física/Caixinhas.canvas",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
@@ -216,7 +249,6 @@
     "História/Untitled.canvas",
     "História/Antiguidade oriental",
     "História",
-    "Física/Exercícios",
     "Física/img/Pasted image 20250415103427.png",
     "Física/img/Pasted image 20250415065538.png",
     "Física/img/Pasted image 20250415065518.png",
