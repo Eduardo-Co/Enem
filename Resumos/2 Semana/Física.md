@@ -14,7 +14,46 @@ $$
 
 2. Lei de Coulomb: Trás a força necessária para atração de de moléculas:
 $$
-F = k \frac{C_1 \cdot C_2}{d^2}
+F = k \frac{Q \cdot q}{d^2}
 $$
 
-Por meio disso po
+Por meio disso podemos definir um campo elétrico utilizando o mesmo conceito de carga de teste utilizada na lei de Coulomb só que agora:
+
+$$
+E = \frac{F}{q}
+$$
+3. Potencial elétrico: O potencial elétrico pode ser calculado de forma similar a corrente elétrica e a lei de Coulomb no entanto se difere na fórmula, veja:
+$$
+U = k \frac{Q \cdot q}{d}
+$$
+4. A diferença de potencial entre dois corpos não é nada mais do que a diferença de seu potencial elétrico e o trabalho exercido para deslocar uma carga de um lugar ao outro é:
+$$
+\sigma = q (U_1 - U_2)
+$$
+Esse é o trabalho e o trabalho entra na mesma fórmula de força sendo
+
+$$
+E = \frac{\sigma}{q}
+$$
+***Há uma ideia de área quando se fala sobre tensão também.***
+
+
+## Eletrodinâmica
+
+Na eletrodinâmica foi visto até agora tensão, diferença de potencial e corrente.
+
+1. Somente há corrente se houver tensão
+2. A diferença de potencial é a tensão, é a subtração de dois potenciais elétricos. 
+3. Potencia: Toda potência é trabalho sobre tempo então será o mesmo aqui:
+$$
+P = \frac{\sigma}{t}
+$$
+Sendo:
+$$
+\sigma = U \cdot i
+$$
+
+
+## Como funciona um painel solar:
+
+Basicamente de semicondutores, onde há placa é carregada em polos, e esses polos quando submetidos a calor agitam os elétrons e conectando um fio a eles é capaz de gerar energia, corrente. 
