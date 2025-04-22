@@ -11,20 +11,14 @@
             "id": "ace0a7ad28f7f2f3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Resumos/2 Semana/Física.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Física"
             }
           },
           {
@@ -200,8 +194,10 @@
   },
   "active": "ace0a7ad28f7f2f3",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Untitled Kanban.md",
+    "Resumos/2 Semana/Física.md",
+    "Resumos/2 Semana",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
@@ -240,7 +236,6 @@
     "Física/Exercícios",
     "Física/img/Pasted image 20250415103427.png",
     "Física/img/Pasted image 20250415065538.png",
-    "Física/Eletrodinâmica",
     "Física/img/Pasted image 20250415065518.png",
     "Biologia/Caixinhas.canvas",
     "Física/img/Pasted image 20250408093633.png",
