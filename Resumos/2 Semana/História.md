@@ -6,7 +6,7 @@
 - Paleolítico : Pedra/Fogo
 - Neolítico : Agricultura
 - Idade dos metais: Onde realmente começou o sedentarismo
-
+---
 ## Mesopotâmia 
 
 Eram os povos que moravam perto do rio Nilo, Tigre, Eufrates e Jordão
@@ -21,6 +21,7 @@ Eram os povos de civilizações hidráulicas, com características:
 - Rei visto com Deus, Teocracia
 - ***Sumérios***: inventaram a roda e escrita
 - ***Amoritas***: Rei criou o código de Hamurabi primeiras leis escritas, tirando o poder do judiciário e concretizando a justiça de certa forma. 
+- Torre de Babel
 ---
 ## Egito antigo
 
@@ -33,3 +34,4 @@ Eram os povos de civilizações hidráulicas, com características:
 	- Antigo Império: Constituição do império, centralização em Mênfis
 	- Médio Império: Destacou-se em Tebas, 1° fase do império
 	- Novo império: Fase de reunificação e expulsão dos invasores. 2° Império Tebano
+---
