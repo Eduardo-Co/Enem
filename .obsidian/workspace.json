@@ -11,12 +11,21 @@
             "id": "86eed4ac02646c7d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Física/Simulados Aprova/Eletrodinâmica Básica.md"
+                "file": "Física/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Eletrodinâmica Básica"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           },
           {
@@ -190,8 +199,8 @@
   },
   "active": "86eed4ac02646c7d",
   "lastOpenFiles": [
-    "Física/Untitled Kanban.md",
     "Física/Simulados Aprova/Eletrodinâmica Básica.md",
+    "Física/Untitled Kanban.md",
     "Resumos/2 Semana/Física.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Potência.md",
