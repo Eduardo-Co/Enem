@@ -10,5 +10,26 @@
 ## Mesopotâmia 
 
 Eram os povos que moravam perto do rio Nilo, Tigre, Eufrates e Jordão
+Eram os povos de civilizações hidráulicas, com características:
 
-Começou com o povo mais precisamente no 
+- Politeístas
+- Sem vida após a morte
+- Os reinados não duravam muito
+- Desenvolveram a escrita e a roda
+- Servidão social, poucos escravos
+- Governo controlavam os recursos 
+- Rei visto com Deus, Teocracia
+- ***Sumérios***: inventaram a roda e escrita
+- ***Amoritas***: Rei criou o código de Hamurabi primeiras leis escritas, tirando o poder do judiciário e concretizando a justiça de certa forma. 
+---
+## Egito antigo
+
+1. Era divido entre sul / norte e o meio que eram colônias
+2. Teocracia muito forte
+3. Acreditava-se em vida após a morte
+4. Separado em períodos:
+	- Pré-dinástica: vários clãs espelhados no rio Nilo
+	- Período Arcaico: Agrupamento desses clãs e unificação em Mênfis
+	- Antigo Império: Constituição do império, centralização em Mênfis
+	- Médio Império: Destacou-se em Tebas, 1° fase do império
+	- Novo império: Fase de reunificação e expulsão dos invasores. 2° Império Tebano
