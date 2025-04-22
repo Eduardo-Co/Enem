@@ -35,7 +35,7 @@ Esse é o trabalho e o trabalho entra na mesma fórmula de força sendo
 $$
 E = \frac{\sigma}{q}
 $$
-***Há uma ideia de área quando se fala sobre tensão também.***
+***Há uma ideia de equilíbrio de forças quando é cobrado.***
 
 
 ## Eletrodinâmica
@@ -50,10 +50,10 @@ P = \frac{\sigma}{t}
 $$
 Sendo:
 $$
-\sigma = U \cdot i
+\sigma = U \cdot i \text{ ou q}
 $$
 
-
+==Muita vezes eles trazem U como área, uma vez que é há camadas de tensão do campo então há uma relação com área mesmo==
 ## Como funciona um painel solar:
 
 Basicamente de semicondutores, onde há placa é carregada em polos, e esses polos quando submetidos a calor agitam os elétrons e conectando um fio a eles é capaz de gerar energia, corrente. 
