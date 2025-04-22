@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] Área de um círculo
 - [ ] Entender melhor sobre como a tensão e a corrente se espalha em um circuíto
 - [ ] Funcionamento ohrímetro
+- [ ] Questão das unidades de medida J/C whatt e Voltagem
 
 
 ## Concluido
