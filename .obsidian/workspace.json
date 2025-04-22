@@ -47,9 +47,21 @@
               "icon": "lucide-file-text",
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
+          },
+          {
+            "id": "6c803610391b1242",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "8ac339a9992e4045",
   "lastOpenFiles": [
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
