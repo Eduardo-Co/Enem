@@ -23,12 +23,21 @@
             "id": "aeb69a27566a1e65",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Física/Exercícios/Semana 2 Lumb.md"
+                "file": "Física/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Semana 2 Lumb"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ],
@@ -191,15 +200,14 @@
   },
   "active": "aeb69a27566a1e65",
   "lastOpenFiles": [
-    "Física/Exercícios/Questões Lumb.md",
     "Física/Caixinhas.canvas",
+    "Física/Exercícios/Semana 2 Lumb.md",
+    "Física/Exercícios/Questões Lumb.md",
     "Física/Untitled Kanban.md",
     "Resumos/2 Semana/Física.md",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
-    "Física/Exercícios/Semana 2 Lumb.md",
-    "Física/Exercícios/Semana 2 Lumb.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Resumos/1 Semana/Física.md",
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",

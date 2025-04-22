@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Estudar
 
 - [ ] Área de um círculo
+- [ ] Entender melhor sobre como a tensão e a corrente se espalha em um circuíto
 
 
 ## Concluido
