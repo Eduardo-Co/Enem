@@ -13,35 +13,25 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Física/Exercícios/Questões Lumb.md"
+                "file": "Física/Exercícios/Semana 2 Lumb.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Questões Lumb"
+              "title": "Semana 2 Lumb"
             }
           },
           {
             "id": "aeb69a27566a1e65",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,17 +188,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aeb69a27566a1e65",
+  "active": "61bde14f86696a50",
   "lastOpenFiles": [
+    "Física/Exercícios/Questões Lumb.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Resumos/2 Semana/Física.md",
+    "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Física/Exercícios/Semana 2 Lumb.md",
-    "Física/Exercícios/Questões Lumb.md",
-    "Física/Untitled Kanban.md",
-    "Resumos/2 Semana/Física.md",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Resumos/1 Semana/Física.md",
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
     "Matemática/Untitled Kanban.md",
