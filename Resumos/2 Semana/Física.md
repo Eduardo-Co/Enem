@@ -46,7 +46,7 @@ Na eletrodinâmica foi visto até agora tensão, diferença de potencial e corre
 2. A diferença de potencial é a tensão, é a subtração de dois potenciais elétricos. 
 3. Potencia: Toda potência é trabalho sobre tempo então será o mesmo aqui:
 $$
-P = \frac{\sigma}{t}
+P = \frac{\sigma}{t} \text{ Esse trabalho na verdade é energia e pode ser representado por E}
 $$
 Sendo:
 $$

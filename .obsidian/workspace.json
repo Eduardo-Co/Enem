@@ -23,21 +23,12 @@
             "id": "aeb69a27566a1e65",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Exercícios/Semana 2 Lumb.md"
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "excalidraw-icon",
+              "title": "Semana 2 Lumb"
             }
           }
         ],
@@ -200,15 +191,16 @@
   },
   "active": "aeb69a27566a1e65",
   "lastOpenFiles": [
+    "Física/Exercícios/Questões Lumb.md",
     "Física/Caixinhas.canvas",
+    "Física/Untitled Kanban.md",
+    "Resumos/2 Semana/Física.md",
+    "Física/Eletrodinâmica/Potência.md",
+    "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
     "Física/Exercícios/Semana 2 Lumb.md",
     "Física/Exercícios/Semana 2 Lumb.md",
-    "Física/Exercícios/Questões Lumb.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Física/Eletrodinâmica/Potência.md",
-    "Resumos/2 Semana/Física.md",
-    "Física/Eletrodinâmica/Tipos de corrente.md",
     "Resumos/1 Semana/Física.md",
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
     "Matemática/Untitled Kanban.md",
@@ -232,7 +224,6 @@
     "Química/2 - Distribuição eletrônica",
     "Química/Untitled Kanban.md",
     "Química/Lumb/Camada eletrônica.md",
-    "Química/Lumb/Untitled.md",
     "Química/Lumb",
     "Química/1 - Camadas eletrônicas",
     "História/Untitled.canvas",
