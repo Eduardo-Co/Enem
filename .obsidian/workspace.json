@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86eed4ac02646c7d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Física/Simulados Aprova/Eletrodinâmica Básica.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Eletrodinâmica Básica"
-            }
-          },
-          {
             "id": "e04f01e306f506ef",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Resumos/2 Semana/História.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "História"
             }
           }
         ]
@@ -71,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -188,12 +178,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "86eed4ac02646c7d",
+  "active": "e04f01e306f506ef",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Resumos/2 Semana/História.md",
     "Física/Untitled Kanban.md",
     "Física/Simulados Aprova/Eletrodinâmica Básica.md",
     "Resumos/2 Semana/Física.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Caixinhas.canvas",
     "Física/Simulados Aprova/Eletrodin.md",
@@ -224,7 +215,6 @@
     "Química/2 - Distribuição eletrônica/Distribuição eletrônica.md",
     "Química/Untitled.canvas",
     "Química/2 - Distribuição eletrônica",
-    "Química/Untitled Kanban.md",
     "Química/Lumb",
     "Química/1 - Camadas eletrônicas",
     "História/Untitled.canvas",

@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Estudar
 
 - [ ] Questão das unidades de medida J/C whatt e Voltagem
-- [ ] Condutividade
+- [ ] Condutividade e Resistividade
 
 
 ## Concluido
@@ -23,14 +23,15 @@ kanban-plugin: board
 - [ ] Direção vetores campo elétrico
 
 
-## Importante
-
-
-
 ## Revisar
 
-- [ ] Conta elétrica/Painel Solar
+- [ ] Redesenhar circuito com pontos em uma linha - Treinar técnica
+
+
+## Fazer exercícios esporadicamente
+
 - [ ] Elétrica/Eletrodinamica/Ohm/etc...
+- [ ] Conta elétrica/Painel Solar
 
 
 
