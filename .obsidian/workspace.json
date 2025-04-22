@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61bde14f86696a50",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Física/Caixinhas.canvas",
-                "viewState": {
-                  "x": -22.5,
-                  "y": 450,
-                  "zoom": -0.8688751014429178
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
-            }
-          },
-          {
             "id": "86eed4ac02646c7d",
             "type": "leaf",
             "state": {
@@ -47,21 +30,8 @@
               "icon": "lucide-file-text",
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
-          },
-          {
-            "id": "6c803610391b1242",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,19 +188,19 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "8ac339a9992e4045",
+  "active": "86eed4ac02646c7d",
   "lastOpenFiles": [
-    "Física/Untitled Kanban.md",
-    "Física/Caixinhas.canvas",
+    "Resumos/2 Semana/Física.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Simulados Aprova/Eletrodinâmica Básica.md",
+    "Física/Eletrodinâmica/Potência.md",
+    "Física/Untitled Kanban.md",
+    "Física/Caixinhas.canvas",
     "Física/Simulados Aprova/Eletrodin.md",
     "Física/Simulados Aprova",
     "Física/Exercícios/Semana 2 Lumb.md",
     "Física/img/Pasted Image 20250422105956_785.png",
     "Física/Exercícios/Questões Lumb.md",
-    "Resumos/2 Semana/Física.md",
-    "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
     "Resumos/1 Semana/Física.md",
