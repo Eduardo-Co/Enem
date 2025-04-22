@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## A fazer
+## Estudar
 
 - [ ] Área de um círculo
 

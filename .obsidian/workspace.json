@@ -11,15 +11,37 @@
             "id": "61bde14f86696a50",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Exercícios/Questões Lumb.md"
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "excalidraw-icon",
+              "title": "Questões Lumb"
+            }
+          },
+          {
+            "id": "aeb69a27566a1e65",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Física/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,13 +198,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "61bde14f86696a50",
+  "active": "aeb69a27566a1e65",
   "lastOpenFiles": [
+    "Física/Caixinhas.canvas",
+    "Física/Eletrodinâmica/Corrente elétrica.md",
+    "Física/Exercícios/Semana 2 Lumb.md",
+    "Física/Exercícios/Semana 2 Lumb.md",
+    "Física/Exercícios/Questões Lumb.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Potência.md",
     "Resumos/2 Semana/Física.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
-    "Física/Eletrodinâmica/Corrente elétrica.md",
     "Resumos/1 Semana/Física.md",
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
     "Matemática/Untitled Kanban.md",
@@ -208,13 +234,9 @@
     "Química/Lumb/Camada eletrônica.md",
     "Química/Lumb/Untitled.md",
     "Química/Lumb",
-    "Resumos/1 Semana/Química.md",
     "Química/1 - Camadas eletrônicas",
-    "Química/Modelos atômicos/Modelo de Bohr.md",
     "História/Untitled.canvas",
-    "História/Antiguidade oriental/Pré-História.md",
     "História/Antiguidade oriental",
-    "Física/Caixinhas.canvas",
     "História",
     "Física/Exercícios",
     "Física/img/Pasted image 20250415103427.png",
