@@ -1,11 +1,32 @@
 
+! Aqui será caracterizado a tabela periódica em:
+- subníveis
+- nível de energia
+- característica comum de grupos/famílias de elementos. 
+
 ![[Pasted image 20250423072702.png]]
-O s,p são elementos representativos enquanto d e f são elementos de transição, 
+## Blocos
 
-Representatividade no sentido de que os elementos nas colunas de s e p tem características em comum. 
+- **Representativos** – blocos $s$ e $p$  
+- **Transição externa** – bloco $d$  
+- **Transição interna** – bloco $f$
 
-1. Cada nível que você desce é a camada de valência do elemento ***VERTICAL***
-2. Cada coluna que você percorre representa uma família, sendo IA,IIA,IIIA,... até o VIIIA. Veja que as colunas em d/f não fazem parte dessas famílias, uma vez que são de transição. ***Horizontal***
-3. Características, nome das famílias:
+## Orientação da Tabela
 
-- 1
+- **Períodos** (linhas **horizontais**) → a cada linha o número quântico principal (número de elétrons na última camada) $n$ aumenta  
+- **Grupos/Famílias** (colunas **verticais**) → elementos com mesmas propriedades de valência
+
+## Famílias dos Elementos Representativos  
+
+| Nº IUPAC | Antigo | Nome da família         | Configuração externa típica |
+| -------: | :----: | ----------------------- | --------------------------- |
+|        1 |   1A   | Metais alcalinos        | $ns^{1}$                    |
+|        2 |   2A   | Metais alcalinoterrosos | $ns^{2}$                    |
+|       13 |   3A   | Família do Boro         | $ns^{2}\,np^{1}$            |
+|       14 |   4A   | Família do Carbono      | $ns^{2}\,np^{2}$            |
+|       15 |   5A   | Família do Nitrogênio   | $ns^{2}\,np^{3}$            |
+|       16 |   6A   | Calcogênios             | $ns^{2}\,np^{4}$            |
+|       17 |   7A   | Halogênios              | $ns^{2}\,np^{5}$            |
+|       18 |   8A   | Gases nobres            | $ns^{2}\,np^{6}$            |
+
+> **Nota:** os grupos 3 a 12 formam os **metais de transição** (bloco $d$).
