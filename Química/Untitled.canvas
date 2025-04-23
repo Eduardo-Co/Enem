@@ -32,7 +32,9 @@
 		{"id":"384544a17dff4b0c","type":"text","text":"Carga elétrica ( + / - )","x":-675,"y":282,"width":250,"height":60},
 		{"id":"aac55121ceab890c","type":"text","text":"Indice","x":-365,"y":281,"width":250,"height":60},
 		{"id":"d40522ad31879e3f","type":"text","text":"Atomo","x":-2270,"y":-120,"width":250,"height":60},
-		{"id":"20500f725781a9be","x":-5040,"y":200,"width":250,"height":60,"type":"text","text":"Tabela periódica"}
+		{"id":"20500f725781a9be","type":"text","text":"Tabela periódica","x":-5040,"y":200,"width":250,"height":60},
+		{"id":"4f2b7535ddeeaddb","type":"text","text":"característica dos elementos  e distribuição eletrônica na tabela periódica","x":-5280,"y":380,"width":284,"height":97},
+		{"id":"e74655cb5c2d596b","type":"text","text":"Propriedade periódica dos elementos","x":-4915,"y":399,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"5ce9f493060ed24d","fromNode":"9b46119898cda50e","fromSide":"left","toNode":"d40522ad31879e3f","toSide":"top"},
@@ -45,7 +47,6 @@
 		{"id":"330e75cb4df573bb","fromNode":"168efe33aeeaccfb","fromSide":"bottom","toNode":"e1a62092200c3000","toSide":"top","color":"4"},
 		{"id":"45e02ad36a836814","fromNode":"e4f229e2270fe7ec","fromSide":"bottom","toNode":"845d0099b369ef7f","toSide":"top"},
 		{"id":"ba05268de6425ad2","fromNode":"e4f229e2270fe7ec","fromSide":"bottom","toNode":"604f8e2e16870cb0","toSide":"top"},
-		{"id":"4d8408a0b139c59d","fromNode":"d40522ad31879e3f","fromSide":"bottom","toNode":"e4f229e2270fe7ec","toSide":"top","color":"4"},
 		{"id":"6134f0384a73775f","fromNode":"e4f229e2270fe7ec","fromSide":"bottom","toNode":"aac55121ceab890c","toSide":"top"},
 		{"id":"01482f81da8bb74b","fromNode":"e4f229e2270fe7ec","fromSide":"bottom","toNode":"384544a17dff4b0c","toSide":"top"},
 		{"id":"75534eb4826bed87","fromNode":"e1a62092200c3000","fromSide":"bottom","toNode":"599e5f613e392594","toSide":"top"},
@@ -67,6 +68,9 @@
 		{"id":"ab124cf5f4e774cd","fromNode":"08b0d0614e2fa9b6","fromSide":"bottom","toNode":"b71b5e77223b26bc","toSide":"top","color":"4"},
 		{"id":"29d061ac0dd7ab34","fromNode":"d40522ad31879e3f","fromSide":"bottom","toNode":"08b0d0614e2fa9b6","toSide":"top","color":"3"},
 		{"id":"76e65b1be52f35b9","fromNode":"604f8e2e16870cb0","fromSide":"bottom","toNode":"32724ee1ea2b34e3","toSide":"top"},
-		{"id":"37f173b8805c11b9","fromNode":"d40522ad31879e3f","fromSide":"left","toNode":"20500f725781a9be","toSide":"top"}
+		{"id":"37f173b8805c11b9","fromNode":"d40522ad31879e3f","fromSide":"left","toNode":"20500f725781a9be","toSide":"top"},
+		{"id":"4d8408a0b139c59d","fromNode":"d40522ad31879e3f","fromSide":"bottom","toNode":"e4f229e2270fe7ec","toSide":"top","color":"4"},
+		{"id":"8bef438e59b1c6e9","fromNode":"20500f725781a9be","fromSide":"bottom","toNode":"4f2b7535ddeeaddb","toSide":"top"},
+		{"id":"abffa5444930f620","fromNode":"20500f725781a9be","fromSide":"bottom","toNode":"e74655cb5c2d596b","toSide":"top"}
 	]
 }

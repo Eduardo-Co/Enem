@@ -7,6 +7,11 @@
 ## 1. Raio Atômico:
 
 O raio atômico mede a distância do núcleo ao Elétron mais distante (camada de valência). 
+É medido por meio de dois átomos pegando a distância entre eles e dividindo por 2. 
+
+$$
+r = \frac{d}2
+$$
 
 ***Para baixo e da direita para esquerda - aumento do raio***
 
@@ -28,6 +33,18 @@ Uma vez que quanto menor maior
 ---
 ## Afinidade eletrônica ou eletroafinidade:
 
-Energia liberada quando um átomo recebe elétron
+Energia liberada quando um átomo recebe elétron - para isso basta ter bastante vontade de ganhar esse elétron, ou seja ser muito próximo do núcleo - mais força; e maior quantidade de elétrons na ultima camada  - mais propenso a receber.
 
-***Veja que é parecido com energia potencial de ionização, mais energia, mais difícil, então precisa que ***
+***Veja que é parecido com energia potencial de ionização, só que, mais energia na liberação implica em uma maior  facilidade em ganhar elétron e puxar elétron , então da esquerda para direita e para cima ***
+
+---
+## Eletronegatividade:
+
+Força de atração exercida sobre os elétrons
+
+- Tem mais força quando menor for o núcleo
+- Tem mais força se quiser completar o octeto então:
+
+***De baixo para cima e da esquerda para direita***
+
+---
