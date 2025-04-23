@@ -11,14 +11,12 @@
             "id": "47cf1be5f47761f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Resumos/2 Semana/Quimica.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Quimica"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -180,8 +178,10 @@
   },
   "active": "47cf1be5f47761f3",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Resumos/2 Semana/Quimica.md",
+    "Resumos/2 Semana/Física.md",
+    "Resumos/1 Semana/Química.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Caixinhas.canvas",
     "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
@@ -191,7 +191,6 @@
     "Resumos/2 Semana/História.md",
     "História/Antiguidade oriental/Pré-História.md",
     "Física/Simulados Aprova/Eletrodinâmica Básica.md",
-    "Resumos/2 Semana/Física.md",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Simulados Aprova/Eletrodin.md",
     "Física/Simulados Aprova",
