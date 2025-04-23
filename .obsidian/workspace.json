@@ -4,49 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b407f26772a574e2",
+        "id": "177c593de5531265",
         "type": "tabs",
         "children": [
           {
-            "id": "3679d2793131e0dc",
+            "id": "c466624ca41c2b91",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Linguagens/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "00ee47872c5e3e1f",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Biologia/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -205,15 +175,19 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "3679d2793131e0dc",
+  "active": "c466624ca41c2b91",
   "lastOpenFiles": [
-    "Linguagens/Untitled.canvas",
-    "Linguagens/Untitled Kanban.md",
-    "Matemática/Untitled Kanban.md",
-    "Matemática/Untitled.canvas",
-    "Química/Untitled Kanban.md",
-    "Física/Untitled Kanban.md",
     "Biologia/Untitled Kanban.md",
+    "Física/Untitled Kanban.md",
+    "Física/Caixinhas.canvas",
+    "História/Untitled Kanban.md",
+    "Geografia/Gerenciador.md",
+    "Geografia/Caixinhas.canvas",
+    "Linguagens/Untitled Kanban.md",
+    "Química/Untitled Kanban.md",
+    "Matemática/Untitled Kanban.md",
+    "Linguagens/Untitled.canvas",
+    "Matemática/Untitled.canvas",
     "Química/Untitled.canvas",
     "Química/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
     "Metacognição/Tipos de exercício.md",
@@ -229,7 +203,6 @@
     "Química/Modelos atômicos/Partículas subatomicas.md",
     "Resumos/1 Semana/Química.md",
     "Resumos/2 Semana/Física.md",
-    "Física/Caixinhas.canvas",
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "História/Antiguidade oriental/Civilizações hidráulicas.md",
@@ -240,9 +213,7 @@
     "Física/Eletrodinâmica/Potência.md",
     "Física/Simulados Aprova/Eletrodin.md",
     "Física/Simulados Aprova",
-    "Física/Exercícios/Semana 2 Lumb.md",
     "Física/img/Pasted Image 20250422105956_785.png",
-    "Física/Exercícios/Questões Lumb.md",
     "Resumos/2 Semana",
     "Linguagens/Comunicação e função da linguagem",
     "Untitled",
@@ -256,7 +227,6 @@
     "Biologia/Caixinhas.canvas",
     "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
-    "Geografia/Caixinhas.canvas",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
     "O que Estudar/imagens/Pasted image 20250406150918.png",

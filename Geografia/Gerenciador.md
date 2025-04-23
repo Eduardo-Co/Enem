@@ -4,16 +4,23 @@ kanban-plugin: board
 
 ---
 
-## A fazer
-
-- [ ] Climatologia
-
-
-## Concluido
+## Entender
 
 
 
-## Importantissimo
+## Decorar
+
+
+
+## Treino
+
+
+
+## Faltou de questões
+
+
+
+## Fazer exercícios esporadicamente
 
 
 
@@ -21,10 +28,14 @@ kanban-plugin: board
 
 
 
+## Concluido
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
 ```
 %%

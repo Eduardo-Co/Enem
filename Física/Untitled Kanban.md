@@ -4,6 +4,31 @@ kanban-plugin: board
 
 ---
 
+## Decorar
+
+
+
+## Treinar
+
+
+
+## Entender
+
+
+
+## Fazer exercícios esporadicamente
+
+- [ ] Elétrica/Eletrodinamica/Ohm/etc...
+- [ ] Conta elétrica/Painel Solar
+
+
+## Revisar
+
+- [ ] Redesenhar circuito com pontos em uma linha - Treinar técnica
+- [ ] Condutividade e Resistividade
+- [ ] Questão das unidades de medida J/C whatt e Voltagem
+
+
 ## Concluido
 
 - [ ] Beleza, tenho a quantidade de carga, mas o que fazer com o N ou como saber exatamente a carga é a soma de protons com elétrons como se dá isso?
@@ -17,23 +42,10 @@ kanban-plugin: board
 - [ ] Direção vetores campo elétrico
 
 
-## Revisar
-
-- [ ] Redesenhar circuito com pontos em uma linha - Treinar técnica
-- [ ] Condutividade e Resistividade
-- [ ] Questão das unidades de medida J/C whatt e Voltagem
-
-
-## Fazer exercícios esporadicamente
-
-- [ ] Elétrica/Eletrodinamica/Ohm/etc...
-- [ ] Conta elétrica/Painel Solar
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%

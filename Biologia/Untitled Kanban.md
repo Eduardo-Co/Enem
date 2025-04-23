@@ -10,19 +10,31 @@ kanban-plugin: board
 - [ ] sucessão ecológica
 
 
-## concluido
-
-
-
-## importante
-
-
-
 ## Decorar
 
 
 
-## Treino
+## Treinar
+
+
+
+## Entender
+
+
+
+## Faltou de questões
+
+
+
+## Fazer exercícios esporadicamente
+
+
+
+## Revisar
+
+
+
+## Concluído
 
 
 
@@ -30,6 +42,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
 ```
 %%
