@@ -32,5 +32,7 @@ Ele é formado pelos seguintes elementos:
 
 - ***Gêneros digitais***: Blog, diário aberto, ==possibilidade de interação com leitor==
 
-
+- ***Gênero Tirinhas e Charges:*** ==Finalidade humorística/crítica.== 
+>-Diferença entre tirinha e charge: Tirinha possui ***narração***, ela cria um contexto, início meio e fim. 
+> Charge: possui maior teor de ***argumentativo/crítica*** não possui um história para ser narrada
 ---
