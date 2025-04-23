@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "9b4114ae03f156d1",
+            "id": "8e1c1566c40d66d4",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -33,7 +33,8 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,12 +191,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "7e745ef31d2e9774",
+  "active": "8e1c1566c40d66d4",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Química/Untitled.canvas",
     "Linguagens/2- Gêneros e tipos textuais/Gênero Textual.md",
     "Linguagens/2- Gêneros e tipos textuais/Tipos Textuais.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Untitled.canvas",
     "Linguagens/Comunicação e função da linguagem/Elementos de comunicação e funções de linguagem.md",
     "Linguagens/Untitled Kanban.md",
     "Linguagens/Untitled.canvas",

@@ -51,3 +51,13 @@
 
 **Exemplo (futuro):**  
 > Dentro de cinco anos, a linha poderá transportar até $100\,000$ passageiros por dia, ligando rapidamente o litoral ao interior.
+
+
+---
+
+Publicitário
+
+- Vem buscar mudar sua opinião sobre algo, possui linguagem não verbal
+
+***Exemplo:***
+> doe órgãos;

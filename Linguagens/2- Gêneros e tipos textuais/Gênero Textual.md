@@ -29,3 +29,8 @@ Ele é formado pelos seguintes elementos:
 - ***Resenha***: ==Sempre começa com um resumo, cuidado== geralmente tipo textual argumentativo, descreve e opina. (Pode ser bem ou mal). ==OPINIÃO==
 
 - ***Sinopse***: ==Sempre começa com um resumo cuidado==, Argumentativo também, contém a intenção de te convencer (Sempre falar bem). ==PERSUASÃO==
+
+- ***Gêneros digitais***: Blog, diário aberto, ==possibilidade de interação com leitor==
+
+
+---
