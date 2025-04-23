@@ -4,5 +4,10 @@
 
 Cada texto tem apenas um ==único gênero textual==
 
+Ele é formado pelos seguintes elementos:
+
+- Objetivo do autor
+- Contexto
+- Público Alvo
 ---
 
