@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "177c593de5531265",
+        "id": "790feef65dd67d24",
         "type": "tabs",
         "children": [
           {
-            "id": "c466624ca41c2b91",
+            "id": "62751f270eb63253",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Propriedades periódicas dos elementos"
             }
           }
         ]
@@ -175,8 +177,18 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "c466624ca41c2b91",
+  "active": "62751f270eb63253",
   "lastOpenFiles": [
+    "Química/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
+    "Metacognição/Tipos de exercício.md",
+    "Metacognição/Estratégia de estudo.md",
+    "Química/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
+    "Ink/Writing/2025.4.23 - 9.13am (4).writing",
+    "Ink/Writing/2025.4.23 - 9.13am (3).writing",
+    "Ink/Writing/2025.4.23 - 9.13am (2).writing",
+    "Ink/Writing/2025.4.23 - 9.13am.writing",
+    "Química/Untitled Kanban.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Untitled Kanban.md",
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
@@ -184,14 +196,10 @@
     "Geografia/Gerenciador.md",
     "Geografia/Caixinhas.canvas",
     "Linguagens/Untitled Kanban.md",
-    "Química/Untitled Kanban.md",
     "Matemática/Untitled Kanban.md",
     "Linguagens/Untitled.canvas",
     "Matemática/Untitled.canvas",
     "Química/Untitled.canvas",
-    "Química/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
-    "Metacognição/Tipos de exercício.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/img/Pasted image 20250423080111.png",
     "Química/Exercícios/Camada eletrônica.md",
     "Química/img",
@@ -211,15 +219,10 @@
     "História/Antiguidade oriental/Pré-História.md",
     "Física/Simulados Aprova/Eletrodinâmica Básica.md",
     "Física/Eletrodinâmica/Potência.md",
-    "Física/Simulados Aprova/Eletrodin.md",
     "Física/Simulados Aprova",
     "Física/img/Pasted Image 20250422105956_785.png",
     "Resumos/2 Semana",
     "Linguagens/Comunicação e função da linguagem",
-    "Untitled",
-    "Química/2 - Distribuição eletrônica",
-    "Química/Exercícios",
-    "Química/1 - Camadas eletrônicas",
     "História/Untitled.canvas",
     "Física/img/Pasted image 20250415103427.png",
     "Física/img/Pasted image 20250415065538.png",

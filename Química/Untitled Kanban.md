@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Modelos Atômicos
 - [ ] Propriedades da tabela periódica
+- [ ] Propriedades periódicas dos elementos
 
 
 ## Treino
