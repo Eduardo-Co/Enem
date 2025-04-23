@@ -13,28 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
+                "file": "Metacognição/Tipos de exercício.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distribuição dos elementos e suas característica na tabela periódica"
+              "title": "Tipos de exercício"
             }
           },
           {
             "id": "00ee47872c5e3e1f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,11 +199,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "00ee47872c5e3e1f",
+  "active": "3679d2793131e0dc",
   "lastOpenFiles": [
-    "Química/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
-    "Química/img/Pasted image 20250423080111.png",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
+    "Biologia/Untitled Kanban.md",
+    "Metacognição/Tipos de exercício.md",
+    "Química/img/Pasted image 20250423080111.png",
     "Química/Exercícios/Camada eletrônica.md",
     "Química/img",
     "Química/img/Pasted image 20250423072702.png",
@@ -224,8 +235,6 @@
     "Física/Exercícios/Questões Lumb.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Resumos/1 Semana/Física.md",
-    "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
-    "Matemática/Untitled Kanban.md",
     "Resumos/2 Semana",
     "Matemática/Untitled.canvas",
     "Linguagens/Comunicação e função da linguagem",
