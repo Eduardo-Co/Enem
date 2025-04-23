@@ -11,24 +11,14 @@
             "id": "0395ab9fdbd3b537",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Química/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Linguagens/2- Gêneros e tipos textuais/Gênero Textual.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Gênero Textual"
             }
           }
         ]
@@ -190,13 +180,18 @@
   },
   "active": "0395ab9fdbd3b537",
   "lastOpenFiles": [
+    "Linguagens/Untitled.canvas",
+    "Linguagens/2- Gêneros e tipos textuais/Gênero Textual.md",
+    "Linguagens/Comunicação e função da linguagem/Elementos de comunicação e funções de linguagem.md",
+    "Linguagens/Untitled Kanban.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Linguagens/2- Gêneros e tipos textuais",
+    "Química/Untitled Kanban.md",
     "Química/Untitled.canvas",
     "Química/2 - Distribuição eletrônica/Distribuição eletrônica.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/3 - Tabela Periódica/Características das famílias.md",
     "Química/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
     "Química/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
-    "Química/Untitled Kanban.md",
     "Metacognição/Tipos de exercício.md",
     "Metacognição/Estratégia de estudo.md",
     "Ink/Writing/2025.4.23 - 9.13am (4).writing",
@@ -209,9 +204,7 @@
     "História/Untitled Kanban.md",
     "Geografia/Gerenciador.md",
     "Geografia/Caixinhas.canvas",
-    "Linguagens/Untitled Kanban.md",
     "Matemática/Untitled Kanban.md",
-    "Linguagens/Untitled.canvas",
     "Matemática/Untitled.canvas",
     "Química/img/Pasted image 20250423080111.png",
     "Química/Exercícios/Camada eletrônica.md",
@@ -227,12 +220,9 @@
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "História/Antiguidade oriental/Civilizações hidráulicas.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
-    "Resumos/2 Semana/História.md",
-    "História/Antiguidade oriental/Pré-História.md",
     "Física/Simulados Aprova",
     "Física/img/Pasted Image 20250422105956_785.png",
     "Resumos/2 Semana",
-    "Linguagens/Comunicação e função da linguagem",
     "História/Untitled.canvas",
     "Física/img/Pasted image 20250415103427.png",
     "Física/img/Pasted image 20250415065538.png",
