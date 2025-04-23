@@ -4,6 +4,7 @@
 - nível de energia
 - característica comum de grupos/famílias de elementos
 - Distribuição eletrônica
+- Metal/Ametal/Gás Nobre
 
 
 ![[Pasted image 20250423072702.png]]
@@ -42,6 +43,22 @@
 
 Há também uma relação de representação em:
 
-- Metais:
-- Ametais
-- Gases nobres: 
+## Metais  
+- **Alta maleabilidade e ductilidade** — podem ser laminados ou trefilados sem fraturar. 
+- **Elevada condutividade** elétrica e térmica (mar de elétrons móveis). 
+- Geralmente **sólidos brilhantes, densos e com altos pontos de fusão**; formam cátions ao perder elétrons.
+
+## Ametais  
+- **Baixa maleabilidade**; os sólidos costumam ser quebradiços. 
+- **Maus condutores** de calor e eletricidade; isolantes ou semicondutores. 
+- Aparecem em todos os estados físicos (gases como $O_2$, líquidos como $Br_2$, sólidos como $S$) e tendem a ganhar elétrons (ânions) ou compartilhar pares eletrônicos.
+
+## Gases nobres (Grupo 18)  
+- **Camada de valência completa** — configuração $ns^2np^6$ (exceto $He: 1s^2$); isso lhes confere **alta estabilidade eletrônica** e **baixíssima reatividade**. 
+- São **monoatômicos, gasosos** em condições ambientais, com pontos de ebulição muito baixos.  
+- Reações químicas raras; alguns compostos conhecidos apenas para $He$ (teóricos), $Ne$, $Ar$, $Kr$, $Xe$ e $Rn$ com elementos fortemente eletronegativos (ex.: $XeF_2$, $XeO_3$).
+ 
+
+![[Pasted image 20250423080111.png]]
+
+---
