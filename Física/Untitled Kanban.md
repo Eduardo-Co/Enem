@@ -4,12 +4,6 @@ kanban-plugin: board
 
 ---
 
-## Estudar
-
-- [ ] Questão das unidades de medida J/C whatt e Voltagem
-- [ ] Condutividade e Resistividade
-
-
 ## Concluido
 
 - [ ] Beleza, tenho a quantidade de carga, mas o que fazer com o N ou como saber exatamente a carga é a soma de protons com elétrons como se dá isso?
@@ -26,6 +20,8 @@ kanban-plugin: board
 ## Revisar
 
 - [ ] Redesenhar circuito com pontos em uma linha - Treinar técnica
+- [ ] Condutividade e Resistividade
+- [ ] Questão das unidades de medida J/C whatt e Voltagem
 
 
 ## Fazer exercícios esporadicamente
@@ -38,6 +34,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

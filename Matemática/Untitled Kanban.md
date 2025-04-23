@@ -4,7 +4,27 @@ kanban-plugin: board
 
 ---
 
+## Decorar
+
+
+
+## Treinar
+
+
+
+## Entender
+
+
+
 ## dúvidas
+
+
+
+## Fazer exercícios esporadicamente
+
+
+
+## Faltou de questões
 
 
 
@@ -22,6 +42,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
 ```
 %%

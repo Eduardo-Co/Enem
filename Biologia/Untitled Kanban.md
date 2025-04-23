@@ -18,11 +18,11 @@ kanban-plugin: board
 
 
 
-## Tipo 2
+## Decorar
 
 
 
-## Tipo 3
+## Treino
 
 
 
