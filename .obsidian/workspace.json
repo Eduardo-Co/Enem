@@ -11,17 +11,12 @@
             "id": "47cf1be5f47761f3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Física/Caixinhas.canvas",
-                "viewState": {
-                  "x": 1438.5112371983773,
-                  "y": 467.5229501144862,
-                  "zoom": -0.656887114163045
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -183,12 +178,12 @@
   },
   "active": "47cf1be5f47761f3",
   "lastOpenFiles": [
+    "Física/Caixinhas.canvas",
+    "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "História/Antiguidade oriental/Civilizações hidráulicas.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
-    "Física/Caixinhas.canvas",
-    "Física/Untitled Kanban.md",
     "Resumos/2 Semana/História.md",
     "História/Antiguidade oriental/Pré-História.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -214,7 +209,6 @@
     "Matemática/Matemática básica/Produto e divisão.md",
     "Matemática/Matemática básica/Primos.md",
     "Matemática/Matemática básica/MMC e MDC.md",
-    "Matemática/Matemática básica/Dizima periódica.md",
     "Linguagens/Comunicação e função da linguagem",
     "Untitled",
     "Química/Untitled.canvas",

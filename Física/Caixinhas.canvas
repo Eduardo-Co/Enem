@@ -19,13 +19,14 @@
 		{"id":"a19c239b023bdf46","type":"text","text":"Continua","x":800,"y":439,"width":250,"height":60},
 		{"id":"ac6a08c8e87041d4","type":"text","text":"Diferença de potencial = área","x":-73,"y":702,"width":250,"height":55},
 		{"id":"d7cc645da4b29b9a","type":"text","text":"Tensão","x":245,"y":702,"width":250,"height":60},
-		{"id":"be8680fe5322e574","x":1120,"y":439,"width":250,"height":60,"type":"text","text":"1° Lei de Ohm"},
-		{"id":"c3b80ed4323023a3","x":1420,"y":439,"width":250,"height":60,"type":"text","text":"2° Lei de Ohm"},
-		{"id":"e7877272991b5480","x":1720,"y":444,"width":273,"height":55,"type":"text","text":"Resistividade / Condutividade"},
-		{"id":"e11dff7b03cadadd","x":1420,"y":270,"width":250,"height":60,"type":"text","text":"Resistência"},
-		{"id":"0258609799bba70f","x":1106,"y":620,"width":279,"height":53,"type":"text","text":"Associação em Série / Paralelo\n"},
-		{"id":"1eba138389b13015","x":2040,"y":444,"width":250,"height":60,"type":"text","text":"Resistor Ôhmico e não Ôhmico"},
-		{"id":"54942e0108c363db","x":1520,"y":147,"width":250,"height":60,"type":"text","text":"Verificar revisões"}
+		{"id":"be8680fe5322e574","type":"text","text":"1° Lei de Ohm","x":1120,"y":439,"width":250,"height":60},
+		{"id":"c3b80ed4323023a3","type":"text","text":"2° Lei de Ohm","x":1420,"y":439,"width":250,"height":60},
+		{"id":"e7877272991b5480","type":"text","text":"Resistividade / Condutividade","x":1720,"y":444,"width":273,"height":55},
+		{"id":"0258609799bba70f","type":"text","text":"Associação em Série / Paralelo\n","x":1106,"y":620,"width":279,"height":53},
+		{"id":"1eba138389b13015","type":"text","text":"Resistor Ôhmico e não Ôhmico","x":2040,"y":444,"width":250,"height":60},
+		{"id":"e11dff7b03cadadd","type":"text","text":"Resistência","x":1595,"y":280,"width":250,"height":60},
+		{"id":"053cb9dd9680761f","type":"text","text":"Potência em Resistor/Energia dissipada\n","x":2340,"y":439,"width":250,"height":60},
+		{"id":"54942e0108c363db","type":"text","text":"Verificar revisões/Estudar\n","x":1607,"y":100,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"2e8db3b31ee01fea","fromNode":"a7341c6cf9a44305","fromSide":"bottom","toNode":"25c670d331482f6c","toSide":"top","color":"2"},
@@ -52,6 +53,7 @@
 		{"id":"ee973b254f77f64d","fromNode":"e11dff7b03cadadd","fromSide":"bottom","toNode":"e7877272991b5480","toSide":"top"},
 		{"id":"8e2989a834eceb39","fromNode":"be8680fe5322e574","fromSide":"bottom","toNode":"0258609799bba70f","toSide":"top"},
 		{"id":"f7945601205a7940","fromNode":"e11dff7b03cadadd","fromSide":"bottom","toNode":"1eba138389b13015","toSide":"top"},
-		{"id":"38a0665af5e2f285","fromNode":"e11dff7b03cadadd","fromSide":"top","toNode":"54942e0108c363db","toSide":"bottom"}
+		{"id":"38a0665af5e2f285","fromNode":"e11dff7b03cadadd","fromSide":"top","toNode":"54942e0108c363db","toSide":"bottom"},
+		{"id":"acd675a88fcb1c3f","fromNode":"e11dff7b03cadadd","fromSide":"top","toNode":"053cb9dd9680761f","toSide":"top"}
 	]
 }
