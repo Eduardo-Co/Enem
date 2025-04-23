@@ -22,6 +22,7 @@ kanban-plugin: board
 
 ## Fazer exercícios esporadicamente
 
+- [ ] Identificar gênero textual - objetivo
 
 
 ## Revisar
