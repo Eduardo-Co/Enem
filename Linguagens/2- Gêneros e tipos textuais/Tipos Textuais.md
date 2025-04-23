@@ -38,7 +38,7 @@
 
 ### Injunção  
 
-- Direciona o leitor — **modo imperativo**.  
+- Direciona o leitor, invocativo ou imperativo — **modo imperativo**.  
 
 **Exemplo (imperativo):**  
 > Aguarde o trem atrás da faixa amarela, mantenha seus pertences próximos e embarque somente após a parada completa do vagão.

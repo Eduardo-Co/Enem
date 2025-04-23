@@ -1,8 +1,9 @@
 # Tipo 2 
 
-***Gêneros textuais define qual a intenção do autor / objetivo dele como aquele texto.***
+---
+## Descrição dos gêneros textuais
 
-Cada texto tem apenas um ==único gênero textual==
+***Gêneros textuais define qual a intenção do autor / objetivo dele como aquele texto.***
 
 Ele é formado pelos seguintes elementos:
 
@@ -11,3 +12,8 @@ Ele é formado pelos seguintes elementos:
 - Público Alvo
 ---
 
+## Tipos de gêneros textuais
+
+- ***Gêneros Argumentativos:*** ==Trás a opinião ou não==, se não houver é porque houve argumento. A diferença entre argumento e opinião é sutil, mas argumento é defender uma opinião que pode já estar implícita. Então é um gênero que se apresentar ***pessoalidade ou argumentação*** é o suficiente para caracteriza-lo como gênero argumentativo. ***Estratégias argumentativas, operadores argumentativos e marcas de opinião***
+- ***Gênero injuntivos***: O gênero injuntivo é um processo, uma sequência textual ou seja pode estar presente em ***diferentes gêneros***. ==Imperativo e vocativo==
+- 
