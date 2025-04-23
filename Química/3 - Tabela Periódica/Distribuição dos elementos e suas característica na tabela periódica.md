@@ -1,4 +1,6 @@
 
+## ***Tipo 2 - Decorar***
+
 ! Aqui será caracterizado a tabela periódica em:
 - subníveis
 - nível de energia

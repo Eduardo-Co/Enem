@@ -11,17 +11,14 @@
             "id": "6c9a94a3773f100b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Química/Untitled.canvas",
-                "viewState": {
-                  "x": -3756.2365261619916,
-                  "y": 468.50602814455686,
-                  "zoom": -0.8222622603977358
-                }
+                "file": "Química/3 - Tabela Periódica/Características das famílias.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Características das famílias"
             }
           },
           {
@@ -36,8 +33,7 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,14 +190,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "0395ab9fdbd3b537",
+  "active": "6c9a94a3773f100b",
   "lastOpenFiles": [
-    "Química/Untitled.canvas",
     "Química/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
+    "Química/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
+    "Química/3 - Tabela Periódica/Características das famílias.md",
+    "Química/Untitled.canvas",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/2 - Distribuição eletrônica/Distribuição eletrônica.md",
     "Química/Untitled Kanban.md",
-    "Química/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Metacognição/Tipos de exercício.md",
     "Metacognição/Estratégia de estudo.md",
     "Ink/Writing/2025.4.23 - 9.13am (4).writing",
