@@ -19,7 +19,6 @@
 		{"id":"14d8752de87907fd","type":"text","text":" Leucipo e demócrito","x":-2573,"y":370,"width":250,"height":60},
 		{"id":"17d053b263c1c73b","type":"text","text":"RutherFord","x":-2868,"y":370,"width":250,"height":60},
 		{"id":"168efe33aeeaccfb","type":"text","text":"Bohr","x":-3160,"y":370,"width":250,"height":60},
-		{"id":"d40522ad31879e3f","type":"text","text":"Atomo","x":-1960,"y":-120,"width":250,"height":60},
 		{"id":"bf000fa4aafe946d","type":"text","text":"isoto==P==o","x":-1410,"y":481,"width":250,"height":60},
 		{"id":"a48904b1bda394fc","type":"text","text":"isodiáferos","x":-1110,"y":481,"width":250,"height":60},
 		{"id":"32724ee1ea2b34e3","type":"text","text":"Isoto==N==os","x":-830,"y":481,"width":250,"height":60},
@@ -32,7 +31,8 @@
 		{"id":"845d0099b369ef7f","type":"text","text":"Z (Número atômico)","x":-1235,"y":282,"width":250,"height":60},
 		{"id":"384544a17dff4b0c","type":"text","text":"Carga elétrica ( + / - )","x":-675,"y":282,"width":250,"height":60},
 		{"id":"aac55121ceab890c","type":"text","text":"Indice","x":-365,"y":281,"width":250,"height":60},
-		{"id":"20500f725781a9be","x":-4349,"y":185,"width":250,"height":60,"type":"text","text":""}
+		{"id":"d40522ad31879e3f","type":"text","text":"Atomo","x":-2270,"y":-120,"width":250,"height":60},
+		{"id":"20500f725781a9be","x":-5040,"y":200,"width":250,"height":60,"type":"text","text":"Tabela periódica"}
 	],
 	"edges":[
 		{"id":"5ce9f493060ed24d","fromNode":"9b46119898cda50e","fromSide":"left","toNode":"d40522ad31879e3f","toSide":"top"},
@@ -67,6 +67,6 @@
 		{"id":"ab124cf5f4e774cd","fromNode":"08b0d0614e2fa9b6","fromSide":"bottom","toNode":"b71b5e77223b26bc","toSide":"top","color":"4"},
 		{"id":"29d061ac0dd7ab34","fromNode":"d40522ad31879e3f","fromSide":"bottom","toNode":"08b0d0614e2fa9b6","toSide":"top","color":"3"},
 		{"id":"76e65b1be52f35b9","fromNode":"604f8e2e16870cb0","fromSide":"bottom","toNode":"32724ee1ea2b34e3","toSide":"top"},
-		{"id":"37f173b8805c11b9","fromNode":"d40522ad31879e3f","fromSide":"left","toNode":"20500f725781a9be","toSide":"right"}
+		{"id":"37f173b8805c11b9","fromNode":"d40522ad31879e3f","fromSide":"left","toNode":"20500f725781a9be","toSide":"top"}
 	]
 }
