@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6587e1290d06868",
+        "id": "b407f26772a574e2",
         "type": "tabs",
         "children": [
           {
-            "id": "47cf1be5f47761f3",
+            "id": "00ee47872c5e3e1f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Química/Untitled.canvas",
-                "viewState": {
-                  "x": -4434.397684415976,
-                  "y": 530.0733992526923,
-                  "zoom": -1.0158912226537358
-                }
+                "file": "Química/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Distribuição dos elementos e suas característica na tabela periódica"
             }
           }
         ]
@@ -165,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +177,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "47cf1be5f47761f3",
+  "active": "00ee47872c5e3e1f",
   "lastOpenFiles": [
+    "Química/Exercícios/Camada eletrônica.md",
+    "Química/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
+    "Química/img",
+    "Química/img/Pasted image 20250423072702.png",
+    "Química/Untitled.md",
+    "Química/3 - Tabela Periódica",
+    "Química/Untitled.canvas",
     "Química/Untitled Kanban.md",
     "Resumos/2 Semana/Quimica.md",
     "Química/2 - Distribuição eletrônica/Distribuição eletrônica.md",
@@ -212,18 +215,12 @@
     "Resumos/2 Semana",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
-    "Matemática/Matemática básica/Conjuntos/Operações com conjuntos.md",
-    "Matemática/Matemática básica/Conjuntos/Conjuntos numéricos.md",
-    "Matemática/Matemática básica/Conjuntos/Cálculo de subconjuntos.md",
     "Linguagens/Comunicação e função da linguagem",
     "Untitled",
-    "Química/Untitled.canvas",
     "Química/2 - Distribuição eletrônica",
-    "Química/Lumb",
+    "Química/Exercícios",
     "Química/1 - Camadas eletrônicas",
     "História/Untitled.canvas",
-    "História/Antiguidade oriental",
-    "História",
     "Física/img/Pasted image 20250415103427.png",
     "Física/img/Pasted image 20250415065538.png",
     "Física/img/Pasted image 20250415065518.png",
@@ -235,7 +232,6 @@
     "O que Estudar/imagens/Pasted image 20250406150946.png",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150841.png",
-    "O que Estudar/imagens/Pasted image 20250406150801.png",
     "Excalidraw/Calculo 1/E.canvas",
     "Sem título.canvas"
   ]
