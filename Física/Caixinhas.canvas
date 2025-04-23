@@ -18,7 +18,14 @@
 		{"id":"0f2d875da14724d5","type":"text","text":"Diferença de potencial","x":-80,"y":439,"width":250,"height":60},
 		{"id":"a19c239b023bdf46","type":"text","text":"Continua","x":800,"y":439,"width":250,"height":60},
 		{"id":"ac6a08c8e87041d4","type":"text","text":"Diferença de potencial = área","x":-73,"y":702,"width":250,"height":55},
-		{"id":"d7cc645da4b29b9a","type":"text","text":"Tensão","x":245,"y":702,"width":250,"height":60}
+		{"id":"d7cc645da4b29b9a","type":"text","text":"Tensão","x":245,"y":702,"width":250,"height":60},
+		{"id":"be8680fe5322e574","x":1120,"y":439,"width":250,"height":60,"type":"text","text":"1° Lei de Ohm"},
+		{"id":"c3b80ed4323023a3","x":1420,"y":439,"width":250,"height":60,"type":"text","text":"2° Lei de Ohm"},
+		{"id":"e7877272991b5480","x":1720,"y":444,"width":273,"height":55,"type":"text","text":"Resistividade / Condutividade"},
+		{"id":"e11dff7b03cadadd","x":1420,"y":270,"width":250,"height":60,"type":"text","text":"Resistência"},
+		{"id":"0258609799bba70f","x":1106,"y":620,"width":279,"height":53,"type":"text","text":"Associação em Série / Paralelo\n"},
+		{"id":"1eba138389b13015","x":2040,"y":444,"width":250,"height":60,"type":"text","text":"Resistor Ôhmico e não Ôhmico"},
+		{"id":"54942e0108c363db","x":1520,"y":147,"width":250,"height":60,"type":"text","text":"Verificar revisões"}
 	],
 	"edges":[
 		{"id":"2e8db3b31ee01fea","fromNode":"a7341c6cf9a44305","fromSide":"bottom","toNode":"25c670d331482f6c","toSide":"top","color":"2"},
@@ -32,12 +39,19 @@
 		{"id":"800658ab213ca40a","fromNode":"7e3a78b654f9c54e","fromSide":"bottom","toNode":"6464b2b30af3f389","toSide":"top"},
 		{"id":"471dcb2ce4c06786","fromNode":"5ec2750a211144fd","fromSide":"bottom","toNode":"cc2f8bd3bcece0d8","toSide":"top","color":"3"},
 		{"id":"2b0fa876714c6901","fromNode":"a7341c6cf9a44305","fromSide":"bottom","toNode":"17ac46e5e31f1e2c","toSide":"top","color":"4"},
-		{"id":"33570724f169e946","fromNode":"17ac46e5e31f1e2c","fromSide":"bottom","toNode":"13c0fab890131d3b","toSide":"top"},
+		{"id":"33570724f169e946","fromNode":"17ac46e5e31f1e2c","fromSide":"bottom","toNode":"13c0fab890131d3b","toSide":"top","color":"4"},
 		{"id":"d4503f595e7895c4","fromNode":"13c0fab890131d3b","fromSide":"bottom","toNode":"0f2d875da14724d5","toSide":"top"},
 		{"id":"4f5085cf4cba4de5","fromNode":"13c0fab890131d3b","fromSide":"bottom","toNode":"725b905272bdda62","toSide":"top"},
 		{"id":"efce6f32bd80b4aa","fromNode":"13c0fab890131d3b","fromSide":"bottom","toNode":"c7739ba286067f03","toSide":"top"},
 		{"id":"b199d80c1db7cd11","fromNode":"13c0fab890131d3b","fromSide":"bottom","toNode":"a19c239b023bdf46","toSide":"top"},
 		{"id":"4cf70c8fc85612fd","fromNode":"0f2d875da14724d5","fromSide":"bottom","toNode":"d7cc645da4b29b9a","toSide":"top"},
-		{"id":"10c949fd55aa1c2b","fromNode":"0f2d875da14724d5","fromSide":"bottom","toNode":"ac6a08c8e87041d4","toSide":"top"}
+		{"id":"10c949fd55aa1c2b","fromNode":"0f2d875da14724d5","fromSide":"bottom","toNode":"ac6a08c8e87041d4","toSide":"top"},
+		{"id":"491181d8e689de2e","fromNode":"17ac46e5e31f1e2c","fromSide":"bottom","toNode":"e11dff7b03cadadd","toSide":"top","color":"3"},
+		{"id":"8220f9278027c73b","fromNode":"e11dff7b03cadadd","fromSide":"bottom","toNode":"be8680fe5322e574","toSide":"top"},
+		{"id":"1c5057fe25fcd56c","fromNode":"e11dff7b03cadadd","fromSide":"bottom","toNode":"c3b80ed4323023a3","toSide":"top"},
+		{"id":"ee973b254f77f64d","fromNode":"e11dff7b03cadadd","fromSide":"bottom","toNode":"e7877272991b5480","toSide":"top"},
+		{"id":"8e2989a834eceb39","fromNode":"be8680fe5322e574","fromSide":"bottom","toNode":"0258609799bba70f","toSide":"top"},
+		{"id":"f7945601205a7940","fromNode":"e11dff7b03cadadd","fromSide":"bottom","toNode":"1eba138389b13015","toSide":"top"},
+		{"id":"38a0665af5e2f285","fromNode":"e11dff7b03cadadd","fromSide":"top","toNode":"54942e0108c363db","toSide":"bottom"}
 	]
 }
