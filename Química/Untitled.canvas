@@ -32,9 +32,9 @@
 		{"id":"384544a17dff4b0c","type":"text","text":"Carga elétrica ( + / - )","x":-675,"y":282,"width":250,"height":60},
 		{"id":"aac55121ceab890c","type":"text","text":"Indice","x":-365,"y":281,"width":250,"height":60},
 		{"id":"d40522ad31879e3f","type":"text","text":"Atomo","x":-2270,"y":-120,"width":250,"height":60},
-		{"id":"20500f725781a9be","type":"text","text":"Tabela periódica","x":-5040,"y":200,"width":250,"height":60},
-		{"id":"4f2b7535ddeeaddb","type":"text","text":"característica dos elementos  e distribuição eletrônica na tabela periódica","x":-5280,"y":380,"width":284,"height":97},
-		{"id":"e74655cb5c2d596b","type":"text","text":"Propriedade periódica dos elementos","x":-4915,"y":399,"width":250,"height":60}
+		{"id":"20500f725781a9be","type":"text","text":"Tabela periódica","x":-4240,"y":142,"width":250,"height":60},
+		{"id":"4f2b7535ddeeaddb","type":"text","text":"característica dos elementos  e distribuição eletrônica na tabela periódica","x":-4480,"y":322,"width":284,"height":97},
+		{"id":"e74655cb5c2d596b","type":"text","text":"Propriedade periódica dos elementos","x":-4115,"y":341,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"5ce9f493060ed24d","fromNode":"9b46119898cda50e","fromSide":"left","toNode":"d40522ad31879e3f","toSide":"top"},
