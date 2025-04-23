@@ -24,6 +24,7 @@ kanban-plugin: board
 
 - [ ] Faltou entender nomeclatura
 - [ ] Faltou entender sobre ligações de moléculas/Átomos
+- [ ] Ductilidade - Fios Capacidade de deformação
 
 
 ## Fazer exercícios exporadicamente
