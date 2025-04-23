@@ -35,4 +35,6 @@ Ele é formado pelos seguintes elementos:
 - ***Gênero Tirinhas e Charges:*** ==Finalidade humorística/crítica.== 
 >-Diferença entre tirinha e charge: Tirinha possui ***narração***, ela cria um contexto, início meio e fim. 
 > Charge: possui maior teor de ***argumentativo/crítica*** não possui um história para ser narrada
+
+- Poesia e música: Apresentar emoções, ideias e sentimentos e subjetividade. 
 ---

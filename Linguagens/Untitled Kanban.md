@@ -6,6 +6,9 @@ kanban-plugin: board
 
 ## Decorar
 
+- [ ] Gêneros textuais
+- [ ] Formas de linguagens
+- [ ] Tipos textuais
 
 
 ## Treinar
@@ -22,7 +25,7 @@ kanban-plugin: board
 
 ## Fazer exercícios esporadicamente
 
-- [ ] Identificar gênero textual - objetivo
+- [ ] Identificar gênero textual - objetivo - Anuncio publicitário
 
 
 ## Revisar
