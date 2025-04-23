@@ -20,10 +20,10 @@
 
 ## Igualdade de elementos
 
-- Isobárico: mesmo número de massa
-- Isótopo: mesmo número de prótons
+- IsobÁrico: mesmo número de massa
+- IsótoPo: mesmo número de prótons
 - Isoelétrico: mesmo número de carga do íon ou seja mesmo número de elétrons
-- Isótopos: mesmo número de nêutrons
+- IsótoNos: mesmo número de nêutrons
 
 ---
 
@@ -32,23 +32,44 @@
 A distribuição eletrônica foi descoberta por Pauling, ela funciona da seguinte maneira:
 é sabido que em um átomo há níveis de energia e subníveis de energia, há uma relação que mostra o número máximo de elétrons em cada camada e também traz quanto há na ***camada de valência***, a mais importante pois lá que ocorre as trocas de cargas. Veja:
 
-F G  H  I   J    K   L 
-2 8 16 32 32 16 8 
-
 Subníveis:
 $$
 s^2, p^6,d^{10},f^{14}
 $$
 Ai baseado em cada nível você monta com a soma desses subníveis de modo que sempre de a quantidade máxima em cada nível.
 
+==A regra é $2n^2$==
 
-| F   | 2   | $s^2$                          |
+| K   | 2   | $s^2$                          |
 | --- | --- | ------------------------------ |
-| G   | 8   | $2s^2, 2p^6$                   |
-| H   | 16  | $3s^2, 3p^6, 3d^{10}$          |
-| I   | 32  | $4s^2, 4p^6, 4d^{10}, 4f^{14}$ |
-| J   | 32  | $5s^2, 5p^6, 5d^{10}, 5f^{14}$ |
-| K   | 16  | $6s^2, 6p^6, 6d^{10}$          |
-| L   | 8   | $7s^2, 7p^6$                   |
+| L   | 8   | $2s^2, 2p^6$                   |
+| M   | 18  | $3s^2, 3p^6, 3d^{10}$          |
+| N   | 32  | $4s^2, 4p^6, 4d^{10}, 4f^{14}$ |
+| O   | 32  | $5s^2, 5p^6, 5d^{10}, 5f^{14}$ |
+| P   | 18  | $6s^2, 6p^6, 6d^{10}$          |
+| Q   | 8   | $7s^2, 7p^6$                   |
 |     |     |                                |
-Para descobrir sua distribuição eletrônica basta olhar para o expoente até chegar no número desejado. Veja que isso é para quantidade de elétrons e começa na diagonal direita para esquerda e para baixo. 
+Para descobrir sua distribuição eletrônica basta olhar para o expoente até chegar no número desejado. Veja que isso é para quantidade de elétrons e começa na diagonal direita para esquerda e para baixo.
+
+## Distribuições eletrônicas irregulares:
+
+É importante notar que há distribuições eletrônicas irregulares, ela são exatamente no 
+
+$$
+d^4,d^9,f^6,f^{13}
+$$
+Para atingir um maior grau de estabilização você deve jogar para a camada anterior um elétron
+
+---
+## Processos de eletrificação
+
+São formados pelo deslocamento na camada eletrônica da mais externa para a mais interna. ***Liberando FOTONS***
+
+## 1. Luminescência: Menor gasto de energia
+1. Fosforescência
+2. Fluorescência
+3. Quimiluminescência
+4. Bioacumulação
+## 2. Incandescência: Maior gasto de energia
+
+---
