@@ -11,12 +11,14 @@
             "id": "47cf1be5f47761f3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Resumos/2 Semana/Quimica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Quimica"
             }
           }
         ]
@@ -178,6 +180,8 @@
   },
   "active": "47cf1be5f47761f3",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Resumos/2 Semana/Quimica.md",
     "Física/Caixinhas.canvas",
     "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
@@ -186,7 +190,6 @@
     "Física/Eletrodinâmica/Corrente elétrica.md",
     "Resumos/2 Semana/História.md",
     "História/Antiguidade oriental/Pré-História.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Simulados Aprova/Eletrodinâmica Básica.md",
     "Resumos/2 Semana/Física.md",
     "Física/Eletrodinâmica/Potência.md",
@@ -208,7 +211,6 @@
     "Resumos/1 Semana/Matemática.md",
     "Matemática/Matemática básica/Produto e divisão.md",
     "Matemática/Matemática básica/Primos.md",
-    "Matemática/Matemática básica/MMC e MDC.md",
     "Linguagens/Comunicação e função da linguagem",
     "Untitled",
     "Química/Untitled.canvas",
