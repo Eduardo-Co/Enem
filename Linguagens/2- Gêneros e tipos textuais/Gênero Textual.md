@@ -36,5 +36,7 @@ Ele é formado pelos seguintes elementos:
 >-Diferença entre tirinha e charge: Tirinha possui ***narração***, ela cria um contexto, início meio e fim. 
 > Charge: possui maior teor de ***argumentativo/crítica*** não possui um história para ser narrada
 
-- Poesia e música: Apresentar emoções, ideias e sentimentos e subjetividade. 
+- ***Poesia e música***: Apresentar emoções, ideias e sentimentos e subjetividade.
+
+- Gênero bibliográfico: Enfatizar trabalho/percursos história mesmo. Só que com foco em algo.
 ---
