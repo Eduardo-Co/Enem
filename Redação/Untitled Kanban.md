@@ -15,12 +15,17 @@ kanban-plugin: board
 ## Progressão de notas
 
 - [ ] 840
+- [ ] 840
+
+
+## Importante
+
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
