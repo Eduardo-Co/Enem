@@ -24,7 +24,11 @@ Parágrafo que serve para influenciar, persuadir ou convencer o leitor, trazendo
 
 ***Abordar unicamente um argumento, assunto.***
 
+
 ---
-***Cada parágrafo é um mini dissertação, ou seja um mini texto. Com início, meio e fim***
+# Pontos importantes:
+
+- ***Cada parágrafo é um mini dissertação, ou seja um mini texto. Com início, meio e fim***
+- ***Não precisa ter uma conclusão de fato, mas é bom terminar dando uma pista para a proposta de intervenção***
 
 ---
