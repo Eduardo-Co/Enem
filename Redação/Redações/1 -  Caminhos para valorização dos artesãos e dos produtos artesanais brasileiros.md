@@ -23,15 +23,6 @@ Apesar de apresentar um projeto de texto claro, sua redação ainda possui defic
 
 Faltou o ==COMO== dos 5: 
 
-
-- **Quem?**  
-    (Agentes intervenientes: Identificação dos responsáveis ou atores que colocarão a proposta em prática.)
-- **Como?**  
-    (Procedimentos e estratégias: Metodologia e ações a serem empregadas para a intervenção.)
-- **Resultados?**  
-    (Resultados e impactos: Indicação do cronograma ou do momento em que os efeitos positivos deverão ser observados.)
-
-
 1. **Quem?**  
     (Agentes intervenientes: Identificação dos responsáveis ou atores que colocarão a proposta em prática.)
 2.  **O que?**  
