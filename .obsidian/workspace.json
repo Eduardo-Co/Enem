@@ -11,10 +11,12 @@
             "id": "2a6ddef1f3246b04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Matemática/Matemática básica/Exercícios/potenciação e radicação.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "potenciação e radicação"
             }
           }
         ]
@@ -174,8 +176,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "2a6ddef1f3246b04",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Matemática/Matemática básica/Exercícios/potenciação e radicação.md",
+    "Matemática/Matemática básica/Exercícios/Untitled.md",
+    "Matemática/Matemática básica/Exercícios",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Unidades de medida.md",
@@ -206,14 +211,12 @@
     "Redação/2 - Além da matéria.md",
     "Redação/Informações básicas.md",
     "Redação/Como fazer redação/Argumento - Desenvolvimento.md",
-    "Redação/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
     "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Linguagens/2- Gêneros e tipos textuais",
     "Ink/Writing/2025.4.23 - 9.13am (4).writing",
     "Ink/Writing/2025.4.23 - 9.13am (3).writing",
     "Ink/Writing/2025.4.23 - 9.13am (2).writing",
-    "Ink/Writing/2025.4.23 - 9.13am.writing",
     "Física/Caixinhas.canvas",
     "Geografia/Caixinhas.canvas",
     "Química/img/Pasted image 20250423080111.png",
