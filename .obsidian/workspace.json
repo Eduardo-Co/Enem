@@ -11,12 +11,14 @@
             "id": "8e1c1566c40d66d4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Matemática/Matemática básica/MMC e MDC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "MMC e MDC"
             }
           }
         ]
@@ -178,6 +180,10 @@
   },
   "active": "8e1c1566c40d66d4",
   "lastOpenFiles": [
+    "Matemática/Matemática básica/Simulados/Simulado 1.md",
+    "Matemática/Matemática básica/MMC e MDC.md",
+    "Matemática/Matemática básica/Primos.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Desenvolvimento 2/Desenvolvimento 2.md",
     "Redação/Desenvolvimento 1/Desenvolvimento 1.md",
     "Redação/Desenvolvimento 2",
@@ -194,7 +200,6 @@
     "Linguagens/Comunicação e função da linguagem/Elementos de comunicação e funções de linguagem.md",
     "Linguagens/2- Gêneros e tipos textuais/Tipos Textuais.md",
     "Linguagens/Untitled Kanban.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Linguagens/2- Gêneros e tipos textuais",
@@ -213,12 +218,9 @@
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "História/Untitled Kanban.md",
-    "Geografia/Gerenciador.md",
     "Geografia/Caixinhas.canvas",
-    "Matemática/Untitled Kanban.md",
     "Matemática/Untitled.canvas",
     "Química/img/Pasted image 20250423080111.png",
-    "Química/Exercícios/Camada eletrônica.md",
     "Química/img",
     "Química/img/Pasted image 20250423072702.png",
     "Física/img/Pasted Image 20250422105956_785.png",
