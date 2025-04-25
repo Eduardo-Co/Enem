@@ -18,6 +18,18 @@
               "icon": "excalidraw-icon",
               "title": "potenciação e radicação"
             }
+          },
+          {
+            "id": "908ba6499ff67dbe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
         ]
       }
