@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0185b0ed8b4b8c8f",
+        "id": "fc888a02c8972acc",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6ddef1f3246b04",
+            "id": "b4f72c7d4ccaee8b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Matemática/Matemática básica/Exercícios/potenciação e radicação.md"
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "excalidraw-icon",
+              "title": "potenciação e radicação"
             }
           }
         ]
@@ -176,12 +176,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "2a6ddef1f3246b04",
+  "active": "b4f72c7d4ccaee8b",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática básica/Exercícios/potenciação e radicação.md",
     "Matemática/Matemática básica/Exercícios/Untitled.md",
     "Matemática/Matemática básica/Exercícios",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Unidades de medida.md",
     "Matemática/Untitled Kanban.md",
@@ -210,7 +210,6 @@
     "Redação/Introdução",
     "Redação/2 - Além da matéria.md",
     "Redação/Informações básicas.md",
-    "Redação/Como fazer redação/Argumento - Desenvolvimento.md",
     "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Linguagens/2- Gêneros e tipos textuais",
