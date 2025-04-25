@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f79c98e50df277af",
+        "id": "0185b0ed8b4b8c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "efb88593cf641d67",
+            "id": "2a6ddef1f3246b04",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,13 +174,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "efb88593cf641d67",
+  "active": "2a6ddef1f3246b04",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Unidades de medida.md",
     "Matemática/Untitled Kanban.md",
     "Matemática/Matemática básica/Radiciação.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática básica/Potenciação.md",
     "Matemática/Matemática básica/Notação ciêntifica.md",
     "Matemática/Matemática básica/Teorema fundamental da divisibilidade e critérios de divisibilidade.md",
