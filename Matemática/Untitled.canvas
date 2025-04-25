@@ -14,7 +14,8 @@
 		{"id":"7c5f24e74cafa398","type":"text","text":"Conjuntos","x":-620,"y":640,"width":220,"height":50},
 		{"id":"6a703ecca866a8c7","type":"text","text":"Calcular número de elementos","x":-960,"y":860,"width":250,"height":60},
 		{"id":"ea4785d7137ceaa6","type":"text","text":"Operações: Soma - Sub - União - Inter","x":-650,"y":860,"width":250,"height":60},
-		{"id":"447ef68b91da9fba","type":"text","text":"Propriedades, como: Igualdade - Distribuição - Comutatividade","x":-345,"y":860,"width":250,"height":110}
+		{"id":"447ef68b91da9fba","type":"text","text":"Propriedades, como: Igualdade - Distribuição - Comutatividade","x":-345,"y":860,"width":250,"height":110},
+		{"id":"645c9df8290d7c2d","x":-1240,"y":630,"width":250,"height":60,"type":"text","text":"Potenciação / Radiciação\n"}
 	],
 	"edges":[
 		{"id":"b17dd3f65a23fac2","fromNode":"4adbe9d4cedbe65a","fromSide":"left","toNode":"feedf13f5a805657","toSide":"top"},
@@ -30,6 +31,7 @@
 		{"id":"b65f3f7f7e0ef5a7","fromNode":"feedf13f5a805657","fromSide":"bottom","toNode":"7c5f24e74cafa398","toSide":"top"},
 		{"id":"34918afb8c36ff9e","fromNode":"7c5f24e74cafa398","fromSide":"bottom","toNode":"6a703ecca866a8c7","toSide":"top"},
 		{"id":"708c935bc0e650f7","fromNode":"7c5f24e74cafa398","fromSide":"bottom","toNode":"ea4785d7137ceaa6","toSide":"top"},
-		{"id":"9b3a77c622b87be9","fromNode":"7c5f24e74cafa398","fromSide":"bottom","toNode":"447ef68b91da9fba","toSide":"top"}
+		{"id":"9b3a77c622b87be9","fromNode":"7c5f24e74cafa398","fromSide":"bottom","toNode":"447ef68b91da9fba","toSide":"top"},
+		{"id":"5bac45f8167af6eb","fromNode":"feedf13f5a805657","fromSide":"bottom","toNode":"645c9df8290d7c2d","toSide":"top"}
 	]
 }

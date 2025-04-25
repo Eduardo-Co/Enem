@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "37db563a21c65130",
+        "id": "f79c98e50df277af",
         "type": "tabs",
         "children": [
           {
-            "id": "409a6215da9c7b95",
+            "id": "efb88593cf641d67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Matemática/Matemática básica/Unidades de medida.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Unidades de medida"
-            }
-          },
-          {
-            "id": "226a6a34abdfbed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matemática/Matemática básica/Radiciação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Radiciação"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,11 +176,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "226a6a34abdfbed4",
+  "active": "efb88593cf641d67",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Matemática/Matemática básica/Radiciação.md",
+    "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Unidades de medida.md",
+    "Matemática/Untitled Kanban.md",
+    "Matemática/Matemática básica/Radiciação.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática básica/Potenciação.md",
     "Matemática/Matemática básica/Notação ciêntifica.md",
     "Matemática/Matemática básica/Teorema fundamental da divisibilidade e critérios de divisibilidade.md",
@@ -211,7 +196,6 @@
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
     "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
     "Matemática/Matemática básica/Dizima periódica.md",
-    "Matemática/Untitled.canvas",
     "Ink/Writing/2025.4.25 - 11.03am.writing",
     "Matemática/Matemática básica/Simulados/Simulado 1.md",
     "Redação/Desenvolvimento 2/Desenvolvimento 2.md",
@@ -225,7 +209,6 @@
     "Redação/Informações básicas.md",
     "Redação/Como fazer redação/Argumento - Desenvolvimento.md",
     "Redação/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
-    "Redação/Untitled Kanban.md",
     "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Linguagens/2- Gêneros e tipos textuais",

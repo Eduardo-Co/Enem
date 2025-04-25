@@ -6,10 +6,13 @@ kanban-plugin: board
 
 ## Decorar
 
+- [ ] Critérios e teorema da divisbilidade
 
 
 ## Treinar
 
+- [ ] Radiciação / Potenciação
+- [ ] MMC/MDC
 
 
 ## Entender
@@ -18,6 +21,7 @@ kanban-plugin: board
 
 ## Fazer exercícios esporadicamente
 
+- [ ] Radiciação / Potenciação
 
 
 ## Faltou de questões
