@@ -1,3 +1,0 @@
-- Destaque os dados, somente o principal
-- Olhe as questões e veja o que você ***REALMENTE PRECISA CALCULAR***
-- 
