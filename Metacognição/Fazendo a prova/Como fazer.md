@@ -12,3 +12,10 @@
 2. Vai pensando nas ideias para fazer a redação
 3. Volta a fazer as questões ***depois da primeira bateria*** ou descansa fazendo a redação
 4. Redação é o que mais sentir confortável 
+
+---
+
+## Matemática:
+
+- Faça a conta, se não estiver segura faça de cabeça e verifique se aproximou 
+- 

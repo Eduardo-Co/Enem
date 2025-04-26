@@ -18,4 +18,6 @@
 ## Como corrigir simulado:
 
 - Verificar o que errou e anotar para aprender depois, corrige no ***dia***, ***voltando na matéria***  -- Não fique apressado 
-- Deixar simulados para Final de semana sábado e domingo 
+- ==***Deixar simulados para Final de semana sábado e domingo***== 
+- Anote algo que você viu a medida que foi fazendo a matéria 
+- ==Anotar as pendências==
