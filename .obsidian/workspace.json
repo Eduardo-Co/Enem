@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc888a02c8972acc",
+        "id": "694ace6c0a76aa05",
         "type": "tabs",
         "children": [
           {
-            "id": "b4f72c7d4ccaee8b",
+            "id": "e535a197203fdeee",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Matemática básica/Exercícios/potenciação e radicação.md"
+                "file": "Metacognição/Tri - Prova/Tri-Prova.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "potenciação e radicação"
-            }
-          },
-          {
-            "id": "908ba6499ff67dbe",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Tri-Prova"
             }
           }
         ]
@@ -188,10 +178,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "b4f72c7d4ccaee8b",
+  "active": "e535a197203fdeee",
   "lastOpenFiles": [
-    "Matemática/Matemática básica/Exercícios/potenciação e radicação.md",
+    "Pasted image 20250426093411.png",
+    "Pasted image 20250426093409.png",
+    "Metacognição/Estratégia de estudo.md",
+    "Metacognição/Tri - Prova/Tri-Prova.md",
+    "Metacognição/Tri - Prova",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Matemática básica/Exercícios/potenciação e radicação.md",
     "Matemática/Matemática básica/Exercícios/Untitled.md",
     "Matemática/Matemática básica/Exercícios",
     "Matemática/Untitled.canvas",
@@ -220,14 +215,11 @@
     "Redação/Introdução/Como fazer a introdução.md",
     "Redação/Desenvolvimento 1",
     "Redação/Introdução",
-    "Redação/2 - Além da matéria.md",
-    "Redação/Informações básicas.md",
     "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Linguagens/2- Gêneros e tipos textuais",
     "Ink/Writing/2025.4.23 - 9.13am (4).writing",
     "Ink/Writing/2025.4.23 - 9.13am (3).writing",
-    "Ink/Writing/2025.4.23 - 9.13am (2).writing",
     "Física/Caixinhas.canvas",
     "Geografia/Caixinhas.canvas",
     "Química/img/Pasted image 20250423080111.png",
@@ -242,7 +234,6 @@
     "Física/Untitled.canvas",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
-    "O que Estudar/imagens/Pasted image 20250406150918.png",
     "Excalidraw/Calculo 1/E.canvas",
     "Sem título.canvas"
   ]
