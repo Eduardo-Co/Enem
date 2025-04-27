@@ -10,5 +10,5 @@
 
 ***Até um mês antes da prova tenho 23 Semanas, dá para afunilar melhor e resolver tudo, você consegue***.
 
-- ***Lembre-se você deve ser especialista em tudo, não se esqueça. Perfeição - Controle - Emoção.***
+	- ***Lembre-se você deve ser especialista em tudo, não se esqueça. Perfeição - Controle - Emoção.***
 ---
