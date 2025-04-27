@@ -11,12 +11,14 @@
             "id": "4776d6a3d7b3ab6a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "O que Estudar/Biologia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Biologia"
             }
           }
         ]
@@ -178,8 +180,12 @@
   },
   "active": "4776d6a3d7b3ab6a",
   "lastOpenFiles": [
-    "Cronograma.md",
+    "O que Estudar/Química.md",
+    "O que Estudar/Ranking Linguagens.md",
+    "Metacognição/Tipos de exercício.md",
+    "Metacognição/Estratégia de estudo.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Cronograma.md",
     "Pasted image 20250426093409.png",
     "Pasted image 20250426093411.png",
     "Simulados B",
@@ -190,7 +196,6 @@
     "Metacognição/Tipos de Simulados",
     "Metacognição/Tri - Prova/Tri-Prova.md",
     "Metacognição/Fazendo a prova",
-    "Metacognição/Estratégia de estudo.md",
     "Metacognição/Tri - Prova",
     "Matemática/Matemática básica/Exercícios/potenciação e radicação.md",
     "Matemática/Matemática básica/Exercícios/Untitled.md",
@@ -211,9 +216,7 @@
     "Matemática/Matemática básica/Conjuntos/Operações com conjuntos.md",
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
     "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
-    "Matemática/Matemática básica/Dizima periódica.md",
     "Ink/Writing/2025.4.25 - 11.03am.writing",
-    "Matemática/Matemática básica/Simulados/Simulado 1.md",
     "Redação/Desenvolvimento 2",
     "Redação/Desenvolvimento 1",
     "Química/Untitled.canvas",
