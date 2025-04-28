@@ -6,7 +6,7 @@
 ---
 Como funciona GPS:
 
-- Manda o sinal para satélite e ele faz o cálculo pela distância, calculando ***Latitude, Longitude e ***
+- Manda o sinal para satélite e ele faz o cálculo pela distância, calculando ***Latitude, Longitude
 - Há uma questão de segurança no ***satélite civil***, há um erro de atraso que não há precisão totalmente correta. Quem tem a absoluta é os EUA
 - Quanto mais satélites mais precisão
 
