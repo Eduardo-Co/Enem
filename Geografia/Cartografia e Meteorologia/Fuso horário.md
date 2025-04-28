@@ -12,3 +12,13 @@ Cada fuso horário corresponde a uma diferença de **15° de longitude**, pois a
 > - Cada fuso: 15° de longitude por hora.
 
 ***PENSE QUE NO ORIENTE É O NASCENTE, OU SEJA, NASCE O SOL ENTÃO ESTÃO ADIANTADOS***
+
+---
+
+***Horário de verão no Brasil***: 
+
+Fotoperíodo: Período luminoso do dia, onde é prolongado no verão
+
+ Motivos para existir:
+ - Distribuir o horário de pico
+ - Economia de uso de energia, usando a luz natural 

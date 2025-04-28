@@ -62,4 +62,3 @@ Seguindo essa ordem de altitude
 ## Tipo de chuvas:
 
 - Chuva convectiva: Formado por trocas de calor em camadas mais baixas da troposfera, chuva de verão.
-- 
