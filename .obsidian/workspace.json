@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Placas tectônicas"
             }
+          },
+          {
+            "id": "f62411488ee2dbf6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "22d9013d844a1e32",
+  "active": "f62411488ee2dbf6",
   "lastOpenFiles": [
-    "Geografia/Tectonismo/Estrutura da terra.md",
     "Geografia/Tectonismo/Placas tectônicas.md",
+    "Geografia/Tectonismo/Estrutura da terra.md",
     "Geografia/Conceitos de geografia/Definição de Paisagem.md",
     "Geografia/Conceitos de geografia/Milton Santos - Geógrafo.md",
     "Geografia/Conceitos de geografia/Definição de Geografia.md",

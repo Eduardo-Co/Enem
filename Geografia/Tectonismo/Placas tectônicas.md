@@ -18,31 +18,6 @@ Antes, existia um único grande continente chamado **Pangeia**. Com o movimento 
    **Definição**: Quando duas placas deslizam lateralmente uma em relação à outra. Esse atrito gera muitos terremotos.  
    **Exemplo**: Falha de San Andreas (entre a placa do Pacífico e a placa Norte-Americana).
 
-## Nomes comuns das placas tectônicas
-
-- **Placa Sul-Americana**  
-  (abrange a América do Sul e parte do Atlântico Sul)
-
-- **Placa Africana**  
-  (abrange o continente africano e parte dos oceanos adjacentes)
-
-- **Placa Norte-Americana**  
-  (abrange América do Norte e parte do Oceano Atlântico)
-
-- **Placa Euroasiática**  
-  (abrange Europa e Ásia)
-
-- **Placa do Pacífico**  
-  (maior placa tectônica, cobre a maior parte do Oceano Pacífico)
-
-- **Placa de Nazca**  
-  (oceânica, localizada no Pacífico, próxima à América do Sul)
-
-- **Placa Indo-Australiana**  
-  (abrange a Austrália, Índia e parte do Oceano Índico)
-
-- **Placa Antártica**  
-  (abrange a Antártida e áreas do oceano ao redor)
 
 ---
 
