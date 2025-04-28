@@ -1,0 +1,1 @@
+Antes existia a pangeia mas deivdo ao movmento das placas tectonicas houve a serpação e o movimento dos continentes

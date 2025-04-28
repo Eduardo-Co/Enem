@@ -1,4 +1,14 @@
-1. ***Núcleo***: Formado por níquel e ferro 16% da terra
-2. ***Manto***: 83% do volume da terra; Como é em grande parte gasosa, forma processos de convecção ou seja troca de ar, quente sobe e frio desce, quente esfria, frio esquente e fica nessa troca. Observe que isso é um fator causador das movimentação das placas tecntonicas isso também mostra como os continentes se afastaram. São separads em crostas:
-	- Continental: continente - SiAl - Silício e alumínio, mais grossa mas mais leve e maleável
-	- Ocêanica: fundo do mar - SiMa - sILÍCIO e magnésio, fina porém mais rígida. 
+1. **Núcleo**:  
+   Composto principalmente de níquel e ferro, representa cerca de 16% da massa da Terra.
+
+2. **Manto**:  
+   Corresponde a aproximadamente 83% do volume terrestre. Por ser, em grande parte, composto de material viscoso (e não gasoso), o manto apresenta movimentos de **convecção**: o material quente sobe, enquanto o frio desce, gerando um ciclo contínuo.  
+   Esse processo é responsável pela movimentação das placas tectônicas e explica o afastamento dos continentes ao longo do tempo.  
+
+   A crosta terrestre, que recobre o manto, é dividida em dois tipos:
+   
+   - **Crosta Continental**:  
+     Forma os continentes; é composta principalmente por silício e alumínio (**SiAl**). É mais espessa, menos densa e relativamente mais maleável.
+   
+   - **Crosta Oceânica**:  
+     Forma o fundo dos oceanos; é composta por silício e magnésio (**SiMa**). É mais fina, porém mais rígida.
