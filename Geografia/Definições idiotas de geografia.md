@@ -88,3 +88,7 @@
 - Mais relacionado a erosão /desagregação / decomposição
 
 ---
+
+### Processos exógenos
+
+- Em geografia, "exógeno" refere-se a agentes ou processos que atuam externamente na superfície da Terra, alterando o relevo e o meio ambiente.==- Ação humana==
