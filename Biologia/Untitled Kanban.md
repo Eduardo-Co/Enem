@@ -4,10 +4,14 @@ kanban-plugin: board
 
 ---
 
-## a fazer
+## Concluído
 
 - [ ] especiação - espécies
 - [ ] sucessão ecológica
+
+
+## a fazer
+
 
 
 ## Decorar
@@ -20,6 +24,7 @@ kanban-plugin: board
 
 ## Entender
 
+- [ ] Evolução
 
 
 ## Faltou de questões
@@ -31,10 +36,6 @@ kanban-plugin: board
 
 
 ## Revisar
-
-
-
-## Concluído
 
 
 

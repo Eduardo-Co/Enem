@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8d2fe0af7f6f0865",
+        "id": "0401f5a5f6885cd9",
         "type": "tabs",
         "children": [
           {
-            "id": "4dcea6d38a6c037c",
+            "id": "3d63f1457d80d5b4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Evolução/Darwinismo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Darwinismo"
             }
           }
         ]
@@ -176,16 +178,19 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "3d63f1457d80d5b4",
   "lastOpenFiles": [
+    "Biologia/Caixinhas.canvas",
+    "Biologia/Evolução/Darwinismo.md",
+    "Biologia/Evolução/Lamarkismo.md",
+    "Biologia/Untitled Kanban.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Evolução",
     "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
-    "Biologia/Caixinhas.canvas",
     "Metacognição/Tipos de exercício.md",
     "Matemática/Untitled.canvas",
     "Matemática/Untitled Kanban.md",
@@ -214,10 +219,6 @@
     "Matemática/Matemática básica/Unidades de medida.md",
     "Matemática/Matemática básica/Radiciação.md",
     "Matemática/Matemática básica/Potenciação.md",
-    "Matemática/Matemática básica/Notação ciêntifica.md",
-    "Matemática/Matemática básica/Teorema fundamental da divisibilidade e critérios de divisibilidade.md",
-    "Matemática/Matemática básica/Quantidade de divisores naturais.md",
-    "Ink/Writing/2025.4.25 - 11.03am.writing",
     "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Física/Caixinhas.canvas",
