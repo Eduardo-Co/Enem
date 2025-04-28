@@ -1,3 +1,4 @@
+#TIPO-2
 # Placas Tectônicas
 
 As **placas tectônicas** são grandes blocos que compõem a superfície da Terra (litosfera). Elas flutuam sobre o manto e estão em constante movimento, impulsionadas pelos fluxos de convecção do interior da Terra.
@@ -24,3 +25,16 @@ Antes, existia um único grande continente chamado **Pangeia**. Com o movimento 
 > [!note]  
 > **Resumo**: O movimento das placas tectônicas é responsável pela separação dos continentes, formação de montanhas, vulcões e terremotos. A Pangeia foi dividida ao longo de milhões de anos devido a esses movimentos.
 
+| Formação                             | Definição                                                   | Exemplo                                                                                            |
+| ------------------------------------ | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Dobramentos modernos                 | Deformações da crosta formando montanhas recentes e altas.  | Cordilheira dos Andes, Himalaia                                                                    |
+| Fossas tectônicas                    | Grandes depressões no relevo causadas por afundamento.      | Fossa das Marianas                                                                                 |
+| Vulcões                              | Aberturas na crosta por onde extravasa magma.               | Vulcão Etna (Itália)                                                                               |
+| Falhas geológicas                    | Fraturas na crosta com deslocamento de blocos de rocha.     | Falha de San Andreas                                                                               |
+| Bacias sedimentares                  | Áreas rebaixadas que acumulam sedimentos ao longo do tempo. | Bacia Amazônica                                                                                    |
+| Formação                             | Tipo de Movimento                                           | Explicação Rápida                                                                                  |
+| **Dobramentos modernos** (montanhas) | **Convergente** (placas colidindo)                          | Compressão gera elevações, ex.: Himalaia.                                                          |
+| **Fossas oceânicas**                 | **Convergente** (subducção)                                 | Uma placa mergulha sob a outra formando fossas profundas, ex.: Fossa das Marianas.                 |
+| **Vulcões**                          | **Convergente ou Divergente**                               | Convergente (subducção) ou divergente (afastamento de placas que libera magma).                    |
+| **Falhas geológicas**                | **Transformante** (movimento lateral)                       | Deslizamento lateral gera rachaduras, ex.: Falha de San Andreas.                                   |
+| **Bacias sedimentares**              | **Separação (divergente)** ou regiões de estabilidade       | Áreas rebaixadas que acumulam sedimentos, podem surgir por afastamento ou estabilidade prolongada. |

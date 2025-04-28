@@ -11,20 +11,6 @@
             "id": "22d9013d844a1e32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geografia/Tectonismo/Placas tectônicas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Placas tectônicas"
-            }
-          },
-          {
-            "id": "f62411488ee2dbf6",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
                 "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
@@ -33,8 +19,7 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,16 +176,19 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "f62411488ee2dbf6",
+  "active": "22d9013d844a1e32",
   "lastOpenFiles": [
+    "Geografia/Gerenciador.md",
+    "Geografia/Caixinhas.canvas",
     "Geografia/Tectonismo/Placas tectônicas.md",
+    "O que Estudar/Geografia e sociologia.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Tectonismo/Estrutura da terra.md",
     "Geografia/Conceitos de geografia/Definição de Paisagem.md",
     "Geografia/Conceitos de geografia/Milton Santos - Geógrafo.md",
     "Geografia/Conceitos de geografia/Definição de Geografia.md",
     "Geografia/Cartografia e Meteorologia/Atmosfera.md",
     "Química/3 - Tabela Periódica/Características das famílias.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Tectonismo",
     "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
     "Geografia/Cartografia e Meteorologia/Pontos cardeais e coordenadas geográficas.md",
@@ -222,9 +210,7 @@
     "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
     "Biologia/Evolução/Lamarkismo.md",
     "Biologia/Evolução",
-    "Metacognição/Tipos de exercício.md",
     "Matemática/Untitled.canvas",
-    "Matemática/Untitled Kanban.md",
     "Untitled",
     "Matemática/Matemática todo dia",
     "Pasted image 20250426093409.png",
@@ -236,7 +222,6 @@
     "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Física/Caixinhas.canvas",
-    "Geografia/Caixinhas.canvas",
     "Química/img/Pasted image 20250423080111.png",
     "Química/img/Pasted image 20250423072702.png",
     "Física/img/Pasted Image 20250422105956_785.png",

@@ -6,10 +6,12 @@ kanban-plugin: board
 
 ## Entender
 
+- [ ] Relações entre placas/convergencia/divergencia/transformação ou tangenciação
 
 
 ## Decorar
 
+- [ ] Tectonismo
 
 
 ## Treino
