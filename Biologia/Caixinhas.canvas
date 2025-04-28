@@ -46,8 +46,18 @@
 		{"id":"cab05c933b3d7759","type":"text","text":"Ecosistema","x":-5506,"y":990,"width":250,"height":60},
 		{"id":"ee44cd5291bd2b86","type":"text","text":"Biocenose / Comunidade\n","x":-5506,"y":1190,"width":250,"height":60},
 		{"id":"4002b18236030e7a","type":"text","text":"Ecologia Básica e avançada","x":-7360,"y":300,"width":250,"height":60},
-		{"id":"0317b0c798c1dc26","x":-3200,"y":240,"width":250,"height":50,"type":"text","text":"Evolução\n"},
-		{"id":"77a1a2ab53705c4c","type":"text","text":"Biologia\n","x":-1200,"y":-40,"width":250,"height":50}
+		{"id":"0317b0c798c1dc26","type":"text","text":"Evolução\n","x":-3200,"y":240,"width":250,"height":50},
+		{"id":"77a1a2ab53705c4c","type":"text","text":"Biologia\n","x":-1200,"y":-40,"width":250,"height":50},
+		{"id":"cb5fe4c5cebe3b15","x":-7484,"y":751,"width":250,"height":60,"type":"text","text":"Sucessão ecológica"},
+		{"id":"6419bf4184c36eaa","x":-3200,"y":434,"width":250,"height":60,"type":"text","text":"Lamarck\n"},
+		{"id":"8b3138dcb42f1a90","x":-3332,"y":648,"width":250,"height":60,"type":"text","text":"1° Lei : Uso e desuso "},
+		{"id":"9064945f27e0bc57","x":-3066,"y":650,"width":266,"height":90,"type":"text","text":"2° Lei: Passagem de características pela reprodução\n"},
+		{"id":"fe1bcdac9b7f409c","x":-3640,"y":404,"width":250,"height":60,"type":"text","text":"Especiação "},
+		{"id":"af68aa93e03c59bd","x":-3815,"y":653,"width":274,"height":50,"type":"text","text":"Processos de especiação"},
+		{"id":"759ae18b1e23d621","x":-2676,"y":615,"width":250,"height":60,"type":"text","text":"NeoDarwinismo"},
+		{"id":"7b4e2afc0c0b4e7e","x":-2360,"y":615,"width":250,"height":60,"type":"text","text":"Seleção natural"},
+		{"id":"a6d0867a0539ee7d","x":-2520,"y":434,"width":250,"height":60,"type":"text","text":"Darwin"},
+		{"id":"ba566ea3260012b6","x":-2361,"y":775,"width":250,"height":60,"type":"text","text":"Tipos de seleção natural"}
 	],
 	"edges":[
 		{"id":"8879b600c42c49e3","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"d0b82dd16d5a8770","toSide":"top","color":"2"},
@@ -97,7 +107,17 @@
 		{"id":"54242b5952bc4712","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"f68f20f1ff50268c","toSide":"top"},
 		{"id":"a18bf2dd01e1fc32","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"b19a8faa24476e21","toSide":"top"},
 		{"id":"4d5ba66805f83b0e","fromNode":"d0b82dd16d5a8770","fromSide":"bottom","toNode":"e4979768c235b0f3","toSide":"top"},
-		{"id":"fa51f5a69fd9d5ed","fromNode":"77a1a2ab53705c4c","fromSide":"left","toNode":"4002b18236030e7a","toSide":"top","color":"3"},
-		{"id":"af29f61b603764db","fromNode":"77a1a2ab53705c4c","fromSide":"bottom","toNode":"0317b0c798c1dc26","toSide":"top"}
+		{"id":"fa51f5a69fd9d5ed","fromNode":"77a1a2ab53705c4c","fromSide":"bottom","toNode":"4002b18236030e7a","toSide":"top","color":"3"},
+		{"id":"af29f61b603764db","fromNode":"77a1a2ab53705c4c","fromSide":"bottom","toNode":"0317b0c798c1dc26","toSide":"top"},
+		{"id":"a364cac1c77c4bd9","fromNode":"0317b0c798c1dc26","fromSide":"bottom","toNode":"fe1bcdac9b7f409c","toSide":"top"},
+		{"id":"dd19111e6097275d","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"cb5fe4c5cebe3b15","toSide":"top"},
+		{"id":"42e10247ebae5135","fromNode":"0317b0c798c1dc26","fromSide":"bottom","toNode":"6419bf4184c36eaa","toSide":"top"},
+		{"id":"c8cf26b0b3d20d96","fromNode":"0317b0c798c1dc26","fromSide":"bottom","toNode":"a6d0867a0539ee7d","toSide":"top"},
+		{"id":"d4044dc6bc3a4acf","fromNode":"6419bf4184c36eaa","fromSide":"bottom","toNode":"8b3138dcb42f1a90","toSide":"top"},
+		{"id":"6603fffee5d8d440","fromNode":"6419bf4184c36eaa","fromSide":"bottom","toNode":"9064945f27e0bc57","toSide":"top"},
+		{"id":"5092f37578b0f85c","fromNode":"fe1bcdac9b7f409c","fromSide":"bottom","toNode":"af68aa93e03c59bd","toSide":"top"},
+		{"id":"036cda58467865e0","fromNode":"a6d0867a0539ee7d","fromSide":"bottom","toNode":"759ae18b1e23d621","toSide":"top"},
+		{"id":"f65c42e9f063bd43","fromNode":"a6d0867a0539ee7d","fromSide":"bottom","toNode":"7b4e2afc0c0b4e7e","toSide":"top"},
+		{"id":"aeb1f1262ca35cf4","fromNode":"7b4e2afc0c0b4e7e","fromSide":"bottom","toNode":"ba566ea3260012b6","toSide":"top"}
 	]
 }
