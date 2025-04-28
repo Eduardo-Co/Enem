@@ -12,6 +12,7 @@ kanban-plugin: board
 
 ## a fazer
 
+- [ ] Estudar evidências da evolução
 
 
 ## Decorar
@@ -29,6 +30,7 @@ kanban-plugin: board
 
 ## Faltou de questões
 
+- [ ] Evidências da evolução
 
 
 ## Fazer exercícios esporadicamente
