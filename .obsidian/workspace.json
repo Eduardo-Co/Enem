@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "ac656749eef57c55",
+            "id": "23eb9d4ea1637ced",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -33,7 +33,8 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +191,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "4e4e0233a0e9417c",
+  "active": "23eb9d4ea1637ced",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Evolução/Tipos de seleção natural.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
