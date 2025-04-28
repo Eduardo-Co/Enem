@@ -83,4 +83,8 @@
 - O que é:
 	Cobrir de areia, pode ser causa pela remoção da vegetação ciliar, causando erosão e enchendo os rios de areia. 
 ---
+### Intemperismo
 
+- Mais relacionado a erosão /desagregação / decomposição
+
+---
