@@ -11,12 +11,14 @@
             "id": "22d9013d844a1e32",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Geografia/Definições idiotas de geografia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Definições idiotas de geografia"
             }
           }
         ]
@@ -178,11 +180,12 @@
   },
   "active": "22d9013d844a1e32",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Geografia/Definições idiotas de geografia.md",
     "Geografia/Gerenciador.md",
     "Geografia/Caixinhas.canvas",
     "Geografia/Tectonismo/Placas tectônicas.md",
     "O que Estudar/Geografia e sociologia.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Tectonismo/Estrutura da terra.md",
     "Geografia/Conceitos de geografia/Definição de Paisagem.md",
     "Geografia/Conceitos de geografia/Milton Santos - Geógrafo.md",
@@ -207,8 +210,6 @@
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
-    "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
-    "Biologia/Evolução/Lamarkismo.md",
     "Biologia/Evolução",
     "Matemática/Untitled.canvas",
     "Untitled",
