@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
+                "file": "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cadeias Alimentares e teias alimentares"
+              "title": "Sucessão ecológica"
+            }
+          },
+          {
+            "id": "e4c13679771e73f6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,12 +191,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "f4ef0de37ac06445",
+  "active": "e4c13679771e73f6",
   "lastOpenFiles": [
-    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
     "Biologia/Caixinhas.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
