@@ -86,3 +86,4 @@ Eficiência de energia que passa de uma categoria, nível trófico para o outro,
 Na maioria dos casos os ***consumidores primários possuem menor eficiência ecológica***
 
 ---
+***PPL - PRODUÇÃO PRIMÁRIA LIQUÍDA COMO FATOR CONTRIBUINTE PARA BIODIVERSIDADE: Energia que sobra - LEMBRAR***
