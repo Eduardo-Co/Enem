@@ -22,6 +22,7 @@ kanban-plugin: board
 ## Fazer exercícios esporadicamente
 
 - [ ] Radiciação / Potenciação
+- [ ] Matemática básica
 
 
 ## Faltou de questões
