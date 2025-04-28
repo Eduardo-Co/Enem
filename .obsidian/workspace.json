@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geografia/Cartografia e Meteorologia/Orientação geográfica/Pontos cardeais.md",
+                "file": "Geografia/Cartografia e Meteorologia/Orientação geográfica/Pontos cardeais e coordenadas geográficas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pontos cardeais"
+              "title": "Pontos cardeais e coordenadas geográficas"
             }
           },
           {
@@ -33,7 +33,8 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,10 +190,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "70984403c8a23e65",
+  "active": "a32abca6c0d46f88",
   "lastOpenFiles": [
+    "Geografia/Cartografia e Meteorologia/Orientação geográfica/Pontos cardeais e coordenadas geográficas.md",
     "Geografia/Cartografia e Meteorologia/Atmosfera.md",
-    "Geografia/Cartografia e Meteorologia/Orientação geográfica/Pontos cardeais.md",
     "Geografia/Cartografia e Meteorologia/Orientação geográfica",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Cronograma.md",
