@@ -11,12 +11,14 @@
             "id": "9c4ed243a96a14e2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Geografia/Tectonismo/Estrutura da terra.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Estrutura da terra"
             }
           }
         ]
@@ -178,10 +180,12 @@
   },
   "active": "9c4ed243a96a14e2",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Geografia/Tectonismo/Estrutura da terra.md",
+    "Geografia/Tectonismo",
     "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
     "Geografia/Cartografia e Meteorologia/Pontos cardeais e coordenadas geográficas.md",
     "Geografia/Cartografia e Meteorologia/Atmosfera.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Cartografia e Meteorologia/Fuso horário.md",
     "Geografia/Cartografia e Meteorologia/Projeções.md",
     "Geografia/Cartografia e Meteorologia/Orientação geográfica",
@@ -213,10 +217,8 @@
     "Pasted image 20250426093411.png",
     "Simulados B",
     "Simulados A",
-    "Metacognição/Fazendo a prova/Como fazer.md",
     "Metacognição/Tipos de Simulados",
     "Metacognição/Fazendo a prova",
-    "Metacognição/Tri - Prova",
     "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Física/Caixinhas.canvas",
