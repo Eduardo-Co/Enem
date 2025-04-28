@@ -14,7 +14,7 @@
 
 ***Lembre-se que quando mais desce o nível trófico, ou seja, qual tipo de consumidor ele é, a quantidade de energia é menor, pois ela é pedida na forma de calor ou consome a energia***
 
-***Produtividade primária líquida: a parte de energia consumida pelo produtor*** 
+**Produtividade primária líquida**:  é **a quantidade de energia produzida pelos produtores primários que sobra após o consumo deles próprios (respiração celular).**
 
 ***Cada organismo usa e descarta uma parte da energia, liberando o resto, então fica cada vez menor***
 

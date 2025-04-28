@@ -47,12 +47,14 @@
             "id": "b2d1420af0b4f662",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Matemática todo dia/Semana 1.md"
+                "file": "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Semana 1"
+              "icon": "lucide-file",
+              "title": "Relações ecológicas"
             }
           }
         ],
@@ -213,10 +215,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "b2d1420af0b4f662",
   "lastOpenFiles": [
-    "Matemática/Untitled.canvas",
+    "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
     "Matemática/Matemática todo dia/Semana 1.md",
+    "Untitled",
+    "Matemática/Untitled.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática todo dia",
     "Matemática/Untitled Kanban.md",
@@ -249,10 +255,7 @@
     "Matemática/Matemática básica/Produto e divisão.md",
     "Matemática/Matemática básica/Primos.md",
     "Matemática/Matemática básica/MMC e MDC.md",
-    "Matemática/Matemática básica/Conjuntos/Cálculo de subconjuntos.md",
-    "Matemática/Matemática básica/Conjuntos/Conjuntos numéricos.md",
     "Ink/Writing/2025.4.25 - 11.03am.writing",
-    "Redação/Desenvolvimento 2",
     "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Física/Caixinhas.canvas",

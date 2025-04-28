@@ -14,8 +14,6 @@
 
 # Relações interespecíficas
 
-## Harmônicas:
-
 - Protocooperação: (+.+) os dois se ajudam
 - Mutualismo: (+.+) os dois se ajudam ***obrigatória essa relação***
 - Inquilinismo: (+.0) uma se junta a outra fisicamente e se aproveita sem prejudicar 
