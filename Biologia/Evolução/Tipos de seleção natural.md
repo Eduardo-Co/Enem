@@ -1,15 +1,12 @@
-## Como ele pensa:
+# Tipos de Seleção Natural
 
-Pautada na ideia de ***seleção natural***, a teoria de Darwin se baseia em uma soma de fatores que geram novas características nas espécies e, consequentemente, levam à sua evolução.
+Os tipos de seleção natural estão mais ligados a gráficos e informações baseados em **duas características diferentes**, analisando **como se distribui o processo de favorecimento e depreciação** dessas características:
 
-**Seleção natural + Mudanças nas características = Evolução**
+1. **Seleção Direcional**  
+   Foca em **um extremo**: uma das características é mais vantajosa que a outra.
 
-A seleção natural atua no sentido da capacidade de um indivíduo se reproduzir em um determinado ambiente. Portanto, suas condições físicas e as mudanças, quando comparadas a indivíduos da mesma espécie, favorecem ou desfavorecem sua reprodução, afetando a propagação daquele gene. Esse é o princípio da evolução darwiniana.
+2. **Seleção Estabilizadora**  
+   Ambos os extremos são desfavorecidos; o **intermediário** é selecionado.
 
----
-
-## Neodarwinismo:
-
-O Neodarwinismo basicamente retoma as ideias de Darwin, mas as explica a partir de um ponto de vista genético.
-
-As mudanças nas características ocorrem devido a: **mutações**, **variabilidade genética** e **diversidade genética**. Esses conceitos introduzem uma nova visão da evolução, que é a explicação aceita atualmente.
+3. **Seleção Disruptiva**  
+   O **intermediário é desfavorecido**, enquanto os dois extremos são favorecidos.
