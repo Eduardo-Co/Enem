@@ -34,7 +34,7 @@ Em ambos os casos, a energia elétrica é dissipada em forma de calor (*Efeito J
 
 $P = V\,I = I^{2}R = \dfrac{V^{2}}{R},$
 
-medida em **Watts (W)**, representando a taxa de conversão de energia elétrica em calor.
+medida em **Watts (W)**, representando a taxa de conversão de energia elétrica em calor. Então há como calcular a potência que diz quanto de corrente passou no sistema inteiro, mas há essa visão de quanto de energia foi transformada em calor se o resistor for ôhmico
 
 ---
 

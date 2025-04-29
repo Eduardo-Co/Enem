@@ -4,47 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c50823a9788edec7",
+        "id": "2baf3e4bbde591c0",
         "type": "tabs",
         "children": [
           {
-            "id": "22d9013d844a1e32",
+            "id": "1a2de3111403d405",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Geografia/Caixinhas.canvas",
-                "viewState": {
-                  "x": 511.08679875718315,
-                  "y": 229.43528516448214,
-                  "zoom": -0.14475463720765858
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
-            }
-          },
-          {
-            "id": "424d0d14886ac280",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -204,13 +174,25 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "22d9013d844a1e32",
+  "active": "1a2de3111403d405",
   "lastOpenFiles": [
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
+    "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
+    "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
+    "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
+    "Física/Eletroestática + fotovoltaica/Linhas de campo.md",
+    "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
+    "Física/Eletroestática + fotovoltaica/Processos de eletrização.md",
+    "Física/Eletroestática + fotovoltaica/Lei de Coulomb.md",
+    "Física/Eletrodinâmica/Potência.md",
+    "Física/Eletrodinâmica/Corrente elétrica.md",
+    "Física/Eletrodinâmica/Tipos de corrente.md",
+    "Física/Eletrodinâmica/Segunda lei de Ohm.md",
+    "Física/Eletrodinâmica/1° Lei de Ohm.md",
+    "Geografia/Caixinhas.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Terminologias em latim.md",
-    "Geografia/Caixinhas.canvas",
     "Geografia/Gerenciador.md",
     "Geografia/Definições idiotas de geografia.md",
     "Matemática/Untitled Kanban.md",
@@ -223,20 +205,8 @@
     "Geografia/Cartografia e Meteorologia/Atmosfera.md",
     "Química/3 - Tabela Periódica/Características das famílias.md",
     "Geografia/Tectonismo",
-    "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
-    "Geografia/Cartografia e Meteorologia/Pontos cardeais e coordenadas geográficas.md",
-    "Geografia/Cartografia e Meteorologia/Fuso horário.md",
-    "Geografia/Cartografia e Meteorologia/Projeções.md",
     "Geografia/Cartografia e Meteorologia/Orientação geográfica",
-    "Cronograma.md",
-    "Geografia/Cartografia e Meteorologia/Escala.md",
-    "Geografia/Geopolítica/Velha ordem Mundial.md",
     "Biologia/Caixinhas.canvas",
-    "Biologia/Evolução/Tipos de seleção natural.md",
-    "Matemática/Matemática todo dia/Semana 1.md",
-    "Biologia/Untitled Kanban.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
     "Biologia/Evolução",
     "Matemática/Untitled.canvas",
     "Untitled",
