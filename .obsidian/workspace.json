@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ab78f64d40fe0544",
+        "id": "beacc45681d90b45",
         "type": "tabs",
         "children": [
           {
-            "id": "1a0e136d2142aa59",
+            "id": "3d6c8a8994b9c8ba",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Física/Exercícios períodicos/Semana 1.md"
+                "file": "Física/Eletrodinâmica/Geradores elétricos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Semana 1"
+              "icon": "lucide-file",
+              "title": "Geradores elétricos"
             }
           }
         ]
@@ -176,14 +178,16 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "1a0e136d2142aa59",
+  "active": "3d6c8a8994b9c8ba",
   "lastOpenFiles": [
+    "Física/Eletrodinâmica/Geradores elétricos.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Terminologias em latim.md",
+    "Física/Exercícios períodicos/Semana 1.md",
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
-    "Física/Exercícios períodicos/Semana 1.md",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Exercícios períodicos",
     "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
     "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
@@ -196,7 +200,6 @@
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
     "Geografia/Caixinhas.canvas",
-    "Terminologias em latim.md",
     "Geografia/Gerenciador.md",
     "Geografia/Definições idiotas de geografia.md",
     "Matemática/Untitled Kanban.md",
