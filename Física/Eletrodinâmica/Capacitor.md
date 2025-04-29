@@ -1,4 +1,7 @@
 Dispostivio capaz de amarzenar carga elétrica e consequentemente energai potencial elétrica provocando depois
+
+Passagem de corrente descarrega capctiro
+ 
 Exemplos: flash de máquina e destrifibilador 
 
 
@@ -26,5 +29,14 @@ você pode olhar por outra coisa também, capacitância em um capacitor plano co
 que fica
 
 $$
-C = permissividade elétrica \cdot A
+C = \frac{permissividade elétrica \cdot A}{d}
 $$
+---
+
+O capasitor basicamente armazena carga gerando uma diferença de potencial elétrico.
+
+A formula de calcular é o contrário das resistências
+
+- Capacitores em série tem a mesma carga, ou seja, o $C_{eq}$ = 1/Ceq + 1/C1 + 1/c2
+- 
+---

@@ -1,34 +1,74 @@
-Traz o conceito de malha ramo e nó
-
-- Malha é uma parte do circuito que é fechada em si mesmo.
-- Nó é uma parte que junta 3 fios ou mais
-- Lembra que o sentido tem que ser um só, para não dar erro nos calculos 
-
-
-## Lei dos nós:
-
-Tudo que entre deve sair na mesma proporção 
-
-
-## Lei das malhas:
-
-A soma das tensões tem que ser zero
-
+Em poucas linhas: 
+- nó é o ponto comum de ≥ 3 condutores
+- ramo é o trecho único de corrente entre dois nós
+- malha é o laço fechado elementar do circuito. 
+Com esses três alicerces aplicamos as Leis de Kirchhoff: a soma algébrica das correntes num nó é zero (conservação de carga) e a soma algébrica das tensões numa malha é zero (conservação de energia). A partir daí, um roteiro simples (definir sentidos, aplicar KCL em *n – 1* nós e KVL em todas as malhas independentes) resolve qualquer rede plana — inclusive as pontes de Wheatstone e de fio, usadas para medir resistências com alta precisão.  
 
 ---
-Passo a passo:
 
-- Sentido da corrente
-- polaridade
-- Escolha um nó e aplique as leis de Kirchhoff. Veja que sempre é n-1 equações, sendo n o número de nós.
-- Aplique a segunda lei de kirchhoff em cada malha. Até atingir o número suficiente de equações
+## Conceitos Estruturais
 
+### Nó  
+Região onde **três ou mais** condutores se unem e compartilham exatamente o mesmo potencial elétrico.
+
+### Ramo  
+Trecho compreendido **entre dois nós adjacentes**; todos os componentes em série nesse trecho são percorridos pela **mesma corrente**.
+
+### Malha  
+Laço fechado que **não contém sub-laços internos**; é o caminho elementar adotado na Lei das Malhas.
+
+> **Dica rápida:** use setas no mesmo sentido (horário, por exemplo) para todas as malhas; qualquer inversão posterior só muda o sinal das equações.
 
 ---
-![[Pasted image 20250429143359.png]] 
-## Ponte de Wheatstone
+
+## Leis de Kirchhoff
+
+### Lei dos Nós (KCL)  
+$$
+\sum I_\text{entrando} \;=\; \sum I_\text{saindo}
+$$
+
+### Lei das Malhas (KVL)  
+$$
+\sum V \;=\; 0 \quad (\text{ao percorrer uma malha fechada})
+$$
+
+**Regras de sinal essenciais**  
+- Mesmo sentido da corrente num resistor → $-IR$  
+- Sentido oposto → $+IR$  
+- Fonte atravessada de $(+)$ para $(-)$ → $-\varepsilon$; no sentido inverso → $+\varepsilon$
 
 ---
-## Ponte de fio
 
-![[Pasted image 20250429143611.png]]
+## Roteiro de Resolução Passo a Passo
+
+1. **Defina os sentidos de corrente** (qualquer escolha serve, mas mantenha-a).  
+2. **Marque polaridades** coerentes para resistores e fontes.  
+3. **Aplique KCL** em $n-1$ nós para obter equações de corrente.  
+4. **Aplique KVL** em cada malha independente até igualar o número de incógnitas.  
+5. **Resolva o sistema algébrico** (substituição, matrizes, método dos nós ou malhas).  
+6. **Verifique sinais**: corrente negativa indica sentido real oposto ao escolhido.
+
+---
+
+## Pontes de Medição
+
+### Ponte de Wheatstone  
+
+| Elementos | Descrição |
+|-----------|-----------|
+| **Esquema** | Quatro resistores $R_1, R_2, R_3, R_x$ formam um losango; um galvanômetro conecta os vértices médios. |
+| **Equilíbrio** | $\displaystyle \frac{R_1}{R_2} = \frac{R_3}{R_x}$ ⇒ $I_g = 0$. |
+| **Uso** | Determinar $R_x$ com grande precisão por comparação. |
+
+---
+
+### Ponte de Fio (Meter Bridge / Slide-Wire Bridge)  
+
+| Elementos | Descrição |
+|-----------|-----------|
+| **Estrutura** | Um fio resistivo uniforme de $1\,\text{m}$ com cursor móvel substitui dois braços da Wheatstone. |
+| **Procedimento** | Ajusta-se o cursor até o galvanômetro indicar zero; mede-se $l_1$ e $l_2 = L - l_1$. |
+| **Fórmula** | $\displaystyle \frac{R_x}{R_s} = \frac{l_1}{l_2}$. |
+
+> **Cuidados práticos:** manter o fio limpo e à temperatura controlada, evitar sulcar o fio com o cursor e usar fontes de baixa tensão para minimizar aquecimento.
