@@ -1,3 +1,4 @@
+#Tipo-Entender
 # Geradores Elétricos
 
 > **Observação terminológica**  
@@ -6,7 +7,8 @@
 ---
 
 ## 1 ▪ Força eletromotriz (f.e.m.)  
-Denotada por $\mathcal{E}$ (ou simplesmente $E$), é a **tensão total** que a bateria ou fonte disponibiliza antes de quaisquer perdas internas.
+- Denotada por $\mathcal{E}$ (ou simplesmente $E$), é a **tensão total** que a bateria ou fonte disponibiliza antes de quaisquer perdas internas.
+- Sua corrente é do menor para o maior, respeitando um sentido anti-horário
 
 ---
 
@@ -56,3 +58,6 @@ $$
 * $\mathcal{E}$ (f.e.m.) = tensão total fornecida pela bateria.  
 * Gerador ideal: $r = 0$, nenhuma perda.  
 * Gerador real: $r \neq 0$, $U = \mathcal{E} - I r$, parte da energia vira calor.
+
+---
+

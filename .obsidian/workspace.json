@@ -11,14 +11,24 @@
             "id": "3d6c8a8994b9c8ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Física/Eletrodinâmica/Geradores elétricos.md",
-                "mode": "source",
-                "source": false
+                "file": "Física/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Geradores elétricos"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           },
           {
@@ -192,14 +202,14 @@
   },
   "active": "3d6c8a8994b9c8ba",
   "lastOpenFiles": [
-    "Física/Eletrodinâmica/Corrente elétrica.md",
-    "Física/Eletrodinâmica/Geradores elétricos.md",
-    "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
-    "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Potência.md",
+    "Física/Eletrodinâmica/Geradores elétricos.md",
+    "Física/Eletrodinâmica/Corrente elétrica.md",
+    "Física/Untitled Kanban.md",
+    "Física/Eletrodinâmica/Tipos de corrente.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Terminologias em latim.md",
     "Física/Exercícios períodicos/Semana 1.md",
     "Física/Exercícios períodicos",

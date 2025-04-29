@@ -1,4 +1,4 @@
-
+#Tipo-Entender 
 A potência é calculada em Watts, ela é dada por:
 
 $$

@@ -14,6 +14,7 @@ kanban-plugin: board
 
 ## Entender
 
+- [ ] Eletrodinâmica
 
 
 ## Fazer exercícios esporadicamente
