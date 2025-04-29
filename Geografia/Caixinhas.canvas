@@ -1,9 +1,8 @@
 {
 	"nodes":[
-		{"id":"283c68ea475ff434","type":"text","text":"Geografia\n","x":-125,"y":1,"width":250,"height":60},
 		{"id":"c79daeee250fcd75","type":"text","text":"Cartografia e Meteorologia","x":-1988,"y":61,"width":250,"height":60},
 		{"id":"ff13d9f4052952b8","type":"text","text":"Termosfera/Ionsfera","x":-1693,"y":410,"width":250,"height":60},
-		{"id":"4a31244e61d3fa56","x":-1388,"y":410,"width":250,"height":60,"type":"text","text":"Esosfera"},
+		{"id":"4a31244e61d3fa56","type":"text","text":"Esosfera","x":-1388,"y":410,"width":250,"height":60},
 		{"id":"a0d3fe0970244017","type":"text","text":"Escalas","x":-2721,"y":240,"width":250,"height":60},
 		{"id":"4816024a052df521","type":"text","text":"Toposfera","x":-2568,"y":410,"width":250,"height":60},
 		{"id":"a5767cb31bc605d4","type":"text","text":"Extratosfera","x":-2268,"y":410,"width":250,"height":60},
@@ -13,9 +12,19 @@
 		{"id":"9b2c12ad26765460","type":"text","text":"Projeções","x":-3208,"y":240,"width":250,"height":60},
 		{"id":"de8068910aa96601","type":"text","text":"Plana","x":-3208,"y":420,"width":250,"height":60},
 		{"id":"968fbbbeac233aee","type":"text","text":"Cônica","x":-2938,"y":420,"width":250,"height":60},
-		{"id":"6793d7a93c267049","x":-900,"y":240,"width":250,"height":50,"type":"text","text":"Clima"},
-		{"id":"91cff99fc551e4f5","x":-1060,"y":410,"width":250,"height":60,"type":"text","text":"Fatores climáticos"},
-		{"id":"fdbc2a5c918d787f","x":-1252,"y":598,"width":250,"height":60,"type":"text","text":"Pressão atmosférica"}
+		{"id":"6793d7a93c267049","type":"text","text":"Clima","x":-900,"y":240,"width":250,"height":50},
+		{"id":"91cff99fc551e4f5","type":"text","text":"Fatores climáticos","x":-1060,"y":410,"width":250,"height":60},
+		{"id":"fdbc2a5c918d787f","type":"text","text":"Pressão atmosférica","x":-1252,"y":598,"width":250,"height":60},
+		{"id":"283c68ea475ff434","type":"text","text":"Geografia\n","x":-125,"y":-600,"width":250,"height":60},
+		{"id":"b92e4687a793aad7","type":"text","text":"Convergência","x":-412,"y":211,"width":250,"height":60},
+		{"id":"328de25753cbf29a","type":"text","text":"Divergência","x":-125,"y":211,"width":250,"height":60},
+		{"id":"b84dee0b97c420bd","type":"text","text":"Transformação","x":180,"y":211,"width":250,"height":60},
+		{"id":"d6764786b9f55c86","type":"text","text":"Estrutura da terra","x":480,"y":211,"width":250,"height":60},
+		{"id":"9503ddb4efd5d56f","type":"text","text":"Lisosfera","x":230,"y":400,"width":250,"height":60},
+		{"id":"7accc71901401f61","type":"text","text":"Manto","x":820,"y":400,"width":250,"height":60},
+		{"id":"2a585d4141b46949","type":"text","text":"Nife","x":520,"y":400,"width":250,"height":60},
+		{"id":"061e940d126e7710","x":770,"y":211,"width":250,"height":60,"type":"text","text":"Placas Oceânicas e continentais"},
+		{"id":"98d57e8036cf3649","type":"text","text":"Tectonismo\n","x":180,"y":20,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"a24537f7b7de932d","fromNode":"283c68ea475ff434","fromSide":"left","toNode":"c79daeee250fcd75","toSide":"top"},
@@ -32,6 +41,15 @@
 		{"id":"1874343bff7f0c42","fromNode":"f1f906d5ee2b4092","fromSide":"bottom","toNode":"4a31244e61d3fa56","toSide":"top"},
 		{"id":"8e363aada2fb0032","fromNode":"c79daeee250fcd75","fromSide":"right","toNode":"6793d7a93c267049","toSide":"top"},
 		{"id":"c4735ed8f683e422","fromNode":"6793d7a93c267049","fromSide":"bottom","toNode":"91cff99fc551e4f5","toSide":"top"},
-		{"id":"dde178ff37c087fc","fromNode":"91cff99fc551e4f5","fromSide":"bottom","toNode":"fdbc2a5c918d787f","toSide":"top"}
+		{"id":"dde178ff37c087fc","fromNode":"91cff99fc551e4f5","fromSide":"bottom","toNode":"fdbc2a5c918d787f","toSide":"top"},
+		{"id":"0a8346319b77bb83","fromNode":"283c68ea475ff434","fromSide":"bottom","toNode":"98d57e8036cf3649","toSide":"top"},
+		{"id":"b9d34b78029e2f5d","fromNode":"98d57e8036cf3649","fromSide":"bottom","toNode":"b92e4687a793aad7","toSide":"top"},
+		{"id":"ce73f76cc0a506c2","fromNode":"98d57e8036cf3649","fromSide":"bottom","toNode":"328de25753cbf29a","toSide":"top"},
+		{"id":"fda235eeb5b12235","fromNode":"98d57e8036cf3649","fromSide":"bottom","toNode":"b84dee0b97c420bd","toSide":"top"},
+		{"id":"af9f03c05b276a95","fromNode":"98d57e8036cf3649","fromSide":"bottom","toNode":"d6764786b9f55c86","toSide":"top"},
+		{"id":"8389be859b519ef2","fromNode":"d6764786b9f55c86","fromSide":"bottom","toNode":"9503ddb4efd5d56f","toSide":"top"},
+		{"id":"a65bf4b4e8df073d","fromNode":"d6764786b9f55c86","fromSide":"bottom","toNode":"2a585d4141b46949","toSide":"top"},
+		{"id":"3f9f44db96b191cd","fromNode":"d6764786b9f55c86","fromSide":"bottom","toNode":"7accc71901401f61","toSide":"top"},
+		{"id":"045b40b51c65f4c6","fromNode":"98d57e8036cf3649","fromSide":"bottom","toNode":"061e940d126e7710","toSide":"top"}
 	]
 }
