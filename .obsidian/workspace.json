@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2baf3e4bbde591c0",
+        "id": "ab78f64d40fe0544",
         "type": "tabs",
         "children": [
           {
-            "id": "1a2de3111403d405",
+            "id": "1a0e136d2142aa59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Física/Exercícios períodicos/Semana 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Semana 1"
             }
           }
         ]
@@ -174,8 +176,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "1a2de3111403d405",
+  "active": "1a0e136d2142aa59",
   "lastOpenFiles": [
+    "Física/Eletrodinâmica/Segunda lei de Ohm.md",
+    "Física/Exercícios períodicos/Semana 1.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Exercícios períodicos",
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
@@ -188,10 +194,8 @@
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
-    "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
     "Geografia/Caixinhas.canvas",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Terminologias em latim.md",
     "Geografia/Gerenciador.md",
     "Geografia/Definições idiotas de geografia.md",
@@ -203,7 +207,6 @@
     "Geografia/Conceitos de geografia/Milton Santos - Geógrafo.md",
     "Geografia/Conceitos de geografia/Definição de Geografia.md",
     "Geografia/Cartografia e Meteorologia/Atmosfera.md",
-    "Química/3 - Tabela Periódica/Características das famílias.md",
     "Geografia/Tectonismo",
     "Geografia/Cartografia e Meteorologia/Orientação geográfica",
     "Biologia/Caixinhas.canvas",
@@ -216,7 +219,6 @@
     "Simulados B",
     "Simulados A",
     "Metacognição/Tipos de Simulados",
-    "Metacognição/Fazendo a prova",
     "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Química/img/Pasted image 20250423080111.png",
