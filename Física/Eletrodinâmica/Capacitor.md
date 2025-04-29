@@ -1,42 +1,30 @@
-Dispostivio capaz de amarzenar carga elétrica e consequentemente energai potencial elétrica provocando depois
+## Capacitor: conceitos-chave
 
-Passagem de corrente descarrega capctiro
- 
-Exemplos: flash de máquina e destrifibilador 
+Um **capacitor** é um dispositivo que **armazena carga elétrica** e, portanto, **energia potencial elétrica**. Ao fechar o circuito, ele libera essa energia na forma de corrente rápida (uso típico: flash de câmera, desfibrilador).
 
+### Capacitância
+- Definição: $C = \dfrac{Q}{U}$
+- Unidade: **farad (F)**
+- Prefixos:  
+  - $1\text{ mF} = 10^{-3}\text{ F}$  
+  - $1\text{ µF} = 10^{-6}\text{ F}$  
+  - $1\text{ nF} = 10^{-9}\text{ F}$  
 
+### Relações fundamentais
+- **Carga:** $Q = C \cdot U$  
+- **Energia armazenada:** $E = \dfrac12 C U^{2}$  
+
+### Capacitor de placas paralelas
 $$
-Capcitância = \frac{Q}{U} 
+C = \dfrac{\varepsilon A}{d}
 $$
-Coloumb por volt. 
-$$
-\frac{Q}{U} = Farad
-$$
+onde $\varepsilon = \varepsilon_0 \varepsilon_r$ é a permissividade do dielétrico, $A$ é a área de cada placa e $d$ a distância entre elas.
 
-formula $Q = C \cdot U$, Que cu.
+### Associação de capacitores
 
-F então é farad:
+| Configuração | Regra | Observação |
+|--------------|-------|------------|
+| **Série** | $\displaystyle \frac{1}{C_\text{eq}} = \sum_i \frac{1}{C_i}$ | Mesma **carga** em todos os capacitores; a tensão se divide |
+| **Paralelo** | $\displaystyle C_\text{eq} = \sum_i C_i$ | Mesma **tensão** em todos; as cargas se somam |
 
-$$
-mF = 10^{-3}F
-$$
-$$
-uF = 10^{-6}F
-$$
-
-você pode olhar por outra coisa também, capacitância em um capacitor plano com duas placas e distância e área
-
-que fica
-
-$$
-C = \frac{permissividade elétrica \cdot A}{d}
-$$
----
-
-O capasitor basicamente armazena carga gerando uma diferença de potencial elétrico.
-
-A formula de calcular é o contrário das resistências
-
-- Capacitores em série tem a mesma carga, ou seja, o $C_{eq}$ = 1/Ceq + 1/C1 + 1/c2
-- 
----
+> **Resumo** – O capacitor armazena carga criando uma diferença de potencial; sua análise é análoga à dos resistores, mas com regras de série/paralelo invertidas.
