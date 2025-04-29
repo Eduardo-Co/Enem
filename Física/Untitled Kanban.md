@@ -30,6 +30,7 @@ kanban-plugin: board
 
 ## Concluido
 
+- [ ] A resistência interna está em série ou em paralelo com o resto do circuito? - Em série por isso a perda de tensão
 - [ ] Beleza, tenho a quantidade de carga, mas o que fazer com o N ou como saber exatamente a carga é a soma de protons com elétrons como se dá isso?
 - [ ] Entender melhor sobre como a tensão e a corrente se espalha em um circuíto
 - [ ] Funcionamento ohrímetro
@@ -45,7 +46,6 @@ kanban-plugin: board
 
 ## dúvidas
 
-- [ ] A resistência interna está em série ou em paralelo com o resto do circuito?
 
 
 
