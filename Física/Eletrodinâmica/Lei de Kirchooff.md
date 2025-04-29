@@ -8,3 +8,17 @@ Traz o conceito de malha ramo e nó
 ## Lei dos nós:
 
 Tudo que entre deve sair na mesma proporção 
+
+
+## Lei das malhas:
+
+A soma das tensões tem que ser zero
+
+
+---
+Passo a passo:
+
+- Sentido da corrente
+- polaridade
+- Escolha um nó e aplique as leis de Kirchhoff. Veja que sempre é n-1 equações, sendo n o número de nós.
+- Aplique a segunda lei de kirchhoff em cada malha. Até atingir o número suficiente de equações
