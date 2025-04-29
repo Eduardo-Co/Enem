@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Geradores elétricos"
             }
+          },
+          {
+            "id": "0937e5961e717150",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,13 +191,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "3d6c8a8994b9c8ba",
+  "active": "0937e5961e717150",
   "lastOpenFiles": [
+    "Física/Eletrodinâmica/Geradores elétricos.md",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Untitled Kanban.md",
-    "Física/Eletrodinâmica/Geradores elétricos.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Terminologias em latim.md",
     "Física/Exercícios períodicos/Semana 1.md",
