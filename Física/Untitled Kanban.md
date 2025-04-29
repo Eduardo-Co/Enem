@@ -21,6 +21,7 @@ kanban-plugin: board
 
 - [ ] Elétrica/Eletrodinamica/Ohm/etc...
 - [ ] Conta elétrica/Painel Solar
+- [ ] Leitura de Manual aparelho
 
 
 ## Revisar
