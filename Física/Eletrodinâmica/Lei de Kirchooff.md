@@ -22,3 +22,13 @@ Passo a passo:
 - polaridade
 - Escolha um nó e aplique as leis de Kirchhoff. Veja que sempre é n-1 equações, sendo n o número de nós.
 - Aplique a segunda lei de kirchhoff em cada malha. Até atingir o número suficiente de equações
+
+
+---
+![[Pasted image 20250429143359.png]] 
+## Ponte de Wheatstone
+
+---
+## Ponte de fio
+
+![[Pasted image 20250429143611.png]]

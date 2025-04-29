@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Eletrodinâmica/Lei de Kirchooff.md",
+                "file": "Física/Eletrodinâmica/Capacitor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lei de Kirchooff"
+              "title": "Capacitor"
             }
           }
         ]
@@ -180,15 +180,18 @@
   },
   "active": "c8085c20db182fcc",
   "lastOpenFiles": [
-    "Física/Eletrodinâmica/Geradores elétricos.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Eletrodinâmica/Capacitor.md",
     "Física/Eletrodinâmica/Lei de Kirchooff.md",
+    "Física/img/Pasted image 20250429143611.png",
+    "Física/img/Pasted image 20250429143359.png",
+    "Física/Eletrodinâmica/Geradores elétricos.md",
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Terminologias em latim.md",
     "Física/Exercícios períodicos/Semana 1.md",
     "Física/Exercícios períodicos",
@@ -208,8 +211,6 @@
     "O que Estudar/Geografia e sociologia.md",
     "Geografia/Tectonismo/Estrutura da terra.md",
     "Geografia/Conceitos de geografia/Definição de Paisagem.md",
-    "Geografia/Conceitos de geografia/Milton Santos - Geógrafo.md",
-    "Geografia/Conceitos de geografia/Definição de Geografia.md",
     "Geografia/Tectonismo",
     "Geografia/Cartografia e Meteorologia/Orientação geográfica",
     "Biologia/Caixinhas.canvas",
@@ -231,9 +232,7 @@
     "Física/img/Pasted image 20250415103427.png",
     "Física/img/Pasted image 20250415065538.png",
     "Física/img/Pasted image 20250415065518.png",
-    "Física/img/Pasted image 20250408093633.png",
     "Física/Untitled.canvas",
-    "O que Estudar/imagens/Pasted image 20250406151005.png",
     "Excalidraw/Calculo 1/E.canvas",
     "Sem título.canvas"
   ]
