@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "beacc45681d90b45",
+        "id": "acbb8dd4e5a198ca",
         "type": "tabs",
         "children": [
           {
-            "id": "3d6c8a8994b9c8ba",
+            "id": "c8085c20db182fcc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Eletrodinâmica/Lei de Kirchooff.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "0937e5961e717150",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Lei de Kirchooff"
             }
           }
         ]
@@ -200,14 +178,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "3d6c8a8994b9c8ba",
+  "active": "c8085c20db182fcc",
   "lastOpenFiles": [
+    "Física/Eletrodinâmica/Geradores elétricos.md",
+    "Física/Eletrodinâmica/Lei de Kirchooff.md",
+    "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "Física/Eletrodinâmica/Potência.md",
-    "Física/Eletrodinâmica/Geradores elétricos.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
-    "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Terminologias em latim.md",
