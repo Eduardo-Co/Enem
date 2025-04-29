@@ -43,10 +43,15 @@ kanban-plugin: board
 - [ ] Questão das unidades de medida J/C whatt e Voltagem
 
 
+## dúvidas
+
+- [ ] A resistência interna está em série ou em paralelo com o resto do circuito?
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
 ```
 %%
