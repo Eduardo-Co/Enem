@@ -25,8 +25,7 @@ kanban-plugin: board
 ## Revisar
 
 - [ ] Redesenhar circuito com pontos em uma linha - Treinar técnica
-- [ ] Condutividade e Resistividade
-- [ ] Questão das unidades de medida J/C whatt e Voltagem
+- [ ] Resistência interna de um gerador
 
 
 ## Concluido
@@ -39,7 +38,9 @@ kanban-plugin: board
 - [ ] diferenças entre protons e neutrons?
 - [ ] Área de um círculo
 - [ ] Placa fotovoltáica
+- [ ] Condutividade e Resistividade
 - [ ] Direção vetores campo elétrico
+- [ ] Questão das unidades de medida J/C whatt e Voltagem
 
 
 
