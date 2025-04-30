@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d4832cb98c4b5c4",
+        "id": "42796a33f74afa49",
         "type": "tabs",
         "children": [
           {
-            "id": "e32097ccd43fe7cd",
+            "id": "0ca5ac3c9365c300",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,15 +178,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e32097ccd43fe7cd",
+  "active": "0ca5ac3c9365c300",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Química/Ligações químicas/Ligação iônica.md",
-    "Química/Ligações químicas",
     "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
-    "Cronograma.md",
+    "Química/Ligações químicas/Ligação iônica.md",
     "Química/Untitled.canvas",
     "Química/Untitled Kanban.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Ligações químicas",
+    "Cronograma.md",
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
     "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
     "Química/Atomo/2 - Distribuição eletrônica/Distribuição eletrônica.md",
