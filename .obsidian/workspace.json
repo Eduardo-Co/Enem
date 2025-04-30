@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77f4cd5c8356bfb5",
+            "id": "e32097ccd43fe7cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
+                "file": "Química/Ligações químicas/Ligação iônica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propriedades periódicas dos elementos"
-            }
-          },
-          {
-            "id": "e32097ccd43fe7cd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "title": "Ligação iônica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,9 +180,11 @@
   },
   "active": "e32097ccd43fe7cd",
   "lastOpenFiles": [
-    "Cronograma.md",
-    "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Ligações químicas/Ligação iônica.md",
+    "Química/Ligações químicas",
+    "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
+    "Cronograma.md",
     "Química/Untitled.canvas",
     "Química/Untitled Kanban.md",
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
@@ -223,8 +212,6 @@
     "Física/img/Pasted image 20250429143359.png",
     "Física/Eletrodinâmica/Geradores elétricos.md",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
-    "Física/Eletrodinâmica/Potência.md",
-    "Física/Eletrodinâmica/Corrente elétrica.md",
     "Física/Exercícios períodicos",
     "Geografia/Caixinhas.canvas",
     "Geografia/Tectonismo",
@@ -237,7 +224,6 @@
     "Pasted image 20250426093409.png",
     "Pasted image 20250426093411.png",
     "Simulados B",
-    "Simulados A",
     "Linguagens/Untitled.canvas",
     "Química/img/Pasted image 20250423080111.png",
     "Química/img/Pasted image 20250423072702.png",
