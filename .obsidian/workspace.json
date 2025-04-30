@@ -37,12 +37,14 @@
             "id": "e4d2bfcf46b38afc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Química/Exercícios/Semana 4.md"
+                "file": "O que Estudar/Química.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Semana 4"
+              "icon": "lucide-file",
+              "title": "Química"
             }
           }
         ],
@@ -205,8 +207,8 @@
   },
   "active": "e4d2bfcf46b38afc",
   "lastOpenFiles": [
-    "Química/Ligações químicas/Hibridização.md",
     "Química/Exercícios/Semana 4.md",
+    "Química/Ligações químicas/Hibridização.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Untitled Kanban.md",
     "Química/Untitled.canvas",
