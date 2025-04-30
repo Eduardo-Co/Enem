@@ -22,7 +22,7 @@
 | Propriedade                   | Resumo                                                                                                                                                                      |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Estado físico (25 °C)**     | Pode ser sólido, líquido ou gasoso → **único tipo que forma gases** nessa condição (H₂, O₂, N₂, CO₂).                                                                       |
-| **PF / PE**                   | **Baixos** em moléculas pequenas (H₂O, CH₄). **Altos** em redes covalentes extensas (diamante, grafeno, SiO₂). - ***==Baixo é baixo mesmo, tipo negativo==***               |
+| **PF / PE**                   | **Baixos** em moléculas pequenas (H₂O, CH₄). **Altos** em redes covalentes extensas (==diamante, grafeno, SiO₂==). - ***==Baixo é baixo mesmo, tipo negativo==***           |
 | **Condução elétrica**         | Geralmente **não conduzem** (sem íons livres). Exceção: substâncias que ionizam em solução, p.ex. HCl → H⁺ + Cl⁻. O u seja misturada em solução aquosa ou em estado líquido |
 | **Solubilidade & Polaridade** | Polares (H₂O, NH₃) dissolvem em água; apolares (CH₄, C₆H₆) dissolvem em solventes orgânicos.                                                                                |
 | **Importância biológica**     | DNA, proteínas, carboidratos e lipídios dependem de ligações covalentes para manter estrutura e função.                                                                     |
