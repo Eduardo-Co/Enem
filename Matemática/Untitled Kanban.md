@@ -27,6 +27,7 @@ kanban-plugin: board
 
 ## Faltou de questões
 
+- [ ] Prestar atenção e anotar o principal de tudo
 
 
 ## revisar

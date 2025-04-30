@@ -11,24 +11,12 @@
             "id": "77f4cd5c8356bfb5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "Matemática/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Matemática/Matemática todo dia/Semana 1.md"
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "excalidraw-icon",
+              "title": "Semana 1"
             }
           }
         ]
@@ -190,7 +178,9 @@
   },
   "active": "77f4cd5c8356bfb5",
   "lastOpenFiles": [
+    "Matemática/Untitled Kanban.md",
     "Matemática/Matemática todo dia/Semana 1.md",
+    "Matemática/Matemática básica/Simulados/Simulado 1.md",
     "Física/Exercícios/Semana 3.md",
     "Física/Exercícios/Questões Lumb.md",
     "Física/Untitled Kanban.md",
@@ -219,9 +209,7 @@
     "Geografia/Caixinhas.canvas",
     "Geografia/Gerenciador.md",
     "Geografia/Definições idiotas de geografia.md",
-    "Matemática/Untitled Kanban.md",
     "Geografia/Tectonismo/Placas tectônicas.md",
-    "O que Estudar/Geografia e sociologia.md",
     "Geografia/Tectonismo",
     "Geografia/Cartografia e Meteorologia/Orientação geográfica",
     "Biologia/Caixinhas.canvas",
