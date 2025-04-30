@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +203,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e4d2bfcf46b38afc",
+  "active": "eb4ffc1d54942839",
   "lastOpenFiles": [
-    "Química/Ligações químicas/Hibridização.md",
     "Química/Exercícios/Semana 4.md",
+    "Química/Ligações químicas/Hibridização.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Untitled Kanban.md",
     "Química/Untitled.canvas",

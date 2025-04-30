@@ -1,13 +1,32 @@
-Hibridizar ou compartilhar misturar orbitais, mais comuns e no quais trabalhamos: s,p,d ele msitura orbitais. Ele vem explciar como funciona a parte de geometria molecular. 
+## Hibridação — ideia-chave em 3 passos
 
-lembra que orbrtal é em par de elétronsa então tem a formula
+1. **Conte todo par eletrônico que “fica ao redor” do átomo central**  
+   *Cada par ocupa **um orbital** híbrido.*  
+   $$
+   \text{SN} = \underbrace{\sigma}_{\text{ligações simples ou partes σ de duplas/triplas}}
+             + \underbrace{\text{pares isolados}}_{\text{não-ligantes}}
+   $$
+   *SN = “steric number” (número estérico).*
 
-a + b = x + y + z
+2. **Lembre que cada orbital leva 2 elétrons ⇒ elétrons aparecem em pares**  
+   Logo, se o átomo precisa acomodar 4 pares $\;\Rightarrow\;$ ele mistura **4 orbitais** (1 s + 3 p = $sp^3$).
 
-sendo x,y,z = $s^x+p^y+d^z$  Lembrando que por serem subníveis eles cabendo dois eletrons em cada será sempre o número de eletrons que cabe em cada subnível divido por 2. Isso será os orbitais. 
+3. **Associe o $\text{SN}$ ao tipo de mistura**  
+   | SN | Mistura | Resultado geométrico básico |
+   |----|---------|-----------------------------|
+   | 2  | $sp$   | linear |
+   | 3  | $sp^2$ | trigonal plana |
+   | 4  | $sp^3$ | tetraédrica |
+   | 5  | $sp^3d$ | bipirâmide trigonal |
+   | 6  | $sp^3d^2$ | octaédrica |
 
-Assim você verificar a hibridização dos orbitais . Eles são semipreenchidos, ou seja com ligação covalente ou dativa /coordenada
+> **Resumo mental**:  
+> “$\sigma$-ligações + pares isolados → quantos orbitais preciso misturar → nome da hibridação.”
 
-VocÊ vai preenchendo os oribtais olhando para a  última camada, e o que sobrou pode ficar em um estado excitado e ajuntar-se.
+### Exemplo super-rápido ($CH_4$)
 
-Lembre que no estado sp^2 há a possibilidade de dois orbitais p fundirem  com s e ficarem 
+* $\sigma$-ligações: 4  
+* Pares isolados: 0  
+* $\text{SN} = 4 \;\Rightarrow\; sp^3$ (tetraédrico, ~109,5°).
+
+Pronto — basta contar pares, lembrar que cada par = 1 orbital, e dar o nome pela tabela acima.
