@@ -1,5 +1,7 @@
 O modelo de **Bohr** aperfeiçoa a proposta de Rutherford ao introduzir quantização de energia, desenvolvendo o da:
 
+==***Descobre o modelo de camada eletrônica***==
+
 - **Órbitas estacionárias:**
 1. Os elétrons giram ao redor do núcleo em **órbitas circulares fixas** com **níveis de energia definidos**, ==energia estacionária==.
 2. Enquanto estão nessas órbitas, os elétrons **não perdem energia**.
