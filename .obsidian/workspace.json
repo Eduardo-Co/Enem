@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "db16e5c40023449b",
+        "id": "569275b1f0096053",
         "type": "tabs",
         "children": [
           {
-            "id": "8153c021d3b82124",
+            "id": "cd3d60caf76550c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
+                "file": "Química/Ligações químicas/Estruturas de Lewis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propriedades periódicas dos elementos"
+              "title": "Estruturas de Lewis"
+            }
+          },
+          {
+            "id": "9fe1c88265c6b968",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Química/Exercícios/Semana 4.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Semana 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,13 +191,16 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "8153c021d3b82124",
+  "active": "9fe1c88265c6b968",
   "lastOpenFiles": [
+    "Química/Ligações químicas/NOX - Número de oxidação.md",
+    "Química/Ligações químicas/Estruturas de Lewis.md",
+    "Química/Ligações químicas/Ligações metálicas.md",
+    "Química/Exercícios/Semana 4.md",
+    "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
     "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
     "Química/Ligações químicas/Ligação Químicas.md",
-    "Química/Exercícios/Semana 4.md",
-    "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Ligações químicas/Geometria molecular.md",
     "Química/Ligações químicas/Ligação covalente coordenada ou dativa.md",
     "Química/Ligações químicas/Ligação covalente.md",
@@ -192,17 +208,14 @@
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "O que Estudar/Química.md",
     "Química/Ligações químicas/Hibridização.md",
-    "Química/Ligações químicas/Ligações metálicas.md",
     "Metacognição/Tipos de exercício.md",
     "Terminologias em latim.md",
     "Química/Untitled Kanban.md",
     "Química/Untitled.canvas",
     "Química/Ligações químicas/Ligação iôica.md",
-    "Química/Ligações químicas/NOX - Número de oxidação.md",
     "Química/Exercícios/Untitled.md",
     "Ink/Writing/2025.4.30 - 14.35pm.writing",
     "Química/img/Pasted image 20250430143026.png",
-    "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
     "Química/Ligações químicas",
     "Cronograma.md",
     "Química/Atomo/2 - Distribuição eletrônica/Distribuição eletrônica.md",

@@ -16,7 +16,7 @@
 ## 2. Carga Formal (CF)
 
 $$
-\boxed{\text{Carga formal} = \text{Antes da ligação} - \text{Quebra após a ligação}}
+\boxed{\text{Carga formal} = \text{Antes da ligação na última camada de valência} - \text{Quebra após a ligação}}
 $$
 
 **Objetivo:** escolher a estrutura em que  
