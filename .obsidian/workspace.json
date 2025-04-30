@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c4e515e1787c237",
+        "id": "db16e5c40023449b",
         "type": "tabs",
         "children": [
           {
-            "id": "921db8e5ce940590",
+            "id": "8153c021d3b82124",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -17,18 +17,6 @@
               },
               "icon": "lucide-file-text",
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
-            }
-          },
-          {
-            "id": "eb4ffc1d54942839",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Química/Exercícios/Semana 4.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Semana 4"
             }
           }
         ]
@@ -188,11 +176,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "921db8e5ce940590",
+  "active": "8153c021d3b82124",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Exercícios/Semana 4.md",
     "O que Estudar/Química.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Ligações químicas/Hibridização.md",
     "Química/Ligações químicas/Ligação Químicas.md",
     "Química/Ligações químicas/Ligações metálicas.md",
