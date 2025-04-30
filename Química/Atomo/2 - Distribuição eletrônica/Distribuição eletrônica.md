@@ -26,4 +26,4 @@ Ou seja são no total 32, que é o maior número de Elétrons que uma cada pode 
 $$
 d^4,d^9,f6,f^{13}
 $$
-Para atingir um maior grau de estabilização você deve jogar para a camada anterior um elétron
+Para atingir um maior grau de estabilização você deve puxar da camada anterior um elétron
