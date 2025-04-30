@@ -13,7 +13,7 @@ $$
 r = \frac{d}2
 $$
 
-***Para baixo e da direita para esquerda - aumento do raio***
+***Para baixo e da direita para esquerda - aumento do raio*** - Quanto menor o número de elétrons menos protons. Portanto maior raio;
 
 ----
 ## 2. Eletropositividade:
@@ -26,7 +26,7 @@ $$
 ## Energia (potencial) de ionização 
 
 É o quanto de energia precisa para remover um elétron da camada de valência.
-Uma vez que quanto menor maior 
+a
 
 ***Para cima e da esquerda para direita, basta raciocinar que é quanto mais próximo for o núcleo da camada de valência e quanto mais elétrons tiver, mais difícil será, mais energia irá precisar***
 
