@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "NOX - Número de oxidação"
             }
+          },
+          {
+            "id": "eb4ffc1d54942839",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Química/Exercícios/Semana 4.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Semana 4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "921db8e5ce940590",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Ligações químicas/NOX - Número de oxidação.md",
+    "Química/Exercícios/Semana 4.md",
+    "Química/Exercícios/Untitled.md",
+    "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Ligações químicas/Hibridização.md",
     "Química/Ligações químicas/Ligação covalente coordenada ou dativa.md",
     "Química/Ligações químicas/Ligação covalente.md",
@@ -210,8 +225,6 @@
     "Matemática/Untitled Kanban.md",
     "Matemática/Matemática básica/Simulados/Simulado 1.md",
     "Física/Exercícios/Semana 3.md",
-    "Física/Exercícios/Questões Lumb.md",
-    "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Física/img/Pasted image 20250429143611.png",
     "Física/img/Pasted image 20250429143359.png",
