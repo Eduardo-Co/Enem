@@ -23,32 +23,15 @@
             "id": "eb4ffc1d54942839",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Química/Ligações químicas/Hibridização.md",
-                "mode": "source",
-                "source": false
+                "file": "Química/Exercícios/Semana 4.md"
               },
-              "icon": "lucide-file",
-              "title": "Hibridização"
-            }
-          },
-          {
-            "id": "e4d2bfcf46b38afc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que Estudar/Química.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Química"
+              "icon": "excalidraw-icon",
+              "title": "Semana 4"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,11 +188,16 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e4d2bfcf46b38afc",
+  "active": "921db8e5ce940590",
   "lastOpenFiles": [
     "Química/Exercícios/Semana 4.md",
-    "Química/Ligações químicas/Hibridização.md",
+    "O que Estudar/Química.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Ligações químicas/Hibridização.md",
+    "Química/Ligações químicas/Ligação Químicas.md",
+    "Química/Ligações químicas/Ligações metálicas.md",
+    "Metacognição/Tipos de exercício.md",
+    "Terminologias em latim.md",
     "Química/Untitled Kanban.md",
     "Química/Untitled.canvas",
     "Química/Ligações químicas/Ligação covalente.md",
@@ -220,8 +208,6 @@
     "Química/Ligações químicas/Estruturas de Lewis.md",
     "Ink/Writing/2025.4.30 - 14.35pm.writing",
     "Química/img/Pasted image 20250430143026.png",
-    "Química/Ligações químicas/Ligação Químicas.md",
-    "Química/Ligações químicas/Ligações metálicas.md",
     "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
     "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
@@ -234,10 +220,7 @@
     "Química/Atomo/1- Modelos atômicos/Modelo de Rutheford.md",
     "Química/Atomo/1- Modelos atômicos/Modelo de Thomson.md",
     "Química/Atomo/1- Modelos atômicos/Modelo de Dalton.md",
-    "Matemática/Matemática todo dia/Semana 1.md",
     "Química/Atomo",
-    "Matemática/Untitled Kanban.md",
-    "Matemática/Matemática básica/Simulados/Simulado 1.md",
     "Física/Caixinhas.canvas",
     "Física/img/Pasted image 20250429143611.png",
     "Física/img/Pasted image 20250429143359.png",

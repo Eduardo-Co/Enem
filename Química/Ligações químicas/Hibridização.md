@@ -1,3 +1,10 @@
+
+Mais focado em entender como funciona e como está estruturada em orbitais e geometria.
+
+- Cada orbital representa 2 elétrons - 2 moléculas quânticas.
+- Cada ligação e par de elétrons livres fica em um orbital.
+- A partir disso conta-se o número de orbitais sendo que eles ficam nos subníveis: s,p,d,f. Só pegar em potências de 2 o que cada um representa
+
 ## Hibridação — ideia-chave em 3 passos
 
 1. **Conte todo par eletrônico que “fica ao redor” do átomo central**  
