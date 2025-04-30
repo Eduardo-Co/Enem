@@ -11,12 +11,14 @@
             "id": "8153c021d3b82124",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Química/Exercícios/Semana 4.md"
+                "file": "Química/Ligações químicas/Estruturas de Lewis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Semana 4"
+              "icon": "lucide-file",
+              "title": "Estruturas de Lewis"
             }
           }
         ]
@@ -179,10 +181,12 @@
   "active": "8153c021d3b82124",
   "lastOpenFiles": [
     "Química/Ligações químicas/Geometria molecular.md",
+    "Química/Exercícios/Semana 4.md",
+    "Química/Ligações químicas/Ligação covalente coordenada ou dativa.md",
+    "Química/Ligações químicas/Ligação covalente.md",
     "Química/Ligações químicas/Untitled.md",
     "Química/Ligações químicas/Estruturas de Lewis.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Química/Exercícios/Semana 4.md",
     "O que Estudar/Química.md",
     "Química/Ligações químicas/Hibridização.md",
     "Química/Ligações químicas/Ligação Químicas.md",
@@ -191,8 +195,6 @@
     "Terminologias em latim.md",
     "Química/Untitled Kanban.md",
     "Química/Untitled.canvas",
-    "Química/Ligações químicas/Ligação covalente.md",
-    "Química/Ligações químicas/Ligação covalente coordenada ou dativa.md",
     "Química/Ligações químicas/Ligação iôica.md",
     "Química/Ligações químicas/NOX - Número de oxidação.md",
     "Química/Exercícios/Untitled.md",
