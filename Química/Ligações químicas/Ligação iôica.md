@@ -29,3 +29,4 @@ Essas características explicam por que sais combinam **rigidez** e **alta estab
 - **Pontos de fusão/ebulição elevados** graças à forte energia de rede.
     
 - **Condução elétrica:** isolante no estado sólido; **conduz** quando **fundido** ou **dissolvido em água** (íons livres).
+	
