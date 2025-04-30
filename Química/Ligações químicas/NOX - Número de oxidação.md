@@ -17,4 +17,4 @@ Determinar o NOX:
 7. O nox do oxigênio na maioria dos compostos é -2 
 - Excessão: peróxidos (01), superóxidos( -1/2); fluoretos +2 e dfiluorestos (+1) 
 8. O somatório das cargas deve ser zero. ***NOX pela atomicidade para fazer a somatória o nox é para cada átomo e não molécula***
-9. O somátório das cargas de um íon politômico é sempre igual a sua carga. Devemos multiplcoarr o nox pela atomicidade para faze
+9. O somátório das cargas de um íon politômico é sempre igual a sua carga. Devemos multiplcoarr o nox pela atomicidade para fazer a somatório lembra que aqui não vai dar 0 por causa dos ions
