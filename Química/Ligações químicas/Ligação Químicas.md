@@ -36,3 +36,6 @@ Propriedades como **estado físico, ponto de fusão, ponto de ebulição e tempe
 - **Propriedades físicas** resultam da magnitude das interações interatômicas/intermoleculares, não apenas do tamanho dos átomos.
     
 - Entender **tipos de ligações** e **forças intermoleculares** permite prever estados físicos, pontos de fusão e outras características macroscópicas da matéria.
+
+
+![[Pasted image 20250430143026.png]]
