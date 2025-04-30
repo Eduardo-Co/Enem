@@ -11,12 +11,14 @@
             "id": "77f4cd5c8356bfb5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Matemática todo dia/Semana 1.md"
+                "file": "Química/Atomo/1- Modelos atômicos/Modelos autais + resumo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Semana 1"
+              "icon": "lucide-file",
+              "title": "Modelos autais + resumo"
             }
           }
         ]
@@ -178,8 +180,14 @@
   },
   "active": "77f4cd5c8356bfb5",
   "lastOpenFiles": [
-    "Matemática/Untitled Kanban.md",
+    "Química/Atomo/1- Modelos atômicos/Modelo de Bohr.md",
+    "Química/Atomo/1- Modelos atômicos/Modelos autais + resumo.md",
+    "Química/Atomo/1- Modelos atômicos/Modelo de Dalton.md",
+    "Química/Atomo/1- Modelos atômicos/Modelo de Rutheford.md",
+    "Química/Atomo/1- Modelos atômicos/Modelo de Thomson.md",
     "Matemática/Matemática todo dia/Semana 1.md",
+    "Química/Atomo",
+    "Matemática/Untitled Kanban.md",
     "Matemática/Matemática básica/Simulados/Simulado 1.md",
     "Física/Exercícios/Semana 3.md",
     "Física/Exercícios/Questões Lumb.md",
@@ -204,12 +212,7 @@
     "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
     "Física/Eletroestática + fotovoltaica/Linhas de campo.md",
     "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
-    "Física/Eletroestática + fotovoltaica/Processos de eletrização.md",
-    "Física/Eletroestática + fotovoltaica/Lei de Coulomb.md",
     "Geografia/Caixinhas.canvas",
-    "Geografia/Gerenciador.md",
-    "Geografia/Definições idiotas de geografia.md",
-    "Geografia/Tectonismo/Placas tectônicas.md",
     "Geografia/Tectonismo",
     "Geografia/Cartografia e Meteorologia/Orientação geográfica",
     "Biologia/Caixinhas.canvas",
@@ -221,7 +224,6 @@
     "Pasted image 20250426093411.png",
     "Simulados B",
     "Simulados A",
-    "Metacognição/Tipos de Simulados",
     "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Química/img/Pasted image 20250423080111.png",
