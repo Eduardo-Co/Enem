@@ -18,15 +18,14 @@ $$
 ----
 ## 2. Eletropositividade:
 
-==Acompanha o raio atômico==, quanto maior o raio menor influência o núcleo exerce sobre a última camada então possibilidade ele perder elétrons. Logo:
+Facilidade com que o átomo **perde elétrons** formando cátion. Acompanha o raio atômico porque a atração núcleo-elétron é menor.
 
 ***É a capacidade de perder elétrons, e acompanha o sentido do raio atômico, direita para esquerda e para baixo***
 
 ---
 ## Energia (potencial) de ionização 
 
-É o quanto de energia precisa para remover um elétron da camada de valência.
-a
+Energia mínima para remover **um elétron da camada de valência**:
 
 ***Para cima e da esquerda para direita, basta raciocinar que é quanto mais próximo for o núcleo da camada de valência e quanto mais elétrons tiver, mais difícil será, mais energia irá precisar***
 
