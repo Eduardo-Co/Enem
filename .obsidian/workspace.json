@@ -11,12 +11,24 @@
             "id": "77f4cd5c8356bfb5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Matemática/Matemática todo dia/Semana 1.md"
+                "file": "Matemática/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Semana 1"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -178,6 +190,7 @@
   },
   "active": "77f4cd5c8356bfb5",
   "lastOpenFiles": [
+    "Matemática/Matemática todo dia/Semana 1.md",
     "Física/Exercícios/Semana 3.md",
     "Física/Exercícios/Questões Lumb.md",
     "Física/Untitled Kanban.md",
@@ -209,7 +222,6 @@
     "Matemática/Untitled Kanban.md",
     "Geografia/Tectonismo/Placas tectônicas.md",
     "O que Estudar/Geografia e sociologia.md",
-    "Geografia/Tectonismo/Estrutura da terra.md",
     "Geografia/Tectonismo",
     "Geografia/Cartografia e Meteorologia/Orientação geográfica",
     "Biologia/Caixinhas.canvas",
