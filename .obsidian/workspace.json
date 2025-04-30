@@ -11,20 +11,30 @@
             "id": "77f4cd5c8356bfb5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Química/Untitled.canvas",
-                "viewState": {
-                  "x": -877.3732280586573,
-                  "y": 546.0806628595901,
-                  "zoom": -0.957543738774139
-                }
+                "file": "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Propriedades periódicas dos elementos"
+            }
+          },
+          {
+            "id": "e32097ccd43fe7cd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +191,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "77f4cd5c8356bfb5",
+  "active": "e32097ccd43fe7cd",
   "lastOpenFiles": [
-    "Química/Untitled Kanban.md",
+    "Cronograma.md",
     "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Untitled.canvas",
+    "Química/Untitled Kanban.md",
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
     "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
     "Química/Atomo/2 - Distribuição eletrônica/Distribuição eletrônica.md",
@@ -205,7 +218,6 @@
     "Física/Exercícios períodicos/Semana 1.md",
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
     "Física/Eletrodinâmica/Capacitor.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Lei de Kirchooff.md",
     "Física/img/Pasted image 20250429143611.png",
     "Física/img/Pasted image 20250429143359.png",
@@ -213,7 +225,6 @@
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
-    "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Exercícios períodicos",
     "Geografia/Caixinhas.canvas",
     "Geografia/Tectonismo",
@@ -227,7 +238,6 @@
     "Pasted image 20250426093411.png",
     "Simulados B",
     "Simulados A",
-    "Química/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Química/img/Pasted image 20250423080111.png",
     "Química/img/Pasted image 20250423072702.png",

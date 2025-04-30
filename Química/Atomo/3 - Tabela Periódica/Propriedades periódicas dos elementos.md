@@ -47,3 +47,35 @@ Força de atração exercida sobre os elétrons
 ***De baixo para cima e da esquerda para direita***
 
 ---
+#  setas separadas
+
+> Cada par de setas indica **duas direções independentes** em que a propriedade aumenta  
+> (primeiro vertical, depois horizontal).
+
+## 1. Raio Atômico $\downarrow\;\!\leftarrow$
+
+Aumenta **para baixo** (mais níveis de energia) e **para a esquerda** (menor carga nuclear efetiva).
+
+---
+
+## 2. Eletropositividade $\downarrow\;\!\leftarrow$
+
+Facilidade de formar cátion; cresce no mesmo sentido do raio atômico.
+
+---
+
+## 3. Energia de Ionização $\uparrow\;\!\rightarrow$
+
+Energia mínima para remover um elétron da camada de valência; maior **para cima** e **para a direita**.
+
+---
+
+## 4. Afinidade Eletrônica $\uparrow\;\!\rightarrow$
+
+Energia liberada ao ganhar um elétron; torna-se mais exoenergética no topo-direita da Tabela.
+
+---
+
+## 5. Eletronegatividade $\uparrow\;\!\rightarrow$
+
+Força de atração sobre pares eletrônicos em ligações; máxima no canto superior direito (ex.: F).
