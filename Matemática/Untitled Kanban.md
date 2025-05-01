@@ -17,12 +17,14 @@ kanban-plugin: board
 
 ## Entender
 
+- [ ] Porcentagem
 
 
 ## Fazer exercícios esporadicamente
 
 - [ ] Matemática básica
 - [ ] Exercício de escala
+- [ ] Porcentagem - pegar uns específicos que contem essa parte de acréscimo / desconto
 
 
 ## Faltou de questões
