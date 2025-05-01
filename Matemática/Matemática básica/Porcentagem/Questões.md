@@ -1,0 +1,2 @@
+- Quando fala 30% a menos, representa um desconto de 30%. 
+- 
