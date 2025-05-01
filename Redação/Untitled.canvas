@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"f848420311abf6e2","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Eixos temáticos"},
+		{"id":"5877fd390eaab3d5","x":-752,"y":141,"width":250,"height":60,"type":"text","text":"Econômia"},
+		{"id":"422a83108faa01cc","x":-420,"y":141,"width":250,"height":60,"type":"text","text":"Cultura"},
+		{"id":"3d36b92782300054","x":-600,"y":440,"width":250,"height":60,"type":"text","text":"Consumismo"},
+		{"id":"589c24360f34a88c","x":-871,"y":681,"width":250,"height":60,"type":"text","text":"Revolução industrial - Século 18 - 19\n"},
+		{"id":"61704753dc8acce2","x":-600,"y":681,"width":250,"height":60,"type":"text","text":"Karl Marx"},
+		{"id":"eaf1f60179000d9c","x":-320,"y":681,"width":250,"height":60,"type":"text","text":"Revolução dos bichos"},
+		{"id":"c43009eb73f3508f","x":-1140,"y":681,"width":250,"height":55,"type":"text","text":"Fordismo - Início do século 20"},
+		{"id":"3d66b42e709db456","x":-37,"y":683,"width":250,"height":60,"type":"text","text":"Black Friday"}
+	],
+	"edges":[
+		{"id":"928257186e26fb94","fromNode":"f848420311abf6e2","fromSide":"bottom","toNode":"5877fd390eaab3d5","toSide":"top"},
+		{"id":"d906f8e6c0fca0b0","fromNode":"f848420311abf6e2","fromSide":"bottom","toNode":"422a83108faa01cc","toSide":"top"},
+		{"id":"e7c00cacd922c9ae","fromNode":"5877fd390eaab3d5","fromSide":"bottom","toNode":"3d36b92782300054","toSide":"top"},
+		{"id":"67b0c2fd6844d580","fromNode":"422a83108faa01cc","fromSide":"bottom","toNode":"3d36b92782300054","toSide":"top"},
+		{"id":"b6f04b67d1afc912","fromNode":"3d36b92782300054","fromSide":"bottom","toNode":"589c24360f34a88c","toSide":"top"},
+		{"id":"c53e09422578db44","fromNode":"3d36b92782300054","fromSide":"bottom","toNode":"61704753dc8acce2","toSide":"top"},
+		{"id":"07c9491775debc36","fromNode":"3d36b92782300054","fromSide":"bottom","toNode":"eaf1f60179000d9c","toSide":"top"},
+		{"id":"7e01d34851a22ce3","fromNode":"3d36b92782300054","fromSide":"bottom","toNode":"c43009eb73f3508f","toSide":"top"},
+		{"id":"ee7f74b1bf68bd30","fromNode":"3d36b92782300054","fromSide":"bottom","toNode":"3d66b42e709db456","toSide":"top"}
+	]
+}
