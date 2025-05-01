@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redação/Conclusão/Conclusão.md",
+                "file": "Redação/Introdução/Como fazer a introdução.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conclusão"
+              "title": "Como fazer a introdução"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "992d44f23dfdc23d",
   "lastOpenFiles": [
-    "Redação/Desenvolvimento 2/Desenvolvimento 2.md",
     "Redação/Conclusão/Conclusão.md",
+    "Redação/Desenvolvimento 2/Desenvolvimento 2.md",
     "Redação/Conclusão",
     "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Exercícios/Semana 4.md",
