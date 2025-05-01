@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7606e3331c844215",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
-            }
-          },
-          {
             "id": "7df6369cd816b6ef",
             "type": "leaf",
             "state": {
@@ -29,6 +17,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "Semana 3"
+            }
+          },
+          {
+            "id": "7606e3331c844215",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           },
           {
@@ -203,10 +203,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "7df6369cd816b6ef",
+  "active": "7606e3331c844215",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática básica/Exercícios/Semana 3.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática básica/Porcentagem/Questões.md",
     "Matemática/Matemática básica/Exercícios/potenciação e radicação.md",
     "Matemática/Pontos importantes.md",
