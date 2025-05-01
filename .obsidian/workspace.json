@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "569275b1f0096053",
+        "id": "5e9a463a0def06cb",
         "type": "tabs",
         "children": [
           {
-            "id": "cd3d60caf76550c4",
+            "id": "992d44f23dfdc23d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Ligações químicas/Estruturas de Lewis.md",
+                "file": "Redação/Conclusão/Conclusão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estruturas de Lewis"
-            }
-          },
-          {
-            "id": "9fe1c88265c6b968",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Química/Exercícios/Semana 4.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Semana 4"
+              "title": "Conclusão"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,11 +178,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "9fe1c88265c6b968",
+  "active": "992d44f23dfdc23d",
   "lastOpenFiles": [
+    "Redação/Desenvolvimento 2/Desenvolvimento 2.md",
+    "Redação/Conclusão/Conclusão.md",
+    "Redação/Conclusão",
+    "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Exercícios/Semana 4.md",
     "Química/Ligações químicas/NOX - Número de oxidação.md",
-    "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Ligações químicas/Ligações metálicas.md",
     "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
@@ -222,8 +212,6 @@
     "Química/Atomo/1- Modelos atômicos/Modelos autais + resumo.md",
     "Química/Atomo/1- Modelos atômicos/Partículas subatomicas.md",
     "Química/Atomo/1- Modelos atômicos/Modelo de Bohr.md",
-    "Química/Atomo/1- Modelos atômicos/Modelo de Rutheford.md",
-    "Química/Atomo/1- Modelos atômicos/Modelo de Thomson.md",
     "Química/Atomo",
     "Física/Caixinhas.canvas",
     "Física/img/Pasted image 20250429143611.png",
@@ -236,7 +224,6 @@
     "Biologia/Evolução",
     "Matemática/Untitled.canvas",
     "Untitled",
-    "Matemática/Matemática todo dia",
     "Pasted image 20250426093409.png",
     "Pasted image 20250426093411.png",
     "Linguagens/Untitled.canvas",
