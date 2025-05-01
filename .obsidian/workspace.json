@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5e9a463a0def06cb",
+        "id": "bed44cde58ab7eb3",
         "type": "tabs",
         "children": [
           {
-            "id": "992d44f23dfdc23d",
+            "id": "05293ea7f3b3b5bd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Redação/Untitled.canvas",
-                "viewState": {
-                  "x": -498.2802765374495,
-                  "y": 882.5335502789244,
-                  "zoom": -0.24062224634613572
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -181,10 +176,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "992d44f23dfdc23d",
+  "active": "05293ea7f3b3b5bd",
   "lastOpenFiles": [
-    "Redação/Sacadas sobre os títulos.md",
+    "Matemática/Matemática básica/Porcentagem/Porcentagem 1.md",
+    "Matemática/Matemática básica/Porcentagem",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Untitled.canvas",
+    "Redação/Sacadas sobre os títulos.md",
     "Redação/Introdução/Como fazer a introdução.md",
     "Redação/Conclusão/Conclusão.md",
     "Redação/Desenvolvimento 2/Desenvolvimento 2.md",
@@ -201,7 +199,6 @@
     "Química/Ligações químicas/Ligação covalente coordenada ou dativa.md",
     "Química/Ligações químicas/Ligação covalente.md",
     "Química/Ligações químicas/Untitled.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "O que Estudar/Química.md",
     "Química/Ligações químicas/Hibridização.md",
     "Metacognição/Tipos de exercício.md",
@@ -226,7 +223,6 @@
     "Biologia/Caixinhas.canvas",
     "Biologia/Evolução",
     "Matemática/Untitled.canvas",
-    "Untitled",
     "Pasted image 20250426093409.png",
     "Pasted image 20250426093411.png",
     "Linguagens/Untitled.canvas",
