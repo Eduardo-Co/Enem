@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redação/Introdução/Como fazer a introdução.md",
+                "file": "Redação/Sacadas sobre os títulos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Como fazer a introdução"
+              "title": "Sacadas sobre os títulos"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "992d44f23dfdc23d",
   "lastOpenFiles": [
+    "Redação/Introdução/Como fazer a introdução.md",
+    "Redação/Sacadas sobre os títulos.md",
     "Redação/Conclusão/Conclusão.md",
     "Redação/Desenvolvimento 2/Desenvolvimento 2.md",
     "Redação/Conclusão",
@@ -210,8 +212,6 @@
     "Cronograma.md",
     "Química/Atomo/2 - Distribuição eletrônica/Distribuição eletrônica.md",
     "Química/Atomo/1- Modelos atômicos/Modelos autais + resumo.md",
-    "Química/Atomo/1- Modelos atômicos/Partículas subatomicas.md",
-    "Química/Atomo/1- Modelos atômicos/Modelo de Bohr.md",
     "Química/Atomo",
     "Física/Caixinhas.canvas",
     "Física/img/Pasted image 20250429143611.png",
