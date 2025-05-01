@@ -18,35 +18,8 @@
               "icon": "lucide-file-text",
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
-          },
-          {
-            "id": "1032e7ab55f16a44",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matemática/Matemática básica/Exercícios/Semana 3.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Semana 3"
-            }
-          },
-          {
-            "id": "82db0d7cc04a5481",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matemática/Pontos importantes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pontos importantes"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +176,7 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "1032e7ab55f16a44",
+  "active": "7606e3331c844215",
   "lastOpenFiles": [
     "Matemática/Matemática básica/Exercícios/Semana 3.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
