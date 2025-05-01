@@ -45,8 +45,7 @@
               "title": "Questões"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +202,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "7606e3331c844215",
+  "active": "7df6369cd816b6ef",
   "lastOpenFiles": [
-    "Matemática/Matemática básica/Exercícios/Semana 3.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Matemática básica/Exercícios/Semana 3.md",
     "Matemática/Matemática básica/Porcentagem/Questões.md",
     "Matemática/Matemática básica/Exercícios/potenciação e radicação.md",
     "Matemática/Pontos importantes.md",
