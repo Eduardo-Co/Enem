@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1032e7ab55f16a44",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matemática/Matemática básica/Exercícios/Semana 3.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Semana 3"
+            }
+          },
+          {
             "id": "82db0d7cc04a5481",
             "type": "leaf",
             "state": {
@@ -46,21 +58,9 @@
               "icon": "lucide-file",
               "title": "Questões"
             }
-          },
-          {
-            "id": "1032e7ab55f16a44",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matemática/Matemática básica/Exercícios/Semana 3.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Semana 3"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,11 +219,11 @@
   },
   "active": "1032e7ab55f16a44",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Matemática básica/Exercícios/Semana 3.md",
     "Matemática/Matemática básica/Porcentagem/Questões.md",
     "Matemática/Pontos importantes.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática básica/Porcentagem/Porcentagem.md",
-    "Matemática/Matemática básica/Exercícios/Semana 3.md",
     "Matemática/Matemática básica/Exercícios/potenciação e radicação.md",
     "Matemática/Matemática básica/Exercícios/Untitled.md",
     "Matemática/Matemática básica/Porcentagem",
