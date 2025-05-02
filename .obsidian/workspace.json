@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Ligações químicas/Ligação covalente.md",
+                "file": "Química/Ligações químicas/Hibridização.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ligação covalente"
+              "title": "Hibridização"
             }
           }
         ]
@@ -180,10 +180,11 @@
   },
   "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Química/Ligações químicas/Ligação Químicas.md",
-    "Química/Ligações químicas/Ligação covalente.md",
-    "Química/Ligações químicas/Ligação covalente coordenada ou dativa.md",
     "Química/Ligações químicas/Ligação iônica.md",
+    "Química/Ligações químicas/Ligação Dativa ou Coordenada.md",
+    "Química/Ligações químicas/Ligação covalente.md",
+    "Química/Ligações químicas/Ligações metálicas.md",
+    "Química/Ligações químicas/Ligação Químicas.md",
     "Ink/Writing/2025.5.2 - 20.16pm.writing",
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
     "Química/Ligações químicas/Estruturas de Lewis.md",
@@ -192,7 +193,6 @@
     "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
     "Física/Eletroestática + fotovoltaica/Processos de eletrização.md",
     "Química/Ligações químicas/NOX - Número de oxidação.md",
-    "Química/Ligações químicas/Ligações metálicas.md",
     "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
     "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
     "Química/Atomo/2 - Distribuição eletrônica/Distribuição eletrônica.md",

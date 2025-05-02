@@ -1,18 +1,23 @@
-1. **Natureza da ligação**
-    - Não envolve troca de íons como na ligação iônica.
-    - Consiste numa **rede de núcleos positivos (cátions metálicos) imersa num “mar de elétrons” deslocalizados**; esses elétrons formam bandas de energia sobrepostas que mantêm toda a estrutura coesa.
+## **Definição:**
 
-2. **Mar de elétrons ou nuvem eletrônica**
-    - Os átomos metálicos não “querem” virar cátions isolados; seus orbitais de valência se fundem em bandas eletrônicas que liberam elétrons por toda a rede (gás de Fermi).
-3. **Propriedades derivadas**
-    - **Alta maleabilidade** e **ductilidade**: as camadas deslizam sem romper a coesão eletrônica.
-    - **Brilho metálico** característico (reflexão de luz pelos elétrons livres).
-    - **Formação de ligas**: facilidade de incorporar outros metais na mesma rede.
-    - **Estado físico**: geralmente **sólidos** à temperatura ambiente; exceções notáveis — Hg é líquido, Ga e Cs fundem perto de 30 °C.
+ A **ligação metálica** ocorre entre **átomos metálicos**, onde os **elétrons de valência** são **deslocalizados**, formando uma **nuvem eletrônica livre** que envolve um retículo de cátions metálicos.
 
-	1. ==**Bom condutor de energia e calor**==
-		- Bandas de valência e de condução sobrepostas fornecem **elevada densidade de elétrons livres**.
-	    - Ao aplicar um campo elétrico, esses elétrons adquirem velocidade de deriva, gerando corrente com **baixa resistividade** (≈ 10⁻⁸ Ω·m para Cu, Ag, Al).
-	
-		- O calor é transportado tanto por **fônons** (vibrações da rede) quanto pelos **elétrons livres**, resultando em alta difusividade térmica.
+---
+## **Modelo do "mar de elétrons"**
+
+- Os átomos metálicos liberam seus **elétrons de valência (geralmente do subnível s)**
+- Esses elétrons **não ficam ligados a nenhum átomo específico**
+- Formam uma **nuvem móvel de elétrons** que "cola" os cátions metálicos fixos
+> Essa nuvem é **a chave para as propriedades dos metais**.
+---
+## **Características da Ligação Metálica:**
+
+| Propriedade                         | Explicação física                                                              |
+| ----------------------------------- | ------------------------------------------------------------------------------ |
+| ⚡ **Alta condutividade**            | Elétrons livres se movem facilmente → conduzem eletricidade e calor            |
+| ✨ **Brilho metálico**               | Elétrons refletem luz de forma eficiente                                       |
+| 🧈 **Maleabilidade e ductilidade**  | Camadas atômicas deslizam sem quebrar a ligação, graças à fluidez dos elétrons |
+| 🔥 **Ponto de fusão elevado**       | Ligações fortes devido à rede compacta e força da atração elétron-cátion       |
+| 🧊 **Estado sólido (quase sempre)** | Todos os metais (exceto Hg) são sólidos à temperatura ambiente                 |
+
 ---

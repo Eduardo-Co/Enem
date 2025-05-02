@@ -1,39 +1,47 @@
+## Definição:
 
-Mais focado em entender como funciona e como está estruturada em orbitais e geometria.
+Hibridização é o processo de combinação (mistura) de orbitais atômicos diferentes do mesmo átomo para formar novos orbitais híbridos equivalentes em energia e forma.
 
-- Cada orbital representa 2 elétrons - 2 moléculas quânticas.
-- Cada ligação e par de elétrons livres fica em um orbital.
-- A partir disso conta-se o número de orbitais sendo que eles ficam nos subníveis: s,p,d,f. Só pegar em potências de 2 o que cada um representa
+---
+## **Por que ocorre?**
 
-## Hibridação — ideia-chave em 3 passos
+- Para **explicar a geometria molecular observada** que não seria compatível com a ocupação dos orbitais atômicos "puros"
+- **Maximiza a separação dos pares de elétrons** ao redor do átomo central (segundo VSEPR)
+- Permite **formar ligações sigma (σ) com a orientação espacial correta**
+---
+## **Tipos prinicipais de hibridização**
 
-1. **Conte todo par eletrônico que “fica ao redor” do átomo central**  
-   *Cada par ocupa **um orbital** híbrido.*  
-   $$
-   \text{SN} = \underbrace{\sigma}_{\text{ligações simples ou partes σ de duplas/triplas}}
-             + \underbrace{\text{pares isolados}}_{\text{não-ligantes}}
-   $$
-   *SN = “steric number” (número estérico).*
+| Tipo    | Orbitais combinados | Nº de regiões eletrônicas | Geometria      | Exemplo             |
+| ------- | ------------------- | ------------------------- | -------------- | ------------------- |
+| **sp³** | 1s + 3p             | 4                         | Tetraédrica    | CH₄, NH₃, H₂O       |
+| **sp²** | 1s + 2p             | 3                         | Trigonal plana | BF₃, C₂H₄ (eteno)   |
+| **sp**  | 1s + 1p             | 2                         | Linear         | BeCl₂, C₂H₂ (etino) |
 
-2. **Lembre que cada orbital leva 2 elétrons ⇒ elétrons aparecem em pares**  
-   Logo, se o átomo precisa acomodar 4 pares $\;\Rightarrow\;$ ele mistura **4 orbitais** (1 s + 3 p = $sp^3$).
+---
 
-3. **Associe o $\text{SN}$ ao tipo de mistura**  
-   | SN | Mistura | Resultado geométrico básico |
-   |----|---------|-----------------------------|
-   | 2  | $sp$   | linear |
-   | 3  | $sp^2$ | trigonal plana |
-   | 4  | $sp^3$ | tetraédrica |
-   | 5  | $sp^3d$ | bipirâmide trigonal |
-   | 6  | $sp^3d^2$ | octaédrica |
+## **Como saber qual hibridização ocorre?**
 
-> **Resumo mental**:  
-> “$\sigma$-ligações + pares isolados → quantos orbitais preciso misturar → nome da hibridação.”
+1. **Desenhe a estrutura de Lewis**
+2. Conte o número de **regiões de densidade eletrônica** ao redor do átomo central:
+    - **Regiões = ligações simples, duplas, triplas e pares isolados**
+3. A partir disso, determine o tipo:
 
-### Exemplo super-rápido ($CH_4$)
+|Regiões ao redor do átomo central|Tipo de Hibridização|
+|---|---|
+|2|sp|
+|3|sp²|
+|4|sp³|
 
-* $\sigma$-ligações: 4  
-* Pares isolados: 0  
-* $\text{SN} = 4 \;\Rightarrow\; sp^3$ (tetraédrico, ~109,5°).
+---
 
-Pronto — basta contar pares, lembrar que cada par = 1 orbital, e dar o nome pela tabela acima.
+# **Materialidade**:
+
+
+### a) **DNA e Bases Nitrogenadas (sp² e sp³)**
+
+- As **bases nitrogenadas** (adenina, timina, citosina, guanina) possuem **carbonos e nitrogênios sp²** → permitem **geometria plana** → essencial para o **empilhamento das bases** no DNA
+    
+- A **dupla hélice** se estabiliza com empilhamento **π-π** entre orbitais **p não hibridizados**
+    
+
+> ✅ A **estrutura 3D do DNA** só existe graças às **hibridizações sp² e ligações π**
