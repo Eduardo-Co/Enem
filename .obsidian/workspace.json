@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bed44cde58ab7eb3",
+        "id": "3bfa3bf479be68ce",
         "type": "tabs",
         "children": [
           {
-            "id": "7df6369cd816b6ef",
+            "id": "fc02146f5485bb8e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Metacognição/Estratégia de estudo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "9544a14efb5d5b66",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matemática/Matemática todo dia/Semana 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Semana 1"
+              "icon": "lucide-file",
+              "title": "Estratégia de estudo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,14 +178,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "9544a14efb5d5b66",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
     "Matemática/Untitled Kanban.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática todo dia/Semana 1.md",
     "Matemática/Matemática básica/Exercícios/Semana 3.md",
     "Matemática/Matemática básica/Porcentagem/Questões.md",
     "Matemática/Untitled.canvas",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática básica/Exercícios/potenciação e radicação.md",
     "Matemática/Pontos importantes.md",
     "Matemática/Matemática básica/Porcentagem/Porcentagem.md",
@@ -233,7 +210,6 @@
     "Química/Ligações químicas/Ligação covalente.md",
     "Química/Ligações químicas/Untitled.md",
     "O que Estudar/Química.md",
-    "Química/Ligações químicas/Hibridização.md",
     "Química/Untitled.canvas",
     "Ink/Writing/2025.4.30 - 14.35pm.writing",
     "Química/img/Pasted image 20250430143026.png",
