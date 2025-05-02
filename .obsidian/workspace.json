@@ -11,15 +11,40 @@
             "id": "7df6369cd816b6ef",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Matemática/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
+            "id": "9544a14efb5d5b66",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matemática/Matemática básica/Exercícios/Semana 3.md"
+                "file": "Matemática/Matemática todo dia/Semana 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Semana 3"
+              "title": "Semana 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,11 +201,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "7df6369cd816b6ef",
+  "active": "9544a14efb5d5b66",
   "lastOpenFiles": [
+    "Matemática/Untitled Kanban.md",
+    "Matemática/Matemática todo dia/Semana 1.md",
     "Matemática/Matemática básica/Exercícios/Semana 3.md",
     "Matemática/Matemática básica/Porcentagem/Questões.md",
-    "Matemática/Untitled Kanban.md",
     "Matemática/Untitled.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática básica/Exercícios/potenciação e radicação.md",
