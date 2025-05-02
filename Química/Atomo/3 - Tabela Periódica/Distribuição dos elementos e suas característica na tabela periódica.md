@@ -58,7 +58,10 @@ Distribuição eletrônica (ordem energética):
 |⚙️ **Metais de Transição** (Grupos 3-12)|Fe, Cu, Zn, Ag, Au, Ti, etc.|Boa condutividade elétrica e térmica; dúcteis e maleáveis; múltiplos estados de oxidação; formam complexos coloridos.|
 |🌿 **Ametais**|H, C, N, O, F, P, S, Cl, Se, Br, I|Má condutividade elétrica; tendem a ganhar elétrons; geralmente formam ligações covalentes; muitos são gases ou sólidos frágeis.|
 |🟣 **Gases Nobres** (Grupo 18)|He, Ne, Ar, Kr, Xe, Rn, Og|Muito estáveis (camada de valência completa); inertes quimicamente; gases monoatômicos; ponto de ebulição muito baixo.|
-### Metais alcalinos: 
+## Metais alcalinos: 
 - ***Macios*** :**Menos elétrons livres** → **ligação metálica mais fraca** → **átomos se deslocam com facilidade** → o material é **mais macio**.
 - ***Ponto de fusão baixo***: Como os metais alcalinos têm **ligações metálicas fracas**, **==menos energia térmica** é necessária para romper essas ligações== → **baixo ponto de fusão**.
 > Observa-se que o ponto de fusão **cai ainda mais com o aumento do raio atômico**, pois os cátions ficam mais distantes dos elétrons livres → ligação ainda mais fraca.
+---
+## Metais alcalinos terrosos:
+- Embora os metais alcalino-terrosos tenham **raios atômicos grandes**, eles possuem **dois elétrons de valência** e formam **cátions M²⁺**, resultando em **ligações metálicas muito mais fortes**, o que justifica seus **pontos de fusão mais altos** que os metais alcalinos.
