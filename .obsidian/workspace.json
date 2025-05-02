@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Eletrodinâmica/Segunda lei de Ohm.md",
+                "file": "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Segunda lei de Ohm"
+              "title": "Distribuição dos elementos e suas característica na tabela periódica"
             }
           }
         ]
@@ -178,8 +178,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "fc02146f5485bb8e",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Química/Ligações químicas/Estruturas de Lewis.md",
+    "Química/Ligações químicas/Geometria molecular.md",
+    "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
     "Física/Eletroestática + fotovoltaica/Processos de eletrização.md",
     "Química/Ligações químicas/NOX - Número de oxidação.md",
@@ -187,8 +190,6 @@
     "Química/Ligações químicas/Ligação iôica.md",
     "Química/Ligações químicas/Ligação covalente coordenada ou dativa.md",
     "Química/Ligações químicas/Ligação covalente.md",
-    "Química/Ligações químicas/Geometria molecular.md",
-    "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
     "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
@@ -206,7 +207,6 @@
     "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Porcentagem",
