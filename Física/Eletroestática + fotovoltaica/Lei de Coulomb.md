@@ -1,7 +1,7 @@
 
 
 > [!important] A lei de Coulomb
-> Ela virá para fazer a mensuração da força elétrica entre duas cargas, e até mesmo posteriormente expressará como ficará o campo elétrico já que o campo nada mais é do que a força divido pela Carga:
+> Ela virá para fazer a mensuração da ==força elétrica entre duas cargas==, e até mesmo posteriormente expressará como ficará o campo elétrico já que o campo nada mais é do que a força divido pela Carga:
 > $$
 > E = \frac{F}{Q}$$ 
 > Nessa formula, a a lei de coloumb virá para determinar essa força 
@@ -40,3 +40,22 @@ e portanto, basta reparar que:
 }
 ```
 
+----
+## Materialidade:
+
+### 1. **Ligações iônicas**
+
+- Os átomos formam íons (cátions e ânions) que se **atraem eletricamente**.
+- Exemplo: Na⁺ e Cl⁻ se atraem pela **força de Coulomb**, formando o **sal de cozinha (NaCl)**.
+    
+$$
+F = k \cdot \frac{|q_{Na^+} \cdot q_{Cl^-}|}{r^2}
+$$
+👉 Quanto maior a força, **mais forte é a ligação iônica** e **maior o ponto de fusão** da substância.
+
+### 2. **Tamanhos atômicos e ionização**
+
+- A atração entre **elétrons e núcleo** (também governada por Coulomb) explica:
+    - Energia de ionização (energia para arrancar um elétron)
+    - Raio atômico (tamanho do átomo)
+- Quanto maior a carga nuclear (Z), **maior a força de atração** sobre os elétrons → menor o átomo.

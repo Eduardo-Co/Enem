@@ -11,10 +11,14 @@
             "id": "330f9a547023821b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Campo elétrico"
             }
           }
         ]
@@ -176,6 +180,10 @@
   },
   "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Física/Eletroestática + fotovoltaica/Lei de Coulomb.md",
+    "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
+    "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
+    "Química/Ligações químicas/Geometria molecular.md",
     "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Ligações químicas/Ligações Sigma e Pi - Covalente.md",
     "Química/Ligações químicas/Hibridização.md",
@@ -186,7 +194,6 @@
     "Química/Ligações químicas/Ligação Químicas.md",
     "Ink/Writing/2025.5.2 - 20.16pm.writing",
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
-    "Química/Ligações químicas/Geometria molecular.md",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
     "Física/Eletroestática + fotovoltaica/Processos de eletrização.md",
@@ -200,9 +207,6 @@
     "Química/Atomo/1- Modelos atômicos/Modelo de Dalton.md",
     "Química/Atomo/1- Modelos atômicos/Modelo de Bohr.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
-    "Biologia/Evolução/Tipos de seleção natural.md",
-    "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
-    "Biologia/Evolução/Lamarkismo.md",
     "Biologia/Caixinhas.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Untitled.canvas",
