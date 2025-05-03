@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Ligações químicas/Ligações Sigma e Pi - Covalente.md",
+                "file": "Química/Ligações químicas/Geometria molecular.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ligações Sigma e Pi - Covalente"
+              "title": "Geometria molecular"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "1d9d49bf89764cc8",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Química/Ligações químicas/Hibridização.md",
+    "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Ligações químicas/Ligações Sigma e Pi - Covalente.md",
+    "Química/Ligações químicas/Hibridização.md",
     "Química/Ligações químicas/Ligação covalente.md",
     "Química/Ligações químicas/Ligação iônica.md",
     "Química/Ligações químicas/Ligação Dativa ou Coordenada.md",
@@ -189,7 +190,6 @@
     "Química/Ligações químicas/Ligação Químicas.md",
     "Ink/Writing/2025.5.2 - 20.16pm.writing",
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
-    "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Ligações químicas/Geometria molecular.md",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "Física/Eletroestática + fotovoltaica/Energia fotovoltaica.md",
