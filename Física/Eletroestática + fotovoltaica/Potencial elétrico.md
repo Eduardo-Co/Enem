@@ -5,7 +5,7 @@
 O potencial elétrico  em um ponto do espaço é definido como:
 
 $$
-V = \frac{U}{q}
+V = \frac{F}{q}
 $$
 V = potencial elétrico em ==Volts==
 F = força potencial elétrica em ==Joules==
