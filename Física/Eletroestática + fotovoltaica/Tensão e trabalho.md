@@ -17,4 +17,10 @@ $$
 $$
 Veja que o trabalho não é nada mais do que ver a força das duas porquê a ne
 
+Chame agora $\Delta V = U$
+$$
+U = \frac{\sigma}{q}
+$$
+
+Veja que temos na verdade diferença de potencial, que é tensão, sendo formada pela fração de trabalho sobre carga. Isso é $\frac{J}{Q}$ 
 
