@@ -1,4 +1,14 @@
 #Tipo-Entender 
+
+## Definição
+
+**Potência elétrica** é a quantidade de energia elétrica **transformada ou consumida por unidade de tempo**:
+$$
+1 W = 1\frac{J}{S} 
+$$
+1 Joule = Energia elétrica / por segundo. 
+
+
 A potência é calculada em Watts, ela é dada por:
 
 $$
@@ -36,3 +46,4 @@ Ou seja energia sobre o tempo, então:
 $$
 E = P \cdot \Delta t
 $$
+---

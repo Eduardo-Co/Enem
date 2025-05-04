@@ -16,3 +16,5 @@ $$
 \sigma = q \cdot \Delta V = q(V_B - V_A)
 $$
 Veja que o trabalho não é nada mais do que ver a força das duas porquê a ne
+
+
