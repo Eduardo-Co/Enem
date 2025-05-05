@@ -1,64 +1,33 @@
-Conjunto de fatores que determinam o clima
 
-Intuitivamente:
-- Sol
-- Vulcão
+Fatores que influenciam no clima. Lembrando que clima é tipo uma média do tempo nos últimos 30 anos, tempo é as características atuais do ambiente.
 
-1) ***Latitude***: Conforme nos afastamos do equador que é o que mede a latitude diminui a temperatura, ou seja quanto mais reto o sol cai na terra maior sua temperatura porquê menor é a distância da terra em relação ao sol
-	- Intertropical: Reto
-	- Temperada: 45°
-	- Polar: 30°
-2) ***Albedo***: poder de reflexão de uma superfície pelo calor, gelo reflete calor então polo é muito frio por causa do ângulo e taxa de reflexão de raios solares.
-
-
-> [!Important] Médias térmicas
->Quando maior o ângulo mais variação de temperatura 
-> ou seja quanto maior for a latitude maior é a variação de temperatura média
-
-
-3) ***Pressão atmosféricas***:
-
-- ***Maior Altitude*** menor calor porque há menos pressão, menor retenção do calor, moléculas mais afastadas.
-- ***Menor Altitude*** maior calor porque há mais pressão, maior retenção de calor, moléculas mais juntas.
-
-4) ***Continentalidade e maritimidade*** 
-
-	Quanto mais água mais regulação térmica ou seja menos variação de temperatura
-	
-	- Hemisfério norte: mais variação de temperatura
-	- Hemisfério sul: menos variação de temperatura
-
-5) ***Vegetação***
-
-	Com a evapotranspiração segue o mesmo conceito da continentalidade e maritimidade, quanto mais água mais regulação térmica então menos variação de temperatura
-
-6) ***Corrente marítimas***
- - Correntes de ar quentes:
-	levam calor e humidade, então auxiliar no processo de construção de vegetação.
-	
- - Correntes de ar frias:
-	 retiram humidade do ambiente, então mais desertificação da vegetação.
-
-
-## Massas de ar:
-
-São bolsões de ar que adquirem a característica de onde foram formadas, como temperatura e umidade.
+|**Fator**|**Resumo**|**Efeito Principal**|**Exemplo**|
+|---|---|---|---|
+|**Latitude**|Maior latitude = menor temperatura média|Menor radiação solar → maior variação térmica anual|Clima polar na Antártida; clima equatorial na Amazônia|
+|**Albedo**|Gelo e neve refletem muito calor|Menor aquecimento|Regiões polares; Desertos com areia clara|
+|**Pressão atmosférica**|Altitudes altas → menor retenção de calor|Locais altos são mais frios|Campos do Jordão (SP) é mais frio que o litoral mesmo estando mais ao norte|
+|**Continentalidade**|Interior do continente esquenta e esfria mais rápido|Grande variação térmica entre dia e noite|Cuiabá (MT) — muito quente de dia, frio à noite|
+|**Maritimidade**|Oceano regula a temperatura e leva umidade|Climas mais úmidos e estáveis|Litoral do Nordeste (Recife, Salvador)|
+|**Vegetação**|A evapotranspiração mantém o clima úmido e menos quente|Regula temperatura e aumenta umidade|Floresta Amazônica → chuvas frequentes e menor variação térmica|
+|**Correntes marítimas**|Correntes quentes = calor e chuva; frias = secura|Alteram clima regional|Corrente de Humboldt → deserto do AtacamaCorrente do Brasil → clima úmido no litoral Sudeste|
 
 ---
 
-# Tipos de nuvens: 
+## **Tipos de nuvens**
 
-Definidas entre $C,A,S$ 
-- cabeça
-
-- Rabo de galo, cabeça, nuvem soltas que forma meio que penas ou um rabo de galo mesmo presságio de frente fia, ou seja chuva.
-
-- abdômen
-- sapato
-
-Seguindo essa ordem de altitude 
+|**Tipo de Chuva**|**Como se forma**|**Características**|**Exemplo real**|
+|---|---|---|---|
+|**Convectiva**|Subida de ar quente e úmido (convecção térmica)|Chuva forte, localizada e rápida|Tarde de verão em SP ou RJ com pancadas e trovoadas|
+|**Orográfica**|Ar úmido sobe ao encontrar relevo elevado (montanhas)|Chuva constante em áreas montanhosas|Serra do Mar (SP, RJ, PR) com chuvas constantes|
+|**Frontal**|Encontro de massas de ar diferentes|Chuva mais duradoura e ampla|Chegada de frente fria no Sul e Sudeste no inverno|
 
 ---
-## Tipo de chuvas:
 
-- Chuva convectiva: Formado por trocas de calor em camadas mais baixas da troposfera, chuva de verão.
+## **Tipos de massas de ar**
+
+|**Temperatura**|**Umidade**|**Efeito no clima**|**Exemplo de atuação**|
+|---|---|---|---|
+|Quente|Muito úmida|Alta evaporação → chuvas fortes e frequentes|Região Norte (chuvas de convecção na Amazônia)|
+|Quente|Úmida|Aumenta a umidade do ar → favorece chuvas no litoral|Sudeste e Nordeste do Brasil — chuvas orográficas e frontais|
+|Quente|Seca|Eleva a temperatura e reduz a umidade → clima quente e seco|Interior do Brasil no inverno (Centro-Oeste e Sertão)|
+|Fria|Úmida|Resfriamento do ar + umidade → chuvas frontais e queda brusca de temperatura|Inverno no Sul/Sudeste; friagem na Amazônia|

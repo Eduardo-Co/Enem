@@ -1,24 +1,21 @@
+### **Fuso Horário**
 
-O fuso horário é definido pela longitude, ou seja, pela posição em relação ao **Meridiano de Greenwich**. Isso ocorre porque a rotação da Terra em torno de seu próprio eixo determina a incidência da luz solar, influenciando diretamente o dia e o horário.
+- Determinado pela **longitude** e baseado no **Meridiano de Greenwich (0°)**.
+- A Terra gira de **oeste para leste**, por isso:
+    - **Leste** = horário **mais adiantado**
+    - **Oeste** = horário **mais atrasado**
+- Cada fuso equivale a **15° de longitude = 1 hora** de diferença.
+- O Brasil está **a oeste de Greenwich** → usamos fusos negativos (ex: GMT -3).
 
-Como o movimento de rotação é no sentido **anti-horário** (de oeste para leste), quanto mais nos deslocamos para a direita (*leste*) em relação ao meridiano, mais avançado será o horário. Já para a esquerda (*oeste*), estaremos em um horário anterior, ou seja, **no passado**.
+🧠 **Dica:**
 
-Cada fuso horário corresponde a uma diferença de **15° de longitude**, pois a circunferência terrestre de **360°** é dividida pelas **24 horas** do dia.
-
-> [!tip]  
-> **Resumo:**  
-> - Leste (direita): horário mais avançado.  
-> - Oeste (esquerda): horário mais atrasado.  
-> - Cada fuso: 15° de longitude por hora.
-
-***PENSE QUE NO ORIENTE É O NASCENTE, OU SEJA, NASCE O SOL ENTÃO ESTÃO ADIANTADOS***
+> No **leste nasce o sol** → o horário "nasce" primeiro.  
+> No **oeste**, o sol nasce depois → o horário é mais atrasado.
 
 ---
+### 🌞 **Horário de Verão**
 
-***Horário de verão no Brasil***: 
-
-Fotoperíodo: Período luminoso do dia, onde é prolongado no verão
-
- Motivos para existir:
- - Distribuir o horário de pico
- - Economia de uso de energia, usando a luz natural 
+- Consiste em **adiantar o relógio em 1 hora** durante o verão.
+- Objetivo: **economizar energia** e **evitar picos de consumo**, aproveitando a luz solar.
+- Funciona onde os dias são mais longos no verão (maior fotoperíodo).
+- **Suspenso no Brasil desde 2019** por baixa eficácia.

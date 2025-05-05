@@ -3,10 +3,10 @@
 
 ---
 
-|**Camada**|**Altitude (aprox.)**|**Temperatura**|**Características Principais**|**Fatos que mais caem no ENEM**|
-|---|---|---|---|---|
-|**Troposfera**|0 a 12 km|Diminui com a altitude|- Onde ocorrem os **fenômenos climáticos** (chuvas, ventos, nuvens)- Contém **75% dos gases** da atmosfera- Possui vapor d'água- Região de **voo dos aviões comerciais**|Fenômenos meteorológicos ocorrem aqui; camada mais densa da atmosfera|
-|**Estratosfera**|12 a 50 km|Aumenta com a altitude|- Presença da **camada de ozônio** (absorve radiação UV)- Pouca turbulência- Ideal para voos de alta altitude|Local da camada de ozônio; protege contra raios ultravioleta|
-|**Mesosfera**|50 a 80 km|Diminui com a altitude (até -90°C)|- **Camada mais fria** da atmosfera- Onde **meteoros queimam** ao entrar na Terra- Pouco estudada|Queima de meteoros ocorre aqui (“estrelas cadentes”)|
-|**Termosfera**|80 a 500 km (ou mais)|Aumenta com a altitude (muito quente)|- Presença da **ionosfera** (reflexão de ondas de rádio)- **Auroras polares** ocorrem aqui- Satélites de baixa órbita|Onda de rádio e auroras boreais estão associadas a esta camada|
-|**Exosfera**|Acima de 500 km|Muito rarefeita (quase sem ar)|- Transição para o espaço sideral- **Satélites artificiais** em órbita- Gases extremamente dispersos|Satélites orbitais e fronteira com o espaço exterior|
+| **Camada**       | **Altitude**           | **Temperatura**                                    | **Densidade do ar**          | **Presença de gases/fenômenos**                              |
+| ---------------- | ---------------------- | -------------------------------------------------- | ---------------------------- | ------------------------------------------------------------ |
+| **Troposfera**   | 0 a ~12 km             | Diminui com a altitude (até -60 °C)                | Mais densa                   | Vapor d’água, CO₂, poluentes; local de chuvas e nuvens       |
+| **Estratosfera** | ~12 a 50 km            | Aumenta com a altitude (até -3 °C)                 | Menos densa que a troposfera | Contém ozônio (O₃); pouca presença de vapor d’água           |
+| **Mesosfera**    | ~50 a 80 km            | Diminui com a altitude (até -90 °C)                | Muito baixa                  | Rarificada; queima de meteoros                               |
+| **Termosfera**   | ~80 a 500 km (ou mais) | Aumenta com a altitude (pode ultrapassar 1.000 °C) | Extremamente rarefeita       | Presença de íons (ionosfera), auroras boreais                |
+| **Exosfera**     | Acima de ~500 km       | Altamente variável (próximo ao vácuo)              | Quase inexistente            | Hidrogênio e hélio dispersos; fronteira com o espaço sideral |
