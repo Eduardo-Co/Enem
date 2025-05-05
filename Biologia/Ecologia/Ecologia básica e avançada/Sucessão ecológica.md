@@ -1,10 +1,37 @@
+É o processo natural e gradual de **formação e desenvolvimento de um ecossistema ao longo do tempo**, passando por mudanças na comunidade biológica até atingir um estado de equilíbrio.
 
-É o processo de formação de um ecossistema ao longo do tempo, basicamente
+###  **1. Fase Inicial — Ecese**
 
+- Etapa pioneira da sucessão.
+    
+- Ocupada por **espécies pioneiras**, geralmente vegetação de baixa exigência (plantas rústicas) com alta **produtividade primária líquida (PPL)**.
+    
+- Contribuem para o preparo do solo e modificação do ambiente, permitindo a chegada de outras espécies.
+    
+- **Exemplos**: líquens, musgos e gramíneas.
+    
 
-1. ***Primeira fase - Ecese***  - Parte inicial, formada por vegetação de baixa exigência com grande capacidade de PPL - Ex: Musgos, Liquens e graminias
-2. Segunda fase - Sere - Parte secundária, após a vinda dos pionerios e sua modificação do ambiente, vem a vegetação que substituirá gradualemente esses seres, propriciando a chegada de mais vida, ou seja é a vinda das novas espécies - Ex: Árvores de médio porte, passáros, árvores frutíferas, etc..
-3. Terceira fase - climax -  é qunado se estabiliza o processo de ecossitema, possuindo características como:
-	- Alta biodiversidade
-	- Teias ecológicas complexas
-	- Energia sob-demanda ou seja PPL baixo única que decresce o resto cresce rapidamente e depois estabiliza
+---
+
+### **2. Fase Intermediária — Sere**
+
+- Após a modificação ambiental causada pelas espécies pioneiras, surgem organismos mais exigentes.
+    
+- Há **substituição gradual da vegetação inicial** por outras espécies, aumentando a complexidade do ecossistema.
+    
+- Começam a aparecer **árvores de médio porte, arbustos, animais como pássaros e insetos polinizadores**, entre outros.
+    
+
+---
+
+###  **3. Fase Final — Clímax**
+
+- Etapa de **estabilização** do ecossistema.
+    
+- Apresenta:
+    - **Alta biodiversidade**
+    - **Teias alimentares complexas**
+    - **Ciclos de nutrientes eficientes**
+    - **PPL mais baixa**, pois a **produtividade bruta se equilibra com o consumo energético** (respiração).
+        
+- O ecossistema atinge um ponto de **equilíbrio dinâmico**, onde há pouca variação na composição das espécies.
