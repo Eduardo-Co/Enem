@@ -21,13 +21,13 @@
 ---
 
 
-###  **Eutrofização e poluição hídrica**
+###  **Eutrofização e poluição hídrica + térmica**
 
 #### **1. Falta de tratamento de esgoto**
 Processo causado pelo excesso de nutrientes (como **nitrogênio e fósforo**) na água, oriundos de esgoto doméstico e fertilizantes agrícolas.
-#### **2. Hidrelétricas**: 
-- Baixa circulação da água
-- Poluição térmica ou química, com menos oxigênio
+#### **2. Hidrelétricas** : 
+- Poluição térmica e química 
+- Deixa a água parada, matando tudo podendo gerar eutrofização
 #### 🔄 Etapas:
 1. Aumento de nutrientes → **proliferação de algas e cianobactérias**.
 2. Essas algas bloqueiam a luz solar → **queda na fotossíntese** das plantas aquáticas.
@@ -98,7 +98,7 @@ Processo causado pelo excesso de nutrientes (como **nitrogênio e fósforo**) na
 
 ## ***2. Agrotóxicos*** 
 
-### ⚠️ **Impactos Ambientais dos Agrotóxicos**
+###  **Impactos Ambientais dos Agrotóxicos**
 
 #### 1. 🐝 **Perda de polinizadores**
 
@@ -126,15 +126,64 @@ Processo causado pelo excesso de nutrientes (como **nitrogênio e fósforo**) na
 
 É o **uso de organismos vivos (predadores, parasitas, parasitoides ou patógenos)** para **controlar a população de pragas** agrícolas que causam prejuízo às plantações.
 
-## ***3. Oceanos - Maré Vermelha + Maré Negra***
+## **3. Oceanos – Maré Vermelha + Maré Negra + Poluição Térmica**
 
-#### Crescimento acelerado de águas - Maré Vermelha:
-- jogam toxinas na agua - muita alga - floração. 
-- Liberam toxinas : antibiose 
-- Se difere da eutrofização - maré vermelha é o aumento de algas que produzem toxinas mas só é possibilitada pela eutrofização antes, mas ela também pode acontecer por outros motivos. 
+###  **Maré Vermelha (Floração de Algas Tóxicas)**
 
+####  O que é?
 
-#### Maré negra:
-- Acontece com despejo de petróleo 
-- Petróleo possuí benzeno: substância cancerígena
-- Mata os bixinhos aq
+- Proliferação exagerada de **algas dinoflageladas** (como _Gonyaulax_, _Karenia_) que produzem **toxinas perigosas**.
+- O fenômeno deixa a água com aspecto **avermelhado ou amarronzado**.
+####  Causas:
+
+- Eutrofização (excesso de nutrientes como **nitrogênio e fósforo**).
+- Aumento da temperatura da água.
+- Mudanças climáticas e correntes oceânicas.
+
+####  Consequências:
+
+- **Liberação de toxinas (antibiose)** → prejudica a fauna marinha e intoxica os seres humanos que consomem frutos do mar contaminados.
+- Causa **anoxia (falta de oxigênio)** → morte em massa de peixes.
+- ***Diferente da eutrofização:***
+    - A maré vermelha depende de algas **que liberam toxinas**.
+    - Mas **pode ser desencadeada pela eutrofização**.
+
+###  **Maré Negra (Derramamento de Petróleo)**
+
+####  O que é?
+
+- Vazamento de petróleo cru no oceano, geralmente por **acidentes com navios petroleiros**, **plataformas** ou oleodutos.
+####  Problemas causados:
+
+- **Benzeno e tolueno**: componentes cancerígenos e tóxicos.
+- **Obstrui brânquias** de peixes e invertebrados → sufocamento.
+
+- **Afeta aves marinhas**:
+    - Perda da impermeabilidade das penas.
+    - Hipotermia e morte.
+
+- **Bloqueia luz solar**:
+    - Prejudica a fotossíntese de algas e fitoplâncton.
+
+- **Evaporação de toxinas** → contaminação do **ar e solo costeiro**.
+
+#### ✅ Solução: **Biorremediação**
+
+- Uso de **microrganismos decompositores** (ex: bactérias do gênero _Pseudomonas_) que **degradam hidrocarbonetos do petróleo**.
+    
+- Processo **natural e eficiente**, mas exige tempo e condições ambientais favoráveis.
+    
+
+---
+
+###  **Poluição Térmica**
+
+#### O que é?
+
+- Despejo de **água aquecida por processos industriais** (ex: usinas termoelétricas ou nucleares) nos rios ou oceanos.
+####  Efeitos:
+
+- **Eleva a temperatura da água** do ambiente aquático.
+- Reduz a **solubilidade do oxigênio** na água.
+- **Afeta peixes e invertebrados** sensíveis a pequenas variações térmicas.
+- Pode favorecer a **proliferação de micro-organismos patogênicos** e **algas nocivas**.

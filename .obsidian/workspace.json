@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Impactos ambientais/Poluição - Impactos Ambientais.md",
+                "file": "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poluição - Impactos Ambientais"
+              "title": "Poluição - Impactos ambientais na atmosfera"
+            }
+          },
+          {
+            "id": "e6651301f5a03506",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           },
           {
@@ -190,10 +202,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "eaa2564fa6b1d50d",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
+    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais.md",
     "História/Antiguidade oriental/Pré-História.md",
     "Biologia/Untitled Kanban.md",
     "Biologia/Caixinhas.canvas",
