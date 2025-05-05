@@ -1,1 +1,2 @@
 
+Efeito estufa: Radiação infravermelho. Absorvida ou refletiva pelas nuvens/atmosfera, parte atinge a terra. Calor esse, será absorvido e liberado em forma de calor para o espaço e parte para vai ficar presa na atmosfera pelos gases do efeito estufa. Mantendo a temperatura. Agora quanto mais gases do efeito estufa são jogados na atmosfera mais calor será retido. Por exemplo liberando gás carbônico. Gás metano também 

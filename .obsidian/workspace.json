@@ -11,10 +11,14 @@
             "id": "886a354f7ae97386",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Impactos ambientais/Aquecimento global.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aquecimento global"
             }
           }
         ]
@@ -174,8 +178,9 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "886a354f7ae97386",
   "lastOpenFiles": [
+    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
     "Biologia/Evolução/Lamarkismo.md",
@@ -185,7 +190,6 @@
     "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "História/Antiguidade oriental/Pré-História.md",
     "Biologia/Untitled Kanban.md",
     "Biologia/Caixinhas.canvas",
