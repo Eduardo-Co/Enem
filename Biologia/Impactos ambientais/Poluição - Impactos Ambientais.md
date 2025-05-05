@@ -1,7 +1,7 @@
-# Água + Eutrofização:
-###  **Poluição da Água e Uso Sustentável dos Recursos Hídricos**
+## Água + Eutrofização:
+###  **Uso Sustentável dos Recursos Hídricos**
 
-#### 💧 **Disponibilidade de Água Doce**
+#### 💧 ** Pouca Disponibilidade de Água Doce**
 
 - Embora o planeta Terra seja conhecido como o "planeta azul", **apenas cerca de 1% da água existente está disponível para uso humano**.
     - 97,5% é água salgada (mares e oceanos).
@@ -19,16 +19,14 @@
 
 ---
 
-###  **Fontes de Poluição Hídrica**
 
-#### 1. **Fraturamento hidráulico (Fracking)**
-- Técnica usada por petrolíferas para extrair petróleo e gás natural de rochas subterrâneas.
-- **Problema**: A água usada no processo é misturada com produtos químicos e pode contaminar os **aquíferos subterrâneos**.
+###  **Eutrofização e poluição hídrica**
 
----
-###  **Eutrofização**
-
+#### **1. Falta de tratamento de esgoto**
 Processo causado pelo excesso de nutrientes (como **nitrogênio e fósforo**) na água, oriundos de esgoto doméstico e fertilizantes agrícolas.
+#### **2. Hidrelétricas**: 
+- Baixa circulação da água
+- Poluição térmica ou química, com menos oxigênio
 #### 🔄 Etapas:
 1. Aumento de nutrientes → **proliferação de algas e cianobactérias**.
 2. Essas algas bloqueiam a luz solar → **queda na fotossíntese** das plantas aquáticas.
@@ -41,6 +39,11 @@ Processo causado pelo excesso de nutrientes (como **nitrogênio e fósforo**) na
 - Desequilíbrio ecológico nos ecossistemas aquáticos.
 - Potencial transmissão de doenças.
 ---
+#### **3. Fraturamento hidráulico (Fracking)**
+- Técnica usada por petrolíferas para extrair petróleo e gás natural de rochas subterrâneas.
+- **Problema**: A água usada no processo é misturada com produtos químicos e pode contaminar os **aquíferos subterrâneos**.
+
+
 ### **Processo químico de eutrofização:**
 
 ####  **1. Aumento de nutrientes na água**
@@ -88,12 +91,32 @@ Processo causado pelo excesso de nutrientes (como **nitrogênio e fósforo**) na
     - **H₂S (gás sulfídrico)** → responsável pelo cheiro de ovo podre.
     - **CH₄ (metano)**, **NH₃ (amônia)** → gases tóxicos.
 
+## Agrotóxicos 
 
+### ⚠️ **Impactos Ambientais dos Agrotóxicos**
 
+#### 1. 🐝 **Perda de polinizadores**
 
-# Agrotóxicos: 
+- **Inseticidas sistêmicos (como neonicotinóides)** são absorvidos pelas plantas e acabam no néctar e pólen.
+- As **abelhas consomem o néctar contaminado**, ficam desorientadas, adoecem e **levam o veneno para toda a colmeia**.
+- Consequência: **colapso de colônias**, queda na polinização de culturas e plantas silvestres.
+#### 2. 🧬 **Bioacumulação e biomagnificação**
+
+- Exemplo clássico: **DDT (diclorodifeniltricloroetano)**, um pesticida organoclorado.
+    
+- O DDT se **acumula nos tecidos gordurosos** dos organismos → **bioacumulação**.
+    
+- Ao subir na cadeia alimentar (ex: inseto → peixe → ave), a concentração **aumenta** → **biomagnificação**.
+    
+- Efeitos:
+    
+    - Câncer
+        
+    - Problemas hormonais
+        
+    - Casca de ovos fraca (aves predadoras como águias quase foram extintas)
 ### Porque utilizar agrotóxicos é ruim:
 
  - Prejudica os serviços ambientais como: Polinização - Mata abelhas e leva para colmeia
  - Alimentos orgânicos é melhor - predadores biológicos de pragas agrícolas - controle biológico: Uso de meios naturais para contorlar a população de um organismo que causa prejuízo. 
- - DDT: acumular dentro dos organismos - câncer 
+ - DDT: acumular dentro dos organismos - cançêr
