@@ -36,27 +36,18 @@ Presença de substâncias no ambiente, chamada de poluentes
 - **O que é**: Gás **incolor, inodoro e altamente tóxico**, gerado pela **combustão incompleta** de combustíveis (lenha, carvão, gasolina, gás).
     
 - **Fontes principais**:
-    
     - Motores de automóveis
-        
     - Fogões e aquecedores mal ventilados
-        
     - Incêndios domésticos ou florestais
         
 - **Impactos no corpo humano**:
     
     - **Se liga à hemoglobina** com afinidade 200x maior que o oxigênio.
-        
     - Forma a **carboxi-hemoglobina (HbCO)** → impede o transporte de O₂ no sangue.
-        
     - Pode causar:
-        
         - Tontura, desmaios, confusão mental
-            
         - **Asfixia celular** (mesmo com o pulmão funcionando)
-            
         - Em altos níveis: **morte por envenenamento silencioso**
-            
 - **Perigo especial em ambientes fechados**
 
 ## 3. Inversão térmica:
