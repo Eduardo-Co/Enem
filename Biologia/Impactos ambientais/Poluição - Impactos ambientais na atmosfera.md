@@ -22,12 +22,15 @@ Presença de substâncias no ambiente, chamada de poluentes
     - **Indústrias e fornos mal regulados**
 
 - **Como ela afeta a nossa saúde:**:
-    - Forma a **fumaça preta densa** — também conhecida como "chuva negra".
+    - Forma a **fumaça preta densa** — também conhecida como "chuva negra",ela causa:
+	    - Adsorção - fixação na superfície - de hidrocarbonetos aromáticos policíclicos, metais pesados e dioxinas, transportados para os alvéolos pulmonares. 
+	    - Produz $ROS$ - **ROS (Reactive Oxygen Species)** são moléculas ou íons derivados do oxigênio, altamente reativos - eles são ativados pelo sistema imune, principalmente pelos: ***Macrófagos alveolares e Neutrófilos***, que tentam neutralizar a partícula. Causando danos ao: DNA - câncer de pulmão, Peroxidação Lipídica - os ROS atacam ácidos graxos insaturados das membranas celulares, provocando morte celular - Inativação de proteínas - ***Carbono gera um extresse oxidativo***
 
 - **Impacto ambiental**:
     - Forma a **fumaça preta densa** — também conhecida como "chuva negra".
     - Contribui para o **aquecimento global** (absorve calor).
     - Deposita-se no gelo polar → acelera o derretimento.
+
 ### 🚫 **Monóxido de Carbono (CO)**
 
 - **O que é**: Gás **incolor, inodoro e altamente tóxico**, gerado pela **combustão incompleta** de combustíveis (lenha, carvão, gasolina, gás).
