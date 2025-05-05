@@ -25,12 +25,14 @@
             "id": "79293111bff2a5f4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Impactos ambientais/Espécies exóticas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Espécies exóticas"
             }
           }
         ],
@@ -193,9 +195,10 @@
   },
   "active": "79293111bff2a5f4",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Impactos ambientais/Espécies exóticas.md",
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
     "Biologia/Impactos ambientais/Aquecimento global.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
@@ -222,7 +225,6 @@
     "Física/Eletrodinâmica/Potência.md",
     "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
     "Física/Eletroestática + fotovoltaica/Processos de eletrização.md",
-    "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
     "Ink/Writing/2025.5.2 - 20.16pm.writing",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Porcentagem",
