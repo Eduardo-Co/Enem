@@ -1,4 +1,5 @@
-## Água + Eutrofização:
+## ***1. Água + Eutrofização:***
+
 ###  **Uso Sustentável dos Recursos Hídricos**
 
 #### 💧 ** Pouca Disponibilidade de Água Doce**
@@ -91,7 +92,11 @@ Processo causado pelo excesso de nutrientes (como **nitrogênio e fósforo**) na
     - **H₂S (gás sulfídrico)** → responsável pelo cheiro de ovo podre.
     - **CH₄ (metano)**, **NH₃ (amônia)** → gases tóxicos.
 
-## Agrotóxicos 
+
+
+
+
+## ***2. Agrotóxicos*** 
 
 ### ⚠️ **Impactos Ambientais dos Agrotóxicos**
 
@@ -103,20 +108,33 @@ Processo causado pelo excesso de nutrientes (como **nitrogênio e fósforo**) na
 #### 2. 🧬 **Bioacumulação e biomagnificação**
 
 - Exemplo clássico: **DDT (diclorodifeniltricloroetano)**, um pesticida organoclorado.
-    
 - O DDT se **acumula nos tecidos gordurosos** dos organismos → **bioacumulação**.
-    
 - Ao subir na cadeia alimentar (ex: inseto → peixe → ave), a concentração **aumenta** → **biomagnificação**.
-    
 - Efeitos:
-    
     - Câncer
-        
     - Problemas hormonais
-        
     - Casca de ovos fraca (aves predadoras como águias quase foram extintas)
-### Porque utilizar agrotóxicos é ruim:
+---
+#### 3. 🌊 **Contaminação da água**
 
- - Prejudica os serviços ambientais como: Polinização - Mata abelhas e leva para colmeia
- - Alimentos orgânicos é melhor - predadores biológicos de pragas agrícolas - controle biológico: Uso de meios naturais para contorlar a população de um organismo que causa prejuízo. 
- - DDT: acumular dentro dos organismos - cançêr
+- Agrotóxicos são **carregados pela chuva** para rios e lençóis freáticos.
+- Afetam organismos aquáticos, interferem na reprodução e podem causar **eutrofização indireta**, ao matar organismos filtradores ou afetar o ciclo de nutrientes.
+
+### 🐞 **Controle Biológico: A Alternativa Sustentável aos Agrotóxicos**
+
+#### Definição: 
+
+É o **uso de organismos vivos (predadores, parasitas, parasitoides ou patógenos)** para **controlar a população de pragas** agrícolas que causam prejuízo às plantações.
+
+## ***3. Oceanos - Maré Vermelha + Maré Negra***
+
+#### Crescimento acelerado de águas - Maré Vermelha:
+- jogam toxinas na agua - muita alga - floração. 
+- Liberam toxinas : antibiose 
+- Se difere da eutrofização - maré vermelha é o aumento de algas que produzem toxinas mas só é possibilitada pela eutrofização antes, mas ela também pode acontecer por outros motivos. 
+
+
+#### Maré negra:
+- Acontece com despejo de petróleo 
+- Petróleo possuí benzeno: substância cancerígena
+- Mata os bixinhos aq
