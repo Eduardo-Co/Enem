@@ -1,0 +1,4 @@
+ - pecuária bovina
+ - Agroindústria
+ - Urbanização 
+ - 
