@@ -13,6 +13,9 @@ O aumento de H⁺ diminui o **pH da água**, tornando-a **mais ácida**.
 É a **redução do pH da água do mar** devido à maior absorção de CO₂ atmosférico.  
 Desde a Revolução Industrial, o pH médio caiu de **8,2 para 8,1**, o que representa um **aumento de 30% na acidez**.
 
+***==Aumento na temperatura = branqueamento dos corais***==  
+==***Diminuição do pH (ácidez) = descalcificação dos corais.==***
+
 ---
 
 ##  Impactos nos Ecossistemas Marinhos
