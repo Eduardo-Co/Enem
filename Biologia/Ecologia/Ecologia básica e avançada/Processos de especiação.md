@@ -1,22 +1,23 @@
-# ***TIPO 2***
+# _**TIPO 2**_
 
-## Definição de especiação:
+##  **Definição de Especiação**
 
-Grupo de indivíduos que geram ***descendentes férteis.***
-
-- ***A transformação gradual de uma espécie em outra é anagênese***
-- ***A divisão de uma espécie em duas é denominado cladogênese - mais focado no ancestral***
-
+Grupo de indivíduos que gera _**descendentes férteis**_.
+- **Anagênese**: transformação gradual de uma espécie em outra.
+- **Cladogênese**: divisão de uma espécie em duas ou mais, focada no ancestral comum.
 ---
+## **Processos de Especiação — Como novas espécies se formam:**
 
-## Processos de especiação, como espécies se formam:
-
-- ***Alopátrica***: Separação por uma barreira geográfica. Ex: Isolamento na ilha galápagos de pássaros
-
-- ***Peripátrica***: Separação da espécie por meio de um desastre natural ou divisão pequena, ***barreira geográfica pequena***
-	1. Efeito fundador: pode ir somente um representante com características específicas, propagando somente ela. Ex: pequeno grupo de colonos britânicos estabelecendo uma doença hereditária
-	2. Efeito gargalo: o que aconteceu com os dinossauros
-
-- ***Simpátrica***: Mesma espécie muda os hábitos, espécie nova no mesmo ambiente. Ex: moscas se alimentando de comida nova, e reproduzindo somente entre si
-
-- ***Parapátrica***: Ocorre em gradiente, com meio sendo isolante não reprodutivo
+- **Alopátrica**: separação por barreira geográfica.  
+    _Exemplo_: pássaros das Ilhas Galápagos isolados em diferentes ilhas.
+- **Peripátrica**: isolamento por evento raro, com **barreira geográfica pequena**.
+    - **Efeito fundador**: um pequeno grupo leva características únicas.  
+        _Exemplo_: colonos britânicos levando doença hereditária rara.
+    - **Efeito gargalo**: redução drástica por evento catastrófico.  
+        _Exemplo_: extinção dos dinossauros.
+        
+- **Simpátrica**: surge uma nova espécie **sem separação geográfica**, por mudança de hábitos.  
+    _Exemplo_: moscas que passam a se alimentar de frutas diferentes e só se reproduzem entre si.
+    
+- **Parapátrica**: espécies vizinhas em um **gradiente ambiental**, com uma zona de contato limitada e barreira reprodutiva.  
+    _Exemplo_: vegetais ao longo de um solo com variação de metais pesados.

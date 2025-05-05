@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7087c3b7283a35a3",
+        "id": "c9203ea44c0c5a45",
         "type": "tabs",
         "children": [
           {
-            "id": "e6651301f5a03506",
+            "id": "886a354f7ae97386",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sucessão ecológica"
+              "title": "New tab"
             }
           }
         ]
@@ -178,8 +174,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e6651301f5a03506",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
+    "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
+    "Biologia/Evolução/Lamarkismo.md",
+    "Biologia/Evolução/Tipos de seleção natural.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
@@ -190,11 +191,6 @@
     "Biologia/Caixinhas.canvas",
     "Química/Ligações químicas/Ligação iônica.md",
     "Biologia/Impactos ambientais",
-    "Biologia/Evolução/Tipos de seleção natural.md",
-    "Biologia/Evolução/Lamarkismo.md",
-    "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
