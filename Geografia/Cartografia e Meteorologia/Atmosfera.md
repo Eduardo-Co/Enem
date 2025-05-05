@@ -1,25 +1,12 @@
-''
-Há mais nitrogênio que oxigênio
 
-Divisões da atmosfera:
+É a **camada gasosa** que envolve a Terra. Ela é fundamental para manter a **vida**, controlar a **temperatura**, proteger contra radiação e permitir a **respiração**.
 
-- ***Troposfera***: Superfície do planeta, onde os gases ficam misturados 75% massa da atmosfera, vapor de água e aerossóis
+---
 
-	==Maior altitude menor temperatura até a troposfera==
-
-- ***Estratosfera***: Se encontra ozônio, ***FILTRAR A RADIAÇÃO SOLAR ABSORVENDO UV***, camada de ozônio.
-
-	==Maior altitude maior temperatura==
-
-- ***Mesosfera:***  pequenos corpos celestes
-
-- ***Termosfera ou Ionosfera:*** final da mesosfera, temperaturas extremamente altas, transmite pouco calor. Apresenta grande quantidade de íons e elétrons, muito afetada pelos campos magnéticos. ISSO QUE FORMA A AURORA BOREAL. 
-
-- ***Exosfera:*** Hidrogênio e hélio, satélites ficam aqui
-
-
-
-Repare que nas camadas em que há filtragem dos raios solares há maior temperatura, então:
-
-> [!Importante]
-> ***Termosfera e estratosfera são as mais afetadas em relação que, quando mais se sobe mais aumenta a temperatura***
+|**Camada**|**Altitude (aprox.)**|**Temperatura**|**Características Principais**|**Fatos que mais caem no ENEM**|
+|---|---|---|---|---|
+|**Troposfera**|0 a 12 km|Diminui com a altitude|- Onde ocorrem os **fenômenos climáticos** (chuvas, ventos, nuvens)- Contém **75% dos gases** da atmosfera- Possui vapor d'água- Região de **voo dos aviões comerciais**|Fenômenos meteorológicos ocorrem aqui; camada mais densa da atmosfera|
+|**Estratosfera**|12 a 50 km|Aumenta com a altitude|- Presença da **camada de ozônio** (absorve radiação UV)- Pouca turbulência- Ideal para voos de alta altitude|Local da camada de ozônio; protege contra raios ultravioleta|
+|**Mesosfera**|50 a 80 km|Diminui com a altitude (até -90°C)|- **Camada mais fria** da atmosfera- Onde **meteoros queimam** ao entrar na Terra- Pouco estudada|Queima de meteoros ocorre aqui (“estrelas cadentes”)|
+|**Termosfera**|80 a 500 km (ou mais)|Aumenta com a altitude (muito quente)|- Presença da **ionosfera** (reflexão de ondas de rádio)- **Auroras polares** ocorrem aqui- Satélites de baixa órbita|Onda de rádio e auroras boreais estão associadas a esta camada|
+|**Exosfera**|Acima de 500 km|Muito rarefeita (quase sem ar)|- Transição para o espaço sideral- **Satélites artificiais** em órbita- Gases extremamente dispersos|Satélites orbitais e fronteira com o espaço exterior|

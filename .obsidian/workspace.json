@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
+                "file": "Geografia/Cartografia e Meteorologia/Atmosfera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acidificação dos oceanos"
+              "title": "Atmosfera"
+            }
+          },
+          {
+            "id": "de719c0c8a1fedfb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -180,9 +192,12 @@
   },
   "active": "cd7a8ac59817d1d4",
   "lastOpenFiles": [
-    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
+    "Geografia/Cartografia e Meteorologia/Escala.md",
+    "Geografia/Tectonismo/Placas tectônicas.md",
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Terminologias em latim.md",
+    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
     "Biologia/Impactos ambientais/Egostos.md",
     "Biologia/Impactos ambientais/Aquecimento global.md",
@@ -208,8 +223,6 @@
     "Matemática/Matemática todo dia/Semana.md",
     "Física/Eletrodinâmica/Tensão.md",
     "Física/Eletroestática + fotovoltaica/Tensão e trabalho.md",
-    "Física/Eletrodinâmica/Corrente elétrica.md",
-    "Física/Eletrodinâmica/Potência.md",
     "Ink/Writing/2025.5.2 - 20.16pm.writing",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Porcentagem",
