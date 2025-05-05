@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fbc633361c0e87b3",
+        "id": "7087c3b7283a35a3",
         "type": "tabs",
         "children": [
           {
-            "id": "2d54a1656f8b3856",
+            "id": "eaa2564fa6b1d50d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
+                "file": "Biologia/Impactos ambientais/Água - Poluição nas águas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relações ecológicas"
+              "title": "Água - Poluição nas águas"
             }
           }
         ]
@@ -178,14 +178,22 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "2d54a1656f8b3856",
+  "active": "eaa2564fa6b1d50d",
   "lastOpenFiles": [
+    "Biologia/Impactos ambientais/Água - Poluição nas águas.md",
+    "Biologia/Impactos ambientais",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Untitled Kanban.md",
+    "Biologia/Caixinhas.canvas",
+    "Biologia/Evolução/Tipos de seleção natural.md",
+    "Biologia/Evolução/Lamarkismo.md",
+    "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática todo dia/Semana 2.md",
     "Exercícios/Matemática - Sem - 2.md",
     "Exercícios",
@@ -203,14 +211,7 @@
     "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Ligações químicas/Ligações Sigma e Pi - Covalente.md",
     "Química/Ligações químicas/Hibridização.md",
-    "Química/Ligações químicas/Ligação covalente.md",
-    "Química/Ligações químicas/Ligação iônica.md",
-    "Química/Ligações químicas/Ligação Dativa ou Coordenada.md",
-    "Química/Ligações químicas/Ligações metálicas.md",
-    "Química/Ligações químicas/Ligação Químicas.md",
     "Ink/Writing/2025.5.2 - 20.16pm.writing",
-    "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
-    "Biologia/Caixinhas.canvas",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Porcentagem",
     "Redação/Untitled.canvas",
@@ -223,7 +224,6 @@
     "Física/Caixinhas.canvas",
     "Física/img/Pasted image 20250429143611.png",
     "Física/img/Pasted image 20250429143359.png",
-    "Física/Exercícios períodicos",
     "Geografia/Caixinhas.canvas",
     "Pasted image 20250426093409.png",
     "Pasted image 20250426093411.png",

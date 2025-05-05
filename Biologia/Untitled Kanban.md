@@ -4,17 +4,6 @@ kanban-plugin: board
 
 ---
 
-## Concluído
-
-- [ ] especiação - espécies
-- [ ] sucessão ecológica
-
-
-## a fazer
-
-- [ ] Estudar evidências da evolução
-
-
 ## Decorar
 
 
@@ -30,7 +19,6 @@ kanban-plugin: board
 
 ## Faltou de questões
 
-- [ ] Evidências da evolução
 
 
 ## Fazer exercícios esporadicamente
@@ -39,12 +27,19 @@ kanban-plugin: board
 
 ## Revisar
 
+- [ ] Evidências da evolução
+- [ ] Sucessão ecológica - Nomes e Exemplos
+- [ ] Relações ecológicas - Exemplos
+
+
+## Concluido
+
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
 ```
 %%

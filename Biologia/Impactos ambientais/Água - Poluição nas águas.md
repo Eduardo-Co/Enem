@@ -1,0 +1,5 @@
+- Somos muito restritos, a agua é realmente pouca cerca de 1% que podemos utilizar, de toda do planeta
+- Consumo agua:
+	- Maior no agro - 70%
+	- Industria 22%
+	- Doméstico 8%
