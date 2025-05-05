@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Desmatamento"
             }
+          },
+          {
+            "id": "31b71a601564f379",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "886a354f7ae97386",
+  "active": "31b71a601564f379",
   "lastOpenFiles": [
-    "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Desmatamento.md",
+    "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
