@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geografia/Cartografia e Meteorologia/Projeções.md",
+                "file": "Geografia/Estruturas de rochas e geologia/Rochas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projeções"
+              "title": "Rochas"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,9 +190,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "de719c0c8a1fedfb",
+  "active": "cd7a8ac59817d1d4",
   "lastOpenFiles": [
     "Geografia/Cartografia e Meteorologia/Projeções.md",
+    "Geografia/Estruturas de rochas e geologia/Rochas.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Geografia/Estruturas de rochas e geologia",
+    "Geografia/Cartografia e Meteorologia/Untitled.md",
     "Geografia/Cartografia e Meteorologia/Pontos cardeais e coordenadas geográficas.md",
     "Geografia/Cartografia e Meteorologia/Fuso horário.md",
     "Geografia/Cartografia e Meteorologia/Atmosfera.md",
@@ -203,7 +206,6 @@
     "Geografia/Tectonismo/Estrutura da terra.md",
     "Geografia/Tectonismo/Placas tectônicas.md",
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Terminologias em latim.md",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
@@ -218,9 +220,7 @@
     "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "História/Antiguidade oriental/Pré-História.md",
-    "Biologia/Untitled Kanban.md",
     "Biologia/Caixinhas.canvas",
-    "Química/Ligações químicas/Ligação iônica.md",
     "Biologia/Impactos ambientais",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
     "Exercícios",
@@ -233,7 +233,6 @@
     "Ink/Writing/2025.4.30 - 14.35pm.writing",
     "Química/img/Pasted image 20250430143026.png",
     "Química/Ligações químicas",
-    "Química/Atomo",
     "Física/Caixinhas.canvas",
     "Física/img/Pasted image 20250429143611.png",
     "Física/img/Pasted image 20250429143359.png",
