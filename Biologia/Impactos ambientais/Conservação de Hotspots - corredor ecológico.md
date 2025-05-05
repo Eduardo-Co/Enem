@@ -3,7 +3,7 @@
 ###  O que são?
 
 São **faixas de vegetação natural ou reflorestada** que **ligam fragmentos isolados de ecossistemas**, permitindo o **trânsito seguro de espécies animais e vegetais**.
-
+==As vezes é importante salientar que a ação humana, adição de novas espécies fatores antrópicos acabam dividindo habitats, impedindo que indivíduos da mesma espécie entrem em contato, diminuindo a variabilidade genética. Portanto corredores ecológicos são uma solução para isso.==
 ###  Objetivos:
 
 - **Facilitar o fluxo gênico** (evita cruzamento entre parentes próximos).

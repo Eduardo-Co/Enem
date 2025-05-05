@@ -4,51 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "c9203ea44c0c5a45",
+        "id": "4b981e7d68fb775d",
         "type": "tabs",
         "children": [
           {
-            "id": "886a354f7ae97386",
+            "id": "6306fcb7530e4190",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
+                "file": "Biologia/Impactos ambientais/Egostos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acidificação dos oceanos"
+              "title": "Egostos"
             }
           },
           {
-            "id": "79293111bff2a5f4",
+            "id": "3a1728339ddfab9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Impactos ambientais/Espécies exóticas.md",
+                "file": "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Espécies exóticas"
-            }
-          },
-          {
-            "id": "a4a5051742bfb60c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "title": "Conservação de Hotspots - corredor ecológico"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,21 +192,22 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "a4a5051742bfb60c",
+  "active": "6306fcb7530e4190",
   "lastOpenFiles": [
+    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
+    "Biologia/Impactos ambientais/Egostos.md",
+    "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Impactos ambientais/Espécies exóticas.md",
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
-    "Biologia/Impactos ambientais/Aquecimento global.md",
-    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
+    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
     "Biologia/Evolução/Lamarkismo.md",
     "Biologia/Evolução/Tipos de seleção natural.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
-    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
     "História/Antiguidade oriental/Pré-História.md",
     "Biologia/Untitled Kanban.md",
     "Biologia/Caixinhas.canvas",
