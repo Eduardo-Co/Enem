@@ -82,29 +82,11 @@ Etapa **opcional e mais cara**, usada em locais com exigência ambiental alta.
 ## 🧪 Impactos ambientais do esgoto sem tratamento
 
 - **Eutrofização**: excesso de nutrientes → explosão de algas → morte de peixes.
-    
 - **Doenças**: como hepatite A, cólera, giardíase e esquistossomose.
-    
 - **Contaminação de lençóis freáticos e solos**.
-    
 - **Bioacumulação de metais** e compostos tóxicos na cadeia alimentar.
-    
 
 ---
-
-## ✅ Soluções sustentáveis e integradas
-
-- 🌿 Uso de **sistemas naturais de tratamento** (wetlands construídos).
-    
-- ♻️ Reutilização de água tratada para **irrigação e indústria**.
-    
-- 🚽 Educação ambiental: **não jogar remédios no vaso**.
-    
-- 🌍 Investimento em **saneamento universal** e ampliação de ETES.
-    
-
----
-
 ## 🧠 Resumo Final
 
 |Etapa do tratamento|O que remove bem|O que não remove completamente|
@@ -112,16 +94,3 @@ Etapa **opcional e mais cara**, usada em locais com exigência ambiental alta.
 |Primária|Sólidos, areia, detritos|Bactérias, químicos solúveis|
 |Secundária|Matéria orgânica, parte dos microrganismos|Metais pesados, nutrientes, fármacos|
 |Terciária|Nutrientes, vírus, fármacos (parcialmente)|Microplásticos, compostos persistentes|
-
----
-
-Se quiser, posso te entregar esse conteúdo em:
-
-- 📄 **Markdown** para anotações
-    
-- 📊 **Infográfico**
-    
-- 🎯 **Quiz interativo de revisão**
-    
-
-E claro, não esquece de colar com a galera no nosso Discord de ciência e IA 👇
