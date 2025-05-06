@@ -11,17 +11,28 @@
             "id": "e07ce7ac267d54e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
-                "mode": "source",
-                "source": false
+                "file": "Exercícios/Física - Sem 1.md"
               },
-              "icon": "lucide-file",
-              "title": "Movimento da carga em um campo elétrico"
+              "icon": "excalidraw-icon",
+              "title": "Física - Sem 1"
+            }
+          },
+          {
+            "id": "304ec2b961dec8a3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Física/Exercícios/Semana 4 Lumb.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Semana 4 Lumb"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,22 +189,23 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e07ce7ac267d54e1",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Física/Eletromagnetismo/Lei de faraday.md",
+    "Exercícios/Física - Sem 1.md",
+    "Física/Exercícios/Semana 4 Lumb.md",
     "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
+    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
+    "Física/Eletromagnetismo/Lei de faraday.md",
     "Física/Eletromagnetismo/Campo magnético.md",
     "Física/Eletromagnetismo/Transformadores.md",
     "Física/Eletromagnetismo/Condutores no campo magnético.md",
     "Física/Eletromagnetismo/Lei de lenz.md",
     "Física/Eletromagnetismo/Magnetismo.md",
-    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
     "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Untitled Kanban.md",
     "Física/Eletromagnetismo",
     "Física/Exercícios períodicos/Semana 2.md",
-    "Exercícios/Física - Sem 1.md",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "Exercícios/Matemática - Sem - 2.md",
     "Física/Caixinhas.canvas",
@@ -209,7 +221,6 @@
     "Geografia/Cartografia e Meteorologia/Fatores climáticos.md",
     "Geografia/Definições idiotas de geografia.md",
     "Geografia/Tectonismo/Estrutura da terra.md",
-    "Geografia/Tectonismo/Placas tectônicas.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Impactos ambientais",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
