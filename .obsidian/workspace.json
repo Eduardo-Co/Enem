@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99066d5d88883e3d",
+            "id": "5a609fbb3ec3465b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Eletromagnetismo/Magnetismo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Magnetismo"
             }
           }
         ]
@@ -188,17 +178,18 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "5a609fbb3ec3465b",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Eletromagnetismo/Magnetismo.md",
+    "Física/Untitled Kanban.md",
     "Física/Eletromagnetismo",
     "Física/Exercícios períodicos/Semana 2.md",
     "Exercícios/Física - Sem 1.md",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
-    "Física/Untitled Kanban.md",
     "Exercícios/Matemática - Sem - 2.md",
     "Física/Caixinhas.canvas",
     "Matemática/Matemática todo dia/Semana 2.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Estruturas de rochas e geologia/Rochas.md",
     "Geografia/Cartografia e Meteorologia/Projeções.md",
     "Geografia/Estruturas de rochas e geologia",
@@ -218,7 +209,6 @@
     "Biologia/Impactos ambientais/Egostos.md",
     "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Espécies exóticas.md",
-    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Impactos ambientais",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
@@ -231,7 +221,6 @@
     "Química/Untitled.canvas",
     "Ink/Writing/2025.4.30 - 14.35pm.writing",
     "Química/img/Pasted image 20250430143026.png",
-    "Química/Ligações químicas",
     "Física/img/Pasted image 20250429143611.png",
     "Física/img/Pasted image 20250429143359.png",
     "Geografia/Caixinhas.canvas",
