@@ -12,6 +12,7 @@ Use a **mão direita** como uma bússola natural:
   - Indicador = vetor campo magnético $\vec{B}$
   - Médio (saindo da palma) = força magnética $\vec{F} = q\vec{v} \times \vec{B}$
 
+
 ---
 
 ##  2. Módulo do Campo Magnético (Fio Reto)
@@ -29,15 +30,17 @@ $$
 
 ---
 
-## 🔄 3. Campo Magnético no Centro de uma Espira Circular
+## 3. Campo Magnético no Centro de uma Espira Circular (Bobina Curta)
 
-Para uma única espira de raio $R$ com corrente $I$:
+> **Importante:** mesmo com várias espiras sobrepostas em um único plano, o campo **não** é uniforme; as expressões abaixo valem apenas **no centro geométrico**.
+
+Para uma espira única de raio $R$ percorrida por corrente $I$:
 
 $$
 B = \frac{\mu_0 I}{2R}
 $$
 
-Se forem $N$ espiras, lembre-se que tiver um comprimento em relação ao raio será:
+Para $N$ espiras sobrepostas no **mesmo plano** (bobina curta, $L \ll R$):
 
 $$
 B = \frac{\mu_0 N I}{2R}
@@ -45,21 +48,21 @@ $$
 
 ---
 
-## 🧵 4. Campo Magnético no Interior de um Solenoide
+## 🧵 4. Campo Magnético no Interior de um Solenoide Longo
 
-Agora, se o comprimento for grande comprado ao raio será um **solenoide**, é um fio enrolado como uma mola. O campo **dentro dele** é uniforme:
+Quando o comprimento $L$ é **muito maior** que o raio $R$ ($L \gg R$), o enrolamento recebe o nome de **solenoide**. Dentro dele, o campo magnético é aproximadamente **uniforme** e paralelo ao eixo:
 
 $$
 B = \mu_0 n I
 $$
 
-Onde:
+onde  
 
-- $n = \frac{N}{L}$ é o número de espiras por metro
-- $N$: número de espiras
-- $L$: comprimento do solenoide
-- $I$: corrente
-- $\mu_0$: constante do vácuo
+- $n = \dfrac{N}{L}$ – número de espiras por metro  
+- $N$ – número total de espiras  
+- $L$ – comprimento do solenoide  
+- $I$ – corrente elétrica  
+- $\mu_0 = 4\pi\times10^{-7}\,\text{T·m·A}^{-1}$ – permeabilidade do vácuo  
 
 Substituindo $n$:
 
@@ -67,5 +70,7 @@ $$
 B = \mu_0 \frac{N}{L} I
 $$
 
+> **Qual expressão usar?**  
+> - **Bobina curta (plana):** $B = \dfrac{\mu_0 N I}{2R}$ no centro.  
+> - **Solenoide longo:** $B = \mu_0 \dfrac{N}{L} I$ no interior, longe das extremidades.
 ---
-
