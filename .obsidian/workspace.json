@@ -11,15 +11,42 @@
             "id": "aa78d915e8c6e084",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Eletrodinâmica/Tensão.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Tensão"
+            }
+          },
+          {
+            "id": "015c6fe2a9649c50",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Física/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +203,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "aa78d915e8c6e084",
+  "active": "015c6fe2a9649c50",
   "lastOpenFiles": [
-    "História/Gregos/Helenismo.md",
+    "Física/Eletrodinâmica/Tensão.md",
+    "Física/Eletrodinâmica/Potência.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "História/Gregos/Helenismo.md",
     "História/Gregos/Esparta e Atenas.md",
     "História/Gregos/Cultura e religião da grécia antiga.md",
     "História/Antiguidade/Sociedades hirdáulicas.md",
@@ -208,7 +237,6 @@
     "Exercícios/Matemática - Sem - 2.md",
     "Física/Caixinhas.canvas",
     "Matemática/Matemática todo dia/Semana 2.md",
-    "Geografia/Estruturas de rochas e geologia/Rochas.md",
     "Geografia/Estruturas de rochas e geologia",
     "Biologia/Impactos ambientais",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
