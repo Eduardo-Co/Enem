@@ -37,7 +37,7 @@ $$
 B = \frac{\mu_0 I}{2R}
 $$
 
-Se forem $N$ espiras:
+Se forem $N$ espiras, lembre-se que tiver um comprimento em relação ao raio será:
 
 $$
 B = \frac{\mu_0 N I}{2R}
@@ -47,7 +47,7 @@ $$
 
 ## 🧵 4. Campo Magnético no Interior de um Solenoide
 
-Um **solenoide** é um fio enrolado como uma mola. O campo **dentro dele** é uniforme:
+Agora, se o comprimento for grande comprado ao raio será um **solenoide**, é um fio enrolado como uma mola. O campo **dentro dele** é uniforme:
 
 $$
 B = \mu_0 n I
