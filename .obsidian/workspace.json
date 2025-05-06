@@ -39,12 +39,14 @@
             "id": "d4797935cd25cbd8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "História/Gregos/Cultura e religião da grécia antiga.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Cultura e religião da grécia antiga"
             }
           }
         ],
@@ -207,9 +209,11 @@
   },
   "active": "d4797935cd25cbd8",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "História/Gregos/Cultura e religião da grécia antiga.md",
+    "História/Gregos",
     "História/Antiguidade/Sociedades hirdáulicas.md",
     "História/Antiguidade/Pré-História.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "História/Antiguidade oriental/Pré-História.md",
     "História/Antiguidade/Pré-história",
     "História/Antiguidade oriental/Civilizações hidráulicas.md",
@@ -237,7 +241,6 @@
     "Geografia/Cartografia e Meteorologia/Projeções.md",
     "Geografia/Estruturas de rochas e geologia",
     "Geografia/Cartografia e Meteorologia/Untitled.md",
-    "Geografia/Cartografia e Meteorologia/Pontos cardeais e coordenadas geográficas.md",
     "Biologia/Impactos ambientais",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
     "Exercícios",
@@ -245,7 +248,6 @@
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Porcentagem",
     "Redação/Untitled.canvas",
-    "Redação/Conclusão",
     "Química/Untitled.canvas",
     "Química/img/Pasted image 20250430143026.png",
     "Física/img/Pasted image 20250429143611.png",
