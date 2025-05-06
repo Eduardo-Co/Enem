@@ -30,8 +30,33 @@
               "icon": "lucide-trello",
               "title": "Untitled Kanban"
             }
+          },
+          {
+            "id": "18bdea67d2c84bc1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Física/Exercícios períodicos/Semana 2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Semana 2"
+            }
+          },
+          {
+            "id": "91048e43db58e4c5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Exercícios/Física - Sem 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Física - Sem 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,10 +213,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "99066d5d88883e3d",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Física/Caixinhas.canvas",
     "Exercícios/Matemática - Sem - 2.md",
+    "Exercícios/Física - Sem 1.md",
+    "Física/Exercícios períodicos/Semana 2.md",
+    "Física/Untitled Kanban.md",
+    "Física/Caixinhas.canvas",
     "Matemática/Matemática todo dia/Semana 2.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Estruturas de rochas e geologia/Rochas.md",
@@ -216,8 +244,6 @@
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
-    "Biologia/Evolução/Lamarkismo.md",
-    "Biologia/Evolução/Tipos de seleção natural.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Impactos ambientais",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
