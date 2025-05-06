@@ -19,6 +19,7 @@ kanban-plugin: board
 
 ## Faltou de questões
 
+- [ ] Impactos ambientais - tratamento esgoto - farmacos
 
 
 ## Fazer exercícios esporadicamente

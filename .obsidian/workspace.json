@@ -11,24 +11,12 @@
             "id": "e07ce7ac267d54e1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Biologia/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -190,17 +178,18 @@
   },
   "active": "e07ce7ac267d54e1",
   "lastOpenFiles": [
-    "Biologia/Caixinhas.canvas",
+    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
+    "Física/Eletromagnetismo/Magnetismo.md",
+    "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
+    "Física/Eletromagnetismo/Campo magnético.md",
+    "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
     "Física/Eletromagnetismo/Condutores no campo magnético.md",
     "Física/Exercícios/Semana 4 Lumb.md",
-    "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
-    "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
+    "Biologia/Untitled Kanban.md",
+    "Biologia/Caixinhas.canvas",
     "Física/Eletromagnetismo/Lei de faraday.md",
     "Física/Eletromagnetismo/Lei de lenz.md",
-    "Física/Eletromagnetismo/Magnetismo.md",
-    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
     "Física/Eletromagnetismo/Transformadores.md",
-    "Física/Eletromagnetismo/Campo magnético.md",
     "Exercícios/Física - Sem 1.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Untitled Kanban.md",
