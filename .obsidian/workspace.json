@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Eletromagnetismo/Transformadores.md",
+                "file": "Física/Eletromagnetismo/Lei de faraday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformadores"
+              "title": "Lei de faraday"
             }
           }
         ]
@@ -180,15 +180,15 @@
   },
   "active": "e07ce7ac267d54e1",
   "lastOpenFiles": [
-    "Física/Eletromagnetismo/Condutores no campo magnético.md",
-    "Física/Eletromagnetismo/Transformadores.md",
     "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
-    "Física/Eletromagnetismo/Lei de lenz.md",
+    "Física/Eletromagnetismo/Campo magnético.md",
     "Física/Eletromagnetismo/Lei de faraday.md",
+    "Física/Eletromagnetismo/Transformadores.md",
+    "Física/Eletromagnetismo/Condutores no campo magnético.md",
+    "Física/Eletromagnetismo/Lei de lenz.md",
     "Física/Eletromagnetismo/Magnetismo.md",
     "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
     "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
-    "Física/Eletromagnetismo/Campo magnético.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Untitled Kanban.md",
     "Física/Eletromagnetismo",
