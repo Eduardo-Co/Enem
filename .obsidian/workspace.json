@@ -11,28 +11,17 @@
             "id": "e07ce7ac267d54e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Exercícios/Física - Sem 1.md"
+                "file": "Física/Eletromagnetismo/Condutores no campo magnético.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Física - Sem 1"
-            }
-          },
-          {
-            "id": "304ec2b961dec8a3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Física/Exercícios/Semana 4 Lumb.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Semana 4 Lumb"
+              "icon": "lucide-file",
+              "title": "Condutores no campo magnético"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,19 +178,56 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "floating": {
+    "id": "02adf80a042b8eae",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d088ebc9951a334d",
+        "type": "window",
+        "children": [
+          {
+            "id": "8e7a7574e856c469",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "304ec2b961dec8a3",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Física/Exercícios/Semana 4 Lumb.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Semana 4 Lumb"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 747,
+        "y": 190,
+        "width": 601,
+        "height": 603,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "304ec2b961dec8a3",
   "lastOpenFiles": [
-    "Exercícios/Física - Sem 1.md",
     "Física/Exercícios/Semana 4 Lumb.md",
-    "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
-    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
-    "Física/Eletromagnetismo/Lei de faraday.md",
-    "Física/Eletromagnetismo/Campo magnético.md",
-    "Física/Eletromagnetismo/Transformadores.md",
     "Física/Eletromagnetismo/Condutores no campo magnético.md",
+    "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
+    "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
+    "Física/Eletromagnetismo/Lei de faraday.md",
     "Física/Eletromagnetismo/Lei de lenz.md",
     "Física/Eletromagnetismo/Magnetismo.md",
-    "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
+    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
+    "Física/Eletromagnetismo/Transformadores.md",
+    "Física/Eletromagnetismo/Campo magnético.md",
+    "Exercícios/Física - Sem 1.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Untitled Kanban.md",
     "Física/Eletromagnetismo",
