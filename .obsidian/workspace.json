@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
+                "file": "Física/Eletromagnetismo/Condutores no campo magnético.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movimento da carga em um campo elétrico"
-            }
-          },
-          {
-            "id": "2088261907167888",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "title": "Condutores no campo magnético"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,14 +178,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "2088261907167888",
+  "active": "5a609fbb3ec3465b",
   "lastOpenFiles": [
     "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
+    "Física/Eletromagnetismo/Condutores no campo magnético.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
     "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
     "Física/Eletromagnetismo/Campo magnético.md",
     "Física/Eletromagnetismo/Magnetismo.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Untitled Kanban.md",
     "Física/Eletromagnetismo",
     "Física/Exercícios períodicos/Semana 2.md",
@@ -222,7 +210,6 @@
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
     "Terminologias em latim.md",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
-    "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Impactos ambientais",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
