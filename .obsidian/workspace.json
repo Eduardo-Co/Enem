@@ -4,33 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9c1a99cce3c3ab50",
+        "id": "e43c2cc37b10599d",
         "type": "tabs",
         "children": [
           {
-            "id": "cd7a8ac59817d1d4",
+            "id": "99066d5d88883e3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Geografia/Estruturas de rochas e geologia/Rochas.md",
-                "mode": "source",
-                "source": false
+                "file": "Física/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Rochas"
-            }
-          },
-          {
-            "id": "de719c0c8a1fedfb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -190,11 +188,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "cd7a8ac59817d1d4",
+  "active": "99066d5d88883e3d",
   "lastOpenFiles": [
-    "Geografia/Cartografia e Meteorologia/Projeções.md",
-    "Geografia/Estruturas de rochas e geologia/Rochas.md",
+    "Física/Caixinhas.canvas",
+    "Exercícios/Matemática - Sem - 2.md",
+    "Matemática/Matemática todo dia/Semana 2.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Geografia/Estruturas de rochas e geologia/Rochas.md",
+    "Geografia/Cartografia e Meteorologia/Projeções.md",
     "Geografia/Estruturas de rochas e geologia",
     "Geografia/Cartografia e Meteorologia/Untitled.md",
     "Geografia/Cartografia e Meteorologia/Pontos cardeais e coordenadas geográficas.md",
@@ -217,9 +218,6 @@
     "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
     "Biologia/Evolução/Lamarkismo.md",
     "Biologia/Evolução/Tipos de seleção natural.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
-    "História/Antiguidade oriental/Pré-História.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Impactos ambientais",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
@@ -233,7 +231,6 @@
     "Ink/Writing/2025.4.30 - 14.35pm.writing",
     "Química/img/Pasted image 20250430143026.png",
     "Química/Ligações químicas",
-    "Física/Caixinhas.canvas",
     "Física/img/Pasted image 20250429143611.png",
     "Física/img/Pasted image 20250429143359.png",
     "Geografia/Caixinhas.canvas",
