@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Movimento da carga em um campo elétrico"
             }
+          },
+          {
+            "id": "2088261907167888",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,11 +191,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "5a609fbb3ec3465b",
+  "active": "2088261907167888",
   "lastOpenFiles": [
-    "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
     "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
-    "Física/Eletromagnetismo/Campo magnético gerado por um fio.md",
+    "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
+    "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
     "Física/Eletromagnetismo/Campo magnético.md",
     "Física/Eletromagnetismo/Magnetismo.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
