@@ -30,47 +30,8 @@
               "icon": "lucide-trello",
               "title": "Untitled Kanban"
             }
-          },
-          {
-            "id": "18bdea67d2c84bc1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Física/Exercícios períodicos/Semana 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Semana 2"
-            }
-          },
-          {
-            "id": "91048e43db58e4c5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Exercícios/Física - Sem 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Física - Sem 1"
-            }
-          },
-          {
-            "id": "63708313057d4823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física/Eletrodinâmica/Segunda lei de Ohm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Segunda lei de Ohm"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,13 +188,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "91048e43db58e4c5",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Física/Eletrodinâmica/Segunda lei de Ohm.md",
-    "Exercícios/Física - Sem 1.md",
-    "Exercícios/Matemática - Sem - 2.md",
+    "Física/Eletromagnetismo",
     "Física/Exercícios períodicos/Semana 2.md",
+    "Exercícios/Física - Sem 1.md",
+    "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "Física/Untitled Kanban.md",
+    "Exercícios/Matemática - Sem - 2.md",
     "Física/Caixinhas.canvas",
     "Matemática/Matemática todo dia/Semana 2.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -257,7 +219,6 @@
     "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Espécies exóticas.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Impactos ambientais",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",

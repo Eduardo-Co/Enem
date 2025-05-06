@@ -28,6 +28,7 @@ kanban-plugin: board
 
 - [ ] Redesenhar circuito com pontos em uma linha - Treinar técnica
 - [ ] Resistência interna de um gerador
+- [ ] Ponte de wheatstone
 
 
 ## Concluido
