@@ -1,20 +1,6 @@
 
 ---
 
-##  1. Regra da Mão Direita
-
-Use a **mão direita** como uma bússola natural:
-
-- **Polegar**: direção da **corrente elétrica** (ou velocidade da carga)
-- **Dedos enrolados**: direção do **campo magnético** ao redor do fio
-- **Produto vetorial (força magnética)**:
-  - Polegar = vetor velocidade $\vec{v}$
-  - Indicador = vetor campo magnético $\vec{B}$
-  - Médio (saindo da palma) = força magnética $\vec{F} = q\vec{v} \times \vec{B}$
-
-
----
-
 ##  2. Módulo do Campo Magnético (Fio Reto)
 
 Campo magnético gerado por um fio retilíneo com corrente $I$ a uma distância $r$:
