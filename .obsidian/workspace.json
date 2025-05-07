@@ -11,17 +11,12 @@
             "id": "b28087e9354bce7d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Química/Untitled.canvas",
-                "viewState": {
-                  "x": 567.4571512821952,
-                  "y": 419.7937976082633,
-                  "zoom": -0.5516337764075828
-                }
+                "file": "Exercícios/Matemática - Sem - 2.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "excalidraw-icon",
+              "title": "Matemática - Sem - 2"
             }
           }
         ]
@@ -181,8 +176,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "b28087e9354bce7d",
   "lastOpenFiles": [
+    "Matemática/Pontos importantes.md",
+    "Matemática/Matemática todo dia/Untitled.md",
+    "Química/Untitled.canvas",
     "Química/Ligações químicas/Estruturas de Lewis.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Ligações químicas/Geometria molecular.md",
@@ -210,7 +208,6 @@
     "História/Antiguidade oriental/Pré-História.md",
     "História/Antiguidade/Pré-história",
     "História/Antiguidade oriental/Civilizações hidráulicas.md",
-    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
     "Biologia/Caixinhas.canvas",
     "Física/Eletromagnetismo",
     "Física/Caixinhas.canvas",
@@ -222,7 +219,6 @@
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Porcentagem",
     "Redação/Untitled.canvas",
-    "Química/Untitled.canvas",
     "Química/img/Pasted image 20250430143026.png",
     "Física/img/Pasted image 20250429143611.png",
     "Física/img/Pasted image 20250429143359.png",
