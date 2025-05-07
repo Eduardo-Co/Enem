@@ -11,14 +11,17 @@
             "id": "b28087e9354bce7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Química/Ligações químicas/Geometria molecular.md",
-                "mode": "source",
-                "source": false
+                "file": "Química/Untitled.canvas",
+                "viewState": {
+                  "x": -456.26287435098624,
+                  "y": 278.6862425097106,
+                  "zoom": -0.5516337764075828
+                }
               },
-              "icon": "lucide-file",
-              "title": "Geometria molecular"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -180,12 +183,13 @@
   },
   "active": "b28087e9354bce7d",
   "lastOpenFiles": [
+    "Química/Ligações químicas/Estruturas de Lewis.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Ligações químicas/Geometria molecular.md",
     "Química/Ligações químicas/Hibridização.md",
     "Química/Ligações químicas/Ligação covalente.md",
     "Química/Ligações químicas/Ligações metálicas.md",
     "Química/Ligações químicas/Ligação iônica.md",
-    "Química/Ligações químicas/Geometria molecular.md",
-    "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
     "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
@@ -197,7 +201,6 @@
     "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/Tensão.md",
     "Física/Eletrodinâmica/Potência.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "História/Gregos/Helenismo.md",
     "História/Gregos/Esparta e Atenas.md",
     "História/Gregos/Cultura e religião da grécia antiga.md",
@@ -208,7 +211,6 @@
     "História/Antiguidade/Pré-história",
     "História/Antiguidade oriental/Civilizações hidráulicas.md",
     "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
-    "Física/Eletromagnetismo/Magnetismo.md",
     "Biologia/Caixinhas.canvas",
     "Física/Eletromagnetismo",
     "Física/Caixinhas.canvas",

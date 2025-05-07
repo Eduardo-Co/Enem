@@ -33,4 +33,12 @@ A **geometria molecular** é o arranjo tridimensional dos **átomos ao redor do 
 
 ## Passos para calcular geometria 
 
-1. Calcule a quantidade de polos de repulsão: ligação sigma, par de elétron livre ou elétron de
+1. Calcule a quantidade de polos de repulsão: ligação sigma, par de elétron livre ou elétron desemparelhado 
+	
+	***Lembre-se que:*** 
+	- 2 Polos: linear
+	- 3 Polos: trigonal plana ou triangular 
+	- 4 Polos: tetraédrica
+2. Reconhecer os ângulos, se ela tem 3 polos ou 4, as zonas de elétrons livres podem ser removidas possibilitando que ela sejam angulares.
+3. Resumindo, da para fazer usando linear, trigonal e tetraédrica, desenhando os pares de elétrons livres e depois removendo-os, isso nos mostra se são angulares, piramidais, etc... ==No final é tudo fragmento desses 3 tipos==
+
