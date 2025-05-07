@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15bb2047eaa016dd",
+        "id": "cb4627adcd4f072c",
         "type": "tabs",
         "children": [
           {
-            "id": "ecf464d73c9351df",
+            "id": "707dd04fc60df558",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,12 +178,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "ecf464d73c9351df",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Química/Ligações químicas/Carga Formal.md",
-    "Química/Interações moleculares/Forças de Van der Waals ou Forças intermoleculares.md",
-    "Química/Interações moleculares/Polaridade de ligações.md",
+    "Química/Interações moleculares/Características de moléculas polares e apolares.md",
     "Química/Interações moleculares/Polaridade de moléculas.md",
+    "Química/Interações moleculares/Polaridade de ligações.md",
+    "Química/Interações moleculares/Forças de Van der Waals ou Forças intermoleculares.md",
+    "Química/Ligações químicas/Carga Formal.md",
     "Química/Interações moleculares",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática todo dia/Semana 2.md",
@@ -208,7 +209,6 @@
     "Química/Atomo/1- Modelos atômicos/Modelo de Rutheford.md",
     "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/Tensão.md",
-    "Física/Eletrodinâmica/Potência.md",
     "História/Gregos",
     "História/Antiguidade/Pré-história",
     "Biologia/Caixinhas.canvas",
