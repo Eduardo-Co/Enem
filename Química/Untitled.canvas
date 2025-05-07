@@ -12,7 +12,6 @@
 		{"id":"45b0b56a977ba552","type":"text","text":"Distribuição em camadas:\nK,L,M,N,O,P,Q","x":-3700,"y":712,"width":250,"height":60},
 		{"id":"634ac3cb49cd5dba","type":"text","text":"Subníveis:\n s, p, d, f, g, h","x":-3700,"y":880,"width":250,"height":60},
 		{"id":"08b0d0614e2fa9b6","type":"text","text":"Modelos atômicos","x":-2210,"y":140,"width":250,"height":50},
-		{"id":"9b46119898cda50e","type":"text","text":"Química","x":440,"y":-280,"width":250,"height":60},
 		{"id":"b71b5e77223b26bc","type":"text","text":"Distribuição eletrônica\nLewis Pauling","x":-1660,"y":370,"width":250,"height":60},
 		{"id":"333d49b099297884","type":"text","text":"Thomson","x":-1960,"y":370,"width":250,"height":60},
 		{"id":"2329fd465e948f08","type":"text","text":"Dalton","x":-2270,"y":370,"width":250,"height":60},
@@ -35,10 +34,17 @@
 		{"id":"20500f725781a9be","type":"text","text":"Tabela periódica","x":-4240,"y":142,"width":250,"height":60},
 		{"id":"4f2b7535ddeeaddb","type":"text","text":"característica dos elementos  e distribuição eletrônica na tabela periódica","x":-4480,"y":322,"width":284,"height":97},
 		{"id":"e74655cb5c2d596b","type":"text","text":"Propriedade periódica dos elementos","x":-4115,"y":341,"width":250,"height":60},
-		{"id":"7911ab76a84a0307","type":"text","text":"Características das famílias\n","x":-4467,"y":542,"width":250,"height":60}
+		{"id":"7911ab76a84a0307","type":"text","text":"Características das famílias\n","x":-4467,"y":542,"width":250,"height":60},
+		{"id":"83e21bf33df4c1dd","type":"text","text":"Geometria Molecular\n","x":315,"y":232,"width":250,"height":60},
+		{"id":"64732076ae02bb2a","type":"text","text":"Hibridização","x":127,"y":421,"width":250,"height":60},
+		{"id":"11dbc72cede39abc","type":"text","text":"Passos para calcular geometria molecular","x":480,"y":421,"width":250,"height":60},
+		{"id":"4e2c94f62c71917e","type":"text","text":"Características de cada ligação\n","x":605,"y":232,"width":250,"height":60},
+		{"id":"248ce788ebf6cd41","type":"text","text":"Nox","x":890,"y":232,"width":250,"height":60},
+		{"id":"697c10e9fbb8831f","type":"text","text":"Ligações químicas","x":605,"y":40,"width":250,"height":60},
+		{"id":"9b46119898cda50e","type":"text","text":"Química","x":605,"y":-420,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"5ce9f493060ed24d","fromNode":"9b46119898cda50e","fromSide":"left","toNode":"d40522ad31879e3f","toSide":"top","color":"3"},
+		{"id":"5ce9f493060ed24d","fromNode":"9b46119898cda50e","fromSide":"bottom","toNode":"d40522ad31879e3f","toSide":"top","color":"3"},
 		{"id":"663ea0d8cde4308c","fromNode":"08b0d0614e2fa9b6","fromSide":"bottom","toNode":"14d8752de87907fd","toSide":"top","color":"4"},
 		{"id":"dad8416ff81ae4af","fromNode":"08b0d0614e2fa9b6","fromSide":"bottom","toNode":"2329fd465e948f08","toSide":"top","color":"4"},
 		{"id":"758268d05cd2a980","fromNode":"08b0d0614e2fa9b6","fromSide":"bottom","toNode":"333d49b099297884","toSide":"top","color":"4"},
@@ -73,6 +79,13 @@
 		{"id":"8bef438e59b1c6e9","fromNode":"20500f725781a9be","fromSide":"bottom","toNode":"4f2b7535ddeeaddb","toSide":"top","color":"4"},
 		{"id":"abffa5444930f620","fromNode":"20500f725781a9be","fromSide":"bottom","toNode":"e74655cb5c2d596b","toSide":"top","color":"3"},
 		{"id":"de6bcfb042d22163","fromNode":"4f2b7535ddeeaddb","fromSide":"bottom","toNode":"7911ab76a84a0307","toSide":"top","color":"4"},
-		{"id":"37f173b8805c11b9","fromNode":"d40522ad31879e3f","fromSide":"left","toNode":"20500f725781a9be","toSide":"top","color":"3"}
+		{"id":"37f173b8805c11b9","fromNode":"d40522ad31879e3f","fromSide":"left","toNode":"20500f725781a9be","toSide":"top","color":"3"},
+		{"id":"4ae87f6eedd635f5","fromNode":"9b46119898cda50e","fromSide":"bottom","toNode":"697c10e9fbb8831f","toSide":"top","color":"3"},
+		{"id":"39cd43ab30d40e8d","fromNode":"83e21bf33df4c1dd","fromSide":"bottom","toNode":"11dbc72cede39abc","toSide":"top"},
+		{"id":"05929f8482446ce3","fromNode":"83e21bf33df4c1dd","fromSide":"bottom","toNode":"64732076ae02bb2a","toSide":"top"},
+		{"id":"1a504bb2556a7350","fromNode":"9b46119898cda50e","fromSide":"bottom","toNode":"697c10e9fbb8831f","toSide":"top"},
+		{"id":"fad37d9db4a392ca","fromNode":"697c10e9fbb8831f","fromSide":"bottom","toNode":"248ce788ebf6cd41","toSide":"top","color":"2"},
+		{"id":"002ccdd6e16cc6ce","fromNode":"697c10e9fbb8831f","fromSide":"bottom","toNode":"83e21bf33df4c1dd","toSide":"top","color":"2"},
+		{"id":"58a0de6f0295abbf","fromNode":"697c10e9fbb8831f","fromSide":"bottom","toNode":"4e2c94f62c71917e","toSide":"top","color":"4"}
 	]
 }
