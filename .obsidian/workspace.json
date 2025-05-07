@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3146b00cdb29abb4",
+        "id": "f2bd58be88747c1a",
         "type": "tabs",
         "children": [
           {
-            "id": "aa78d915e8c6e084",
+            "id": "b28087e9354bce7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física/Eletrodinâmica/Tensão.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tensão"
-            }
-          },
-          {
-            "id": "015c6fe2a9649c50",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,8 +174,9 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "015c6fe2a9649c50",
+  "active": "b28087e9354bce7d",
   "lastOpenFiles": [
+    "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/Tensão.md",
     "Física/Eletrodinâmica/Potência.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -230,7 +202,6 @@
     "Física/Eletromagnetismo/Lei de lenz.md",
     "Física/Eletromagnetismo/Transformadores.md",
     "Exercícios/Física - Sem 1.md",
-    "Física/Untitled Kanban.md",
     "Física/Eletromagnetismo",
     "Física/Exercícios períodicos/Semana 2.md",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
