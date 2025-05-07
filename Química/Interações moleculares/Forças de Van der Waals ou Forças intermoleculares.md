@@ -40,3 +40,55 @@ $$
 ***Característica de moléculas apolares, uma interação fraca, mas que conforme aumentando a cadeia a interação aumenta.***
 
 ---
+
+Recapitulando:
+### Polar:
+
+- Hidrogênio
+- Dipolo-Dipolo
+- íon-dipolo
+
+### Apolar:
+
+- Forças de London ou dipolo induzido
+
+---
+## **Como as Forças de van der Waals Influenciam Micromalhas e Superfícies Omnifóbicas**
+
+### 🧵 **1. Micromalhas e Forças de van der Waals**
+
+As **micromalhas** são redes com **grande área superficial**. Isso amplifica os efeitos das **forças de van der Waals**, mesmo sendo fracas individualmente.
+
+#### 📌 Influência direta:
+
+- **Adsorção de moléculas**: moléculas gasosas ou líquidas podem se **aderir** à micromalha **sem ligação química**, apenas por van der Waals.
+- **Estabilidade de partículas adsorvidas**: quanto maior a área da micromalha, **mais pontos de contato** → mais força total.
+- **Sensibilidade a interações moleculares**: ideal para sensores químicos e biomoleculares.
+
+---
+
+### 🧼 **2. Superfícies Omnifóbicas e van der Waals**
+
+Superfícies omnifóbicas repelem líquidos devido a dois fatores:
+
+1. **Estrutura nanométrica** (rugosidade que reduz contato)
+2. **Baixa energia superficial**
+#### Aqui entram as forças de van der Waals:
+
+- **Menor contato = menor área de ação de van der Waals**  
+    ➤ Quanto menor o contato entre a gota e a superfície, **menos forças de atração atuam** entre eles.
+    
+- **Superfícies projetadas para minimizar van der Waals**  
+    ➤ Materiais omnifóbicos **reduzem a polarizabilidade local** ou usam revestimentos fluorados para **evitar interações com líquidos polares e apolares**.
+#### 📌 Resultado:
+
+- Gotas não “grudam” porque as **forças de adesão** via van der Waals são **insuficientes para superar a coesão da gota**.
+
+---
+
+## 🧠 Conclusão
+
+> **Micromalhas** exploram a **força cumulativa** das interações de van der Waals para **captar, filtrar ou detectar** moléculas.  
+> **Superfícies omnifóbicas** são desenhadas para **impedir que van der Waals atuem com eficácia**, mantendo líquidos afastados.
+
+---
