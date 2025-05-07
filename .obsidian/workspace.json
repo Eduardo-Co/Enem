@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f2bd58be88747c1a",
+        "id": "15bb2047eaa016dd",
         "type": "tabs",
         "children": [
           {
-            "id": "b28087e9354bce7d",
+            "id": "ecf464d73c9351df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Ligações químicas/Polaridade de ligações.md",
+                "file": "Química/Interações moleculares/Forças de Van der Waals ou Forças intermoleculares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polaridade de ligações"
+              "title": "Forças de Van der Waals ou Forças intermoleculares"
             }
           }
         ]
@@ -178,10 +178,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "b28087e9354bce7d",
+  "active": "ecf464d73c9351df",
   "lastOpenFiles": [
+    "Química/Interações moleculares/Polaridade de moléculas.md",
+    "Química/Interações moleculares/Forças de Van der Waals ou Forças intermoleculares.md",
+    "Química/Interações moleculares",
+    "Química/Ligações químicas/Untitled.md",
+    "Química/Interações moleculares/Polaridade de ligações.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Química/Ligações químicas/Polaridade de ligações.md",
     "Matemática/Matemática todo dia/Semana 2.md",
     "Exercícios/Matemática - Sem - 2.md",
     "Exercícios/Física - Sem 1.md",
@@ -205,8 +209,6 @@
     "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/Tensão.md",
     "Física/Eletrodinâmica/Potência.md",
-    "História/Gregos/Helenismo.md",
-    "História/Gregos/Esparta e Atenas.md",
     "História/Gregos",
     "História/Antiguidade/Pré-história",
     "Biologia/Caixinhas.canvas",
@@ -218,7 +220,6 @@
     "Exercícios",
     "Ink/Writing/2025.5.2 - 20.16pm.writing",
     "Matemática/Untitled.canvas",
-    "Matemática/Matemática básica/Porcentagem",
     "Redação/Untitled.canvas",
     "Química/img/Pasted image 20250430143026.png",
     "Física/img/Pasted image 20250429143611.png",
