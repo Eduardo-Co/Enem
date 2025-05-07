@@ -11,12 +11,14 @@
             "id": "b28087e9354bce7d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Ligações químicas/Polaridade de ligações.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Polaridade de ligações"
             }
           }
         ]
@@ -178,6 +180,8 @@
   },
   "active": "b28087e9354bce7d",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Ligações químicas/Polaridade de ligações.md",
     "Matemática/Matemática todo dia/Semana 2.md",
     "Exercícios/Matemática - Sem - 2.md",
     "Exercícios/Física - Sem 1.md",
@@ -185,7 +189,6 @@
     "Matemática/Matemática todo dia/Untitled.md",
     "Química/Untitled.canvas",
     "Química/Ligações químicas/Estruturas de Lewis.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Ligações químicas/Geometria molecular.md",
     "Química/Ligações químicas/Hibridização.md",
     "Química/Ligações químicas/Ligação covalente.md",
@@ -204,8 +207,6 @@
     "Física/Eletrodinâmica/Potência.md",
     "História/Gregos/Helenismo.md",
     "História/Gregos/Esparta e Atenas.md",
-    "História/Gregos/Cultura e religião da grécia antiga.md",
-    "História/Antiguidade/Sociedades hirdáulicas.md",
     "História/Gregos",
     "História/Antiguidade/Pré-história",
     "Biologia/Caixinhas.canvas",
