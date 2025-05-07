@@ -30,3 +30,7 @@ A **geometria molecular** é o arranjo tridimensional dos **átomos ao redor do 
 - **Reduzem o ângulo entre os pares ligantes**
 - Modificam a **forma observável** (ex: H₂O parece “angular” por causa dos pares isolados no O)
 ---
+
+## Passos para calcular geometria 
+
+1. Calcule a quantidade de polos de repulsão: ligação sigma, par de elétron livre ou elétron de
