@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
+                "file": "Química/Ligações químicas/Geometria molecular.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propriedades periódicas dos elementos"
+              "title": "Geometria molecular"
             }
           }
         ]
@@ -180,15 +180,20 @@
   },
   "active": "b28087e9354bce7d",
   "lastOpenFiles": [
-    "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
+    "Química/Ligações químicas/Hibridização.md",
+    "Química/Ligações químicas/Ligação covalente.md",
+    "Química/Ligações químicas/Ligações metálicas.md",
+    "Química/Ligações químicas/Ligação iônica.md",
+    "Química/Ligações químicas/Geometria molecular.md",
+    "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
+    "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
+    "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
     "Química/Atomo/2 - Distribuição eletrônica/Distribuição eletrônica.md",
     "Química/Atomo/1- Modelos atômicos/Modelo de Bohr.md",
     "Química/Atomo/1- Modelos atômicos/Modelo de Dalton.md",
     "Química/Atomo/1- Modelos atômicos/Modelo de Thomson.md",
     "Química/Atomo/1- Modelos atômicos/Modelo de Rutheford.md",
-    "Química/Ligações químicas/Estruturas de Lewis.md",
-    "Química/Ligações químicas/Hibridização.md",
     "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/Tensão.md",
     "Física/Eletrodinâmica/Potência.md",
@@ -204,11 +209,6 @@
     "História/Antiguidade oriental/Civilizações hidráulicas.md",
     "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
     "Física/Eletromagnetismo/Magnetismo.md",
-    "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
-    "Física/Eletromagnetismo/Campo magnético.md",
-    "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
-    "Física/Eletromagnetismo/Condutores no campo magnético.md",
-    "Física/Exercícios/Semana 4 Lumb.md",
     "Biologia/Caixinhas.canvas",
     "Física/Eletromagnetismo",
     "Física/Caixinhas.canvas",

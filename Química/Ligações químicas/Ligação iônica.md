@@ -20,8 +20,6 @@ Uma **molécula** é a **união de dois ou mais átomos** que se ligam **quimica
 
 | Característica               | Descrição                                                                   |
 | ---------------------------- | --------------------------------------------------------------------------- |
-| 🔄 Transferência de elétrons | Metal doa, ametal recebe                                                    |
-| ⚛️ Formação de íons          | Cátions (+) e ânions (–)                                                    |
 | 🧲 Atração eletrostática     | Forte atração entre cargas opostas                                          |
 | 🧊 Estado físico             | ***Sólidos cristalinos à temperatura ambiente***                            |
 | 💧 Solubilidade              | ***Solúveis em água (em geral)***                                           |

@@ -9,16 +9,19 @@ A **geometria molecular** é o arranjo tridimensional dos **átomos ao redor do 
 - **Pares ligantes** → formam ligações químicas
 - **Pares não ligantes (isolados)** → afetam a geometria, mas não são visíveis diretamente
 
-|Regiões de elétrons|Pares ligantes / isolados|Geometria|Exemplo|Hibridização|
-|---|---|---|---|---|
-|2|2 ligantes / 0 isolado|**Linear**|CO₂|sp|
-|3|3 ligantes / 0 isolado|**Trigonal plana**|BF₃|sp²|
-|3|2 ligantes / 1 isolado|**Angular**|SO₂|sp²|
-|4|4 ligantes / 0 isolado|**Tetraédrica**|CH₄|sp³|
-|4|3 ligantes / 1 isolado|**Piramidal**|NH₃|sp³|
-|4|2 ligantes / 2 isolados|**Angular**|H₂O|sp³|
-|5|5 ligantes / 0 isolado|**Bipiramidal trigonal**|PCl₅|sp³d|
-|6|6 ligantes / 0 isolado|**Octaédrica**|SF₆|sp³d²|
+| Nº de Regiões | Tipo de Ligações         | Pares não ligantes | Geometria              | Hibridização | Exemplo | Fórmulas |
+|---------------|---------------------------|---------------------|------------------------|--------------|---------|----------|
+| 2             | 2 ligações duplas         | 0                   | Linear                 | sp           | CO₂     | O=C=O    |
+| 2             | 1 ligação tripla + 1 simples | 0                | Linear                 | sp           | C₂H₂    | HC≡CH    |
+| 3             | 3 ligações simples        | 0                   | Trigonal plana         | sp²          | BF₃     | BF₃      |
+| 3             | 1 ligação dupla + 2 simples | 0                | Trigonal plana         | sp²          | C₂H₄    | H₂C=CH₂  |
+| 3             | 2 simples                 | 1                   | Angular                | sp²          | SO₂     | O=S=O    |
+| 4             | 4 ligações simples        | 0                   | Tetraédrica            | sp³          | CH₄     | CH₄      |
+| 4             | 3 ligações simples        | 1                   | Piramidal              | sp³          | NH₃     | NH₃      |
+| 4             | 2 ligações simples        | 2                   | Angular                | sp³          | H₂O     | H₂O      |
+| 5             | 5 ligações simples        | 0                   | Bipiramidal trigonal   | sp³d         | PCl₅    | PCl₅     |
+| 6             | 6 ligações simples        | 0                   | Octaédrica             | sp³d²        | SF₆     | SF₆      |
+
 
 ---
 
