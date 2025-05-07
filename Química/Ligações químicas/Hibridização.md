@@ -22,7 +22,7 @@ Hibridização é o processo de combinação (mistura) de orbitais atômicos dif
 ## **Como saber qual hibridização ocorre?**
 
 1. **Desenhe a estrutura de Lewis**
-2. Conte o número de **regiões de densidade eletrônica** ao redor do átomo central:
+2. Conte o número de **regiões de densidade eletrônica** ao redor ==do átomo central:==
     - **Regiões = ligações simples, duplas, triplas e pares isolados**
 3. A partir disso, determine o tipo:
 

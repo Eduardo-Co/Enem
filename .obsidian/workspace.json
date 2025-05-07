@@ -11,10 +11,14 @@
             "id": "b28087e9354bce7d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Química/Atomo/1- Modelos atômicos/Modelo de Rutheford.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Modelo de Rutheford"
             }
           }
         ]
@@ -176,6 +180,12 @@
   },
   "active": "b28087e9354bce7d",
   "lastOpenFiles": [
+    "Química/Atomo/1- Modelos atômicos/Modelo de Thomson.md",
+    "Química/Atomo/1- Modelos atômicos/Modelo de Rutheford.md",
+    "Química/Atomo/1- Modelos atômicos/Modelo de Dalton.md",
+    "Química/Atomo/1- Modelos atômicos/Modelo de Bohr.md",
+    "Química/Ligações químicas/Estruturas de Lewis.md",
+    "Química/Ligações químicas/Hibridização.md",
     "Física/Untitled Kanban.md",
     "Física/Eletrodinâmica/Tensão.md",
     "Física/Eletrodinâmica/Potência.md",
@@ -200,14 +210,8 @@
     "Biologia/Caixinhas.canvas",
     "Física/Eletromagnetismo/Lei de faraday.md",
     "Física/Eletromagnetismo/Lei de lenz.md",
-    "Física/Eletromagnetismo/Transformadores.md",
-    "Exercícios/Física - Sem 1.md",
     "Física/Eletromagnetismo",
-    "Física/Exercícios períodicos/Semana 2.md",
-    "Física/Eletrodinâmica/Segunda lei de Ohm.md",
-    "Exercícios/Matemática - Sem - 2.md",
     "Física/Caixinhas.canvas",
-    "Matemática/Matemática todo dia/Semana 2.md",
     "Geografia/Estruturas de rochas e geologia",
     "Biologia/Impactos ambientais",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
