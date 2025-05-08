@@ -22,9 +22,8 @@ kanban-plugin: board
 
 ## Fazer exercícios esporadicamente
 
-- [ ] Matemática básica
-- [ ] Exercício de escala
-- [ ] Porcentagem - pegar uns específicos que contem essa parte de acréscimo / desconto
+- [ ] Exercício de escala - 174  2024 AM+ ...
+- [ ] Porcentagem
 
 
 ## Faltou de questões
