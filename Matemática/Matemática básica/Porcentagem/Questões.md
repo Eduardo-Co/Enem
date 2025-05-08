@@ -1,4 +1,3 @@
 - Quando fala 30% ***a menos***:  desconto de 30%. 
 - é uma boa decompor em soma de números inteiros na multiplicação. 
 - Tente trabalhar sempre com fração 
-- ***Sofreu uma queda de*** 75%: Abaixou 75 do valor original 
