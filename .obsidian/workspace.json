@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb4627adcd4f072c",
+        "id": "8ed2f13f876e0622",
         "type": "tabs",
         "children": [
           {
-            "id": "707dd04fc60df558",
+            "id": "618ede7183e8494d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Interações moleculares/Ligações de hidrogênio e íons dipolo.md",
+                "file": "Química/Interações moleculares/Estados da matéria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ligações de hidrogênio e íons dipolo"
+              "title": "Estados da matéria"
             }
           }
         ]
@@ -178,17 +178,56 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "floating": {
+    "id": "95901643976ad92c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ea8b64a5bf36b0d3",
+        "type": "window",
+        "children": [
+          {
+            "id": "16b8ef7a7c528d93",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e69fa5e1baaba542",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1976,
+        "y": 15,
+        "width": 480,
+        "height": 480,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "618ede7183e8494d",
   "lastOpenFiles": [
+    "Química/Interações moleculares/Substância pura e tipos de mistura.md",
+    "Química/Interações moleculares/Estados da matéria.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Interações moleculares/Características de moléculas polares e apolares.md",
+    "Química/Interações moleculares/Ligações de hidrogênio e íons dipolo.md",
     "Química/img/Pasted image 20250507155531.png",
     "Química/Interações moleculares/Forças de Van der Waals ou Forças intermoleculares.md",
-    "Química/Interações moleculares/Ligações de hidrogênio e íons dipolo.md",
-    "Química/Interações moleculares/Características de moléculas polares e apolares.md",
     "Química/Interações moleculares/Polaridade de moléculas.md",
     "Química/Interações moleculares/Polaridade de ligações.md",
     "Química/Ligações químicas/Carga Formal.md",
     "Química/Interações moleculares",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática todo dia/Semana 2.md",
     "Exercícios/Matemática - Sem - 2.md",
     "Exercícios/Física - Sem 1.md",
@@ -208,7 +247,6 @@
     "Química/Atomo/1- Modelos atômicos/Modelo de Bohr.md",
     "Química/Atomo/1- Modelos atômicos/Modelo de Dalton.md",
     "Química/Atomo/1- Modelos atômicos/Modelo de Thomson.md",
-    "Química/Atomo/1- Modelos atômicos/Modelo de Rutheford.md",
     "História/Gregos",
     "História/Antiguidade/Pré-história",
     "Biologia/Caixinhas.canvas",
@@ -233,7 +271,6 @@
     "Física/img/Pasted Image 20250422105956_785.png",
     "História/Untitled.canvas",
     "Física/img/Pasted image 20250415103427.png",
-    "Física/img/Pasted image 20250415065538.png",
     "Física/Untitled.canvas",
     "Excalidraw/Calculo 1/E.canvas"
   ]
