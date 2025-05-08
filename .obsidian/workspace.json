@@ -34,9 +34,33 @@
               "icon": "lucide-file",
               "title": "Compostos"
             }
+          },
+          {
+            "id": "24fa044f4558465b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
+          },
+          {
+            "id": "8f12376848585c8f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matemática/Matemática básica/Exercícios/Semana 4.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Semana 4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,12 +217,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "61b7727def5a5e61",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Matemática/Matemática básica/Juros/Simples.md",
-    "Matemática/Matemática básica/Juros/Compostos.md",
-    "Ink/Writing/2025.5.8 - 9.45am.writing",
+    "Matemática/Matemática básica/Exercícios/Untitled.md",
+    "Matemática/Matemática básica/Exercícios/Semana 4.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Matemática básica/Juros/Compostos.md",
+    "Ink/Writing/2025.5.8 - 9.49am.writing",
+    "Matemática/Matemática básica/Juros/Simples.md",
+    "Ink/Writing/2025.5.8 - 9.45am.writing",
     "Matemática/Matemática básica/Juros",
     "Matemática/Matemática básica/Razão e proporção/Escala.md",
     "Ink/Writing/2025.5.8 - 9.33am.writing",
@@ -231,9 +258,6 @@
     "Química/Interações moleculares",
     "Matemática/Matemática todo dia/Semana 2.md",
     "Exercícios/Matemática - Sem - 2.md",
-    "Exercícios/Física - Sem 1.md",
-    "Matemática/Pontos importantes.md",
-    "História/Gregos",
     "Biologia/Caixinhas.canvas",
     "Física/Caixinhas.canvas",
     "Redação/Untitled.canvas",
