@@ -13,3 +13,6 @@ $E^2 = \frac{\text{Área do desenho}}{\text{Área do real}}$
 	"filepath": "Ink/Writing/2025.5.8 - 9.33am.writing"
 }
 ```
+
+==Tem que se atentar a essa questão do expoente da escala, e a escala de uma escala divide.== 
+
