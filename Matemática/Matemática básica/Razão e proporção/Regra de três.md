@@ -8,3 +8,9 @@ Basicamente igual as razões em virtude de igualar as constantes de proporcional
 	"filepath": "Ink/Writing/2025.5.8 - 8.57am.writing"
 }
 ```
+
+
+## Regra de três composta:
+
+Aqui se estabelece uma conexão de três ou mais grandezas.
+
