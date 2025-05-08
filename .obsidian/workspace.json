@@ -20,27 +20,15 @@
             }
           },
           {
-            "id": "8f12376848585c8f",
+            "id": "6341684db235b1d4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "Matemática/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Matemática/Matemática básica/Exercícios/Semana 4.md"
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "excalidraw-icon",
+              "title": "Semana 4"
             }
           }
         ],
@@ -201,11 +189,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "8f12376848585c8f",
+  "active": "6341684db235b1d4",
   "lastOpenFiles": [
-    "Matemática/Untitled.canvas",
-    "Matemática/Matemática básica/Exercícios/Semana 4.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Matemática básica/Exercícios/Semana 4.md",
+    "Matemática/Untitled Kanban.md",
+    "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Razão e proporção/Escala.md",
     "Matemática/Matemática básica/Juros/Compostos.md",
     "Matemática/Matemática básica/Exercícios/Untitled.md",
@@ -240,7 +229,6 @@
     "Química/Interações moleculares/Polaridade de ligações.md",
     "Química/Ligações químicas/Carga Formal.md",
     "Química/Interações moleculares",
-    "Matemática/Matemática todo dia/Semana 2.md",
     "Biologia/Caixinhas.canvas",
     "Física/Caixinhas.canvas",
     "Redação/Untitled.canvas",
