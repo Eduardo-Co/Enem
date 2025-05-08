@@ -30,3 +30,5 @@ Inversamente proporcionais, uma aumenta a outra diminui, na mesma proporção.
 
 
 ---
+### ***Importante lembrar da constante de proporcionalidade e utiliza-la quando for cobrado razão e proporção***
+

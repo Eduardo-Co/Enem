@@ -1,0 +1,2 @@
+## Regra de três simples:
+
