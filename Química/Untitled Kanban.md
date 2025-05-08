@@ -34,6 +34,7 @@ kanban-plugin: board
 
 ## revisar
 
+- [ ] Terminar - Sem 6 / 5
 
 
 ## Concluído

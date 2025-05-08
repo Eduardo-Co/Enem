@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Interações moleculares/Estados da matéria.md",
+                "file": "Matemática/Matemática básica/Razão e proporção/Razão e proporção.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estados da matéria"
+              "title": "Razão e proporção"
+            }
+          },
+          {
+            "id": "a82295f6ed257189",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -178,46 +190,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "floating": {
-    "id": "95901643976ad92c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ea8b64a5bf36b0d3",
-        "type": "window",
-        "children": [
-          {
-            "id": "16b8ef7a7c528d93",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e69fa5e1baaba542",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1976,
-        "y": 15,
-        "width": 480,
-        "height": 480,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "618ede7183e8494d",
   "lastOpenFiles": [
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Matemática básica/Razão e proporção/Razão e proporção.md",
+    "Matemática/Matemática básica/Razão e proporção",
+    "Química/Untitled Kanban.md",
+    "Química/Untitled.canvas",
     "Química/Interações moleculares/Estados da matéria.md",
     "Química/Interações moleculares/Substância pura e tipos de mistura.md",
     "Química/Interações moleculares/Características de moléculas polares e apolares.md",
@@ -233,7 +212,6 @@
     "Exercícios/Física - Sem 1.md",
     "Matemática/Pontos importantes.md",
     "Matemática/Matemática todo dia/Untitled.md",
-    "Química/Untitled.canvas",
     "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Ligações químicas/Geometria molecular.md",
     "Química/Ligações químicas/Hibridização.md",
@@ -244,8 +222,6 @@
     "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
     "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
     "Química/Atomo/2 - Distribuição eletrônica/Distribuição eletrônica.md",
-    "Química/Atomo/1- Modelos atômicos/Modelo de Bohr.md",
-    "Química/Atomo/1- Modelos atômicos/Modelo de Dalton.md",
     "História/Gregos",
     "História/Antiguidade/Pré-história",
     "Biologia/Caixinhas.canvas",
@@ -255,7 +231,6 @@
     "Biologia/Impactos ambientais",
     "Ink/Writing/2025.4.7 - 13.35pm (2).writing",
     "Exercícios",
-    "Ink/Writing/2025.5.2 - 20.16pm.writing",
     "Matemática/Untitled.canvas",
     "Redação/Untitled.canvas",
     "Química/img/Pasted image 20250430143026.png",

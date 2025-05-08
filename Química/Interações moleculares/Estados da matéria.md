@@ -31,3 +31,18 @@
 - Exemplo: átomos de rubídio resfriados a temperaturas próximas de 0 K.
 
 ---
+### Mudanças de Estado Físico
+
+As transições entre os estados físicos da matéria ocorrem mediante a absorção ou liberação de energia. As principais mudanças são:
+
+- **Fusão**: sólido → líquido
+- **Solidificação**: líquido → sólido
+- **Vaporização**: líquido → gasoso
+    - **Evaporação**: ocorre na superfície do líquido, de forma lenta.
+    - **Ebulição**: ocorre em toda a massa do líquido, a uma temperatura específica.
+    - **Calefação**: vaporização rápida, quando o líquido entra em contato com uma superfície muito quente.
+- **Condensação**: gasoso → líquido
+- **Sublimação**: sólido → gasoso
+- **Ressublimação**: gasoso → sólido
+- **Ionização**: gasoso → plasma
+- **Desionização**: plasma → gasoso
