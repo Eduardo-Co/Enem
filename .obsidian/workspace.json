@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "7568da0ef3e0366c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Matemática/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
             "id": "6341684db235b1d4",
             "type": "leaf",
             "state": {
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,11 +215,11 @@
   },
   "active": "6341684db235b1d4",
   "lastOpenFiles": [
+    "Matemática/Untitled Kanban.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Exercícios/Semana 4.md",
     "Matemática/Matemática básica/Juros/Compostos.md",
-    "Matemática/Untitled Kanban.md",
-    "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Razão e proporção/Escala.md",
     "Matemática/Matemática básica/Exercícios/Untitled.md",
     "Ink/Writing/2025.5.8 - 9.49am.writing",

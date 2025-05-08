@@ -24,6 +24,8 @@ kanban-plugin: board
 
 - [ ] Exercício de escala - 174  2024 AM+ ...
 - [ ] Porcentagem
+- [ ] ENEM.2022.2.AM5 - 154
+- [ ] ENEM.2023.2.AM5 - 170
 
 
 ## Faltou de questões
