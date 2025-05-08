@@ -105,8 +105,6 @@ $\frac{1}{\sqrt{2}+1}\cdot\frac{\sqrt{2}-1}{\sqrt{2}-1}=\frac{\sqrt{2}-1}{(\sqrt
 
 - Evita dificuldades em somar frações com denominadores irracionais
 - Torna a expressão mais **padronizada e simplificada**
-
-
 - O que vai entra na revisão: raiz de raiz, é só multiplicar o índice
 - Há como trabalhar com expoentes sem alterar o conteúdo, multiplicando por um expoente e índice da raiz igual  
 - Lembrar que troca a operação para tirar a raiz do denominador, caso haja alguma operação de soma ou subtração
