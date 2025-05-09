@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Misturas/Mistura de soluções.md",
+                "file": "Química/Separação de misturas/Método de misturas heterogênias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mistura de soluções"
+              "title": "Método de misturas heterogênias"
             }
           }
         ]
@@ -180,8 +180,11 @@
   },
   "active": "1e3eb6aab9505387",
   "lastOpenFiles": [
-    "Química/Misturas/Diluição.md",
+    "Química/Misturas/Titulação.md",
+    "Química/Separação de misturas/Método de misturas heterogênias.md",
+    "Química/Separação de misturas",
     "Química/Misturas/Mistura de soluções.md",
+    "Química/Misturas/Diluição.md",
     "Química/Misturas/Relação entre as concentrações.md",
     "Química/Misturas/Concentração molar.md",
     "Química/Misturas/PPM e PPG.md",
@@ -215,9 +218,6 @@
     "Ink/Writing/2025.5.8 - 8.11am.writing",
     "Matemática/Matemática básica/Produto e divisão.md",
     "Matemática/Matemática básica/Porcentagem/Questões.md",
-    "Matemática/Matemática básica/Radiciação.md",
-    "Matemática/Matemática básica/Primos.md",
-    "Matemática/Matemática básica/Razão e proporção",
     "Química/img/Pasted image 20250507155531.png",
     "Biologia/Caixinhas.canvas",
     "Física/Caixinhas.canvas",

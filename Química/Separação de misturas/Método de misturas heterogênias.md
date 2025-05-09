@@ -1,0 +1,16 @@
+- Catação 
+- Peneiração, tamização 
+- Separação magnética
+- flotação - agua de esgoto
+- Dissolução fracionada:
+- Fusão fracionada
+- ventilação
+- levigação
+- sublimação fracionada
+
+---
+- filtração 
+- centrifugação 
+- Decantação
+- Sifonação
+- 
