@@ -14,11 +14,11 @@ Misturas onde a **fase dispersa** (disperso) está distribuída na **fase disper
 
 ### Visibilidade, Sedimentação e Separação
 
-| Tipo        | Visibilidade | Sedimentação                      | Separação                      |
-|-------------|--------------|-----------------------------------|--------------------------------|
-| **Solução** | Invisível    | Não ocorre                        | **Não se separa** fisicamente |
-| **Coloide** | Turva        | Apenas por **ultracentrifugação** | **Ultrafiltração**            |
-| **Suspensão** | Visível     | Espontânea ou por centrifugação   | **Filtragem comum**           |
+| Tipo          | Visibilidade | Sedimentação                      | Separação                     |
+| ------------- | ------------ | --------------------------------- | ----------------------------- |
+| **Solução**   | Invisível    | Não ocorre                        | **Não se separa** fisicamente |
+| **Coloide**   | Turva        | Apenas por **ultracentrifugação** | **Ultrafiltração**            |
+| **Suspensão** | Visível      | Espontânea ou por centrifugação   | **Filtragem comum**           |
 
 ---
 
