@@ -38,6 +38,7 @@ kanban-plugin: board
 
 - [ ] Unidade de medida: centiLitro
 - [ ] Questão - 165252
+- [ ] Antecipar parcelas
 
 
 ## concluido

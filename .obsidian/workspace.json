@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ed2f13f876e0622",
+        "id": "4693425032e7daee",
         "type": "tabs",
         "children": [
           {
-            "id": "24fa044f4558465b",
+            "id": "417bd23698cd1368",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -20,39 +20,17 @@
             }
           },
           {
-            "id": "7568da0ef3e0366c",
+            "id": "d77cb3d58634fd18",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Química/Interações moleculares/Substância pura e tipos de mistura.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "6341684db235b1d4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matemática/Matemática básica/Exercícios/Semana 4.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Semana 4"
+              "icon": "lucide-file",
+              "title": "Substância pura e tipos de mistura"
             }
           }
         ]
@@ -212,11 +190,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "24fa044f4558465b",
+  "active": "417bd23698cd1368",
   "lastOpenFiles": [
+    "Química/Interações moleculares/Substância pura e tipos de mistura.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Untitled Kanban.md",
     "Matemática/Matemática básica/Exercícios/Semana 4.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Untitled.canvas",
     "Matemática/Matemática básica/Juros/Compostos.md",
     "Matemática/Matemática básica/Razão e proporção/Escala.md",
@@ -243,7 +222,6 @@
     "Química/Untitled Kanban.md",
     "Química/Untitled.canvas",
     "Química/Interações moleculares/Estados da matéria.md",
-    "Química/Interações moleculares/Substância pura e tipos de mistura.md",
     "Química/Interações moleculares/Características de moléculas polares e apolares.md",
     "Química/Interações moleculares/Ligações de hidrogênio e íons dipolo.md",
     "Química/img/Pasted image 20250507155531.png",
