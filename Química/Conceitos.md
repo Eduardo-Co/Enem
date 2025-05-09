@@ -1,3 +1,3 @@
 - Hidrolizar: Quebrar a substância/molécula com água
 - Anfifílico: Dissolve-se nos dois meios, água e gordura. Tipo a camada fosfolipídica da célula
-- Lipases: 
+- Hidroxila: Oxigênio ligado a um hidrogênio por ligação simples
