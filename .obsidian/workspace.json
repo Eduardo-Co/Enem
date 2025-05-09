@@ -33,7 +33,8 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +191,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e4c8c9d30227c257",
+  "active": "38ca35907182d5c8",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Conceitos.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Separação de misturas/Misturas homogêneas.md",
     "Química/Compostos Orgânicos/Organoclorados.md",
     "Química/Compostos Orgânicos",
