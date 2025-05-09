@@ -25,12 +25,14 @@
             "id": "38ca35907182d5c8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Separação de misturas/Misturas homogêneas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Misturas homogêneas"
             }
           }
         ],
@@ -191,15 +193,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "38ca35907182d5c8",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Química/Conceitos.md",
+    "Química/Separação de misturas/Método de misturas heterogênias.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Conceitos.md",
     "Química/Separação de misturas/Misturas homogêneas.md",
     "Química/Compostos Orgânicos/Organoclorados.md",
     "Química/Compostos Orgânicos",
     "Química/Separação de misturas/Tratamento de esgoto.md",
-    "Química/Separação de misturas/Método de misturas heterogênias.md",
     "Química/Misturas/Titulação.md",
     "Química/Separação de misturas",
     "Química/Misturas/Mistura de soluções.md",
