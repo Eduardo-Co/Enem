@@ -25,12 +25,14 @@
             "id": "1c5b31377a93702b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Compostos Orgânicos/Organoclorados.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Organoclorados"
             }
           }
         ],
@@ -193,10 +195,12 @@
   },
   "active": "1c5b31377a93702b",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Compostos Orgânicos/Organoclorados.md",
+    "Química/Compostos Orgânicos",
     "Química/Separação de misturas/Misturas homogêneas.md",
     "Química/Separação de misturas/Tratamento de esgoto.md",
     "Química/Separação de misturas/Método de misturas heterogênias.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Misturas/Titulação.md",
     "Química/Separação de misturas",
     "Química/Misturas/Mistura de soluções.md",
@@ -226,10 +230,8 @@
     "Matemática/Matemática básica/Juros",
     "Ink/Writing/2025.5.8 - 9.33am.writing",
     "Matemática/Matemática básica/Porcentagem/Porcentagem.md",
-    "Matemática/Matemática básica/Razão e proporção/Regra de três.md",
     "Ink/Writing/2025.5.8 - 9.22am.writing",
     "Ink/Writing/2025.5.8 - 8.57am.writing",
-    "Ink/Writing/2025.5.8 - 8.11am.writing",
     "Química/img/Pasted image 20250507155531.png",
     "Biologia/Caixinhas.canvas",
     "Física/Caixinhas.canvas",
