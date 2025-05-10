@@ -20,6 +20,7 @@ kanban-plugin: board
 ## Faltou de questões
 
 - [ ] Impactos ambientais - tratamento esgoto - farmacos
+- [ ] Entender processos do tratamento de esgoto
 
 
 ## Fazer exercícios esporadicamente
