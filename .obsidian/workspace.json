@@ -11,24 +11,14 @@
             "id": "c035d81e87410c39",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Poluição - Impactos Ambientais na água"
             }
           }
         ]
@@ -190,6 +180,11 @@
   },
   "active": "c035d81e87410c39",
   "lastOpenFiles": [
+    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
+    "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
+    "Biologia/Impactos ambientais/Aquecimento global.md",
+    "Biologia/Impactos ambientais/Egostos.md",
+    "Biologia/Untitled Kanban.md",
     "Simulados A/1° Simulado A.md",
     "Redação/Competência 1/C1 - Aspectos avaliativos.md",
     "Redação/Competência 1/Principais desvios gramaticais.md",
@@ -217,12 +212,7 @@
     "Química/Misturas/PPM e PPG.md",
     "Química/Untitled.canvas",
     "Química/Misturas/Título de massa.md",
-    "Química/Misturas/Curvas de solubilidade.md",
-    "Química/Misturas/Tamanho das particulas.md",
-    "Química/Interações moleculares/Polaridade de moléculas.md",
     "Química/Misturas",
-    "Química/Interações moleculares/Substância pura e tipos de mistura.md",
-    "Matemática/Untitled Kanban.md",
     "Matemática/Untitled.canvas",
     "Ink/Writing/2025.5.8 - 9.49am.writing",
     "Ink/Writing/2025.5.8 - 9.45am.writing",
