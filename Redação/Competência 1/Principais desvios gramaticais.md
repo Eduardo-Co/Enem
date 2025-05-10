@@ -12,4 +12,11 @@
 - Concordância: Concordar com sujeito, por exemplo: É necessário a participação. Errado o correto é: É necessária a participação. ***Cuidado com a inversão, concordância tem que estar em dia***
 
 - Pontuação
-- 
+
+---
+## Paralelismo sintático:
+
+- Correspondência de funções gramaticais sintáticas existentes nas orações. 
+- Colocação pronominal: Ênclise e próclise. Dois casos obrigatórios, da ênclise:
+	***início de frase e após virgula.*** 
+	Esse, este, essa, estas, não importa na avaliação. Pois não há concordância entre os gramáticos
