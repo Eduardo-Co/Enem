@@ -5,3 +5,11 @@
 - Hífen e translineação: 
 - Maiúsculas
 ---
+## Desvios gramaticais:
+
+- Regência e crase: Regência são complementos de verbos e nomes. Regência Verbal e Nominal. 
+
+- Concordância: Concordar com sujeito, por exemplo: É necessário a participação. Errado o correto é: É necessária a participação. ***Cuidado com a inversão, concordância tem que estar em dia***
+
+- Pontuação
+- 
