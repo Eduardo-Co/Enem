@@ -16,3 +16,4 @@ A estrutura sintática é a avalição do conhecimento gramatical. Erros geralme
 - Excesso de palavras
 
 ---
+==É preciso fazer uma inversão do período colocar o sujeito no final, para mostrar um pouco de complexidade==

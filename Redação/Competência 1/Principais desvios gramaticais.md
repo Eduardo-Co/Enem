@@ -20,3 +20,5 @@
 - Colocação pronominal: Ênclise e próclise. Dois casos obrigatórios, da ênclise:
 	***início de frase e após virgula.*** 
 	Esse, este, essa, estas, não importa na avaliação. Pois não há concordância entre os gramáticos
+
+---
