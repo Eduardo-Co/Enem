@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redação/Competência 1/Principais desvios gramaticais.md",
+                "file": "Redação/Competência 1/Estrutura sintática.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principais desvios gramaticais"
+              "title": "Estrutura sintática"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "c035d81e87410c39",
   "lastOpenFiles": [
-    "Redação/Competência 1/C1 - Aspectos avaliativos.md",
     "Redação/Competência 1/Principais desvios gramaticais.md",
+    "Redação/Competência 1/Estrutura sintática.md",
+    "Redação/Competência 1/C1 - Aspectos avaliativos.md",
     "Redação/Untitled.md",
     "Redação/Competência 1",
     "Redação/Untitled.canvas",
@@ -213,7 +214,6 @@
     "Matemática/Untitled Kanban.md",
     "Matemática/Matemática básica/Exercícios/Semana 4.md",
     "Matemática/Untitled.canvas",
-    "Matemática/Matemática básica/Juros/Compostos.md",
     "Ink/Writing/2025.5.8 - 9.49am.writing",
     "Ink/Writing/2025.5.8 - 9.45am.writing",
     "Matemática/Matemática básica/Juros",
