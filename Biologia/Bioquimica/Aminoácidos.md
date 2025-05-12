@@ -24,25 +24,18 @@ Cada aminoácido é composto por:
 - **Polares**: Interagem com água (hidrofílicos)
 - **Apolar**: Não interagem com água (hidrofóbicos)
 - **Ácidos**: Possuem grupo carboxílico extra (ex: ácido aspártico)
-    
 - **Básicos**: Possuem grupo amino extra (ex: lisina)
-    
 
 ---
 
 ## 🔗 Ligação Peptídica
 
 - Formada entre o grupo **amino** de um aminoácido e o grupo **carboxila** de outro.
-    
 - Liberação de uma molécula de **água** → _síntese por desidratação_
-    
-
-### Representação da Ligação Peptídica:
-
+![[Pasted image 20250512130504.png]]
 ---
 
 ## 🧷 Ponte Dissulfeto
 
 - Ligação covalente entre dois grupos **-SH** de **cisteínas**.
-    
-- **Estabiliza** a estrutura tridimensional de proteínas (ex: queratina, insulina).
+- **Estabiliza** a estrutura tridimensional de proteínas (ex: queratina, insulina).![[Pasted image 20250512130556.png]]

@@ -4,9 +4,9 @@
 
 ## 🧪 Aminoácidos e Proteínas
 
-- [ ] Estrutura geral dos aminoácidos
+- [x] Estrutura geral dos aminoácidos
 
-- [ ] Classificação (essenciais, polares, ácidos, etc.)
+- [x] Classificação (essenciais, polares, ácidos, etc.)
 
 - [ ] Propriedades químicas (ponto isoelétrico, zwitteríon)
 

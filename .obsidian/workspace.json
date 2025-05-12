@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f52855d80da35b4d",
+        "id": "89d9f594f77410f5",
         "type": "tabs",
         "children": [
           {
-            "id": "53a703ed1e188a5b",
+            "id": "0c4a4a4408b002ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Bioquimica/O que é preciso aprender.md",
+                "file": "Biologia/Bioquimica/Proteínas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que é preciso aprender"
-            }
-          },
-          {
-            "id": "4b3591012346cc2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Bioquimica/Aminoácidos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aminoácidos"
+              "title": "Proteínas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,18 +178,22 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "4b3591012346cc2f",
+  "active": "0c4a4a4408b002ff",
   "lastOpenFiles": [
-    "Biologia/Bioquimica/Lipídeos.md",
     "Biologia/Bioquimica/Aminoácidos.md",
-    "Pasted image 20250512125733.png",
-    "Pasted image 20250512123227.png",
-    "Biologia/Bioquimica/Carboidratos.md",
+    "Biologia/Bioquimica/Proteínas.md",
     "Biologia/Bioquimica/O que é preciso aprender.md",
+    "Biologia/img/Pasted image 20250512130556.png",
+    "Biologia/Bioquimica/Lipídeos.md",
+    "Biologia/Bioquimica/Carboidratos.md",
+    "Biologia/img/Pasted image 20250512123227.png",
+    "Biologia/img",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/img/Pasted image 20250512125733.png",
+    "Biologia/img/Pasted image 20250512130504.png",
     "Biologia/Bioquimica/Sais minerais.md",
     "Matemática/Matemática todo dia/Semana 2.md",
     "Biologia/Bioquimica/Água.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Bioquimica",
     "Exercícios/Matemática - Sem - 2.md",
     "Biologia/Untitled Kanban.md",
@@ -225,7 +214,6 @@
     "Redação/Competência 1/C1 - Aspectos avaliativos.md",
     "Redação/Competência 1/Principais desvios gramaticais.md",
     "Redação/Competência 1/Estrutura sintática.md",
-    "Redação/Untitled.md",
     "Redação/Competência 1",
     "Redação/Untitled.canvas",
     "Química/Compostos Orgânicos",
@@ -236,7 +224,6 @@
     "Ink/Writing/2025.5.8 - 9.49am.writing",
     "Ink/Writing/2025.5.8 - 9.45am.writing",
     "Matemática/Matemática básica/Juros",
-    "Ink/Writing/2025.5.8 - 9.33am.writing",
     "Química/img/Pasted image 20250507155531.png",
     "Física/Caixinhas.canvas",
     "Química/img/Pasted image 20250430143026.png",
@@ -246,8 +233,6 @@
     "Pasted image 20250426093409.png",
     "Pasted image 20250426093411.png",
     "Linguagens/Untitled.canvas",
-    "Química/img/Pasted image 20250423080111.png",
-    "Química/img/Pasted image 20250423072702.png",
     "História/Untitled.canvas",
     "Física/Untitled.canvas",
     "Excalidraw/Calculo 1/E.canvas"
