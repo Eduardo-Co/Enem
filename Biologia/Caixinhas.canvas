@@ -128,11 +128,16 @@
 		{"id":"0259e3797b4577a7","type":"text","text":"Estabilizações e formaçõe","x":6170,"y":566,"width":250,"height":60},
 		{"id":"7962d15af618a642","x":6499,"y":566,"width":271,"height":60,"type":"text","text":"Desnaturação e renaturação"},
 		{"id":"c4499ec34d53736f","x":6835,"y":566,"width":250,"height":60,"type":"text","text":"Fibrosas e globulares"},
-		{"id":"dc3c9c3bc14d1285","type":"text","text":"DNA","x":8320,"y":302,"width":250,"height":60},
-		{"id":"87aaa51b74f6f5e0","type":"text","text":"RNA","x":8320,"y":386,"width":250,"height":60},
-		{"id":"7645047d42c057ea","type":"text","text":"Água","x":8320,"y":506,"width":250,"height":60},
-		{"id":"b1f556e56a07f5c8","type":"text","text":"Aminoácidos","x":7320,"y":298,"width":250,"height":60},
-		{"id":"b24a11e663c5527f","type":"text","text":"Síntese proteica","x":7599,"y":300,"width":250,"height":60}
+		{"id":"a0c9cb8cda814141","x":7120,"y":465,"width":250,"height":60,"type":"text","text":"Composição"},
+		{"id":"bf86bda21e2d5eb9","x":7404,"y":465,"width":250,"height":60,"type":"text","text":"Naturais e essenciais"},
+		{"id":"ee2460b33d25863b","x":7704,"y":465,"width":250,"height":60,"type":"text","text":"Ligação peptídica "},
+		{"id":"1fb1f7f39923b745","x":8004,"y":465,"width":250,"height":60,"type":"text","text":"Ponte dissulfeto"},
+		{"id":"b1f556e56a07f5c8","type":"text","text":"Aminoácidos","x":7579,"y":300,"width":250,"height":60},
+		{"id":"b24a11e663c5527f","type":"text","text":"Síntese proteica","x":8700,"y":298,"width":250,"height":60},
+		{"id":"87aaa51b74f6f5e0","type":"text","text":"RNA","x":10300,"y":298,"width":250,"height":60},
+		{"id":"dc3c9c3bc14d1285","type":"text","text":"DNA","x":9940,"y":298,"width":250,"height":60},
+		{"id":"7645047d42c057ea","type":"text","text":"Água","x":10620,"y":298,"width":250,"height":60},
+		{"id":"1ce2f420b29eeb0c","x":9471,"y":306,"width":250,"height":60,"type":"text","text":"carboidratos "}
 	],
 	"edges":[
 		{"id":"8879b600c42c49e3","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"d0b82dd16d5a8770","toSide":"top","color":"4"},
@@ -268,6 +273,11 @@
 		{"id":"5d375e3822b33455","fromNode":"d51291a5666b6e5a","fromSide":"right","toNode":"7d993caaa94f9a68","toSide":"left"},
 		{"id":"4a4ff3c8ee745ee3","fromNode":"11d63abb723cd2c8","fromSide":"bottom","toNode":"0259e3797b4577a7","toSide":"top"},
 		{"id":"31344c5b4410e4f2","fromNode":"11d63abb723cd2c8","fromSide":"bottom","toNode":"7962d15af618a642","toSide":"top"},
-		{"id":"cd80a53828a56d07","fromNode":"45c34e63e062d4e7","fromSide":"bottom","toNode":"c4499ec34d53736f","toSide":"top"}
+		{"id":"cd80a53828a56d07","fromNode":"45c34e63e062d4e7","fromSide":"bottom","toNode":"c4499ec34d53736f","toSide":"top"},
+		{"id":"56b6213337cd524c","fromNode":"b1f556e56a07f5c8","fromSide":"bottom","toNode":"a0c9cb8cda814141","toSide":"top"},
+		{"id":"7945eb706a3208f6","fromNode":"b1f556e56a07f5c8","fromSide":"bottom","toNode":"bf86bda21e2d5eb9","toSide":"top"},
+		{"id":"5e54413b4392b972","fromNode":"b1f556e56a07f5c8","fromSide":"bottom","toNode":"ee2460b33d25863b","toSide":"top"},
+		{"id":"c97867c38cf9959b","fromNode":"b1f556e56a07f5c8","fromSide":"bottom","toNode":"1fb1f7f39923b745","toSide":"top"},
+		{"id":"b22605c12e00ac5d","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"1ce2f420b29eeb0c","toSide":"top"}
 	]
 }
