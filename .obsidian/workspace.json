@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
+                "file": "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sucessão ecológica"
+              "title": "Acidificação dos oceanos"
             }
           }
         ]
@@ -178,8 +178,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "c035d81e87410c39",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Untitled Kanban.md",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
@@ -196,7 +198,6 @@
     "Redação/Untitled.canvas",
     "Redação/Untitled Kanban.md",
     "Química/Conceitos.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Separação de misturas/Método de misturas heterogênias.md",
     "Química/Misturas/Solubilidade.md",
     "Química/Misturas/Soluções.md",
@@ -210,7 +211,6 @@
     "Química/Misturas/Mistura de soluções.md",
     "Química/Misturas/Diluição.md",
     "Química/Misturas/Relação entre as concentrações.md",
-    "Química/Misturas/Concentração molar.md",
     "Química/Untitled.canvas",
     "Química/Misturas",
     "Matemática/Untitled.canvas",
