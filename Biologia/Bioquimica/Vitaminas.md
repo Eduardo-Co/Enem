@@ -38,3 +38,51 @@
 
 **KEDA = Vitamina K, E, D, A**  
 _“Quer Dar Kkkkk!”_
+
+---
+# MAIS COBRADAS:
+
+## **Vitaminas Mais Cobradas no ENEM e Vestibulares**
+
+### 💧 **Hidrossolúveis (mais frequentes):**
+
+1. **Vitamina C (ácido ascórbico)**
+    - **Função**: Formação de colágeno, cicatrização, absorção de ferro, imunidade.
+    - **Carência**: **Escorbuto** – sangramento gengival, fadiga, infecções.
+    - **Contexto comum**: Navegações antigas, dietas pobres em frutas.
+        
+2. **Vitamina B1 (tiamina)**
+    - **Função**: Metabolismo de carboidratos, sistema nervoso.
+    - **Carência**: **Beribéri** – fraqueza muscular, problemas cardíacos.
+    - **Contexto comum**: Arroz polido na alimentação.
+        
+3. **Vitamina B3 (niacina)**
+    - **Função**: Respiração celular, saúde da pele e sistema nervoso.
+    - **Carência**: **Pelagra** – dermatite, diarreia, demência (as 3 D's).
+    - **Contexto comum**: Dietas baseadas apenas em milho.
+        
+4. **Vitamina B12 (cobalamina)**
+    - **Função**: Formação de hemácias e DNA.
+    - **Carência**: **Anemia perniciosa**.
+    - **Contexto comum**: Dietas veganas sem suplementação.
+
+---
+
+### ☀️ **Lipossolúveis (frequentes e importantes):**
+
+5. **Vitamina D (calciferol)**
+    - **Função**: Absorção de cálcio, saúde óssea, imunidade.
+    - **Carência**: **Raquitismo**, osteoporose.
+    - **Contexto comum**: Falta de exposição ao sol.
+        
+6. **Vitamina A (retinol)**
+    - **Função**: Visão (retina), pele, crescimento.
+    - **Carência**: **Cegueira noturna**, xeroftalmia.
+    - **Contexto comum**: Dietas pobres em vegetais coloridos.
+        
+---
+
+### 🔍 Menções menos comuns (mas possíveis):
+
+- **Vitamina K**: coagulação sanguínea.
+	- **Vitamina E**: antioxidante, fertilidade.
