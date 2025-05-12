@@ -155,17 +155,13 @@ Processo causado pelo excesso de nutrientes (como **nitrogênio e fósforo**) na
 - Vazamento de petróleo cru no oceano, geralmente por **acidentes com navios petroleiros**, **plataformas** ou oleodutos.
 ####  Problemas causados:
 
-- **Benzeno e tolueno**: componentes cancerígenos e tóxicos.
-- **Obstrui brânquias** de peixes e invertebrados → sufocamento.
-
-- **Afeta aves marinhas**:
-    - Perda da impermeabilidade das penas.
-    - Hipotermia e morte.
-
-- **Bloqueia luz solar**:
-    - Prejudica a fotossíntese de algas e fitoplâncton.
-
-- **Evaporação de toxinas** → contaminação do **ar e solo costeiro**.
+|Impacto|Explicação|
+|---|---|
+|**Morte de organismos**|O petróleo cobre peixes, aves e mamíferos marinhos, bloqueando respiração e isolamento térmico.|
+|**Redução de oxigênio na água**|O óleo impede a troca gasosa na superfície e compromete a fotossíntese de algas.|
+|**Bioacumulação**|Compostos tóxicos do petróleo se acumulam na cadeia alimentar, prejudicando até predadores maiores.|
+|**Danos ao plâncton e corais**|Organismos microscópicos essenciais à cadeia alimentar morrem em contato com o óleo.|
+A exposição a **vapores tóxicos** (como benzeno e tolueno) pode provocar **doenças no fígado, rins e sistema nervoso**.
 
 #### ✅ Solução: **Biorremediação**
 
