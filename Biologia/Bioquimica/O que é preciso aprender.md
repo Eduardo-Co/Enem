@@ -24,15 +24,15 @@
 
 ## 🍬 Açúcares, Carboidratos e Álcool
 
-- [ ] Monossacarídeos (glicose, frutose, galactose)
+- [x] Monossacarídeos (glicose, frutose, galactose)
 
-- [ ] Dissacarídeos (sacarose, lactose, maltose)
+- [x] Dissacarídeos (sacarose, lactose, maltose)
 
-- [ ] Polissacarídeos (amido, glicogênio, celulose)
+- [x] Polissacarídeos (amido, glicogênio, celulose)
 
-- [ ] Funções dos carboidratos
+- [x] Funções dos carboidratos
 
-- [ ] Metabolismo: glicólise, gliconeogênese, glicogenólise
+- [x] Metabolismo: glicólise, gliconeogênese, glicogenólise
 
 - [ ] Produção de álcool por fermentação
 
