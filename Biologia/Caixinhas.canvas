@@ -71,7 +71,13 @@
 		{"id":"bfad760106b6b844","type":"text","text":"Inversão térmica","x":155,"y":615,"width":250,"height":60},
 		{"id":"e4dff0cbaed65daf","type":"text","text":"Problemas respiratórios","x":445,"y":615,"width":250,"height":60},
 		{"id":"ab1fcfd39334880e","type":"text","text":"Aquecimento global","x":745,"y":615,"width":250,"height":60},
-		{"id":"7d0617f2434a8efa","type":"text","text":"Chuva ácida","x":-165,"y":615,"width":250,"height":60}
+		{"id":"7d0617f2434a8efa","type":"text","text":"Chuva ácida","x":-165,"y":615,"width":250,"height":60},
+		{"id":"e2be26ba838bef0f","x":1640,"y":300,"width":250,"height":60,"type":"text","text":"Vitaminas"},
+		{"id":"eb2b78b20be5b29f","x":1940,"y":300,"width":250,"height":60,"type":"text","text":"Enzimas"},
+		{"id":"45c34e63e062d4e7","x":2240,"y":300,"width":250,"height":60,"type":"text","text":"Proteínas"},
+		{"id":"b1f556e56a07f5c8","x":2540,"y":300,"width":250,"height":60,"type":"text","text":"Aminoácidos"},
+		{"id":"462b8bac7b40d9a1","x":1340,"y":300,"width":250,"height":60,"type":"text","text":"Sais"},
+		{"id":"3b6d5201b1a41596","x":1940,"y":120,"width":250,"height":60,"type":"text","text":"Bioquímica"}
 	],
 	"edges":[
 		{"id":"8879b600c42c49e3","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"d0b82dd16d5a8770","toSide":"top","color":"4"},
@@ -146,6 +152,12 @@
 		{"id":"a532228aa8f7ce5b","fromNode":"049b98be643401c1","fromSide":"bottom","toNode":"480510224425e5af","toSide":"top"},
 		{"id":"82fd30e7333a2db1","fromNode":"9f5f8050c6ad44d3","fromSide":"bottom","toNode":"ab1fcfd39334880e","toSide":"top","color":"3"},
 		{"id":"53953c6274133950","fromNode":"049b98be643401c1","fromSide":"bottom","toNode":"5043e9ec6ca2ff7d","toSide":"top"},
-		{"id":"8f39e3b4298c7a44","fromNode":"049b98be643401c1","fromSide":"bottom","toNode":"1b530221bcbd9951","toSide":"top"}
+		{"id":"8f39e3b4298c7a44","fromNode":"049b98be643401c1","fromSide":"bottom","toNode":"1b530221bcbd9951","toSide":"top"},
+		{"id":"3a5bc3c1c186f1ed","fromNode":"77a1a2ab53705c4c","fromSide":"bottom","toNode":"3b6d5201b1a41596","toSide":"top"},
+		{"id":"2b0ccb36b21f7472","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"e2be26ba838bef0f","toSide":"top"},
+		{"id":"6a79b5e8f5b01d7a","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"eb2b78b20be5b29f","toSide":"top"},
+		{"id":"b9f7db6f8c9883fa","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"45c34e63e062d4e7","toSide":"top"},
+		{"id":"71789884efcdb156","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"b1f556e56a07f5c8","toSide":"top"},
+		{"id":"00769289fe7103d2","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"462b8bac7b40d9a1","toSide":"top"}
 	]
 }

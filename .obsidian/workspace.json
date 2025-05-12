@@ -11,14 +11,17 @@
             "id": "ee05471198c98c17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Biologia/Bioquimica/Síntese Proteica.md",
-                "mode": "source",
-                "source": false
+                "file": "Biologia/Caixinhas.canvas",
+                "viewState": {
+                  "x": 1763.9615052817326,
+                  "y": 274.41652877882177,
+                  "zoom": -0.3158288633254505
+                }
               },
-              "icon": "lucide-file",
-              "title": "Síntese Proteica"
+              "icon": "lucide-layout-dashboard",
+              "title": "Caixinhas"
             }
           },
           {
@@ -192,17 +195,18 @@
   },
   "active": "ee05471198c98c17",
   "lastOpenFiles": [
-    "Biologia/Bioquimica/Dna.md",
-    "Biologia/Bioquimica/Aminoácidos.md",
-    "Biologia/Bioquimica/Rna.md",
-    "Biologia/Bioquimica/Síntese Proteica.md",
-    "Biologia/Bioquimica/Sais minerais.md",
-    "Biologia/Bioquimica/Lipídeos.md",
-    "Biologia/Bioquimica/Carboidratos.md",
-    "Biologia/Bioquimica/Proteínas.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Biologia/Bioquimica/Vitaminas.md",
+    "Biologia/Untitled Kanban.md",
     "Biologia/Bioquimica/Enzimas.md",
+    "Biologia/Bioquimica/Aminoácidos.md",
+    "Biologia/Bioquimica/Proteínas.md",
+    "Biologia/Bioquimica/Lipídeos.md",
+    "Biologia/Bioquimica/Vitaminas.md",
+    "Biologia/Bioquimica/Síntese Proteica.md",
+    "Biologia/Bioquimica/Dna.md",
+    "Biologia/Bioquimica/Rna.md",
+    "Biologia/Bioquimica/Sais minerais.md",
+    "Biologia/Bioquimica/Carboidratos.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Bioquimica/O que é preciso aprender.md",
     "Biologia/img/Pasted image 20250512130556.png",
     "Biologia/img/Pasted image 20250512123227.png",
@@ -213,7 +217,6 @@
     "Biologia/Bioquimica/Água.md",
     "Biologia/Bioquimica",
     "Exercícios/Matemática - Sem - 2.md",
-    "Biologia/Untitled Kanban.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
     "Biologia/Impactos ambientais/Aquecimento global.md",
