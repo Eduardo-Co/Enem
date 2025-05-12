@@ -9,4 +9,4 @@ Lipossolúveis: não precisa ser ingeridas diariamente, a vitamina KEDA, quer da
 ## Lipossuluveis:
 
 - Vitamina A - retinol: betacaroteno; crescimento dos ossos e fortalecimento das articulações e funcionamento dos olhos. Síntese de melanina. Avitaminose: cegueira noturna; xeroftalmia - olho seco; despigmentação da pele - fígado, gema de ovo, vegetais amarelos
-- Vitamina D - 
+- Vitamina D - calciferol: 
