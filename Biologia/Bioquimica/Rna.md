@@ -23,13 +23,13 @@
 
 ## 📚 Tipos de RNA
 
-|**Tipo**|**Função**|
-|---|---|
-|**RNAm (Mensageiro)**|Leva a **informação genética do DNA** até o ribossomo para a produção de proteínas. Ex: vacina de mRNA.|
-|**RNAr (Ribossômico)**|Componente estrutural dos **ribossomos**, onde ocorre a síntese proteica.|
-|**RNAt (Transportador)**|Transporta **aminoácidos** até o ribossomo, onde são encaixados conforme o RNAm.|
-|**Ribozimas**|Moléculas de RNA com **função catalítica** (atuam como enzimas).|
-|**RNAi (Interferência)**|Realiza **silenciamento gênico**, inibindo a tradução de determinados genes. Ex: RNA fita dupla.|
+| **Tipo**                 | **Função**                                                                                              |
+| ------------------------ | ------------------------------------------------------------------------------------------------------- |
+| **RNAm (Mensageiro)**    | Leva a **informação genética do DNA** até o ribossomo para a produção de proteínas. Ex: vacina de mRNA. |
+| **RNAr (Ribossômico)**   | Componente estrutural dos **ribossomos**, onde ocorre a síntese proteica.                               |
+| **RNAt (Transportador)** | Transporta **aminoácidos** até o ribossomo, onde são encaixados conforme o RNAm.                        |
+| **Ribozimas**            | Moléculas de RNA com **função catalítica** (atuam como enzimas).                                        |
+| **RNAi (Interferência)** | Realiza **silenciamento gênico**, inibindo a tradução de determinados genes. Ex: RNA fita dupla.        |
 
 ---
 
