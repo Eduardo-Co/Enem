@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Bioquimica/Ácidos nucleicos.md",
+                "file": "Biologia/Bioquimica/Rna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ácidos nucleicos"
+              "title": "Rna"
+            }
+          },
+          {
+            "id": "30e66e76529d2a2a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -180,8 +192,10 @@
   },
   "active": "ee05471198c98c17",
   "lastOpenFiles": [
+    "Biologia/Bioquimica/Dna.md",
+    "Biologia/Bioquimica/Rna.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Bioquimica/Vitaminas.md",
-    "Biologia/Bioquimica/Ácidos nucleicos.md",
     "Biologia/Bioquimica/Enzimas.md",
     "Biologia/Bioquimica/Lipídeos.md",
     "Biologia/Bioquimica/Proteínas.md",
@@ -191,7 +205,6 @@
     "Biologia/Bioquimica/Carboidratos.md",
     "Biologia/img/Pasted image 20250512123227.png",
     "Biologia/img",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/img/Pasted image 20250512125733.png",
     "Biologia/img/Pasted image 20250512130504.png",
     "Biologia/Bioquimica/Sais minerais.md",
@@ -213,7 +226,6 @@
     "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
-    "Simulados A/1° Simulado A.md",
     "Redação/Competência 1",
     "Redação/Untitled.canvas",
     "Química/Compostos Orgânicos",
