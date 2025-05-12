@@ -18,8 +18,10 @@
 
 ### Saturação dos Ácidos Graxos
 
-- **Saturados**: Sem ligações duplas; cadeias lineares.
-- **Insaturados**: Com uma ou mais ligações duplas; podem apresentar isomeria **cis** ou **trans**.
+- **Saturados**: Sem ligações duplas; cadeias lineares: Sólida
+- **Insaturados**: Com uma ou mais ligações duplas; podem apresentar isomeria **cis** ou **trans**: Líquida
+
+![[Pasted image 20250512125733.png]]
 
 ---
 
