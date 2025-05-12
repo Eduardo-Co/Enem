@@ -8,6 +8,7 @@
 
 ## ⚡ 2. Funções Principais
 
+
 |Tipo de Função|Exemplos|
 |---|---|
 |**Energética**|Glicose, amido, glicogênio|
@@ -25,16 +26,16 @@
 - Fórmula geral: CnH2nOnC_nH_{2n}O_nCn​H2n​On​
 #### 🧪 Exemplos por número de carbonos:
 
-|Nº de Carbonos|Nome|Exemplos|
-|---|---|---|
-|3|Triose|Gliceraldeído|
-|5|**Pentose**|**Ribose (RNA), desoxirribose (DNA)**|
-|6|**Hexose**|**Glicose, frutose, galactose**|
-|7|Heptose|Sedo-heptulose (vias metabólicas)|
+| Nº de Carbonos | Nome        | Exemplos                              |
+| -------------- | ----------- | ------------------------------------- |
+| 3              | Triose      | Gliceraldeído                         |
+| 5              | **Pentose** | **Ribose (RNA), desoxirribose (DNA)** |
+| 6              | **Hexose**  | **Glicose, frutose, galactose**       |
+| 7              | Heptose     | Sedo-heptulose (vias metabólicas)     |
 
 ---
 
-### 🔹 B. **Dissacarídeos**
+### ==🔹 B. **Dissacarídeos**==
 
 - Formados pela **união de dois monossacarídeos** via ==**síntese por desidratação**== (com liberação de H₂O).
 - Ligação: **glicosídica**.
