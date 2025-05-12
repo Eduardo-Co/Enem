@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
+                "file": "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acidificação dos oceanos"
+              "title": "Processos de especiação"
             }
           }
         ]
@@ -178,10 +178,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "c035d81e87410c39",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Evolução/Tipos de seleção natural.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
+    "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Caixinhas.canvas",
     "Biologia/Untitled Kanban.md",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
@@ -208,9 +212,6 @@
     "Química/Separação de misturas/Tratamento de esgoto.md",
     "Química/Misturas/Titulação.md",
     "Química/Separação de misturas",
-    "Química/Misturas/Mistura de soluções.md",
-    "Química/Misturas/Diluição.md",
-    "Química/Misturas/Relação entre as concentrações.md",
     "Química/Untitled.canvas",
     "Química/Misturas",
     "Matemática/Untitled.canvas",
