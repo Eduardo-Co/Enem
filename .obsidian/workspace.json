@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Bioquimica/Aminoácidos.md",
+                "file": "Biologia/Bioquimica/Dna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aminoácidos"
+              "title": "Dna"
             }
           }
         ]
@@ -198,9 +198,9 @@
                   "state": {
                     "file": "Biologia/Caixinhas.canvas",
                     "viewState": {
-                      "x": 4533.006083541965,
-                      "y": 533.5614989829493,
-                      "zoom": -0.8498526732949234
+                      "x": 12660.886160874927,
+                      "y": 595.2343309902241,
+                      "zoom": -0.3091238575338532
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -222,8 +222,12 @@
   },
   "active": "ee05471198c98c17",
   "lastOpenFiles": [
-    "Biologia/Bioquimica/Aminoácidos.md",
+    "Biologia/Bioquimica/Dna.md",
     "Biologia/Caixinhas.canvas",
+    "Biologia/Bioquimica/Síntese Proteica.md",
+    "Biologia/Bioquimica/Carboidratos.md",
+    "Biologia/Bioquimica/Lipídeos.md",
+    "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Proteínas.md",
     "Biologia/Bioquimica/Enzimas.md",
     "Biologia/Bioquimica/Vitaminas.md",
@@ -231,10 +235,6 @@
     "Biologia/Bioquimica/Rna.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Untitled Kanban.md",
-    "Biologia/Bioquimica/Lipídeos.md",
-    "Biologia/Bioquimica/Síntese Proteica.md",
-    "Biologia/Bioquimica/Dna.md",
-    "Biologia/Bioquimica/Carboidratos.md",
     "Biologia/Bioquimica/O que é preciso aprender.md",
     "Biologia/img/Pasted image 20250512130556.png",
     "Biologia/img/Pasted image 20250512123227.png",
