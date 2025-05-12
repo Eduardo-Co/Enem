@@ -60,21 +60,13 @@
 ### 🧶 Tipos de Proteínas
 
 - **Proteínas Fibrosas**:
-    
     - Estruturas alongadas
-        
     - Organização até **secundária**
-        
     - Ex: colágeno, queratina
-        
     - Função: resistência, sustentação
-        
+    - 
 - **Proteínas Globulares**:
-    
     - Estrutura compacta e esférica
-        
     - Estrutura até **terciária ou quaternária**
-        
     - Ex: enzimas, hemoglobina
-        
     - Função: reatividade, transporte, catálise
