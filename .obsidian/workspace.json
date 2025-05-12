@@ -11,17 +11,14 @@
             "id": "c035d81e87410c39",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/Caixinhas.canvas",
-                "viewState": {
-                  "x": -8924.262811823472,
-                  "y": 617.12462046959,
-                  "zoom": -1.5747325329891484
-                }
+                "file": "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-file",
+              "title": "Sucessão ecológica"
             }
           }
         ]
@@ -183,6 +180,7 @@
   },
   "active": "c035d81e87410c39",
   "lastOpenFiles": [
+    "Biologia/Caixinhas.canvas",
     "Biologia/Untitled Kanban.md",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
@@ -213,7 +211,6 @@
     "Química/Misturas/Diluição.md",
     "Química/Misturas/Relação entre as concentrações.md",
     "Química/Misturas/Concentração molar.md",
-    "Química/Misturas/PPM e PPG.md",
     "Química/Untitled.canvas",
     "Química/Misturas",
     "Matemática/Untitled.canvas",
@@ -223,7 +220,6 @@
     "Ink/Writing/2025.5.8 - 9.33am.writing",
     "Ink/Writing/2025.5.8 - 9.22am.writing",
     "Química/img/Pasted image 20250507155531.png",
-    "Biologia/Caixinhas.canvas",
     "Física/Caixinhas.canvas",
     "Química/img/Pasted image 20250430143026.png",
     "Física/img/Pasted image 20250429143611.png",
