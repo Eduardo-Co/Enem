@@ -46,11 +46,11 @@
 
 - [ ] Ácidos graxos essenciais (Ômega-3 e 6)
 
-- [ ] Funções dos lipídios
+- [x] Funções dos lipídios
 
-- [ ] Estrutura dos fosfolipídios e sua função nas membranas
+- [x] Estrutura dos fosfolipídios e sua função nas membranas
 
-- [ ] Colesterol: funções e transporte (LDL, HDL)
+- [x] Colesterol: funções e transporte (LDL, HDL)
 
 - [ ] Metabolismo lipídico básico
 

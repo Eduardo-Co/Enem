@@ -11,4 +11,5 @@ fORMA Cis e Trans
 
 - cerídeos - ácool diferente do gliberol e uma ou mias moléculas de ácidos graxos - impermeabilizantes 
 - Esteroides - colesterol, membrans celulares, precursosr da vitamina D, sais biliares e homoônios HDL e LDL. 
-- 
+- Fosfolipídeos - apolares com cabeça polar, hidrofílica e hidrofóbica, formam membranas
+- Carotenoides - pigmentos cenoura - fotossitense e vitamina A 
