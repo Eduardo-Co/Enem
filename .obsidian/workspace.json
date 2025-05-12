@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "eca2a772a8dadd63",
+        "id": "f52855d80da35b4d",
         "type": "tabs",
         "children": [
           {
-            "id": "c035d81e87410c39",
+            "id": "47a0ff13f0a710c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
-                "mode": "source",
-                "source": false
+                "file": "Biologia/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Conservação de Hotspots - corredor ecológico"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -178,14 +188,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "c035d81e87410c39",
+  "active": "47a0ff13f0a710c1",
   "lastOpenFiles": [
+    "Biologia/Caixinhas.canvas",
+    "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
     "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "Biologia/Impactos ambientais/Espécies exóticas.md",
     "Biologia/Impactos ambientais/Egostos.md",
-    "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Evolução/Tipos de seleção natural.md",
@@ -193,7 +204,6 @@
     "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Biologia/Caixinhas.canvas",
     "Biologia/Untitled Kanban.md",
     "Simulados A/1° Simulado A.md",
     "Redação/Competência 1/C1 - Aspectos avaliativos.md",
@@ -209,7 +219,6 @@
     "Química/Misturas/Soluções.md",
     "Química/Misturas/Concentração Comum.md",
     "Química/Separação de misturas/Misturas homogêneas.md",
-    "Química/Compostos Orgânicos/Organoclorados.md",
     "Química/Compostos Orgânicos",
     "Química/Separação de misturas",
     "Química/Untitled.canvas",
