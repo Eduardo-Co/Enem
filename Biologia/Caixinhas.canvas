@@ -72,12 +72,17 @@
 		{"id":"e4dff0cbaed65daf","type":"text","text":"Problemas respiratórios","x":445,"y":615,"width":250,"height":60},
 		{"id":"ab1fcfd39334880e","type":"text","text":"Aquecimento global","x":745,"y":615,"width":250,"height":60},
 		{"id":"7d0617f2434a8efa","type":"text","text":"Chuva ácida","x":-165,"y":615,"width":250,"height":60},
-		{"id":"e2be26ba838bef0f","x":1640,"y":300,"width":250,"height":60,"type":"text","text":"Vitaminas"},
-		{"id":"eb2b78b20be5b29f","x":1940,"y":300,"width":250,"height":60,"type":"text","text":"Enzimas"},
-		{"id":"45c34e63e062d4e7","x":2240,"y":300,"width":250,"height":60,"type":"text","text":"Proteínas"},
-		{"id":"b1f556e56a07f5c8","x":2540,"y":300,"width":250,"height":60,"type":"text","text":"Aminoácidos"},
-		{"id":"462b8bac7b40d9a1","x":1340,"y":300,"width":250,"height":60,"type":"text","text":"Sais"},
-		{"id":"3b6d5201b1a41596","x":1940,"y":120,"width":250,"height":60,"type":"text","text":"Bioquímica"}
+		{"id":"87aaa51b74f6f5e0","x":5200,"y":388,"width":250,"height":60,"type":"text","text":"RNA"},
+		{"id":"7645047d42c057ea","type":"text","text":"Água","x":5200,"y":488,"width":250,"height":60},
+		{"id":"dc3c9c3bc14d1285","x":5200,"y":268,"width":250,"height":60,"type":"text","text":"DNA"},
+		{"id":"e2be26ba838bef0f","type":"text","text":"Vitaminas","x":3150,"y":298,"width":250,"height":60},
+		{"id":"eb2b78b20be5b29f","type":"text","text":"Enzimas","x":3450,"y":298,"width":250,"height":60},
+		{"id":"45c34e63e062d4e7","type":"text","text":"Proteínas","x":3750,"y":298,"width":250,"height":60},
+		{"id":"b1f556e56a07f5c8","type":"text","text":"Aminoácidos","x":4050,"y":298,"width":250,"height":60},
+		{"id":"b24a11e663c5527f","type":"text","text":"Síntese proteica","x":4329,"y":300,"width":250,"height":60},
+		{"id":"3b6d5201b1a41596","type":"text","text":"Bioquímica","x":3575,"y":80,"width":250,"height":60},
+		{"id":"462b8bac7b40d9a1","type":"text","text":"Sais","x":1440,"y":280,"width":250,"height":60},
+		{"id":"f614713c3e5e44e9","x":1440,"y":400,"width":250,"height":60,"type":"text","text":"Minerais"}
 	],
 	"edges":[
 		{"id":"8879b600c42c49e3","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"d0b82dd16d5a8770","toSide":"top","color":"4"},
@@ -158,6 +163,11 @@
 		{"id":"6a79b5e8f5b01d7a","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"eb2b78b20be5b29f","toSide":"top"},
 		{"id":"b9f7db6f8c9883fa","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"45c34e63e062d4e7","toSide":"top"},
 		{"id":"71789884efcdb156","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"b1f556e56a07f5c8","toSide":"top"},
-		{"id":"00769289fe7103d2","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"462b8bac7b40d9a1","toSide":"top"}
+		{"id":"00769289fe7103d2","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"462b8bac7b40d9a1","toSide":"top"},
+		{"id":"f0043be5a46e4881","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"7645047d42c057ea","toSide":"top"},
+		{"id":"727f62e3ecc5aed9","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"b24a11e663c5527f","toSide":"top"},
+		{"id":"870dfb4be13bbda1","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"dc3c9c3bc14d1285","toSide":"top"},
+		{"id":"be0aa13e8591ef20","fromNode":"3b6d5201b1a41596","fromSide":"bottom","toNode":"87aaa51b74f6f5e0","toSide":"top"},
+		{"id":"134139f9c691fe64","fromNode":"462b8bac7b40d9a1","fromSide":"bottom","toNode":"f614713c3e5e44e9","toSide":"top"}
 	]
 }

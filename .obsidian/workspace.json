@@ -8,32 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee05471198c98c17",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Biologia/Caixinhas.canvas",
-                "viewState": {
-                  "x": 1763.9615052817326,
-                  "y": 274.41652877882177,
-                  "zoom": -0.3158288633254505
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
-            }
-          },
-          {
             "id": "30e66e76529d2a2a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Bioquimica/Sais minerais.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Sais minerais"
             }
           }
         ]
@@ -193,20 +178,63 @@
       "switcher:Open quick switcher": false
     }
   },
+  "floating": {
+    "id": "d2c27861f55fa8b4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "373fe24dec3027ef",
+        "type": "window",
+        "children": [
+          {
+            "id": "8d64ce86647c0692",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ee05471198c98c17",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Biologia/Caixinhas.canvas",
+                    "viewState": {
+                      "x": 1801.309489253223,
+                      "y": 508.7865357092836,
+                      "zoom": -0.23631536978755768
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Caixinhas"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 55,
+        "y": 105,
+        "width": 1083,
+        "height": 651,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "ee05471198c98c17",
   "lastOpenFiles": [
+    "Biologia/Bioquimica/Sais minerais.md",
+    "Biologia/Bioquimica/Rna.md",
+    "Biologia/Bioquimica/Vitaminas.md",
+    "Biologia/Caixinhas.canvas",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Untitled Kanban.md",
     "Biologia/Bioquimica/Enzimas.md",
     "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Proteínas.md",
     "Biologia/Bioquimica/Lipídeos.md",
-    "Biologia/Bioquimica/Vitaminas.md",
     "Biologia/Bioquimica/Síntese Proteica.md",
     "Biologia/Bioquimica/Dna.md",
-    "Biologia/Bioquimica/Rna.md",
-    "Biologia/Bioquimica/Sais minerais.md",
     "Biologia/Bioquimica/Carboidratos.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Bioquimica/O que é preciso aprender.md",
     "Biologia/img/Pasted image 20250512130556.png",
     "Biologia/img/Pasted image 20250512123227.png",
@@ -217,7 +245,6 @@
     "Biologia/Bioquimica/Água.md",
     "Biologia/Bioquimica",
     "Exercícios/Matemática - Sem - 2.md",
-    "Biologia/Caixinhas.canvas",
     "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
     "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
@@ -228,7 +255,6 @@
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Evolução/Tipos de seleção natural.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
     "Redação/Competência 1",
     "Redação/Untitled.canvas",
     "Química/Compostos Orgânicos",
