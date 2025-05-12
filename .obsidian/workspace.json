@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Bioquimica/Água.md",
+                "file": "Biologia/Bioquimica/Sais minerais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Água"
+              "title": "Sais minerais"
             }
           }
         ],
@@ -195,8 +195,9 @@
   },
   "active": "bb0d0a75201fdc78",
   "lastOpenFiles": [
-    "Biologia/Bioquimica/O que é preciso aprender.md",
     "Biologia/Bioquimica/Água.md",
+    "Biologia/Bioquimica/Sais minerais.md",
+    "Biologia/Bioquimica/O que é preciso aprender.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Bioquimica",
     "Matemática/Matemática todo dia/Semana 2.md",
@@ -225,7 +226,6 @@
     "Redação/Untitled Kanban.md",
     "Química/Conceitos.md",
     "Química/Separação de misturas/Método de misturas heterogênias.md",
-    "Química/Misturas/Solubilidade.md",
     "Química/Compostos Orgânicos",
     "Química/Separação de misturas",
     "Química/Untitled.canvas",
