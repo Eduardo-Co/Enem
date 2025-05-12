@@ -53,13 +53,76 @@
 
 ----
 
-Agora veremos a parte do cozinheiro.  A transcrição ocorre acima. Agora o RNAm vai para o citoplasma
+## **Tradução: Do RNA à Proteína**
 
-agora vem a tradução:
+(A continuação da “cozinha celular”)
 
-cada divisão de três em três, trincas de de bases, códons. Então proteina é a informação da união de aminoácidos. 
+Após a **transcrição**, o **RNAm** (mensageiro) é exportado do núcleo para o **citoplasma**, onde ocorre a **tradução**, processo que **converte a linguagem de ácidos nucleicos (códons) na linguagem de aminoácidos (proteínas)**.
 
-O código genético corresponde entre códons e aminácidos. UUA = vale tal. AUC = vale tal. é isso
-cada trinca vale um aminácido. 
+---
 
-Essa tabela é universal - ACC = treonina SEMPRE
+### 🧩 Código Genético
+
+- Cada **trinca de bases nitrogenadas** do RNAm forma um **códon**.
+- Cada **códon** corresponde a **um aminoácido específico**.
+- Exemplo:
+    - **AUG** → Metionina (início)
+    - **UUA** → Leucina
+    - **UGA**, **UAG**, **UAA** → códons de **parada** (término da tradução)
+
+#### 🧠 Características do código genético:
+
+- **Universal**: o mesmo para quase todos os seres vivos.
+- **Degenerado**: um mesmo aminoácido pode ser codificado por **vários códons** diferentes.
+- **Não ambíguo**: um códon sempre codifica **o mesmo aminoácido**.
+- **Sem sobreposição**: leitura é feita de **3 em 3** bases, na ordem 5' → 3'.
+
+---
+
+### 🧪 Etapas da Tradução
+
+#### 1. **Iniciação**
+
+- O **ribossomo** reconhece o códon de **início (AUG)** no RNAm.
+- O **RNAt (transportador)** com o anticódon complementar (UAC) traz a **metionina**.
+
+#### 2. **Elongação**
+
+- O ribossomo possui três sítios:
+    
+    - **E** (Exit): saída do RNAt usado.
+    - **P** (Peptídeo): mantém a cadeia polipeptídica crescente.
+    - **A** (Aminoacil): entrada do novo RNAt com o aminoácido correspondente ao códon atual.
+
+- O **RNAt entra pelo A**, forma **ligação peptídica** com a cadeia no P, e o antigo sai pelo E.
+#### 3. **Terminação**
+
+- Quando o ribossomo encontra um **códon de parada** (**UAA**, **UAG** ou **UGA**), **a síntese termina**.
+- A proteína recém-formada é liberada.
+
+---
+### 🧬 Exemplo de Leitura do RNAm:
+
+> **Sequência**: `AUG ACC CCU GAU AAA GGA UUU UGA`  
+> **Tradução**: Met-Treonina-Prolina-Ácido Aspártico-Lisina-Glicina-Fenilalanina  
+> **UGA = parada** → não codifica aminoácido
+
+---
+
+### 🧪 Polirribossomos (Polissomos)
+
+- Um único RNAm pode ser **lido simultaneamente** por **vários ribossomos**, formando os **polissomos**.
+- Aumenta a **eficiência da tradução**, produzindo várias cópias da mesma proteína.
+
+---
+
+### 🎯 Reconhecimento do códons pelo RNAt
+
+- Cada **RNAt** possui:
+    - Um **anticódon**: sequência de 3 bases **complementares** ao códon do RNAm.
+    - Um **aminoácido específico** ligado a ele.
+
+> Exemplo:  
+> Códon no RNAm: **AUG**  
+> Anticódon do RNAt: **UAC**  
+> Aminoácido transportado: **Metionina**
