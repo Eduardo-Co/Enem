@@ -11,12 +11,14 @@
             "id": "76939209a9451f6c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Propriedades periódicas dos elementos"
             }
           },
           {
@@ -192,8 +194,15 @@
   },
   "active": "76939209a9451f6c",
   "lastOpenFiles": [
-    "Cronograma.md",
+    "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
+    "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
+    "Química/Atomo/2 - Distribuição eletrônica/Distribuição eletrônica.md",
+    "Química/Interações moleculares/Características de moléculas polares e apolares.md",
+    "Química/Compostos Orgânicos/Organoclorados.md",
+    "Química/Atomo/1- Modelos atômicos/Modelos autais + resumo.md",
+    "Química/Atomo/1- Modelos atômicos/Partículas subatomicas.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Cronograma.md",
     "Biologia/Bioquimica/Água.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Bioquimica/Rna.md",
@@ -219,13 +228,6 @@
     "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
     "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
-    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
-    "Biologia/Impactos ambientais/Espécies exóticas.md",
-    "Biologia/Impactos ambientais/Egostos.md",
-    "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
-    "Biologia/Evolução/Tipos de seleção natural.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
     "Redação/Competência 1",
     "Redação/Untitled.canvas",
     "Química/Compostos Orgânicos",
