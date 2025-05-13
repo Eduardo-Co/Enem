@@ -50,4 +50,6 @@
 - **Secundário:** microrganismos convertem matéria orgânica dissolvida em biomassa (sólido) ou gás.  
 - **Terciário:** filtração fina, precipitação, adsorção e oxidação para nutrientes, micropoluentes e patógenos residuais - geralmente não é feito
 
+---
+
 

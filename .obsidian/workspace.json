@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Misturas/Titulação.md",
+                "file": "Química/Ligações químicas/NOX - Número de oxidação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Titulação"
+              "title": "NOX - Número de oxidação"
             }
           }
         ]
@@ -178,53 +178,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "floating": {
-    "id": "d2c27861f55fa8b4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dea5a8aff07ac584",
-        "type": "window",
-        "children": [
-          {
-            "id": "3ccee658143adfc7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "76939209a9451f6c",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Química/Untitled.canvas",
-                    "viewState": {
-                      "x": 2466.2360206106378,
-                      "y": 377.560676704669,
-                      "zoom": -1.1450923358503768
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Untitled"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1800,
-        "y": 297,
-        "width": 603,
-        "height": 603,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "76939209a9451f6c",
+  "active": "ca77d3b35a75789a",
   "lastOpenFiles": [
+    "Química/Separação de misturas/Tratamento de esgoto.md",
+    "Química/Untitled.canvas",
+    "Química/Separação de misturas/Método de misturas heterogênias.md",
+    "Química/Separação de misturas/Misturas homogêneas.md",
     "Química/Misturas/Titulação.md",
     "Química/Misturas/Mistura de soluções.md",
-    "Química/Untitled.canvas",
     "Química/Misturas/Diluição.md",
     "Química/Misturas/Relação entre as concentrações.md",
     "Química/Misturas/Concentração molar.md",
@@ -246,9 +207,6 @@
     "Química/Ligações químicas/Ligação Dativa ou Coordenada.md",
     "Química/Ligações químicas/Ligação covalente.md",
     "Química/Ligações químicas/Ligações metálicas.md",
-    "Química/Ligações químicas/Ligação Químicas.md",
-    "Química/Ligações químicas/Ligação iônica.md",
-    "Química/Ligações químicas/Geometria molecular.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/img/Pasted image 20250512130556.png",
     "Biologia/img/Pasted image 20250512123227.png",
