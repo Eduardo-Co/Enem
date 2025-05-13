@@ -24,6 +24,7 @@ kanban-plugin: board
 
 - [ ] Precipitação - 134342
 - [ ] Conceito de densidade
+- [ ] Titulação
 
 
 ## Fazer exercícios exporadicamente
