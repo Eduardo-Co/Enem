@@ -42,3 +42,4 @@ A **geometria molecular** é o arranjo tridimensional dos **átomos ao redor do 
 2. Reconhecer os ângulos, se ela tem 3 polos ou 4, as zonas de elétrons livres podem ser removidas possibilitando que ela sejam angulares.
 3. Resumindo, da para fazer usando linear, trigonal e tetraédrica, desenhando os pares de elétrons livres e depois removendo-os, isso nos mostra se são angulares, piramidais, etc... ==No final é tudo fragmento desses 3 tipos==
 
+---
