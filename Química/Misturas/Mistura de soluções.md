@@ -1,4 +1,4 @@
-## 🧪 Mistura de Soluções com Diferentes Concentrações
+\## 🧪 Mistura de Soluções com Diferentes Concentrações
 
 Quando duas ou mais soluções **com concentrações diferentes** são misturadas, a **nova concentração** é calculada considerando:
 

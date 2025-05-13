@@ -42,7 +42,6 @@
 		{"id":"248ce788ebf6cd41","type":"text","text":"Nox","x":890,"y":232,"width":250,"height":60},
 		{"id":"697c10e9fbb8831f","type":"text","text":"Ligações químicas","x":605,"y":40,"width":250,"height":60},
 		{"id":"9b46119898cda50e","type":"text","text":"Química","x":605,"y":-420,"width":250,"height":60},
-		{"id":"cd67f6f359c37a14","type":"text","text":"Misturas","x":1623,"y":-110,"width":250,"height":60},
 		{"id":"f894c7a90c8d678a","type":"text","text":"Solubilidade","x":1189,"y":400,"width":250,"height":60},
 		{"id":"0c18f33a57f450ca","type":"text","text":"Saturada / Insaturada e Super Saturada","x":1015,"y":560,"width":250,"height":60},
 		{"id":"f59678776e34f224","type":"text","text":"Curvas endo e exo térmica","x":1314,"y":560,"width":250,"height":60},
@@ -53,7 +52,12 @@
 		{"id":"5a97b4fa4fef1077","type":"text","text":"Solução","x":1820,"y":232,"width":250,"height":60},
 		{"id":"08233e9b9fc54974","type":"text","text":"Tamanho","x":1820,"y":100,"width":250,"height":60},
 		{"id":"c5cd13f74d406047","type":"text","text":"°GL ou INPM","x":1760,"y":560,"width":250,"height":60},
-		{"id":"e143307b17e52e6f","x":2600,"y":400,"width":250,"height":60,"type":"text","text":"Relação formula entre Concentrações"}
+		{"id":"e143307b17e52e6f","x":2600,"y":400,"width":250,"height":60,"type":"text","text":"Relação formula entre Concentrações"},
+		{"id":"dd25759e85afdc21","x":2920,"y":31,"width":250,"height":60,"type":"text","text":"Diluição \n"},
+		{"id":"071815f07ab66e6b","x":3240,"y":31,"width":250,"height":60,"type":"text","text":"Mistura"},
+		{"id":"cd67f6f359c37a14","type":"text","text":"Misturas","x":2570,"y":-160,"width":250,"height":60},
+		{"id":"29acc3e078ec389b","x":2600,"y":31,"width":250,"height":60,"type":"text","text":"Titulação - concentração em reação química"},
+		{"id":"530dc0683e7619ef","x":4407,"y":20,"width":250,"height":60,"type":"text","text":"Separação de misturas"}
 	],
 	"edges":[
 		{"id":"5ce9f493060ed24d","fromNode":"9b46119898cda50e","fromSide":"bottom","toNode":"d40522ad31879e3f","toSide":"top","color":"3"},
@@ -110,6 +114,10 @@
 		{"id":"dc61954a3cb28a9e","fromNode":"2272de79bbabaa71","fromSide":"bottom","toNode":"c5cd13f74d406047","toSide":"top"},
 		{"id":"de6d71a12ced17a7","fromNode":"5a97b4fa4fef1077","fromSide":"bottom","toNode":"e92efb2c5364b9f2","toSide":"top"},
 		{"id":"fc1a320da069a011","fromNode":"5a97b4fa4fef1077","fromSide":"bottom","toNode":"c65cbb34cf01c679","toSide":"top"},
-		{"id":"a90221d0b458e7b2","fromNode":"5a97b4fa4fef1077","fromSide":"bottom","toNode":"e143307b17e52e6f","toSide":"top"}
+		{"id":"a90221d0b458e7b2","fromNode":"5a97b4fa4fef1077","fromSide":"bottom","toNode":"e143307b17e52e6f","toSide":"top"},
+		{"id":"5445e175003539e8","fromNode":"cd67f6f359c37a14","fromSide":"bottom","toNode":"dd25759e85afdc21","toSide":"top"},
+		{"id":"fc202fa72389d20c","fromNode":"cd67f6f359c37a14","fromSide":"bottom","toNode":"071815f07ab66e6b","toSide":"top"},
+		{"id":"8a04159c434215b0","fromNode":"cd67f6f359c37a14","fromSide":"bottom","toNode":"29acc3e078ec389b","toSide":"top"},
+		{"id":"645216d3e70b24a4","fromNode":"cd67f6f359c37a14","fromSide":"bottom","toNode":"530dc0683e7619ef","toSide":"top"}
 	]
 }
