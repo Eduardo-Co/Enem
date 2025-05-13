@@ -11,14 +11,12 @@
             "id": "ca77d3b35a75789a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Química/Ligações químicas/NOX - Número de oxidação.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "NOX - Número de oxidação"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -180,6 +178,7 @@
   },
   "active": "ca77d3b35a75789a",
   "lastOpenFiles": [
+    "Química/Ligações químicas/NOX - Número de oxidação.md",
     "Química/Separação de misturas/Tratamento de esgoto.md",
     "Química/Untitled.canvas",
     "Química/Separação de misturas/Método de misturas heterogênias.md",
