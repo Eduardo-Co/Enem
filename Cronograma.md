@@ -1,5 +1,5 @@
--  Biologia: 26 monstros - Feitos: 2
-- Química: 24 Monstros - Feitos: 3
+-  Biologia: 26 monstros - Feitos: 5
+- Química: 24 Monstros - Feitos: 5
 - Física: 20 Monstros - Feitos: 3
 - Geografia: 26 Monstros - Feitos: 1
 - Linguagens: 23 Monstros - Feitos: 2
