@@ -22,14 +22,13 @@ kanban-plugin: board
 
 ## Faltou de questões
 
-- [ ] Faltou entender nomeclatura
-- [ ] Faltou entender sobre ligações de moléculas/Átomos
-- [ ] Ductilidade - Fios Capacidade de deformação - 100865
 - [ ] Precipitação - 134342
+- [ ] Conceito de densidade
 
 
 ## Fazer exercícios exporadicamente
 
+- [ ] Misturas e Soluções
 
 
 ## revisar

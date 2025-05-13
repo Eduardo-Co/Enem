@@ -11,12 +11,24 @@
             "id": "ca77d3b35a75789a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -178,6 +190,7 @@
   },
   "active": "ca77d3b35a75789a",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Ligações químicas/NOX - Número de oxidação.md",
     "Química/Separação de misturas/Tratamento de esgoto.md",
     "Química/Untitled.canvas",
@@ -194,7 +207,6 @@
     "Química/Misturas/Concentração Comum.md",
     "Química/Misturas/Solubilidade.md",
     "Química/Untitled Kanban.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Misturas/Tamanho das particulas.md",
     "Química/Misturas/Soluções.md",
     "Química/Interações moleculares/Polaridade de moléculas.md",
@@ -205,7 +217,6 @@
     "Química/Interações moleculares/Características de moléculas polares e apolares.md",
     "Química/Ligações químicas/Ligação Dativa ou Coordenada.md",
     "Química/Ligações químicas/Ligação covalente.md",
-    "Química/Ligações químicas/Ligações metálicas.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/img/Pasted image 20250512130556.png",
     "Biologia/img/Pasted image 20250512123227.png",
