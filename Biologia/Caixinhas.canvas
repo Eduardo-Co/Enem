@@ -153,15 +153,18 @@
 		{"id":"ccc9807a5d0d4afa","type":"text","text":"Cromossomos","x":11076,"y":413,"width":250,"height":60},
 		{"id":"1f8202f009ee7a5a","type":"text","text":"Genes","x":11380,"y":413,"width":250,"height":60},
 		{"id":"b24a11e663c5527f","type":"text","text":"Síntese proteica","x":11380,"y":268,"width":250,"height":60},
-		{"id":"87aaa51b74f6f5e0","type":"text","text":"RNA","x":12620,"y":268,"width":250,"height":60},
-		{"id":"7645047d42c057ea","type":"text","text":"Água","x":12940,"y":268,"width":250,"height":60},
 		{"id":"3a0d4063c0fd2062","type":"text","text":"Transcrição ","x":11680,"y":413,"width":250,"height":60},
-		{"id":"d5b890b8197cbd6e","x":11240,"y":530,"width":250,"height":60,"type":"text","text":"Splicing"},
-		{"id":"c9a7a7702164a968","x":11540,"y":530,"width":250,"height":60,"type":"text","text":"Tradução"},
-		{"id":"dc3c9c3bc14d1285","type":"text","text":"DNA","x":12040,"y":268,"width":250,"height":60},
-		{"id":"c66719bcdaf59fcc","x":12040,"y":413,"width":250,"height":60,"type":"text","text":"Estrutura dos ácidos nucleicos"},
-		{"id":"053176481808e4f4","x":12340,"y":413,"width":250,"height":60,"type":"text","text":"Bases nitrogenadas"},
-		{"id":"111415b2272c422f","x":12640,"y":413,"width":250,"height":60,"type":"text","text":"ligação fosfodiéster"}
+		{"id":"d5b890b8197cbd6e","type":"text","text":"Splicing","x":11240,"y":530,"width":250,"height":60},
+		{"id":"c9a7a7702164a968","type":"text","text":"Tradução","x":11540,"y":530,"width":250,"height":60},
+		{"id":"1ce82136765a12f5","type":"text","text":"Replicação SemiConservativa","x":12482,"y":590,"width":283,"height":58},
+		{"id":"dc3c9c3bc14d1285","type":"text","text":"DNA","x":12499,"y":238,"width":250,"height":60},
+		{"id":"7645047d42c057ea","type":"text","text":"Água","x":13700,"y":238,"width":250,"height":60},
+		{"id":"88475eaf321fc823","type":"text","text":"Regra de Chargaff","x":12040,"y":413,"width":250,"height":60},
+		{"id":"87aaa51b74f6f5e0","type":"text","text":"RNA","x":13260,"y":238,"width":250,"height":60},
+		{"id":"111415b2272c422f","type":"text","text":"ligação fosfodiéster","x":12340,"y":413,"width":250,"height":60},
+		{"id":"c66719bcdaf59fcc","type":"text","text":"Estrutura dos ácidos nucleicos","x":12660,"y":413,"width":250,"height":60},
+		{"id":"053176481808e4f4","type":"text","text":"Bases nitrogenadas","x":12960,"y":413,"width":250,"height":60},
+		{"id":"c65d23c7d47abb9b","x":13260,"y":413,"width":250,"height":60,"type":"text","text":"Tipos"}
 	],
 	"edges":[
 		{"id":"8879b600c42c49e3","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"d0b82dd16d5a8770","toSide":"top","color":"4"},
@@ -326,6 +329,11 @@
 		{"id":"e169c6b5e7b41013","fromNode":"b24a11e663c5527f","fromSide":"bottom","toNode":"c9a7a7702164a968","toSide":"top"},
 		{"id":"0b7aeebbef31022c","fromNode":"dc3c9c3bc14d1285","fromSide":"bottom","toNode":"c66719bcdaf59fcc","toSide":"top"},
 		{"id":"c1d4cb6ce831e0f1","fromNode":"dc3c9c3bc14d1285","fromSide":"bottom","toNode":"053176481808e4f4","toSide":"top"},
-		{"id":"bc3a1cef6b01b491","fromNode":"dc3c9c3bc14d1285","fromSide":"bottom","toNode":"111415b2272c422f","toSide":"top"}
+		{"id":"bc3a1cef6b01b491","fromNode":"dc3c9c3bc14d1285","fromSide":"bottom","toNode":"111415b2272c422f","toSide":"top"},
+		{"id":"b914dd885e68fc4a","fromNode":"dc3c9c3bc14d1285","fromSide":"bottom","toNode":"88475eaf321fc823","toSide":"top"},
+		{"id":"a5bcc8f244d7f4ab","fromNode":"dc3c9c3bc14d1285","fromSide":"bottom","toNode":"1ce82136765a12f5","toSide":"top"},
+		{"id":"fafd3819bbd7b635","fromNode":"87aaa51b74f6f5e0","fromSide":"bottom","toNode":"c66719bcdaf59fcc","toSide":"top"},
+		{"id":"c1955857b2e51622","fromNode":"87aaa51b74f6f5e0","fromSide":"bottom","toNode":"053176481808e4f4","toSide":"top"},
+		{"id":"93282c7b1b1862cc","fromNode":"87aaa51b74f6f5e0","fromSide":"bottom","toNode":"c65d23c7d47abb9b","toSide":"top"}
 	]
 }
