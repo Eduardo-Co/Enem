@@ -11,12 +11,14 @@
             "id": "ad8cca61452ba61c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Eletroestática + fotovoltaica/Tensão e trabalho.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Tensão e trabalho"
             }
           }
         ]
@@ -178,6 +180,11 @@
   },
   "active": "ad8cca61452ba61c",
   "lastOpenFiles": [
+    "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
+    "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
+    "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
+    "Física/Eletrodinâmica/Potência.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Separação de misturas/Método de misturas heterogênias.md",
     "Química/Separação de misturas/Misturas homogêneas.md",
     "Química/Untitled Kanban.md",
@@ -187,7 +194,6 @@
     "Química/Misturas/Soluções.md",
     "Química/Misturas/Solubilidade.md",
     "Química/Ligações químicas/Ligação Químicas.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Ligações químicas/NOX - Número de oxidação.md",
     "Química/Separação de misturas/Tratamento de esgoto.md",
     "Química/Untitled.canvas",
@@ -203,10 +209,6 @@
     "Química/Misturas/Tamanho das particulas.md",
     "Química/Interações moleculares/Polaridade de moléculas.md",
     "Química/Interações moleculares/Polaridade de ligações.md",
-    "Química/Interações moleculares/Ligações de hidrogênio e íons dipolo.md",
-    "Química/Interações moleculares/Forças de Van der Waals ou Forças intermoleculares.md",
-    "Química/Interações moleculares/Estados da matéria.md",
-    "Química/Interações moleculares/Características de moléculas polares e apolares.md",
     "Biologia/img/Pasted image 20250512130556.png",
     "Biologia/img/Pasted image 20250512123227.png",
     "Biologia/img",
