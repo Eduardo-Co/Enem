@@ -25,12 +25,14 @@
             "id": "5367e718a08a7c53",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "História/Períodos e áreas da filosofia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Períodos e áreas da filosofia"
             }
           }
         ],
@@ -193,8 +195,9 @@
   },
   "active": "5367e718a08a7c53",
   "lastOpenFiles": [
-    "O que Estudar/História e filosofia.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "História/Períodos e áreas da filosofia.md",
+    "O que Estudar/História e filosofia.md",
     "Metacognição/Fazendo a prova/Como fazer.md",
     "Cronograma.md",
     "Física/Optica/Luz/Propriedades da luz 2.md",
@@ -221,7 +224,6 @@
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
     "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
     "Física/Eletroestática + fotovoltaica/Tensão e trabalho.md",
-    "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
     "Biologia/Caixinhas.canvas",
     "Química/Untitled.canvas",
     "Biologia/img/Pasted image 20250512130556.png",
