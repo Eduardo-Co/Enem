@@ -1,0 +1,4 @@
+- Filosofia clássicas: Fantasiosa e mais metafóriscas, pré-socráticos, socrático, sistemático e helênico. As escolas também 
+- Filosofia medieval: Filoscria cistã Alta idaide média x baixa ideia média
+- Filosfia moderna: Antropocentrismo, racionalismo, contratualistmo, iluminso,
+- Filosfia ocnterporânea: existencialismo capitalimso totalitarismo liquidismo.

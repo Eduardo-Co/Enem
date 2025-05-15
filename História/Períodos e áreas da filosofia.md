@@ -1,1 +1,0 @@
-- Filosofia clássicas: Fantasiosa e mais metafóriscas, pré-socráticos, socrático sistemático e helênico. As escolas também 
