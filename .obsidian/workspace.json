@@ -11,24 +11,14 @@
             "id": "300ccf5155a70d69",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Optica/Luz/Propriedades da luz 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Propriedades da luz 2"
             }
           },
           {
@@ -55,8 +45,7 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,12 +202,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "bb02408b54b15911",
+  "active": "300ccf5155a70d69",
   "lastOpenFiles": [
-    "Física/Optica/Luz/Propriedades da luz 2.md",
     "Física/Optica/Luz/Propriedades da luz.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Untitled Kanban.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Optica/Luz/Propriedades da luz 2.md",
     "Física/Caixinhas.canvas",
     "Física/Optica/Luz/Natureza da luz.md",
     "Física/Optica/Luz",
