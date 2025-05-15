@@ -1,0 +1,12 @@
+- Cosmotomia
+- Theogonia
+- Poetas-Rapsodos
+- Homero 
+- Hesíodo
+---
+Traz filosofia
+- cosmologia
+- logos - physis - arché
+- pré socráticos
+- escolas: jônica /  eleata /pluralista / pitagórica/ atomista. 
+---
