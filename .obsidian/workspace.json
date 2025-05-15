@@ -47,14 +47,12 @@
             "id": "bb02408b54b15911",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Física/Optica/Luz/Propriedades da luz 2.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Propriedades da luz 2"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ],
@@ -217,8 +215,8 @@
   },
   "active": "bb02408b54b15911",
   "lastOpenFiles": [
-    "Física/Optica/Luz/Propriedades da luz.md",
     "Física/Optica/Luz/Propriedades da luz 2.md",
+    "Física/Optica/Luz/Propriedades da luz.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
