@@ -1,4 +1,4 @@
-## ⚡ Lei de Faraday da Indução Eletromagnética
+	## ⚡ Lei de Faraday da Indução Eletromagnética
 
 > “A variação do fluxo magnético através de **N** espiras induz uma corrente elétrica proporcional a esse número.”
 

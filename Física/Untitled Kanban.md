@@ -27,9 +27,9 @@ kanban-plugin: board
 ## Revisar
 
 - [ ] Redesenhar circuito com pontos em uma linha - Treinar técnica
-- [ ] Resistência interna de um gerador
 - [ ] Ponte de wheatstone
-- [ ] Eletrodinâmica - Unidades de medida
+- [ ] Entender a disposição de vetores em um campo magnético - sua atuação como força centrípeta
+- [ ] Exemplo de transformadores na prática
 
 
 ## Concluido
@@ -42,6 +42,8 @@ kanban-plugin: board
 - [ ] Porque há conservação de carga?
 - [ ] diferenças entre protons e neutrons?
 - [ ] Área de um círculo
+- [ ] Resistência interna de um gerador
+- [ ] Eletrodinâmica - Unidades de medida
 - [ ] Placa fotovoltáica
 - [ ] Condutividade e Resistividade
 - [ ] Direção vetores campo elétrico
