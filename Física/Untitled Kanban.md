@@ -30,6 +30,7 @@ kanban-plugin: board
 - [ ] Ponte de wheatstone
 - [ ] Entender a disposição de vetores em um campo magnético - sua atuação como força centrípeta
 - [ ] Exemplo de transformadores na prática
+- [ ] Teoria - Força eletromotriz, gerador e receptor
 
 
 ## Concluido
