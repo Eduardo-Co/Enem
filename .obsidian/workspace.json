@@ -11,24 +11,12 @@
             "id": "ad8cca61452ba61c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           },
           {
@@ -204,10 +192,10 @@
   },
   "active": "ad8cca61452ba61c",
   "lastOpenFiles": [
+    "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Capacitor.md",
-    "Física/Untitled Kanban.md",
     "Física/Eletromagnetismo/Condutores no campo magnético.md",
     "Física/Eletromagnetismo/Transformadores.md",
     "Física/Eletromagnetismo/Lei de lenz.md",
