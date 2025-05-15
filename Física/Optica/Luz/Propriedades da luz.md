@@ -1,0 +1,4 @@
+- Comportamento eletromagnético da luz - Elétrico & magnético
+- Hipótese corpuscular/particula: 
+- Hipótese Ondulatória: 
+- Dualidade onda-partícula: como isso f
