@@ -10,6 +10,7 @@ Um **capacitor** é um dispositivo que **armazena carga elétrica** e, portanto,
   - $1\text{ µF} = 10^{-6}\text{ F}$  
   - $1\text{ nF} = 10^{-9}\text{ F}$  
 
+Que cu ein
 ### Relações fundamentais
 - **Carga:** $Q = C \cdot U$  
 - **Energia armazenada:** $E = \dfrac12 C U^{2}$  

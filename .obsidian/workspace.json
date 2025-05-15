@@ -11,24 +11,14 @@
             "id": "ad8cca61452ba61c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "split-diff-view",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -186,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,12 +193,15 @@
   },
   "active": "ad8cca61452ba61c",
   "lastOpenFiles": [
+    "Física/Caixinhas.canvas",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Eletrodinâmica/Capacitor.md",
+    "Geografia/Untitled Kanban.md",
     "Física/Eletromagnetismo/Condutores no campo magnético.md",
     "Física/Eletromagnetismo/Transformadores.md",
     "Física/Eletromagnetismo/Lei de lenz.md",
     "Física/Eletromagnetismo/Lei de faraday.md",
     "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
-    "Física/Untitled Kanban.md",
     "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
     "Física/Eletromagnetismo/Campo magnético.md",
     "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
@@ -218,20 +210,17 @@
     "Física/Eletrodinâmica/Tensão.md",
     "Física/Eletrodinâmica/Geradores elétricos.md",
     "Física/Eletrodinâmica/Corrente elétrica.md",
-    "Física/Eletrodinâmica/Capacitor.md",
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
     "Física/Eletroestática + fotovoltaica/Potencial elétrico.md",
     "Física/Eletroestática + fotovoltaica/Tensão e trabalho.md",
     "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
     "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
     "Física/Eletroestática + fotovoltaica/Lei de Coulomb.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Separação de misturas/Método de misturas heterogênias.md",
     "Química/Separação de misturas/Misturas homogêneas.md",
     "Química/Untitled Kanban.md",
     "Biologia/Untitled Kanban.md",
     "Biologia/Caixinhas.canvas",
-    "Biologia/Bioquimica/Carboidratos.md",
     "Química/Untitled.canvas",
     "Biologia/img/Pasted image 20250512130556.png",
     "Biologia/img/Pasted image 20250512123227.png",
@@ -249,7 +238,6 @@
     "Ink/Writing/2025.5.8 - 9.45am.writing",
     "Matemática/Matemática básica/Juros",
     "Química/img/Pasted image 20250507155531.png",
-    "Física/Caixinhas.canvas",
     "Química/img/Pasted image 20250430143026.png",
     "Física/img/Pasted image 20250429143611.png",
     "Física/img/Pasted image 20250429143359.png",
