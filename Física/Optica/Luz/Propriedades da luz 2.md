@@ -1,0 +1,2 @@
+- Propagação da luz
+- Espectro de absorção - salta uma camda e ele absorve a energia do espectro que falta, ou seja que foi absorvida. Um salto de um elétron.
