@@ -35,3 +35,5 @@ $$
   - $h$ = constante de Planck  
   - $f$ = frequência da onda  
 - **Relação:** frequência ↑ ⇒ energia ↑
+
+---
