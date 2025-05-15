@@ -2,3 +2,6 @@
 - Espectro de absorção - salta uma camda e ele absorve a energia do espectro que falta, ou seja que foi absorvida. Um salto de um elétron. Asism que o elétro nvolta, ele emite a luz verde. Então é uma excitação que salta e volta e devolve o espectro da luz que ele absorveu para voltar. 
 - Da para saber as caracteristicas do eletron/atomo pelo q absorveu e pelo q emitiu, em qual frequencia no caso. 
 - Assim você faz a assinatura de luz de cada átomo
+- Leis de kirchhoff para espectroscopia.
+- Fonte primária e secundária corpo luminos e corpo iluminado.
+- Fluorescente - fosforecente - incandencencia - fosforecênica - bioluminescencia - quimiolumiescencia - led

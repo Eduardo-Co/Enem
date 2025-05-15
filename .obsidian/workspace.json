@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c6f5d075f80fe195",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
+          },
+          {
             "id": "bb02408b54b15911",
             "type": "leaf",
             "state": {
@@ -203,14 +215,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "bb02408b54b15911",
+  "active": "c6f5d075f80fe195",
   "lastOpenFiles": [
-    "Física/Optica/Luz/Propriedades da luz.md",
     "Física/Untitled Kanban.md",
-    "Física/Caixinhas.canvas",
     "Física/Optica/Luz/Propriedades da luz 2.md",
-    "Física/Optica/Luz/Natureza da luz.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Optica/Luz/Propriedades da luz.md",
+    "Física/Caixinhas.canvas",
+    "Física/Optica/Luz/Natureza da luz.md",
     "Física/Optica/Luz",
     "Física/Eletromagnetismo/Transformadores.md",
     "Física/Optica",
