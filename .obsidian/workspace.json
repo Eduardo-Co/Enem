@@ -11,14 +11,12 @@
             "id": "ad8cca61452ba61c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Química/Separação de misturas/Método de misturas heterogênias.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Método de misturas heterogênias"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -180,8 +178,8 @@
   },
   "active": "ad8cca61452ba61c",
   "lastOpenFiles": [
-    "Química/Separação de misturas/Misturas homogêneas.md",
     "Química/Separação de misturas/Método de misturas heterogênias.md",
+    "Química/Separação de misturas/Misturas homogêneas.md",
     "Química/Untitled Kanban.md",
     "Biologia/Untitled Kanban.md",
     "Biologia/Caixinhas.canvas",
