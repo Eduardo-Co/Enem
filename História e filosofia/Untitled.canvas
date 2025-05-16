@@ -9,11 +9,11 @@
 		{"id":"4706423339f886e4","type":"text","text":"Sumérios","x":560,"y":238,"width":250,"height":60},
 		{"id":"67039ff6c47d053f","type":"text","text":"Egito","x":260,"y":238,"width":250,"height":60},
 		{"id":"2c8687488703e892","type":"text","text":"Amoritas","x":-40,"y":238,"width":250,"height":60},
-		{"id":"643b0be98be1d22d","type":"text","text":"Grécia","x":1120,"y":80,"width":250,"height":60},
-		{"id":"6e55685af6105d1f","type":"text","text":"Pré-socrático","x":900,"y":238,"width":250,"height":60},
-		{"id":"61c98364e1c6a301","type":"text","text":"Mito","x":720,"y":440,"width":250,"height":60},
-		{"id":"b6659cd6a2ecc830","x":1370,"y":440,"width":250,"height":60,"type":"text","text":"Escolas"},
-		{"id":"b81f790a5838d60a","x":1025,"y":440,"width":250,"height":60,"type":"text","text":"Inicio à razão"}
+		{"id":"b6659cd6a2ecc830","x":1480,"y":480,"width":250,"height":60,"type":"text","text":"Escolas"},
+		{"id":"b81f790a5838d60a","x":1180,"y":480,"width":250,"height":60,"type":"text","text":"Inicio à razão"},
+		{"id":"643b0be98be1d22d","type":"text","text":"Grécia","x":1400,"y":80,"width":250,"height":60},
+		{"id":"6e55685af6105d1f","type":"text","text":"Pré-socrático","x":1180,"y":238,"width":250,"height":60},
+		{"id":"61c98364e1c6a301","type":"text","text":"Mito","x":880,"y":480,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9bf08ab8b4ef9cf5","fromNode":"e4d1e26ca0786046","fromSide":"bottom","toNode":"15a7e3785fff8a58","toSide":"top","color":"4"},
