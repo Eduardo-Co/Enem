@@ -37,6 +37,7 @@ kanban-plugin: board
 - [ ] Exercício de escala - 174  2024 AM+ ...
 - [ ] ENEM.2021.2.AM5 - QUESTÃO 150
 - [ ] ENEM.2020.2.AM5 - QUESTÃO 140
+- [ ] ENEM.2020.2.AM5 - QUESTÃO 146
 
 
 ## revisar
