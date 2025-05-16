@@ -11,30 +11,6 @@
             "id": "29a677b33af5e2a1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Matemática/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "3061dab5343a955b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Matemática/Pontos importantes.md",
@@ -44,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Pontos importantes"
             }
-          },
-          {
-            "id": "86820e3808861b5d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +178,7 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "86820e3808861b5d",
+  "active": "29a677b33af5e2a1",
   "lastOpenFiles": [
     "Matemática/Untitled Kanban.md",
     "Matemática/Pontos importantes.md",
