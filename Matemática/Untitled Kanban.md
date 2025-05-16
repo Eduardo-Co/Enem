@@ -26,11 +26,11 @@ kanban-plugin: board
 - [ ] Porcentagem
 - [ ] ENEM.2022.2.AM5 - 154
 - [ ] ENEM.2023.2.AM5 - 170
+- [ ] Todo dia - Sistemas
 
 
 ## Faltou de questões
 
-- [ ] Prestar atenção e anotar o principal de tudo
 - [ ] Interpretação de gráfico - voltando sempre atenção aos detalhes - observe bem quem é o eixo x e o y
 
 

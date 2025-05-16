@@ -8,20 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43aeb27f0673add3",
+            "id": "d22a40b9575a6e37",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "História e filosofia/Untitled.canvas",
-                "viewState": {
-                  "x": 1138.9411714507373,
-                  "y": 432.0497827773464,
-                  "zoom": -0.6272409573588518
-                }
+                "file": "Matemática/Sistemas lineares/Regra de Cramer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Regra de Cramer"
             }
           }
         ]
@@ -181,10 +178,18 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "43aeb27f0673add3",
+  "active": "d22a40b9575a6e37",
   "lastOpenFiles": [
-    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
+    "Matemática/Pontos importantes.md",
+    "Matemática/Sistemas lineares/Regra de Cramer.md",
+    "Matemática/Untitled Kanban.md",
+    "Matemática/Sistemas lineares",
+    "Matemática/Untitled.canvas",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "História e filosofia/Untitled.canvas",
+    "Cronograma.md",
+    "O que Estudar/Matemática.md",
+    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
     "História e filosofia/Gregos/Filosfia/Pré socrático.md",
     "História e filosofia/Gregos/Grécia - Reusmo.md",
     "História e filosofia/Untitled Kanban.md",
@@ -196,7 +201,6 @@
     "Física/Optica/Luz/Propriedades da luz 2.md",
     "Física/Optica/Luz/Propriedades da luz.md",
     "Física/Optica/Luz/Natureza da luz.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "História e filosofia/Períodos e áreas da filosofia.md",
     "História e filosofia/Gregos/História",
     "História e filosofia/Gregos/Filosfia",
@@ -205,16 +209,12 @@
     "História e filosofia/Gregos/História/Esparta e Atenas.md",
     "História e filosofia/Gregos/História/Cultura e religião da grécia antiga.md",
     "Metacognição/Fazendo a prova/Como fazer.md",
-    "Cronograma.md",
     "Física/Optica/Luz",
     "Física/Eletromagnetismo/Transformadores.md",
     "Física/Optica",
     "Física/Eletrodinâmica/Capacitor.md",
     "Física/Eletromagnetismo/Lei de lenz.md",
     "Física/Eletromagnetismo/Lei de faraday.md",
-    "Física/Eletromagnetismo/Campo magnético.md",
-    "Física/Eletromagnetismo/Magnetismo.md",
-    "Física/Eletrodinâmica/Potência.md",
     "Biologia/Caixinhas.canvas",
     "Química/Untitled.canvas",
     "Biologia/img/Pasted image 20250512130556.png",
@@ -226,8 +226,6 @@
     "Redação/Competência 1",
     "Redação/Untitled.canvas",
     "Química/Compostos Orgânicos",
-    "Química/Separação de misturas",
-    "Matemática/Untitled.canvas",
     "Química/img/Pasted image 20250507155531.png",
     "Química/img/Pasted image 20250430143026.png",
     "Física/img/Pasted image 20250429143611.png",
