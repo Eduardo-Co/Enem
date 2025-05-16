@@ -1,0 +1,3 @@
+- SPD como par de retas concorrentes com sua intercecção 
+- Quantidade de intercecções = qnt soluções
+- é realmetne uma interpretação geométrica
