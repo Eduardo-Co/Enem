@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "22afe18129f5722e",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Matemática/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
             "id": "939669302f7b64b9",
             "type": "leaf",
             "state": {
@@ -203,8 +227,8 @@
   "active": "b89938ceb36e1438",
   "lastOpenFiles": [
     "Matemática/Untitled Kanban.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Untitled.canvas",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Sistemas lineares/Interpretação geométrica.md",
     "Matemática/Sistemas lineares/Escalonamento.md",
     "Matemática/Pontos importantes.md",
