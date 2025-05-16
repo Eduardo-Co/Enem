@@ -3,3 +3,4 @@
 - Você pode representar os números como $3\frac{1}{2}$ isso significa 3,5. Imbecilidade tremenda mas tudo bem.
 - é uma boa decompor em soma de números inteiros na multiplicação. 
 - Nunca deixe uma fração decimal em no denominador. 
+- 20 Operações básicas de cabeça todo dia - Matemática
