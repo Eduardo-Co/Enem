@@ -11,6 +11,30 @@
             "id": "29a677b33af5e2a1",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Matemática/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
+            "id": "3061dab5343a955b",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
@@ -19,7 +43,8 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +201,7 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "29a677b33af5e2a1",
+  "active": "3061dab5343a955b",
   "lastOpenFiles": [
     "Matemática/Untitled Kanban.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
