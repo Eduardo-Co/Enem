@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "09ef3265ca980f7c",
+        "id": "607b8591eea8796a",
         "type": "tabs",
         "children": [
           {
-            "id": "cc84b29a17f975da",
+            "id": "43aeb27f0673add3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Física/Caixinhas.canvas",
+                "file": "História e filosofia/Untitled.canvas",
                 "viewState": {
-                  "x": 63.500235625000045,
-                  "y": 450,
-                  "zoom": -2.5067955054299715
+                  "x": 1138.9411714507373,
+                  "y": 432.0497827773464,
+                  "zoom": -0.6272409573588518
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "title": "Untitled"
             }
           }
         ]
@@ -194,20 +194,35 @@
             "type": "tabs",
             "children": [
               {
-                "id": "35970d248b1bb4f4",
+                "id": "e8ef518900a94260",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
+                    "file": "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Campo magnético gerado por um fio - espira - senoide"
+                  "title": "Movimento da carga em um campo elétrico"
+                }
+              },
+              {
+                "id": "f2a3abff2f2b05b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "História e filosofia/Gregos/Filosfia/Pré socrático.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Pré socrático"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -220,18 +235,23 @@
       }
     ]
   },
-  "active": "cc84b29a17f975da",
+  "active": "43aeb27f0673add3",
   "lastOpenFiles": [
-    "Física/Untitled Kanban.md",
-    "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
+    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
+    "História e filosofia/Gregos/Filosfia/Pré socrático.md",
+    "História e filosofia/Untitled.canvas",
+    "História e filosofia/Gregos/Grécia - Reusmo.md",
+    "História e filosofia/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
+    "Física/Eletromagnetismo/Condutores no campo magnético.md",
+    "Física/Untitled Kanban.md",
+    "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
+    "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
     "Física/Optica/Luz/Propriedades da luz 2.md",
     "Física/Optica/Luz/Propriedades da luz.md",
     "Física/Optica/Luz/Natureza da luz.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "História e filosofia/Gregos/Filosfia/Pré socrático.md",
     "História e filosofia/Períodos e áreas da filosofia.md",
-    "História e filosofia/Gregos/Grécia - Reusmo.md",
     "História e filosofia/Gregos/História",
     "História e filosofia/Gregos/Filosfia",
     "História e filosofia/Gregos/História/Helenismo.md",
@@ -244,15 +264,11 @@
     "Física/Eletromagnetismo/Transformadores.md",
     "Física/Optica",
     "Física/Eletrodinâmica/Capacitor.md",
-    "Física/Eletromagnetismo/Condutores no campo magnético.md",
     "Física/Eletromagnetismo/Lei de lenz.md",
     "Física/Eletromagnetismo/Lei de faraday.md",
-    "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
-    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
     "Física/Eletromagnetismo/Campo magnético.md",
     "Física/Eletromagnetismo/Magnetismo.md",
     "Física/Eletrodinâmica/Potência.md",
-    "Física/Eletrodinâmica/Tensão.md",
     "Biologia/Caixinhas.canvas",
     "Química/Untitled.canvas",
     "Biologia/img/Pasted image 20250512130556.png",
@@ -274,7 +290,6 @@
     "Pasted image 20250426093409.png",
     "Pasted image 20250426093411.png",
     "Linguagens/Untitled.canvas",
-    "História e filosofia/Untitled.canvas",
     "Física/Untitled.canvas",
     "Excalidraw/Calculo 1/E.canvas"
   ]

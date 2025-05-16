@@ -6,9 +6,14 @@
 		{"id":"11e57002cb4bd581","type":"text","text":"Preconceito","x":-440,"y":240,"width":250,"height":60},
 		{"id":"e4d1e26ca0786046","type":"text","text":"História\n","x":260,"y":-180,"width":250,"height":60},
 		{"id":"a4deb685158e7206","type":"text","text":"Mesopotâmia","x":260,"y":80,"width":250,"height":60},
-		{"id":"4706423339f886e4","x":560,"y":238,"width":250,"height":60,"type":"text","text":"Sumérios"},
-		{"id":"67039ff6c47d053f","x":260,"y":238,"width":250,"height":60,"type":"text","text":"Egito"},
-		{"id":"2c8687488703e892","type":"text","text":"Amoritas","x":-40,"y":238,"width":250,"height":60}
+		{"id":"4706423339f886e4","type":"text","text":"Sumérios","x":560,"y":238,"width":250,"height":60},
+		{"id":"67039ff6c47d053f","type":"text","text":"Egito","x":260,"y":238,"width":250,"height":60},
+		{"id":"2c8687488703e892","type":"text","text":"Amoritas","x":-40,"y":238,"width":250,"height":60},
+		{"id":"643b0be98be1d22d","type":"text","text":"Grécia","x":1120,"y":80,"width":250,"height":60},
+		{"id":"6e55685af6105d1f","type":"text","text":"Pré-socrático","x":900,"y":238,"width":250,"height":60},
+		{"id":"61c98364e1c6a301","type":"text","text":"Mito","x":720,"y":440,"width":250,"height":60},
+		{"id":"b6659cd6a2ecc830","x":1370,"y":440,"width":250,"height":60,"type":"text","text":"Escolas"},
+		{"id":"b81f790a5838d60a","x":1025,"y":440,"width":250,"height":60,"type":"text","text":"Inicio à razão"}
 	],
 	"edges":[
 		{"id":"9bf08ab8b4ef9cf5","fromNode":"e4d1e26ca0786046","fromSide":"bottom","toNode":"15a7e3785fff8a58","toSide":"top","color":"4"},
@@ -18,6 +23,11 @@
 		{"id":"f44a2260d4515cee","fromNode":"e4d1e26ca0786046","fromSide":"bottom","toNode":"a4deb685158e7206","toSide":"top","color":"3"},
 		{"id":"ba6c4fadbb612f51","fromNode":"a4deb685158e7206","fromSide":"bottom","toNode":"2c8687488703e892","toSide":"top"},
 		{"id":"54aabdb590de2ed5","fromNode":"a4deb685158e7206","fromSide":"bottom","toNode":"4706423339f886e4","toSide":"top"},
-		{"id":"28b943f44b3d33de","fromNode":"a4deb685158e7206","fromSide":"bottom","toNode":"67039ff6c47d053f","toSide":"top"}
+		{"id":"28b943f44b3d33de","fromNode":"a4deb685158e7206","fromSide":"bottom","toNode":"67039ff6c47d053f","toSide":"top"},
+		{"id":"1682875418b64785","fromNode":"e4d1e26ca0786046","fromSide":"bottom","toNode":"643b0be98be1d22d","toSide":"top"},
+		{"id":"5b3678799645d2a7","fromNode":"643b0be98be1d22d","fromSide":"bottom","toNode":"6e55685af6105d1f","toSide":"top"},
+		{"id":"fd9e8cb9a781429d","fromNode":"6e55685af6105d1f","fromSide":"bottom","toNode":"61c98364e1c6a301","toSide":"top"},
+		{"id":"b86b90f3d65c3dba","fromNode":"6e55685af6105d1f","fromSide":"bottom","toNode":"b81f790a5838d60a","toSide":"top"},
+		{"id":"885bcada7d7979ab","fromNode":"6e55685af6105d1f","fromSide":"bottom","toNode":"b6659cd6a2ecc830","toSide":"top"}
 	]
 }

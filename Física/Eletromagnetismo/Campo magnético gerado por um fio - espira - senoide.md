@@ -1,4 +1,4 @@
-o 
+
 ---
 
 ##  2. Módulo do Campo Magnético (Fio Reto)
