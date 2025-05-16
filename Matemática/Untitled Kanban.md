@@ -22,18 +22,19 @@ kanban-plugin: board
 
 ## Fazer exercícios esporadicamente
 
-- [ ] Exercício de escala - 174  2024 AM+ ...
 - [ ] Porcentagem
-- [ ] ENEM.2022.2.AM5 - 154
-- [ ] ENEM.2023.2.AM5 - 170
-- [ ] Todo dia - Sistemas
-- [ ] ENEM.2024.2.AM5 - 159
 - [ ] Questões da semana 5 - 1 POR DIA
+- [ ] Todo dia - Sistemas
 
 
 ## Faltou de questões
 
 - [ ] Interpretação de gráfico - voltando sempre atenção aos detalhes - observe bem quem é o eixo x e o y
+- [ ] ENEM.2023.2.AM5 - 180 - mais rápido
+- [ ] ENEM.2024.2.AM5 - 159
+- [ ] ENEM.2022.2.AM5 - 154
+- [ ] ENEM.2023.2.AM5 - 170
+- [ ] Exercício de escala - 174  2024 AM+ ...
 
 
 ## revisar
