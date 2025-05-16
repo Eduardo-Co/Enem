@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Sistemas lineares/Regra de Cramer.md",
+                "file": "Matemática/Sistemas lineares/Escalonamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regra de Cramer"
+              "title": "Escalonamento"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "d22a40b9575a6e37",
   "lastOpenFiles": [
+    "Matemática/Sistemas lineares/Cramer.md",
+    "Matemática/Sistemas lineares/Escalonamento.md",
     "Matemática/Pontos importantes.md",
     "Matemática/Sistemas lineares/Regra de Cramer.md",
     "Matemática/Untitled Kanban.md",
@@ -213,8 +215,6 @@
     "Física/Eletromagnetismo/Transformadores.md",
     "Física/Optica",
     "Física/Eletrodinâmica/Capacitor.md",
-    "Física/Eletromagnetismo/Lei de lenz.md",
-    "Física/Eletromagnetismo/Lei de faraday.md",
     "Biologia/Caixinhas.canvas",
     "Química/Untitled.canvas",
     "Biologia/img/Pasted image 20250512130556.png",
