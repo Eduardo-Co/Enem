@@ -9,4 +9,11 @@ O que fazer:
 4. Refletir sobre o posicionamento dos textos motivadores. E definir com muita clareza, qual será o seu posicionamento
 ---
 ![[Pasted image 20250516214114.png]]
-***====***
+***==Contará a presença do repertório no nível mais elevado...==***
+
+----
+Veja que: é preciso ler e identificar os argumentos dos textos motivadores. Ele dá argumentos. 
+
+Tentar identificar os agentes também no texto motivadores.
+
+---
