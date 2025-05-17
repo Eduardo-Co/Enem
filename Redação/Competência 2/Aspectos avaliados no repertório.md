@@ -9,4 +9,10 @@ Aspecto principal: Compreender a proposta de redação e aplicar conceitos das �
 4. Nenhuma parte do texto deve estar embrionária. Repertório legitimado com uso improdutivo.
 
 5. Nenhuma parte do texto deve estar embrionária. Repertório legitimado com uso produtivo.
+---
+Avaliação:
 
+- Abordagem do tema
+- estrutura do texto
+- repertório sociocultural 
+---
