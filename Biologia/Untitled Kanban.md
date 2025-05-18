@@ -21,6 +21,7 @@ kanban-plugin: board
 
 - [ ] Impactos ambientais - tratamento esgoto - farmacos
 - [ ] Entender processos do tratamento de esgoto
+- [ ] Ciclos de ecologia
 
 
 ## Fazer exercícios esporadicamente
