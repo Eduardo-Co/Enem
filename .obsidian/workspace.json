@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ec5742d79ab45c9",
+        "id": "8dc30d3b09963969",
         "type": "tabs",
         "children": [
           {
-            "id": "d04f07329dfab083",
+            "id": "b55a67c2f1c45753",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Biologia/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -172,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +174,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "b55a67c2f1c45753",
   "lastOpenFiles": [
+    "Física/Untitled Kanban.md",
+    "Biologia/Untitled Kanban.md",
     "Linguagens/Comunicação e função da linguagem/Elementos de comunicação e funções de linguagem.md",
     "Linguagens/2- Gêneros e tipos textuais/Gênero Textual.md",
     "Linguagens/2- Gêneros e tipos textuais/Tipos Textuais.md",
@@ -219,8 +208,6 @@
     "Matemática/Sistemas lineares",
     "História e filosofia/Untitled.canvas",
     "O que Estudar/Matemática.md",
-    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
-    "História e filosofia/Gregos/Filosfia/Pré socrático.md",
     "Física/Caixinhas.canvas",
     "História e filosofia/Gregos/História",
     "História e filosofia/Gregos/Filosfia",

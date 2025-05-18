@@ -31,6 +31,7 @@ kanban-plugin: board
 - [ ] Entender a disposição de vetores em um campo magnético - sua atuação como força centrípeta
 - [ ] Exemplo de transformadores na prática
 - [ ] Teoria - Força eletromotriz, gerador e receptor
+- [ ] Eletrodinâmica -> Entender e aplicar a leis de kirchoff e técnica de vinicius
 
 
 ## Concluido

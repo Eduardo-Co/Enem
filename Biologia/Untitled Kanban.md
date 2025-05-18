@@ -22,6 +22,7 @@ kanban-plugin: board
 - [ ] Impactos ambientais - tratamento esgoto - farmacos
 - [ ] Entender processos do tratamento de esgoto
 - [ ] Ciclos de ecologia
+- [ ] Genes -> Genoma, Dna Mitocondrial. Ação da polimeraze. cDNA
 
 
 ## Fazer exercícios esporadicamente
