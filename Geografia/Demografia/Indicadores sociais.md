@@ -1,21 +1,58 @@
-- idh: saúde, educação e renda. 
-	- renda: renda interna bruta per capita. 
-	- Diferencia-se do pib: produto interno bruto.
-	- Idh não observa a deisgualdade de renda
-	- Escolaridade: medida pondera de dois indicaores, média de escolaridade e expectativa de escolaridade
-	- Longividade: expectativa média 
-	- Cuidado com IDH pq como ele generaliza não pega os furos, na educação, na renda e na escolaridade.
+### **IDH - Índice de Desenvolvimento Humano**
 
-- IDHM: 
-	- Contraponto ao pib
-	- comparação entre municípios
-	- Estímulo à melhoria 
+Mede desenvolvimento com base em três critérios principais:
 
-- IDHP: 
-	- Pressões ambientes, apresenta variante experimental a emissões de dióxido de carbono e quantidade de recursos naturais utilizados nas cadeia produtivas dos países. 
+- **Saúde:** Expectativa de vida (longevidade).
+- **Educação:** Média dos anos de estudo da população adulta e expectativa de escolaridade das crianças.
+- **Renda:** Renda nacional bruta per capita, que é diferente do PIB (Produto Interno Bruto), pois reflete renda disponível por pessoa, não apenas produção total.
 
-- IPM: incidência, intensidade da pobreza. 
+⚠️ **Limitações do IDH:**
 
-- índice de gini: medição da desigudaldade 
+- Não considera desigualdades internas (renda, educação e saúde). Generaliza situações e pode mascarar problemas específicos.
 
-- Concentração de renda no Brasil. 
+---
+
+### 📌 **IDHM - Índice de Desenvolvimento Humano Municipal**
+
+- Versão adaptada do IDH, aplicada especificamente aos municípios.
+- Importante para comparações regionais e estímulo a políticas locais de melhoria social, educacional e econômica.
+- É usado como contraponto ao PIB, que sozinho não reflete bem-estar social.
+
+---
+
+### 🌳 **IDHP - Índice de Desenvolvimento Humano ajustado às Pressões Ambientais**
+
+- Variante experimental do IDH que incorpora pressões ambientais:
+    - Emissão de dióxido de carbono (CO₂).
+    - Uso dos recursos naturais nas cadeias produtivas dos países.
+- Destaca a relação entre desenvolvimento humano e sustentabilidade ambiental.
+
+---
+
+### 🚫 **IPM - Índice de Pobreza Multidimensional**
+
+- Avalia a pobreza em duas dimensões principais:
+    - **Incidência:** percentual de pobres na população total.
+    - **Intensidade:** grau médio das privações sofridas pelos pobres (educação, saúde e qualidade de vida).
+
+---
+
+### 📉 **Índice de Gini**
+
+- Mede desigualdade de renda:
+    - 0 (igualdade absoluta) a 1 (desigualdade absoluta).
+- Brasil apresenta alto índice de Gini, indicando grande concentração de renda.
+
+---
+
+### 💰 **Concentração de Renda no Brasil**
+
+- Marcada por alta desigualdade.
+- Uma pequena parcela da população concentra grande parte da renda.
+- Resultado histórico da desigualdade estrutural e econômica.
+
+---
+
+📚 **Chave para ENEM:**  
+Entender que desenvolvimento não é apenas econômico; é essencial considerar saúde, educação, desigualdades sociais e sustentabilidade ambiental.
+
