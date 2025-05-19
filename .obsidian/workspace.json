@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4e92befd9fec0623",
+        "id": "c119df5a35fce22f",
         "type": "tabs",
         "children": [
           {
-            "id": "84624804b4b2ea41",
+            "id": "5c00063e9471b1f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geografia/Estruturas de rochas e geologia/Rochas.md",
+                "file": "Geografia/Demografia/Teorias demográficas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rochas"
-            }
-          },
-          {
-            "id": "8eef3c73f6573a4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geografia/Demografia/Fases e crescimento demográfico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fases e crescimento demográfico"
+              "title": "Teorias demográficas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poluição",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "58e3cf5b5003b992",
@@ -195,10 +178,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "8eef3c73f6573a4e",
+  "active": "5c00063e9471b1f0",
   "lastOpenFiles": [
-    "Geografia/Demografia/Panoramas e conceitos Demográficos.md",
+    "Geografia/Demografia/Teorias demográficas.md",
+    "Untitled.canvas",
     "Geografia/Demografia/Fases e crescimento demográfico.md",
+    "Geografia/Demografia/Panoramas e conceitos Demográficos.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Demografia",
     "O que Estudar/Geografia e sociologia.md",
@@ -227,7 +212,6 @@
     "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Água.md",
     "Física/Caixinhas.canvas",
-    "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
     "Redação/Competência 2",
     "Matemática/Untitled.canvas",
     "Matemática/Sistemas lineares",
@@ -251,7 +235,6 @@
     "Geografia/Caixinhas.canvas",
     "Pasted image 20250426093409.png",
     "Linguagens/Untitled.canvas",
-    "Física/Untitled.canvas",
-    "Excalidraw/Calculo 1/E.canvas"
+    "Física/Untitled.canvas"
   ]
 }
