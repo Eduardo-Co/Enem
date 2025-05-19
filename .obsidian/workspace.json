@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bc838d75db0a5811",
+        "id": "3aeda628c2debf27",
         "type": "tabs",
         "children": [
           {
-            "id": "85bed28de6945377",
+            "id": "4bb9c688c1d61b2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Citologia/Parede celular.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Parede celular"
+              "title": "New tab"
             }
           }
         ]
@@ -178,51 +174,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "floating": {
-    "id": "c38c7803c0758119",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5d66bad1a6648442",
-        "type": "window",
-        "children": [
-          {
-            "id": "dea8931282dec21c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b79a0bef19c6ebf7",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1846,
-        "y": 26,
-        "width": 1290,
-        "height": 776,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "85bed28de6945377",
+  "active": "4bb9c688c1d61b2d",
   "lastOpenFiles": [
-    "Biologia/Citologia/Osmose vegetal.md",
     "Biologia/Citologia/Parede celular.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Citologia/Osmose vegetal.md",
     "Biologia/Citologia/Osmose celular.md",
     "Biologia/Citologia/Membrana plasmática.md",
     "Biologia/Citologia/Microscopia.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Citologia/História da célula.md",
     "Cronograma.md",
     "Pasted image 20250516214114.png",
@@ -246,7 +205,6 @@
     "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
     "Biologia/Evolução/Lamarkismo.md",
     "Biologia/Evolução/Tipos de seleção natural.md",
-    "Biologia/Impactos ambientais/Egostos.md",
     "Redação/Competência 2",
     "Matemática/Untitled.canvas",
     "Matemática/Sistemas lineares",
