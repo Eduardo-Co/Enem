@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Bioquimica/Proteínas.md",
+                "file": "Biologia/Bioquimica/Enzimas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proteínas"
+              "title": "Enzimas"
             }
           }
         ]
@@ -180,9 +180,12 @@
   },
   "active": "7623b38430e2faad",
   "lastOpenFiles": [
-    "Biologia/Bioquimica/Enzimas.md",
-    "Biologia/Bioquimica/Proteínas.md",
     "Biologia/Bioquimica/Lipídeos.md",
+    "Biologia/Bioquimica/Vitaminas.md",
+    "Biologia/Bioquimica/Síntese Proteica.md",
+    "Biologia/Bioquimica/Sais minerais.md",
+    "Biologia/Bioquimica/Proteínas.md",
+    "Biologia/Bioquimica/Enzimas.md",
     "Biologia/Bioquimica/Dna.md",
     "Biologia/Bioquimica/Carboidratos.md",
     "Biologia/Bioquimica/Aminoácidos.md",
@@ -206,9 +209,6 @@
     "Pasted image 20250516214114.png",
     "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
     "Biologia/Impactos ambientais/Espécies exóticas.md",
-    "Física/Untitled Kanban.md",
-    "Linguagens/Comunicação e função da linguagem/Elementos de comunicação e funções de linguagem.md",
-    "Linguagens/2- Gêneros e tipos textuais/Gênero Textual.md",
     "Redação/Competência 2",
     "Matemática/Untitled.canvas",
     "Matemática/Sistemas lineares",
