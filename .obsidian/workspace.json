@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Bioquimica/Aminoácidos.md",
+                "file": "Biologia/Bioquimica/Carboidratos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aminoácidos"
+              "title": "Carboidratos"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "7623b38430e2faad",
   "lastOpenFiles": [
+    "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Água.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Caixinhas.canvas",
@@ -208,7 +209,6 @@
     "Redação/2 - Além da matéria.md",
     "Redação/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
     "Redação/Competência 2/Repertório coringa.md",
-    "Redação/Competência 2/Aspectos avaliados no repertório.md",
     "Redação/Competência 2",
     "Matemática/Untitled.canvas",
     "Matemática/Sistemas lineares",
