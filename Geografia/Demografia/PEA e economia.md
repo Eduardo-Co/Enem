@@ -1,0 +1,15 @@
+- População economicamente ativa
+- Empregados
+- Autônomos 
+- Desocupados
+- Ocupado + descopuado = PEA 
+- Desalentados
+- Inativos 
+
+---
+- setor primário
+- secundario
+- terciário
+- PIB POR SETOR
+- informalidade
+- 
