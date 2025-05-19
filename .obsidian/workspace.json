@@ -11,10 +11,14 @@
             "id": "b55a67c2f1c45753",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Conservação de Hotspots - corredor ecológico"
             }
           }
         ]
@@ -176,6 +180,13 @@
   },
   "active": "b55a67c2f1c45753",
   "lastOpenFiles": [
+    "Biologia/Impactos ambientais/Aquecimento global.md",
+    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
+    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
+    "Biologia/Impactos ambientais/Egostos.md",
+    "Biologia/Impactos ambientais/Espécies exóticas.md",
+    "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
+    "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
     "Física/Untitled Kanban.md",
     "Biologia/Untitled Kanban.md",
     "Linguagens/Comunicação e função da linguagem/Elementos de comunicação e funções de linguagem.md",
@@ -197,17 +208,10 @@
     "Redação/Desenvolvimento 1/Desenvolvimento 1.md",
     "Redação/Competência 1/C1 - Aspectos avaliativos.md",
     "Matemática/Pontos importantes.md",
-    "Matemática/Untitled Kanban.md",
-    "Cronograma.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Untitled.canvas",
-    "Matemática/Sistemas lineares/Interpretação geométrica.md",
-    "Matemática/Sistemas lineares/Escalonamento.md",
-    "Matemática/Sistemas lineares/Cramer.md",
-    "Matemática/Sistemas lineares/Regra de Cramer.md",
     "Matemática/Sistemas lineares",
     "História e filosofia/Untitled.canvas",
-    "O que Estudar/Matemática.md",
     "Física/Caixinhas.canvas",
     "História e filosofia/Gregos/História",
     "História e filosofia/Gregos/Filosfia",
