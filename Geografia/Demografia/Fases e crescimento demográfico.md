@@ -1,0 +1,2 @@
+- Crescimento Vertical
+- Crescimento Horizontal
