@@ -1,0 +1,3 @@
+- Composição lipoproteica
+- bicamada lipídica com proteinas - modelo mosaico fluido
+- estrutura dinâmica

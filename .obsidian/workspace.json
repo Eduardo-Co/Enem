@@ -11,12 +11,14 @@
             "id": "d26abcfdac62efa4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Citologia/Membrana plasmática.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Membrana plasmática"
             }
           }
         ]
@@ -178,6 +180,11 @@
   },
   "active": "d26abcfdac62efa4",
   "lastOpenFiles": [
+    "Biologia/Citologia/Microscopia.md",
+    "Biologia/Citologia/Membrana plasmática.md",
+    "Biologia/Citologia/História da célula.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Citologia",
     "Biologia/Ecologia/Teste de Ecologia.md",
     "Biologia/Bioquimica/Síntese Proteica.md",
     "Biologia/Bioquimica/Vitaminas.md",
@@ -190,7 +197,6 @@
     "Biologia/Bioquimica/Carboidratos.md",
     "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Água.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Caixinhas.canvas",
     "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
@@ -203,9 +209,6 @@
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
     "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
-    "Biologia/Untitled Kanban.md",
-    "Cronograma.md",
-    "Terminologias em latim.md",
     "Pasted image 20250516214114.png",
     "Redação/Competência 2",
     "Matemática/Untitled.canvas",
@@ -223,7 +226,6 @@
     "Biologia/img/Pasted image 20250512125733.png",
     "Biologia/img/Pasted image 20250512130504.png",
     "Biologia/Bioquimica",
-    "Redação/Competência 1",
     "Redação/Untitled.canvas",
     "Química/img/Pasted image 20250507155531.png",
     "Química/img/Pasted image 20250430143026.png",
