@@ -11,12 +11,14 @@
             "id": "85bed28de6945377",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Citologia/Parede celular.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Parede celular"
             }
           }
         ]
@@ -215,6 +217,8 @@
   },
   "active": "85bed28de6945377",
   "lastOpenFiles": [
+    "Biologia/Citologia/Osmose celular.md",
+    "Biologia/Citologia/Parede celular.md",
     "Biologia/Citologia/Membrana plasmática.md",
     "Biologia/Citologia/Microscopia.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -243,7 +247,6 @@
     "Biologia/Evolução/Tipos de seleção natural.md",
     "Biologia/Impactos ambientais/Egostos.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
-    "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
     "Redação/Competência 2",
     "Matemática/Untitled.canvas",
     "Matemática/Sistemas lineares",
