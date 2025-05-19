@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geografia/Demografia/Panoramas e conceitos Demográficos.md",
+                "file": "Geografia/Demografia/Fases e crescimento demográfico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Panoramas e conceitos Demográficos"
+              "title": "Fases e crescimento demográfico"
             }
           }
         ],
@@ -195,8 +195,9 @@
   },
   "active": "8eef3c73f6573a4e",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Demografia/Panoramas e conceitos Demográficos.md",
+    "Geografia/Demografia/Fases e crescimento demográfico.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Demografia",
     "O que Estudar/Geografia e sociologia.md",
     "Geografia/Estruturas de rochas e geologia/Rochas.md",
