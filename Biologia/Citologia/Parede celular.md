@@ -16,4 +16,9 @@
 ---
 - Composição fungos:
 - quitina - exoesquelete
--  
+
+---
+- Composição plantas: 
+- celulose
+- Não sofre lise osmótica, pois a parede celular protege
+- A sepração celular e de dentgro para fora
