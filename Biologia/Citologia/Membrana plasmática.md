@@ -66,21 +66,43 @@ Sempre **a favor do gradiente de concentração** (alta → baixa concentração
 
 ---
 
-### 🔸 **Transporte Ativo (com gasto de ATP)**
+## 🔸**Transporte Ativo (com gasto de ATP)**
 
 Vai **contra o gradiente de concentração**:
 
-#### 1. **Bomba de Sódio e Potássio (Na⁺/K⁺)**
-- Essencial na **transmissão de impulsos nervosos**.
-- Expulsa Na⁺ e entra K⁺ → mantém diferença elétrica.
+### 1. **Bomba de Sódio e Potássio (Na⁺/K⁺)**
+#### **Função principal:**
 
-#### 2. **Endocitose**
+Manter a **diferença de cargas elétricas** e **concentração de íons** entre o interior e o exterior da célula — o que é **essencial para gerar impulsos nervosos e manter o equilíbrio celular**.
+
+####  **Dentro da célula: muito potássio (K⁺)**
+
+####  **Fora da célula: muito sódio (Na⁺)**
+
+A bomba atua para **manter essa diferença**. Ela **trabalha contra o gradiente de concentração** (ou seja, do menos pro mais), então precisa de **ATP**.
+
+#### **Passo a Passo do Ciclo da Bomba Na⁺/K⁺:**
+
+#### 1. **Ligação dos 3 íons de sódio (Na⁺)** **dentro** da célula na bomba.
+
+#### 2. A bomba **quebra 1 molécula de ATP**, liberando energia.
+- A energia permite que um **fósforo (P)** se ligue à bomba (fosforilação).
+- Isso **altera a forma da bomba**, fazendo com que **os 3 Na⁺ sejam expulsos** para fora da célula.
+
+#### 3. A nova forma da bomba **atrai 2 íons de potássio (K⁺)** do lado de fora da célula.
+
+#### 4. Quando os 2 K⁺ se ligam, a bomba **libera o fósforo**, voltando à sua forma original.
+- Isso **libera os 2 K⁺ para dentro da célula**.
+
+ E o ciclo recomeça!
+
+### 2. **Endocitose**
 
 - Englobamento de partículas pela membrana:
     - **Fagocitose**: partícula sólida (ex: bactéria)
     - **Pinocitose**: gotículas de líquido
 
-#### 3. **Exocitose**
+### 3. **Exocitose**
 
 - Liberação de substâncias (ex: secreção de enzimas ou neurotransmissores)
 
