@@ -1,1 +1,4 @@
 
+- malthus
+- Neomalthusianos
+- Reformismo 
