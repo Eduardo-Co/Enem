@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "485326a03ecc24e1",
+        "id": "bc838d75db0a5811",
         "type": "tabs",
         "children": [
           {
-            "id": "7623b38430e2faad",
+            "id": "d26abcfdac62efa4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biologia/Bioquimica/Síntese Proteica.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Síntese Proteica"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -178,13 +176,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "d26abcfdac62efa4",
   "lastOpenFiles": [
+    "Biologia/Ecologia/Teste de Ecologia.md",
+    "Biologia/Bioquimica/Síntese Proteica.md",
     "Biologia/Bioquimica/Vitaminas.md",
     "Biologia/Bioquimica/Sais minerais.md",
     "Biologia/Bioquimica/Rna.md",
     "Biologia/Bioquimica/Dna.md",
-    "Biologia/Bioquimica/Síntese Proteica.md",
     "Biologia/Bioquimica/Enzimas.md",
     "Biologia/Bioquimica/Lipídeos.md",
     "Biologia/Bioquimica/Proteínas.md",
@@ -208,7 +207,6 @@
     "Cronograma.md",
     "Terminologias em latim.md",
     "Pasted image 20250516214114.png",
-    "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
     "Redação/Competência 2",
     "Matemática/Untitled.canvas",
     "Matemática/Sistemas lineares",
