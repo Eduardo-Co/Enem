@@ -25,9 +25,9 @@
 
 ---
 
-## 🔄 **Permeabilidade Seletiva**
+#  **Permeabilidade Seletiva**
 
-### 🔹 **Transporte Passivo (sem gasto de ATP)**
+## 🔹 **Transporte Passivo (sem gasto de ATP)**
 
 Sempre **a favor do gradiente de concentração** (alta → baixa concentração):
 
@@ -94,15 +94,19 @@ A bomba atua para **manter essa diferença**. Ela **trabalha contra o gradiente 
 #### 4. Quando os 2 K⁺ se ligam, a bomba **libera o fósforo**, voltando à sua forma original.
 - Isso **libera os 2 K⁺ para dentro da célula**.
 
- E o ciclo recomeça!
+#### Participação de um impulso nervoso:
 
-### 2. **Endocitose**
+- Quando um **neurônio recebe um estímulo**, os canais se abrem e **o Na⁺ entra rapidamente**, invertendo a polaridade da membrana (de negativa para positiva).
+- Isso é o **potencial de ação** — o impulso nervoso!
+- Depois do estímulo, a **bomba Na⁺/K⁺ trabalha para restaurar o equilíbrio**, **repolarizando** a membrana (voltando a deixar o interior mais negativo).
+
+### 2. **Endocitose** 
 
 - Englobamento de partículas pela membrana:
     - **Fagocitose**: partícula sólida (ex: bactéria)
     - **Pinocitose**: gotículas de líquido
 
-### 3. **Exocitose**
+### 3. **Exocitose  ou clasmocitose**
 
 - Liberação de substâncias (ex: secreção de enzimas ou neurotransmissores)
 

@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d26abcfdac62efa4",
+            "id": "85bed28de6945377",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biologia/Citologia/Membrana plasmática.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Membrana plasmática"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -215,12 +213,14 @@
       }
     ]
   },
-  "active": "d26abcfdac62efa4",
+  "active": "85bed28de6945377",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Citologia/Membrana plasmática.md",
     "Biologia/Citologia/Microscopia.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Citologia/História da célula.md",
+    "Cronograma.md",
+    "Pasted image 20250516214114.png",
     "Biologia/Citologia",
     "Biologia/Ecologia/Teste de Ecologia.md",
     "Biologia/Bioquimica/Síntese Proteica.md",
@@ -244,8 +244,6 @@
     "Biologia/Impactos ambientais/Egostos.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
-    "Biologia/Impactos ambientais/Aquecimento global.md",
-    "Pasted image 20250516214114.png",
     "Redação/Competência 2",
     "Matemática/Untitled.canvas",
     "Matemática/Sistemas lineares",
