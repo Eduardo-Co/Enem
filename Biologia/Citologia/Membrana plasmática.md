@@ -35,6 +35,7 @@ Sempre **a favor do gradiente de concentração** (alta → baixa concentração
 
 - Passagem direta de moléculas pequenas e apolares pela **bicamada lipídica**
 - Ex.: O₂, CO₂
+- Concentração fora está alta, então ela passa pela bicamada e preenche a célula até se equilibrar
 
 #### 2. **Difusão Facilitada**
 
@@ -45,6 +46,7 @@ Sempre **a favor do gradiente de concentração** (alta → baixa concentração
 
 - Difusão da **água** por uma membrana semipermeável.
 - Sempre do meio **menos concentrado** → **mais concentrado** em soluto.
+- Saída de agua para onde tem maior concentração
 
 ##### 🧪 Osmose em Células Animais:
 
