@@ -36,7 +36,6 @@ A parede celular é um envoltório rígido que fica externamente à membrana pla
 - Participa da **citocinese**: separação das células filhas pelo fragmoplasto, depositando nova parede entre elas.
 
 ---
-
 ## Parede primária vs. secundária
 
 | Aspecto   | Primária                                           | Secundária                                      |
