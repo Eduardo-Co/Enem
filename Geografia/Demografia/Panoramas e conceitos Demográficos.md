@@ -1,0 +1,6 @@
+- Crescimento natural
+- Crescimento por processos migratórios
+- Países populosos
+- população relativa ou densidade demográfica
+- Áreas ecúmenas
+- áreas anecúmena
