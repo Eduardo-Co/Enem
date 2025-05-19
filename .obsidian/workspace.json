@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8dc30d3b09963969",
+        "id": "485326a03ecc24e1",
         "type": "tabs",
         "children": [
           {
-            "id": "b55a67c2f1c45753",
+            "id": "7623b38430e2faad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
+                "file": "Biologia/Bioquimica/Aminoácidos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poluição - Impactos ambientais na atmosfera"
+              "title": "Aminoácidos"
             }
           }
         ]
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,25 +178,28 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "7623b38430e2faad",
   "lastOpenFiles": [
-    "Biologia/Untitled Kanban.md",
-    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
-    "Biologia/Evolução/Tipos de seleção natural.md",
-    "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
-    "Cronograma.md",
+    "Biologia/Bioquimica/Água.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Caixinhas.canvas",
+    "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
+    "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
+    "Biologia/Evolução/Lamarkismo.md",
+    "Biologia/Evolução/Tipos de seleção natural.md",
+    "Biologia/Impactos ambientais/Egostos.md",
+    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
+    "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
+    "Biologia/Impactos ambientais/Aquecimento global.md",
+    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
+    "Biologia/Untitled Kanban.md",
+    "Cronograma.md",
     "Terminologias em latim.md",
     "Pasted image 20250516214114.png",
     "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
-    "Biologia/Impactos ambientais/Aquecimento global.md",
-    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
-    "Biologia/Impactos ambientais/Egostos.md",
     "Biologia/Impactos ambientais/Espécies exóticas.md",
-    "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
     "Física/Untitled Kanban.md",
     "Linguagens/Comunicação e função da linguagem/Elementos de comunicação e funções de linguagem.md",
     "Linguagens/2- Gêneros e tipos textuais/Gênero Textual.md",
@@ -205,13 +209,10 @@
     "Redação/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
     "Redação/Competência 2/Repertório coringa.md",
     "Redação/Competência 2/Aspectos avaliados no repertório.md",
-    "Redação/Competência 2/Repertório sociocultural.md",
-    "Redação/Competência 2/Textos motivadores.md",
     "Redação/Competência 2",
     "Matemática/Untitled.canvas",
     "Matemática/Sistemas lineares",
     "História e filosofia/Untitled.canvas",
-    "Física/Caixinhas.canvas",
     "História e filosofia/Gregos/História",
     "História e filosofia/Gregos/Filosfia",
     "Física/Optica/Luz",
