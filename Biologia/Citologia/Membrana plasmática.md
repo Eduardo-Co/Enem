@@ -3,7 +3,7 @@
 ### 🧪 **Composição Lipoproteica**
 
 - **Formada por:**
-    
+	    
     - **Fosfolipídios** → parte **anfipática**:
         - **Cabeça polar (hidrofílica)**
         - **Cauda apolar (hidrofóbica)**
