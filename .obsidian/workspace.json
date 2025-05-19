@@ -11,12 +11,14 @@
             "id": "d7514e7646d51962",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Geografia/Demografia/PEA e economia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "PEA e economia"
             }
           }
         ]
@@ -178,20 +180,20 @@
   },
   "active": "d7514e7646d51962",
   "lastOpenFiles": [
+    "Geografia/Demografia/Panoramas e conceitos Demográficos.md",
+    "Geografia/Demografia/Teorias demográficas.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Demografia/Migração.md",
     "Geografia/Demografia/Pequenos agricultores e patrimônio histórico.md",
     "Geografia/Demografia/Herança cultural e memória coletiva.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Demografia/Indígena.md",
     "Geografia/Demografia/Indicadores sociais.md",
     "Geografia/Demografia/Características da população brasileira.md",
     "Geografia/Demografia/PEA e economia.md",
     "Terminologias em latim.md",
     "Redação/Pasted image 20250516214114.png",
-    "Geografia/Demografia/Teorias demográficas.md",
     "Untitled.canvas",
     "Geografia/Demografia/Fases e crescimento demográfico.md",
-    "Geografia/Demografia/Panoramas e conceitos Demográficos.md",
     "Geografia/Demografia",
     "O que Estudar/Geografia e sociologia.md",
     "Geografia/Estruturas de rochas e geologia/Rochas.md",
