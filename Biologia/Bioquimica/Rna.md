@@ -10,7 +10,6 @@
 
 - Pentose: **ribose** (possui grupo OH no carbono 2’)
 - Bases nitrogenadas: **Adenina (A), Uracila (U), Guanina (G), Citosina (C)**  
-    ❌ **Não possui Timina (T)**
 - Fita **simples**, mas pode formar estruturas secundárias com emparelhamentos internos.
 
 ---
