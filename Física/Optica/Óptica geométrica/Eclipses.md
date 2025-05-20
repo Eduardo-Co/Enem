@@ -1,2 +1,4 @@
 - Sombra -> pontual ou puntual
 - Penumbra  -> não é pontual
+- Antumbra - eclipse anular 
+- 
