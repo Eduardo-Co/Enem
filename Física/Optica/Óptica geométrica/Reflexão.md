@@ -1,0 +1,6 @@
+- reflexão regular ou especular 
+- reflexão difusa ou difusão
+- a regularidade/lisa produs reflexão regular e brilho, então por exemplo por isso quem sua brilha ... kkkk q bosta ein
+- Primeira lei da reflexão 
+- Segunda lei de reflexão
+- imagem em espelhos planos 
