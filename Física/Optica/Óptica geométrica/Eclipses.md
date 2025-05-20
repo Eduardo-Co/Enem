@@ -1,0 +1,2 @@
+- Sombra -> pontual ou puntual
+- Penumbra  -> não é pontual
