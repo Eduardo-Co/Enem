@@ -11,24 +11,14 @@
             "id": "d7514e7646d51962",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Optica/Óptica geométrica/Translação.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Translação"
             }
           }
         ]
@@ -190,10 +180,10 @@
   },
   "active": "d7514e7646d51962",
   "lastOpenFiles": [
-    "Física/Optica/Óptica geométrica/Reflexão.md",
     "Física/Untitled Kanban.md",
+    "Física/Optica/Óptica geométrica/Translação.md",
+    "Física/Optica/Óptica geométrica/Reflexão.md",
     "Física/Optica/Óptica geométrica/Eclipses.md",
-    "Física/Optica/Óptica geométrica/Untitled.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Excalidraw/Drawing 2025-05-20 16.17.31.excalidraw.md",
     "Excalidraw",
