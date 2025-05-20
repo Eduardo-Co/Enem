@@ -44,9 +44,21 @@
               "icon": "lucide-file",
               "title": "Eclipses"
             }
+          },
+          {
+            "id": "28b3b41290bb8a9b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-20 16.17.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-20 16.17.31.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,10 +215,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "06c0dc187a38a514",
+  "active": "28b3b41290bb8a9b",
   "lastOpenFiles": [
-    "Física/Optica/Óptica geométrica/Objetos e imagem.md",
     "Física/Optica/Óptica geométrica/Eclipses.md",
+    "Excalidraw/Drawing 2025-05-20 16.17.31.excalidraw.md",
+    "Excalidraw",
+    "Física/Optica/Óptica geométrica/Objetos e imagem.md",
     "Física/Optica/Óptica geométrica/Princípios óptica geométrica.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Optica/Óptica geométrica",
@@ -233,7 +247,6 @@
     "Geografia/Demografia/Herança cultural e memória coletiva.md",
     "Geografia/Demografia/Indígena.md",
     "Geografia/Demografia/Indicadores sociais.md",
-    "Geografia/Demografia/Características da população brasileira.md",
     "Redação/Pasted image 20250516214114.png",
     "Untitled.canvas",
     "Geografia/Demografia",
@@ -245,7 +258,6 @@
     "História e filosofia/Gregos/História",
     "História e filosofia/Gregos/Filosfia",
     "Física/Optica/Luz",
-    "Física/Optica",
     "Biologia/Caixinhas.canvas",
     "Química/Untitled.canvas",
     "Biologia/img/Pasted image 20250512130556.png",
