@@ -1,0 +1,2 @@
+- Sistema óptico
+- Ponto objeto - incidente 
