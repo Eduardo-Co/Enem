@@ -1,2 +1,8 @@
 - Sistema óptico
 - Ponto objeto - incidente 
+- Ponto imagem - saindo, emergindo.
+- Ponto real
+- Ponto objeto virtual 
+- Ponto objeto 
+- Ponto impróprio
+- Imagem diretas 
