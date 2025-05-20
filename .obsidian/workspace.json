@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
+                "file": "Física/Optica/Luz/Propriedades da luz 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movimento da carga em um campo elétrico"
+              "title": "Propriedades da luz 2"
             }
           }
         ]
@@ -180,12 +180,18 @@
   },
   "active": "d7514e7646d51962",
   "lastOpenFiles": [
-    "Física/Eletromagnetismo/Magnetismo.md",
+    "Física/Optica/Luz/Natureza da luz.md",
+    "Física/Optica/Luz/Propriedades da luz.md",
+    "Física/Optica/Luz/Propriedades da luz 2.md",
+    "Física/Eletromagnetismo/Transformadores.md",
     "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
-    "Física/Eletromagnetismo/Condutores no campo magnético.md",
+    "Física/Eletromagnetismo/Magnetismo.md",
+    "Física/Eletromagnetismo/Lei de faraday.md",
+    "Física/Eletromagnetismo/Lei de lenz.md",
     "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
-    "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
     "Física/Eletromagnetismo/Campo magnético.md",
+    "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
+    "Física/Eletromagnetismo/Condutores no campo magnético.md",
     "Física/Eletrodinâmica/Segunda lei de Ohm.md",
     "Geografia/Demografia/PEA e economia.md",
     "Geografia/Demografia/Panoramas e conceitos Demográficos.md",
@@ -204,12 +210,6 @@
     "Geografia/Demografia",
     "O que Estudar/Geografia e sociologia.md",
     "Geografia/Estruturas de rochas e geologia/Rochas.md",
-    "Cronograma.md",
-    "Geografia/Tectonismo/Placas tectônicas.md",
-    "Geografia/Tectonismo/Estrutura da terra.md",
-    "Biologia/Citologia/Parede celular.md",
-    "Biologia/Citologia/Osmose vegetal.md",
-    "Biologia/Citologia/Osmose celular.md",
     "Biologia/Citologia",
     "Física/Caixinhas.canvas",
     "Redação/Competência 2",
