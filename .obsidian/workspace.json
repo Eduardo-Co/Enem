@@ -35,12 +35,14 @@
             "id": "06c0dc187a38a514",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Optica/Óptica geométrica/Princípios óptica geométrica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Princípios óptica geométrica"
             }
           }
         ],
@@ -203,6 +205,9 @@
   },
   "active": "06c0dc187a38a514",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Optica/Óptica geométrica/Princípios óptica geométrica.md",
+    "Física/Optica/Óptica geométrica",
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Física/Optica/Luz/Propriedades da luz 2.md",
@@ -221,7 +226,6 @@
     "Geografia/Demografia/PEA e economia.md",
     "Geografia/Demografia/Panoramas e conceitos Demográficos.md",
     "Geografia/Demografia/Teorias demográficas.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Demografia/Migração.md",
     "Geografia/Demografia/Pequenos agricultores e patrimônio histórico.md",
     "Geografia/Demografia/Herança cultural e memória coletiva.md",
@@ -231,9 +235,7 @@
     "Terminologias em latim.md",
     "Redação/Pasted image 20250516214114.png",
     "Untitled.canvas",
-    "Geografia/Demografia/Fases e crescimento demográfico.md",
     "Geografia/Demografia",
-    "O que Estudar/Geografia e sociologia.md",
     "Biologia/Citologia",
     "Redação/Competência 2",
     "Matemática/Untitled.canvas",
@@ -247,7 +249,6 @@
     "Química/Untitled.canvas",
     "Biologia/img/Pasted image 20250512130556.png",
     "Biologia/img/Pasted image 20250512123227.png",
-    "Biologia/img",
     "Biologia/img/Pasted image 20250512125733.png",
     "Biologia/img/Pasted image 20250512130504.png",
     "Redação/Untitled.canvas",

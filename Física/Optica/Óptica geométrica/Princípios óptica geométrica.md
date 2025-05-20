@@ -1,0 +1,3 @@
+- princípio da independência
+- princípio da reversibilidade - tente inverter caso fique estagnado em uma questão
+- 
