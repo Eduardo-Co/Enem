@@ -11,17 +11,38 @@
             "id": "d7514e7646d51962",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Física/Optica/Luz/Propriedades da luz 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Física/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
+            "id": "06c0dc187a38a514",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Propriedades da luz 2"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,11 +199,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "d7514e7646d51962",
+  "active": "06c0dc187a38a514",
   "lastOpenFiles": [
+    "Física/Untitled Kanban.md",
+    "Física/Caixinhas.canvas",
+    "Física/Optica/Luz/Propriedades da luz 2.md",
     "Física/Optica/Luz/Natureza da luz.md",
     "Física/Optica/Luz/Propriedades da luz.md",
-    "Física/Optica/Luz/Propriedades da luz 2.md",
     "Física/Eletromagnetismo/Transformadores.md",
     "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
     "Física/Eletromagnetismo/Magnetismo.md",
@@ -209,9 +232,7 @@
     "Geografia/Demografia/Fases e crescimento demográfico.md",
     "Geografia/Demografia",
     "O que Estudar/Geografia e sociologia.md",
-    "Geografia/Estruturas de rochas e geologia/Rochas.md",
     "Biologia/Citologia",
-    "Física/Caixinhas.canvas",
     "Redação/Competência 2",
     "Matemática/Untitled.canvas",
     "Matemática/Sistemas lineares",
