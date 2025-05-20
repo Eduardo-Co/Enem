@@ -1,4 +1,6 @@
 - Sombra -> pontual ou puntual
 - Penumbra  -> não é pontual
 - Antumbra - eclipse anular 
-- 
+- Lua nova 
+- Lua cheia
+- fase da lua

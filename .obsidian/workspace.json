@@ -44,21 +44,9 @@
               "icon": "lucide-file",
               "title": "Eclipses"
             }
-          },
-          {
-            "id": "28b3b41290bb8a9b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-05-20 16.17.31.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-20 16.17.31.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +203,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "28b3b41290bb8a9b",
+  "active": "06c0dc187a38a514",
   "lastOpenFiles": [
-    "Física/Optica/Óptica geométrica/Eclipses.md",
     "Excalidraw/Drawing 2025-05-20 16.17.31.excalidraw.md",
+    "Física/Optica/Óptica geométrica/Eclipses.md",
     "Excalidraw",
     "Física/Optica/Óptica geométrica/Objetos e imagem.md",
     "Física/Optica/Óptica geométrica/Princípios óptica geométrica.md",
