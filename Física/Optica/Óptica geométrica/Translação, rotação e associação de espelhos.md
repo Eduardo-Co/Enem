@@ -1,0 +1,3 @@
+- proporção de translação de espelhos planosx
+- Rotação de espelhos planos
+- 
