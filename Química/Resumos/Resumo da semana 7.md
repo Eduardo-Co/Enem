@@ -82,12 +82,36 @@ Ligações sigma e pi: ligações sigma são fortes e pi fracas sempre que tem u
 
 ---
 
-NOX: Al = 3; prata = 2; 
+NOX: Al = 3+; prata = 2+; Z = 1+; P = -1; Familias 1A = +1, 2A= +1 e familia 7A 
 
 ---
 
-Misturas
+Misturas: 
+
+hetero
+homo
+
+ai temos os níveis que vai de homo até hetero
+
+soluções -> homo; coloides -> hetero; há mais uma também
+efeito tyndal 
+
+Tipos de concentrações, decorar formula
+
+d = m/v
+cc = m/v
+cmolar = n/v
+diluição = adicionar mais solvente m1v1 = m2v2
+mistura de soluções = $$\frac{c_{1}v_{1}+{c_{2}v_{2}}}{v_{1}+v_{2}}$$
+
+por fim a titulaçã, achar uma concetração desconhecida por uma conhecida $$m_{1}v_{1}=m_{2}v_{2}$$
+temos também a relação entre as fórmulas:
+$$
+C = m \cdot M_1 = T \cdot d \cdot 1000
+$$
 
 ---
 
 Separação de Misturas
+
+vou pegar as principais q eu n conheço e colocar aqui 
