@@ -61,3 +61,33 @@ Interações moleculares
 
 - Dativa: tipo de ligação covalente. Porém compartilham o mesmo elétron 
 
+---
+
+Hibridização
+
+Mescla de orbitais. 
+
+---
+
+Geometria molecular
+Defini como vai ser a molécula temos linear trigonal(triangular) piramidal. Se houver elétrons livre em algum se torna angular
+
+---
+
+Carga formal: Quebra a ligação e vê se todo mundo ficou estavel, se não, há algo de errado e a geometria poderia ser outra
+
+---
+
+Ligações sigma e pi: ligações sigma são fortes e pi fracas sempre que tem uma ligação que não é simples, ou seja, uma dupla triple... etc. Temos sempre 1 sigma e o resto de pi
+
+---
+
+NOX: Al = 3; prata = 2; 
+
+---
+
+Misturas
+
+---
+
+Separação de Misturas

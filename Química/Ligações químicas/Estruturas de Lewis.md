@@ -1,4 +1,4 @@
-
+	
 ## Definição
 
 A **estrutura de Lewis** é uma representação que mostra **como os elétrons de valência** estão distribuídos entre os átomos de uma molécula, **indicando ligações químicas e pares de elétrons isolados**.
