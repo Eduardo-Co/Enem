@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Resumos/Resumo da semana 7.md",
+                "file": "Química/Misturas/Relação entre as concentrações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumo da semana 7"
+              "title": "Relação entre as concentrações"
             }
           },
           {
@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "Mistura de soluções"
             }
+          },
+          {
+            "id": "f6c3f554dd975497",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,11 +203,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "77ba29a9bbc24132",
+  "active": "f6c3f554dd975497",
   "lastOpenFiles": [
     "Química/Misturas/Relação entre as concentrações.md",
-    "Química/Misturas/Mistura de soluções.md",
     "Química/Resumos/Resumo da semana 7.md",
+    "Química/Misturas/Mistura de soluções.md",
     "Química/Misturas/Titulação.md",
     "Química/Misturas/Tamanho das particulas.md",
     "Química/Misturas/Soluções.md",
