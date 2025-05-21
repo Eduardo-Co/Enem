@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Optica/Óptica geométrica/Translação, rotação e associação de espelhos.md",
+                "file": "Química/Resumos/Resumo da semana 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Translação, rotação e associação de espelhos"
+              "title": "Resumo da semana 7"
+            }
+          },
+          {
+            "id": "5cc4c9832aa9b6c1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -180,11 +192,13 @@
   },
   "active": "d7514e7646d51962",
   "lastOpenFiles": [
-    "Física/Untitled Kanban.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Resumos/Resumo da semana 7.md",
     "Física/Optica/Óptica geométrica/Translação, rotação e associação de espelhos.md",
+    "Química/Resumos",
+    "Física/Untitled Kanban.md",
     "Física/Optica/Óptica geométrica/Reflexão.md",
     "Física/Optica/Óptica geométrica/Eclipses.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Excalidraw/Drawing 2025-05-20 16.17.31.excalidraw.md",
     "Excalidraw",
     "Física/Optica/Óptica geométrica/Objetos e imagem.md",
@@ -208,8 +222,6 @@
     "Geografia/Demografia/Panoramas e conceitos Demográficos.md",
     "Geografia/Demografia/Teorias demográficas.md",
     "Geografia/Demografia/Migração.md",
-    "Geografia/Demografia/Pequenos agricultores e patrimônio histórico.md",
-    "Geografia/Demografia/Herança cultural e memória coletiva.md",
     "Redação/Pasted image 20250516214114.png",
     "Untitled.canvas",
     "Geografia/Demografia",
@@ -220,7 +232,6 @@
     "História e filosofia/Untitled.canvas",
     "História e filosofia/Gregos/História",
     "História e filosofia/Gregos/Filosfia",
-    "Física/Optica/Luz",
     "Biologia/Caixinhas.canvas",
     "Química/Untitled.canvas",
     "Biologia/img/Pasted image 20250512130556.png",
