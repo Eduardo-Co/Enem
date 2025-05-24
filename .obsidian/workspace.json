@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Mol e massa molar"
             }
+          },
+          {
+            "id": "0eb3ae7d9c94ce68",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "597663eeb2382eb6",
+  "active": "0eb3ae7d9c94ce68",
   "lastOpenFiles": [
-    "Química/Formulas químicas/Massa Atômica e molecular.md",
     "Química/Formulas químicas/Mol e massa molar.md",
+    "Química/Formulas químicas/Massa Atômica e molecular.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Formulas químicas",
     "Química/Misturas/Relação entre as concentrações.md",
