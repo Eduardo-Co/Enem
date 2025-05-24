@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Formulas químicas/Massa Atômica e molecular.md",
+                "file": "Química/Formulas químicas/Mol e massa molar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Massa Atômica e molecular"
+              "title": "Mol e massa molar"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "597663eeb2382eb6",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Formulas químicas/Massa Atômica e molecular.md",
+    "Química/Formulas químicas/Mol e massa molar.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Formulas químicas",
     "Química/Misturas/Relação entre as concentrações.md",
     "Química/Misturas/Mistura de soluções.md",
