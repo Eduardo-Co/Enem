@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Estequiometria/Formulas Químicas.md",
+                "file": "Química/Estequiometria/Balanceamento químico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formulas Químicas"
+              "title": "Balanceamento químico"
             }
           },
           {
@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,9 +205,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "d238f7c27d795df4",
+  "active": "0eb3ae7d9c94ce68",
   "lastOpenFiles": [
     "Química/Estequiometria/Formulas Químicas.md",
+    "Química/Estequiometria/Balanceamento químico.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Estequiometria/Mol e massa molar.md",
     "Química/Estequiometria/Massa Atômica e molecular.md",
