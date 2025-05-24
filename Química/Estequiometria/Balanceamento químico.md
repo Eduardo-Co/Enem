@@ -24,3 +24,5 @@ $C_3H_8 + O_2 \rightarrow CO_2 + H_2O$
 
 
 ==Lembre-se deixe por último quem estiver isolado, ou seja quem você mudar não alterar outro==
+
+==Se for fazer por redox tem que balancear antes os que reduziram e oxidaram.==
