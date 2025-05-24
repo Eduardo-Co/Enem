@@ -22,3 +22,5 @@ $C_3H_8 + O_2 \rightarrow CO_2 + H_2O$
     
 3. **Oxigênio:** $C_3H_8 + 5O_2 \rightarrow 3CO_2 + 4H_2O$
 
+
+==Lembre-se deixe por último quem estiver isolado, ou seja quem você mudar não alterar outro==
