@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Misturas/Diluição.md",
+                "file": "Matemática/Matemática básica/Razão e proporção/Regra de três.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diluição"
+              "title": "Regra de três"
             }
           },
           {
@@ -207,6 +207,7 @@
   },
   "active": "0eb3ae7d9c94ce68",
   "lastOpenFiles": [
+    "Química/Misturas/Diluição.md",
     "Química/Estequiometria/Balanceamento químico.md",
     "Química/Estequiometria/Formulas Químicas.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -223,7 +224,6 @@
     "Química/Misturas/PPM e PPB.md",
     "Química/Ligações químicas/Estruturas de Lewis.md",
     "Química/Misturas/Concentração molar.md",
-    "Química/Misturas/Diluição.md",
     "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
     "Química/Separação de misturas/Método de misturas heterogênias.md",
     "Química/Misturas/Curvas de solubilidade.md",
