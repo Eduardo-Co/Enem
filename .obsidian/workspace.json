@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "fc755b5d0c554114",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
+          },
+          {
             "id": "d238f7c27d795df4",
             "type": "leaf",
             "state": {
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,8 +217,9 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "0eb3ae7d9c94ce68",
+  "active": "fc755b5d0c554114",
   "lastOpenFiles": [
+    "Matemática/Matemática básica/Razão e proporção/Regra de três.md",
     "Química/Misturas/Diluição.md",
     "Química/Estequiometria/Balanceamento químico.md",
     "Química/Estequiometria/Formulas Químicas.md",
@@ -234,7 +247,6 @@
     "Química/Ligações químicas/Ligação Dativa ou Coordenada.md",
     "Química/Ligações químicas/Ligações metálicas.md",
     "Química/Ligações químicas/Ligação Químicas.md",
-    "Química/Ligações químicas/Ligação iônica.md",
     "Química/Resumos",
     "Excalidraw",
     "Física/Optica/Óptica geométrica",
