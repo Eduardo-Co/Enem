@@ -99,3 +99,9 @@ Etapa **opcional e mais cara**, usada em locais com exigência ambiental alta.
 
 Olhando do ponto de vista de separação de misturas:
 
+| **Fase**       | **Processo**               | **Tipo de Mistura**           | **Método de Separação**                |
+| -------------- | -------------------------- | ----------------------------- | -------------------------------------- |
+| Pré-tratamento | Remoção de sólidos grandes | Sólido + Líquido              | **Filtração**, peneiração, gradeamento |
+| Primário       | Decantação                 | Sólido em suspensão + Líquido | **Decantação**                         |
+| Secundário     | Decomposição biológica     | Mistura coloidal + Líquido    | **Floculação** + **Decantação**        |
+| Terciário      | Desinfecção/Filtração fina | Misturas diversas             | **Cloração**, filtração, adsorção      |
