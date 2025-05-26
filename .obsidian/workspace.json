@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "fd7e0d92ecfb8ee6",
+        "id": "42f62bf9de13ed4d",
         "type": "tabs",
         "children": [
           {
-            "id": "85f65649492e2832",
+            "id": "89b29d86d84ca7a3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
+          },
+          {
+            "id": "c8765e2faa506df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
+                "file": "Biologia/Citologia/Organelas citoplasmáticas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Processos de especiação"
+              "title": "Organelas citoplasmáticas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +191,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "85f65649492e2832",
+  "active": "c8765e2faa506df9",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Citologia/Organelas citoplasmáticas.md",
+    "Biologia/Citologia/Membrana plasmática.md",
+    "Biologia/Citologia/História da célula.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Impactos ambientais/Egostos.md",
     "Biologia/Impactos ambientais/Espécies exóticas.md",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
@@ -189,7 +207,6 @@
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
     "Química/Estequiometria/Mol e massa molar.md",
     "Matemática/Matemática básica/Razão e proporção/Regra de três.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Misturas/Diluição.md",
     "Química/Estequiometria/Balanceamento químico.md",
     "Química/Estequiometria/Formulas Químicas.md",
@@ -203,11 +220,6 @@
     "Química/Misturas/Soluções.md",
     "Química/Misturas/Solubilidade.md",
     "Química/Misturas/PPM e PPB.md",
-    "Química/Ligações químicas/Estruturas de Lewis.md",
-    "Química/Misturas/Concentração molar.md",
-    "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
-    "Química/Separação de misturas/Método de misturas heterogênias.md",
-    "Química/Misturas/Curvas de solubilidade.md",
     "Química/Resumos",
     "Excalidraw",
     "Física/Optica/Óptica geométrica",
