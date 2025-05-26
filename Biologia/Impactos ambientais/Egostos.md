@@ -94,3 +94,8 @@ Etapa **opcional e mais cara**, usada em locais com exigência ambiental alta.
 |Primária|Sólidos, areia, detritos|Bactérias, químicos solúveis|
 |Secundária|Matéria orgânica, parte dos microrganismos|Metais pesados, nutrientes, fármacos|
 |Terciária|Nutrientes, vírus, fármacos (parcialmente)|Microplásticos, compostos persistentes|
+
+----
+
+Olhando do ponto de vista de separação de misturas:
+
