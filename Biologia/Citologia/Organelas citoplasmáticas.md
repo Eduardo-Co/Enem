@@ -18,7 +18,7 @@
   - Participa do transporte intracelular de proteínas.
 
 ## 3. Retículo Endoplasmático Liso (REL)
-- **Função:** Síntese de lipídios, desintoxicação de substâncias e armazenamento de íons cálcio.
+- **Função:** Síntese de lipídios, desintoxicação de substâncias
 - **Características:**
   - Não possui ribossomos aderidos.
   - Abundante em células do fígado e em células produtoras de hormônios esteroides.
@@ -28,6 +28,8 @@
 - **Características:**
   - Forma vesículas que podem se transformar em lisossomos ou ser secretadas pela célula.
   - Importante na formação do acrossomo em espermatozoides.
+
+---
 
 ## 5. Lisossomos
 - **Função:** Digestão intracelular de substâncias por meio de enzimas hidrolíticas.
@@ -46,6 +48,7 @@
   - Podem estar livres no citoplasma ou aderidos ao RER.
   - Presentes tanto em células procariontes quanto eucariontes.
 
+---
 ## 8. Centríolos
 - **Função:** Participam da divisão celular e da formação de cílios e flagelos.
 - **Características:**
