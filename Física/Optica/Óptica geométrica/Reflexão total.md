@@ -38,9 +38,16 @@ A reflexão total só acontece quando a luz tenta sair de um meio mais denso par
 
 ---
 
-Aplicações de reflexão total:
+## 💡 Aplicações da Reflexão Total
 
-- Fibra óptica 
-- endoscopia
-- primas de reflexão total
-- miragens
+- **Fibra óptica:**  
+  Luz "presa" dentro do fio por múltiplas reflexões totais, permitindo transmissão eficiente de dados.
+
+- **Endoscopia:**  
+  Usa fibras ópticas para iluminar e transmitir imagens do interior do corpo humano.
+
+- **Prismas de reflexão total:**  
+  Usados em binóculos, periscópios e equipamentos ópticos para desviar a luz sem perdas.
+
+- **Miragens:**  
+  Camadas de ar com diferentes temperaturas criam condições para reflexão total, formando imagens ilusórias (ex: "água" em estradas quentes).
