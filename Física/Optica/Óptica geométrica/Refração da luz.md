@@ -22,7 +22,6 @@
     
 
 ---
-
 ## Continuidade Óptica (Índices Iguais)
 
 - Quando dois meios possuem **índices de refração iguais** $(n_1 = n_2)$:
@@ -31,38 +30,34 @@
     - Exemplo: vidro-glicerina
 
 ---
-
 ## Índice de Refração Relativo
 
 - **Definição:** Razão entre os índices de refração absolutos de dois meios.
     
 - **Fórmula:**
     $$
-    n=n_2n1n_{21} = \dfrac{n_2}{n_1}n21​=n1​n2
+    n=\frac{n_{1}}{n_{2}}
     $$​​
-- Interpretação: quanto maior $n_{21}$, maior a mudança da velocidade da luz entre os meios.
+- Interpretação: quanto maior $n$, maior a mudança da velocidade da luz entre os meios.
     
 
 ---
-
 ## 1ª Lei da Refração (Lei de Snell)
 
 - **O raio incidente, o raio refratado e a normal** estão no mesmo plano.
-    
 - É uma lei **geométrica**: descreve a disposição dos raios.
-    
 
 ---
-
 ## 2ª Lei da Refração (Lei de Snell-Descartes)
 
 - **Relação entre ângulos e índices de refração:**
-    
-    n1⋅\senθ1=n2⋅\senθ2n_1 \cdot \sen\theta_1 = n_2 \cdot \sen\theta_2n1​⋅\senθ1​=n2​⋅\senθ2​
+   $$    
+    n_{1} \cdot sen(\theta_{1}) = n_{2} \cdot sen(\theta_{2})
+    $$​
 - Onde:
-    
     - $n_1$ = índice do meio 1, $n_2$ = índice do meio 2
-        
     - $\theta_1$ = ângulo de incidência
-        
     - $\theta_2$ = ângulo de refração
+
+---
+
