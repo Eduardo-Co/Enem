@@ -26,4 +26,26 @@ Elementos geométricos
   2. **Raios que passam pelo foco (F)** refletem paralelamente ao eixo principal.
   3. **Raios que passam pelo centro de curvatura (C)** refletem sobre si mesmos.
   4. **Raios que incidem no vértice (V)** refletem formando o mesmo ângulo com o eixo principal.
--
+
+---
+
+Referencial de gauss
+
+- **Distância do objeto:**  
+    $p > 0$ (objeto real, à esquerda do vértice)  
+    $p < 0$ (objeto virtual, à direita do vértice)
+    
+- **Distância da imagem:**  
+    $p' > 0$ (imagem real, à esquerda do vértice)  
+    $p' < 0$ (imagem virtual, à direita do vértice)
+    
+- **Distância focal:**  
+    $f > 0$ (espelho côncavo)  
+    $f < 0$ (espelho convexo)
+    
+- **Raio de curvatura:**  
+    $R > 0$ (côncavo, centro à esquerda do vértice)  
+    $R < 0$ (convexo, centro à direita do vértice)
+    
+- **Equação dos espelhos esféricos:**  
+    $\dfrac{1}{f} = \dfrac{1}{p} + \dfrac{1}{p'}$

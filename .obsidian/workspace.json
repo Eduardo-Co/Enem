@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Optica/Óptica geométrica/Espelhos esféricos.md",
+                "file": "Física/Optica/Óptica geométrica/Refração da luz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Espelhos esféricos"
+              "title": "Refração da luz"
             }
           }
         ]
@@ -180,9 +180,10 @@
   },
   "active": "30527311735a5388",
   "lastOpenFiles": [
+    "Física/Optica/Óptica geométrica/Reflexão.md",
+    "Física/Optica/Óptica geométrica/Refração da luz.md",
     "Física/Optica/Óptica geométrica/Espelhos esféricos.md",
     "Física/Optica/Óptica geométrica/Translação, rotação e associação de espelhos.md",
-    "Física/Optica/Óptica geométrica/Reflexão.md",
     "Física/Optica/Óptica geométrica/Princípios óptica geométrica.md",
     "Física/Optica/Óptica geométrica/Objetos e imagem.md",
     "Física/Optica/Luz/Propriedades da luz 2.md",
@@ -206,7 +207,6 @@
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
     "Química/Estequiometria/Mol e massa molar.md",
     "Matemática/Matemática básica/Razão e proporção/Regra de três.md",
-    "Química/Misturas/Diluição.md",
     "Química/Estequiometria",
     "Química/Resumos",
     "Excalidraw",
