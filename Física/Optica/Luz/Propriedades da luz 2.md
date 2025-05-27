@@ -25,13 +25,14 @@
 
 ####  **5. Tipos de Luminescência**
 
-- **Fluorescência**: emite luz rapidamente após absorver energia (ex: caneta marca-texto).
-- **Fosforescência**: retém energia e emite luz com atraso (ex: brinquedos que brilham no escuro).
-- **Incandescência**: luz gerada por aquecimento (ex: filamento da lâmpada).
-- **Bioluminescência**: emissão de luz por organismos vivos (ex: vaga-lumes).
-- **Quimioluminescência**: luz gerada por reação química (ex: bastão de luz).
-- **LED**: luz emitida por semicondutores com alta eficiência.
-
+|Tipo|O que é?|Exemplo/Contexto|
+|---|---|---|
+|**Fluorescência**|Emissão de luz imediata ao receber energia (para ao cessar a fonte).|Canetas marca-texto, lâmpadas fluorescentes|
+|**Fosforescência**|Emissão de luz continua mesmo após cessar a fonte de energia.|Brinquedos que brilham no escuro|
+|**Quimiluminescência**|Emissão de luz causada por reações químicas (sem aquecimento).|Pulseiras luminosas, vaga-lumes|
+|**Bioluminescência**|Tipo especial de quimiluminescência em seres vivos.|Vaga-lumes, águas-vivas|
+|**Triboluminescência**|Luz gerada por atrito, esmagamento ou fricção de certos materiais.|Açúcar triturado, fita adesiva|
+|**Catodoluminescência**|Emissão causada por bombardeio de elétrons.|Tubos de raios catódicos (TV antiga)|
 #### **6. Comprimento de Onda e Efeitos Diferentes**
 
 A radiação eletromagnética se estende desde ondas de rádio (baixa energia) até raios gama (altíssima energia). Os **efeitos físicos e químicos** que essa radiação causa **dependem da sua frequência**:
