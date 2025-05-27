@@ -1,6 +1,6 @@
 ## **Translação de Espelhos Planos**
 
-Quando um espelho plano se move paralelamente a si mesmo por uma distância ddd, a imagem de um objeto fixo diante dele se desloca no mesmo sentido, mas **o dobro da distância**, ou seja, 2d2d2d.
+Quando um espelho plano se move paralelamente a si mesmo por uma distância d, a imagem de um objeto fixo diante dele se desloca no mesmo sentido, mas **o dobro da distância**.
 
 - **Exemplo:** Se o espelho anda 4 cm para a direita, a imagem se move 8 cm para a direita.
     
@@ -9,7 +9,7 @@ Quando um espelho plano se move paralelamente a si mesmo por uma distância ddd,
 
 ## 🔄 **Rotação de Espelhos Planos**
 
-Se você gira um espelho plano em torno de um ponto fixo por um ângulo α\alphaα, o raio refletido gira por um ângulo 2α2\alpha2α em relação à direção original.
+Se você gira um espelho plano em torno de um ponto fixo por um ângulo, o raio refletido gira por um ângulo  em relação à direção original.
 
 - **Exemplo:** Se o espelho gira 10°, o raio refletido gira 20°.
     

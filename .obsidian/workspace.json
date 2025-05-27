@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Optica/Óptica geométrica/Reflexão.md",
+                "file": "Física/Optica/Óptica geométrica/Translação, rotação e associação de espelhos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflexão"
+              "title": "Translação, rotação e associação de espelhos"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "89b29d86d84ca7a3",
   "lastOpenFiles": [
+    "Física/Optica/Óptica geométrica/Reflexão.md",
     "Física/Optica/Óptica geométrica/Princípios óptica geométrica.md",
     "Física/Optica/Óptica geométrica/Objetos e imagem.md",
     "Física/Optica/Luz/Propriedades da luz 2.md",
@@ -206,7 +207,6 @@
     "Química/Misturas/Diluição.md",
     "Química/Estequiometria/Balanceamento químico.md",
     "Química/Estequiometria/Formulas Químicas.md",
-    "Química/Estequiometria/Massa Atômica e molecular.md",
     "Química/Estequiometria",
     "Química/Resumos",
     "Excalidraw",

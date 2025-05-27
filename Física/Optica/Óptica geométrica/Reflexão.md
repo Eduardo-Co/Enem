@@ -34,8 +34,7 @@
     - **Direita**: mantém a mesma orientação vertical do objeto.
     - **Enantiomorfa**: inverte os lados esquerdo e direito.
     - **Mesmo tamanho**: a imagem tem o mesmo tamanho do objeto.
-    - **Mesma distância**: a imagem está à mesma distância do espelho que o objeto.[Toda Matéria+19Brasil Escola+19Quero Bolsa+19](https://brasilescola.uol.com.br/fisica/reflexao-luz-espelhos-planos.htm?utm_source=chatgpt.com)[YouTube+20Brasil Escola+20Quero Bolsa+20](https://brasilescola.uol.com.br/fisica/espelhos-planos.htm?utm_source=chatgpt.com)[Quero Bolsa](https://querobolsa.com.br/enem/fisica/reflexao-da-luz-e-reflexao-total?utm_source=chatgpt.com)[Quero Bolsa+2Toda Matéria+2Brasil Escola+2](https://www.todamateria.com.br/espelhos-planos/?utm_source=chatgpt.com)
-
+    - **Mesma distância**: a imagem está à mesma distância do espelho que o objeto.
 ---
 
 ### 📏 Semelhança de Triângulos para Determinar Altura
