@@ -1,0 +1,2 @@
+- espelhos concavos - convergente. Aplicações: telescópio, radiotelescópios, espelho de aumento, lanterna e faróis. 
+- espelhos concavos - divergente: Aumentar campo visual, exemplos: retrovisores, diminuindo tamanho da imagem. 
