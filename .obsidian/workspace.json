@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9caff942ef25f730",
+        "id": "446ca13357a51185",
         "type": "tabs",
         "children": [
           {
-            "id": "30527311735a5388",
+            "id": "1f715c9dd967b515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Optica/Óptica geométrica/Imagem em Dioptros planos.md",
+                "file": "Física/Optica/Óptica geométrica/Reflexão total.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imagem em Dioptros planos"
+              "title": "Reflexão total"
             }
           }
         ]
@@ -178,12 +178,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "30527311735a5388",
+  "active": "1f715c9dd967b515",
   "lastOpenFiles": [
+    "Física/Optica/Óptica geométrica/Imagem em Dioptros planos.md",
+    "Física/Optica/Óptica geométrica/Reflexão total.md",
     "Física/Optica/Óptica geométrica/Objetos e imagem.md",
     "Física/Optica/Óptica geométrica/Refração da luz.md",
     "Física/Optica/Óptica geométrica/Reflexão.md",
-    "Física/Optica/Óptica geométrica/Imagem em Dioptros planos.md",
     "Física/Optica/Óptica geométrica/Espelhos esféricos.md",
     "Física/Optica/Óptica geométrica/Translação, rotação e associação de espelhos.md",
     "Física/Optica/Óptica geométrica/Princípios óptica geométrica.md",
@@ -206,7 +207,6 @@
     "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
     "Biologia/Impactos ambientais/Aquecimento global.md",
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
-    "Química/Estequiometria/Mol e massa molar.md",
     "Química/Estequiometria",
     "Química/Resumos",
     "Excalidraw",
