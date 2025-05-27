@@ -35,3 +35,12 @@ $$
 
 **Resumo:**  
 A reflexão total só acontece quando a luz tenta sair de um meio mais denso para um menos denso, com ângulo acima do crítico.  
+
+---
+
+Aplicações de reflexão total:
+
+- Fibra óptica 
+- endoscopia
+- primas de reflexão total
+- miragens
