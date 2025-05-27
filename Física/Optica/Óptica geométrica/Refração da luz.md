@@ -12,3 +12,4 @@
 - **Metamateriais:** Materiais artificiais com índice de refração negativo (refração "canhota" ou anômala), alterando o sentido convencional da refração.
 
 ---
+  
