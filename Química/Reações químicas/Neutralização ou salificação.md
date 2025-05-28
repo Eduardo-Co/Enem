@@ -12,5 +12,7 @@ não é oxiredução
 
 neutralização total
 neutralização parcial
+neutralização de sal
+neutralização de óxidos
 
 ---
