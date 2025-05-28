@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Reações químicas"
             }
+          },
+          {
+            "id": "7c8a2c6228f619fc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "91ae4522bc4c08d8",
+  "active": "7c8a2c6228f619fc",
   "lastOpenFiles": [
-    "Química/Reações químicas/Fenômeno físico e químico.md",
     "Química/Reações químicas/Reações químicas.md",
+    "Química/Reações químicas/Fenômeno físico e químico.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Reações químicas",
     "Física/Optica/Óptica geométrica/Olho.md",
