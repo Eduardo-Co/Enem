@@ -11,6 +11,6 @@ são reações de dupla troca
 não é oxiredução 
 
 neutralização total
-
+neutralização parcial
 
 ---
