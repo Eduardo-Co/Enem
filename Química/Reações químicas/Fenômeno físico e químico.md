@@ -1,0 +1,3 @@
+
+- fenômeno físico
+- fenômico químcio
