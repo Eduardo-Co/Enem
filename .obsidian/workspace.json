@@ -11,10 +11,26 @@
             "id": "1af266538d65997c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Física/Optica/Óptica geométrica/Olho.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Olho"
+            }
+          },
+          {
+            "id": "1d8a0af93d84c971",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -174,8 +190,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "1af266538d65997c",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Optica/Óptica geométrica/Olho.md",
     "Física/Optica/Óptica geométrica/Laminas de faces paralelas.md",
     "Física/Optica/Óptica geométrica/Reflexão total.md",
     "Física/Optica/Óptica geométrica/Imagem em Dioptros planos.md",
@@ -193,7 +211,6 @@
     "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
     "Biologia/Citologia/Organelas citoplasmáticas.md",
     "Física/Eletromagnetismo/Campo magnético.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Citologia/Membrana plasmática.md",
     "Biologia/Citologia/História da célula.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
@@ -201,8 +218,6 @@
     "Biologia/Impactos ambientais/Espécies exóticas.md",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
-    "Biologia/Impactos ambientais/Conservação de Hotspots - corredor ecológico.md",
-    "Biologia/Impactos ambientais/Aquecimento global.md",
     "Química/Estequiometria",
     "Química/Resumos",
     "Excalidraw",
