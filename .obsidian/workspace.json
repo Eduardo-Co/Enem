@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91ae4522bc4c08d8",
+            "id": "7c8a2c6228f619fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Reações químicas/Reações químicas.md",
+                "file": "Química/Reações químicas/Catalisadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reações químicas"
-            }
-          },
-          {
-            "id": "7c8a2c6228f619fc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "title": "Catalisadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,9 +180,10 @@
   },
   "active": "7c8a2c6228f619fc",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Reações químicas/Reações químicas.md",
     "Química/Reações químicas/Fenômeno físico e químico.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Reações químicas/Catalisadores.md",
     "Química/Reações químicas",
     "Física/Optica/Óptica geométrica/Olho.md",
     "Física/Optica/Óptica geométrica/Laminas de faces paralelas.md",
@@ -219,8 +207,6 @@
     "Biologia/Citologia/História da célula.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Impactos ambientais/Egostos.md",
-    "Biologia/Impactos ambientais/Espécies exóticas.md",
-    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "Química/Estequiometria",
     "Química/Resumos",
     "Excalidraw",
