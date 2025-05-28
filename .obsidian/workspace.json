@@ -33,7 +33,8 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +191,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "1af266538d65997c",
+  "active": "1d8a0af93d84c971",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Optica/Óptica geométrica/Olho.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Optica/Óptica geométrica/Laminas de faces paralelas.md",
     "Física/Optica/Óptica geométrica/Reflexão total.md",
     "Física/Optica/Óptica geométrica/Imagem em Dioptros planos.md",
