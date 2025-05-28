@@ -23,7 +23,7 @@ $$
 \text{ordem total} = m + n
 $$
 
-- Exemplo: Se \( v = k \cdot [A]^1 \cdot [B]^2 \), ordem total = 3
+- Exemplo: Se $v = k \cdot [A]^1 \cdot [B]^2$ , ordem total = 3
 
 ---
 
