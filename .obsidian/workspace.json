@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Reações químicas/Fenômeno físico e químico.md",
+                "file": "Química/Reações químicas/Reações químicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fenômeno físico e químico"
+              "title": "Reações químicas"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "91ae4522bc4c08d8",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Reações químicas/Fenômeno físico e químico.md",
+    "Química/Reações químicas/Reações químicas.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Reações químicas",
     "Física/Optica/Óptica geométrica/Olho.md",
     "Física/Optica/Óptica geométrica/Laminas de faces paralelas.md",

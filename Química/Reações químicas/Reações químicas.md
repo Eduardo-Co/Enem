@@ -1,0 +1,3 @@
+- síntese/adição / síntese total ou parcial
+- decomposição /análise todos os tipos também
+- deslocamento simples/troca
