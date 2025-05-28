@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Reações químicas/Neutralização ou salificação.md",
+                "file": "Química/Reações químicas/Combustão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neutralização ou salificação"
+              "title": "Combustão"
             }
           }
         ]
@@ -180,10 +180,12 @@
   },
   "active": "7c8a2c6228f619fc",
   "lastOpenFiles": [
-    "Química/Reações químicas/Catalisadores.md",
+    "Química/Reações químicas/Oxiredução.md",
+    "Química/Reações químicas/Combustão.md",
     "Química/Reações químicas/Neutralização ou salificação.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Reações químicas/Reações químicas.md",
+    "Química/Reações químicas/Catalisadores.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Reações químicas/Fenômeno físico e químico.md",
     "Química/Reações químicas",
     "Física/Optica/Óptica geométrica/Olho.md",
@@ -206,8 +208,6 @@
     "Física/Eletromagnetismo/Campo magnético.md",
     "Biologia/Citologia/Membrana plasmática.md",
     "Biologia/Citologia/História da célula.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
-    "Biologia/Impactos ambientais/Egostos.md",
     "Química/Estequiometria",
     "Química/Resumos",
     "Excalidraw",
