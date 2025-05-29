@@ -29,3 +29,10 @@ _Infere-se, portanto, que as políticas públicas ineficazes e as falhas educaci
 - Citação 
 - Contextualizou 
 - Adicionou mais coisas ao argumento como exemplos do que ele afirmou acima. 
+- Conclui da mesma forma, exigindo uma mudança para tratar do problema
+
+---
+
+## Conclusão:
+
+- O que chamou atenção foi a retomada da introdução, mais especificamente uma citação que ele fez. 
