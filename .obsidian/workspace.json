@@ -11,12 +11,14 @@
             "id": "a0fbf67750072bdf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Matemática/Funções/Equação linear.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Equação linear"
             }
           }
         ]
@@ -176,12 +178,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "a0fbf67750072bdf",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Funções/Equação linear.md",
     "Matemática/Funções",
     "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Carboidratos.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Cinética química/Mecanismos de reação.md",
     "Química/Cinética química/Teoria das colisões.md",
     "Química/Cinética química/Velocidade média.md",
@@ -206,7 +209,6 @@
     "Física/Optica/Óptica geométrica/Espelhos esféricos.md",
     "Física/Optica/Óptica geométrica/Translação, rotação e associação de espelhos.md",
     "Física/Optica/Óptica geométrica/Princípios óptica geométrica.md",
-    "Física/Optica/Luz/Propriedades da luz 2.md",
     "Química/Estequiometria",
     "Química/Resumos",
     "Excalidraw",
@@ -216,7 +218,6 @@
     "Untitled.canvas",
     "Geografia/Demografia",
     "Biologia/Citologia",
-    "Redação/Competência 2",
     "Matemática/Untitled.canvas",
     "História e filosofia/Untitled.canvas",
     "Biologia/Caixinhas.canvas",
