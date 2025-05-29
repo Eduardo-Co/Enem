@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Tirar 200 pontos"
             }
+          },
+          {
+            "id": "103975e026d17076",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Redação/Red1000/2024/Drawing 2025-05-29 13.41.47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-29 13.41.47.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "103975e026d17076",
   "lastOpenFiles": [
+    "O.pdf",
     "Redação/Competência 2/Tirar 200 pontos.md",
+    "Redação/Red1000/2024/Drawing 2025-05-29 13.41.47.excalidraw.md",
+    "Redação/Red1000/2024",
+    "Redação/Red1000/Untitled Kanban.md",
     "Redação/Redação nota 1000/2024 - Desafios para a valorização da herança africana no Brasil/Drawing 2025-05-29 13.23.01.excalidraw.md",
+    "Redação/Red1000",
     "Redação/Redação nota 1000/2024 - Desafios para a valorização da herança africana no Brasil/1.md",
     "Redação/Redação nota 1000/2024 - Desafios para a valorização da herança africana no Brasil",
     "Redação/Redação nota 1000",
@@ -209,13 +227,8 @@
     "Química/Reações químicas/Catalisadores.md",
     "Química/Reações químicas/Fenômeno físico e químico.md",
     "Química/Reações químicas",
-    "Física/Optica/Óptica geométrica/Olho.md",
-    "Física/Optica/Óptica geométrica/Laminas de faces paralelas.md",
-    "Física/Optica/Óptica geométrica/Reflexão total.md",
     "Química/Estequiometria",
     "Química/Resumos",
-    "Excalidraw",
-    "Física/Optica/Óptica geométrica",
     "Física/Caixinhas.canvas",
     "Redação/Pasted image 20250516214114.png",
     "Untitled.canvas",
