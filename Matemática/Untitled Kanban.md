@@ -46,6 +46,7 @@ kanban-plugin: board
 - [ ] Unidade de medida: centiLitro
 - [ ] Questão - 165252
 - [ ] Antecipar parcelas - juros mais complicados
+- [ ] Questão 170 - 2024
 
 
 ## concluido

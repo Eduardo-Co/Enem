@@ -32,9 +32,33 @@
               "icon": "lucide-file-text",
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
+          },
+          {
+            "id": "f3fd4c2a478ec5c5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Matemática/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,10 +215,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "1d8657ae85b7a1fd",
+  "active": "f3fd4c2a478ec5c5",
   "lastOpenFiles": [
-    "Matemática/Funções/Equação linear.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Funções/Equação linear.md",
     "Matemática/Funções",
     "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Carboidratos.md",
