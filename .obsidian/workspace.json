@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Equação linear"
             }
+          },
+          {
+            "id": "1d8657ae85b7a1fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "a0fbf67750072bdf",
+  "active": "1d8657ae85b7a1fd",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Funções/Equação linear.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Funções",
     "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Carboidratos.md",
