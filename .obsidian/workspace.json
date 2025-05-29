@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,8 +215,9 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "f3fd4c2a478ec5c5",
+  "active": "1d8657ae85b7a1fd",
   "lastOpenFiles": [
+    "Matemática/Untitled Kanban.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Funções/Equação linear.md",
     "Matemática/Funções",
