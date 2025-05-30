@@ -46,7 +46,7 @@ Mito da caverna.
 
 ---
 
-Os tipos de amor por platão. 
-
-- amor platônico
-- mito do andrógino. 
+| Tema                  | Resumo Essencial                                                                  |
+| --------------------- | --------------------------------------------------------------------------------- |
+| **Amor platônico**    | Amor ideal, não carnal; busca da beleza e perfeição espiritual, além do corpo.    |
+| **Mito do Andrógino** | Explica a busca do ser humano por sua “metade” perdida, origem do desejo amoroso. |
