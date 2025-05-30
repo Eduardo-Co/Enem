@@ -1,0 +1,2 @@
+
+Relação do homem antropológico, sem cosmologia e astros. Homem com a moral, homem com as relações sociais política, catarse, estética etc... Mas é sempre o homem no foco. Não deixamos de ser socráticos, não existe pós socrático. 
