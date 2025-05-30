@@ -16,3 +16,16 @@
 - ==Conheça-te a ti mesmo==, e assim conhecerá o universo dos Deuses.
 - Tese + Antítese = Síntese
 - Dialética
+- Universalista - Verdade Absoluta
+
+---
+
+| Aspecto                   | Característica Socrática/Platônica                                                       |
+| ------------------------- | ---------------------------------------------------------------------------------------- |
+| **Universalismo**         | Busca de verdades universais e absolutas.                                                |
+| **Contra o relativismo**  | Oposto à visão sofista (“tudo é relativo”).                                              |
+| **Intelectualismo ético** | Saber e agir estão conectados: quem conhece o bem, faz o bem.                            |
+| **Essência do ser**       | Procura pelo que é próprio e permanente em cada coisa (essência).                        |
+| **Dialética**             | Método de diálogo: tese + antítese = síntese (busca da verdade por confronto de ideias). |
+| **Conhecimento de si**    | “Conhece-te a ti mesmo”: autoconhecimento leva ao saber universal.                       |
+| **Universalidade moral**  | Existem valores e virtudes que valem para todos, independentemente da cultura.           |

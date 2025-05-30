@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "História e filosofia/Gregos/Filosfia/Sócrates.md",
+                "file": "História e filosofia/Gregos/Filosfia/Platão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sócrates"
+              "title": "Platão"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "fc0802333729dd74",
   "lastOpenFiles": [
-    "História e filosofia/Gregos/Filosfia/Pré socrático.md",
+    "História e filosofia/Gregos/Filosfia/Sofistas.md",
+    "História e filosofia/Gregos/Filosfia/Platão.md",
     "História e filosofia/Gregos/Filosfia/Sócrates.md",
+    "História e filosofia/Gregos/Filosfia/Pré socrático.md",
     "História e filosofia/Gregos/Filosfia/Untitled.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "História e filosofia/Gregos/História/Esparta e Atenas.md",
@@ -211,8 +213,6 @@
     "Biologia/Bioquimica/Carboidratos.md",
     "Química/Cinética química/Mecanismos de reação.md",
     "Química/Cinética química/Teoria das colisões.md",
-    "Química/Cinética química/Velocidade média.md",
-    "Química/Cinética química/Velocidade na reação.md",
     "Química/Cinética química",
     "Química/Reações químicas",
     "Química/Estequiometria",
