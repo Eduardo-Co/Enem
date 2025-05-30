@@ -31,3 +31,12 @@ Argumentos: estagnação estatal e negligência educacional
 - Citação
 - Contextualizou dizendo que o problema ainda é presente
 - Explicou porque não é presente, com exemplos. 
+- Consequências do problema.
+- Concluiu do mesmo modo, dizendo que "o problema corrobora a temática mostrada"
+---
+
+## Conclusão
+
+- Encerrou de maneira normal, dizendo que acabar com esses problemas citados, ou melhor, acabar com a problemática trará benefícios para sociedade que vão ao oposto do que ocorre atualmente.
+
+---
