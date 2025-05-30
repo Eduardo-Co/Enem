@@ -33,8 +33,20 @@ Mito da caverna.
 
 ---
 
-Parte política de platão - A república
+|Tema|Resumo Essencial|
+|---|---|
+|**Justiça**|Tema central: busca pelo conceito de justiça na vida individual e coletiva.|
+|**Cidade ideal**|República: sociedade perfeita, estruturada em classes e governada pelos sábios (filósofos).|
+|**Poder aos sábios**|Defesa da aristocracia do conhecimento; governantes devem ser os mais sábios e justos.|
+|**Polis ideal**|Chefe governa pelo bem coletivo, não por interesse próprio.|
+|**Moral pública/privada**|Moral pública superior à privada; bem comum acima dos interesses individuais.|
+|**Papel do Estado**|Estado forte necessário para ordem, justiça e controle social.|
+|**Injustiça**|Sofrer injustiça é menos grave que praticá-la; ética acima da vantagem pessoal.|
+|**Anel de Giges**|Alegoria sobre tentação do poder e moralidade: verdadeiro justo age corretamente mesmo sem vigilância.|
 
-- Tema central da obre é a justiça 
-- Uma cidade ideal é a república
-- 
+---
+
+Os tipos de amor por platão. 
+
+- amor platônico
+- mito do andrógino. 
