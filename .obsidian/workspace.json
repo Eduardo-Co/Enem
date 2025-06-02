@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e58939c4baa0ccc",
+        "id": "5acb5e6949ffc5e5",
         "type": "tabs",
         "children": [
           {
-            "id": "b4411548cd05d391",
+            "id": "60597b04c3129400",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,11 +178,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "b4411548cd05d391",
+  "active": "60597b04c3129400",
   "lastOpenFiles": [
+    "Biologia/Bioenergia/Respiração celular/Ciclo de Krebs.md",
+    "Biologia/Bioenergia/Respiração celular/Glicólise.md",
     "Biologia/Bioenergia/Respiração celular/Introdução - Respiração celular.md",
     "Biologia/Bioquimica/Carboidratos.md",
-    "Biologia/Bioenergia/Respiração celular/Glicólise.md",
     "Biologia/Bioenergia/Respiração celular",
     "Biologia/Bioenergia/Hidrogenossomos e mitossomos.md",
     "Biologia/Bioenergia/Mitocôndria.md",
@@ -211,7 +212,6 @@
     "Química/Misturas/PPM e PPB.md",
     "Química/Misturas/Mistura de soluções.md",
     "Química/Misturas/Diluição.md",
-    "Química/Misturas/Curvas de solubilidade.md",
     "Redação/Red1000/2024",
     "Redação/Red1000",
     "Redação/Redação nota 1000/2024 - Desafios para a valorização da herança africana no Brasil",
