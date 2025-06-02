@@ -11,24 +11,14 @@
             "id": "60d384a2beb3c52d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Biologia/Bioquimica/Carboidratos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Carboidratos"
             }
           }
         ]
@@ -190,6 +180,7 @@
   },
   "active": "60d384a2beb3c52d",
   "lastOpenFiles": [
+    "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Química/Misturas/Título de massa.md",
     "Química/Misturas/Titulação.md",
