@@ -22,6 +22,9 @@ kanban-plugin: board
 - [ ] Elétrica/Eletrodinamica/Ohm/etc...
 - [ ] Conta elétrica/Painel Solar
 - [ ] Leitura de Manual aparelho
+- [ ] ### Questão 132 172328
+	
+	ENEM PPL 2° Dia 2017
 
 
 ## Revisar
