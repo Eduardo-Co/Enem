@@ -25,12 +25,14 @@
             "id": "d1d163967738254d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Bioenergia/Mitocôndria.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Mitocôndria"
             }
           }
         ],
@@ -193,6 +195,10 @@
   },
   "active": "d1d163967738254d",
   "lastOpenFiles": [
+    "Biologia/img/Pasted image 20250602100520.png",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Bioenergia/Mitocôndria.md",
+    "Biologia/Bioenergia",
     "Biologia/Bioquimica/Carboidratos.md",
     "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Água.md",
@@ -202,7 +208,6 @@
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Bioquimica/Lipídeos.md",
     "O.pdf",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Bioquimica/Enzimas.md",
     "Biologia/Bioquimica/Proteínas.md",
     "Biologia/Bioquimica/Dna.md",
@@ -220,8 +225,6 @@
     "Química/Misturas/Curvas de solubilidade.md",
     "Química/Misturas/Concentração molar.md",
     "Química/Misturas/Concentração Comum.md",
-    "Química/Separação de misturas/Método de misturas heterogênias.md",
-    "Química/Separação de misturas/Tratamento de esgoto.md",
     "Redação/Red1000/2024",
     "Redação/Red1000",
     "Redação/Redação nota 1000/2024 - Desafios para a valorização da herança africana no Brasil",
@@ -229,7 +232,6 @@
     "Matemática/Funções",
     "Química/Cinética química",
     "Química/Reações químicas",
-    "Química/Estequiometria",
     "Redação/Pasted image 20250516214114.png",
     "Untitled.canvas",
     "Matemática/Untitled.canvas",
