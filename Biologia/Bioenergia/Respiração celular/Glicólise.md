@@ -1,0 +1,4 @@
+- quebra da glicose 
+- 6 carbonos -> quebrada em duas moléculas de 3. Ácido pirúvico ou pirvutado
+- Glicose -> piruvato. 
+- Essa etapa ocorre fora da mitrocondria; No citopl
