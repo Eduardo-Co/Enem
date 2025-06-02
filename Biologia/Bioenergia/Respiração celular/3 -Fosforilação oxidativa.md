@@ -1,0 +1,3 @@
+- A membrana interna - dobras;
+- As cristas participam da cadeia transportadora de elétrons
+- NAD
