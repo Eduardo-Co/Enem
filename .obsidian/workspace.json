@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "141bc778edd4dc69",
+        "id": "104be02e45e4f21f",
         "type": "tabs",
         "children": [
           {
-            "id": "745c7617b000edbe",
+            "id": "47ffdf60920981e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fermentação.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Fermentação"
+              "title": "New tab"
             }
           }
         ]
@@ -178,10 +174,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "745c7617b000edbe",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fatores limitantes da fotossíntese e ponto de compensação luminoso.md",
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Quimiossíntese.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fermentação.md",
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fatores limitantes da fotossíntese e ponto de compensação luminoso.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Plantas C3,C4 e MAC.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
@@ -213,7 +210,6 @@
     "Biologia/Bioquimica/Dna.md",
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
-    "Química/Misturas/Título de massa.md",
     "Redação/Red1000/2024",
     "Redação/Red1000",
     "Redação/Redação nota 1000/2024 - Desafios para a valorização da herança africana no Brasil",
