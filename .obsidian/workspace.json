@@ -11,12 +11,14 @@
             "id": "745c7617b000edbe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fermentação.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Fermentação"
             }
           }
         ]
@@ -178,11 +180,13 @@
   },
   "active": "745c7617b000edbe",
   "lastOpenFiles": [
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fatores limitantes da fotossíntese e ponto de compensação luminoso.md",
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fermentação.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Plantas C3,C4 e MAC.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Leucoplasto e Amiloplasto.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Cloroplastos.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/img/Pasted image 20250602164120.png",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese",
     "Biologia/Bioenergia/Respiração celular/Inibidor de cadeia respiratória.md",
@@ -210,8 +214,6 @@
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Química/Misturas/Título de massa.md",
-    "Química/Misturas/Titulação.md",
-    "Química/Misturas/Tamanho das particulas.md",
     "Redação/Red1000/2024",
     "Redação/Red1000",
     "Redação/Redação nota 1000/2024 - Desafios para a valorização da herança africana no Brasil",
