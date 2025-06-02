@@ -53,9 +53,40 @@
 
 ----
 
-- fase escura 
-- ocorre no estroma
-- na faze escura foi produzido NADPH e ATP
-- na fase escura há uma captação do CO2 pelo estomato
-- as moléculas de glicose é produizdo no ciclo das pentoses ou calvin 
-- usa o NADPH e o ATP
+### **Fase Escura da Fotossíntese (Ciclo de Calvin)**
+
+- **Onde ocorre:** No **estroma** dos cloroplastos (parte interna, fora dos tilacoides).
+- **Depende indiretamente da luz:** Usa o **ATP** e o **NADPH** produzidos na fase clara.
+- **Captação de CO₂:** O CO₂ entra na folha pelos **estômatos**.
+
+---
+
+#### **Resumo das Etapas do Ciclo de Calvin**
+
+|Etapa|O que acontece|
+|---|---|
+|**1. Fixação do carbono**|- Enzima **Rubisco** fixa o CO₂ em uma pentose (RuBP).|
+||- Forma moléculas de 3 carbonos (3-fosfoglicerato).|
+|**2. Redução**|- Usa **ATP** (doa fosfato) e **NADPH** (doa hidrogênios).|
+||- Converte os 3-fosfogliceratos em **G3P** (triose).|
+|**3. Regeneração da RuBP**|- Parte do G3P vira glicose, outra parte **regenera RuBP**.|
+
+---
+
+#### **Resumo em tópicos**
+
+- **CO₂ entra pelo estômato**.
+    
+- **Rubisco** fixa o CO₂ em RuBP (ribulose-1,5-bifosfato), formando **3-fosfoglicerato** (3C).
+    
+- **ATP** doa energia/fosfato, **NADPH** doa hidrogênio: forma **G3P** (triose, 3C).
+    
+- **G3P**:
+    
+    - Parte vira **glicose** (união de duas trioses).
+        
+    - Parte regenera a RuBP (pentose) para reiniciar o ciclo.
+        
+- **Resumo químico:**
+    
+    - **6 CO₂ + 18 ATP + 12 NADPH → 1 glicose + 18 ADP + 12 NADP⁺ + 18 Pi**
