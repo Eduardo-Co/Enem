@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Bioquimica/Proteínas.md",
+                "file": "Biologia/Bioquimica/Carboidratos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proteínas"
+              "title": "Carboidratos"
+            }
+          },
+          {
+            "id": "d1d163967738254d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,11 +191,21 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "60d384a2beb3c52d",
+  "active": "d1d163967738254d",
   "lastOpenFiles": [
-    "Biologia/Bioquimica/Dna.md",
-    "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Carboidratos.md",
+    "Biologia/Bioquimica/Aminoácidos.md",
+    "Biologia/Bioquimica/Água.md",
+    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Relações ecológicas.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
+    "Biologia/Bioquimica/Lipídeos.md",
+    "O.pdf",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Bioquimica/Enzimas.md",
+    "Biologia/Bioquimica/Proteínas.md",
+    "Biologia/Bioquimica/Dna.md",
     "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Química/Misturas/Título de massa.md",
@@ -199,16 +222,6 @@
     "Química/Misturas/Concentração Comum.md",
     "Química/Separação de misturas/Método de misturas heterogênias.md",
     "Química/Separação de misturas/Tratamento de esgoto.md",
-    "Química/Separação de misturas/Misturas homogêneas.md",
-    "História e filosofia/Gregos/Filosfia/Helenística.md",
-    "História e filosofia/Gregos/Filosfia/Aristóteles.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "História e filosofia/Gregos/Filosfia/Platão.md",
-    "História e filosofia/Gregos/Filosfia/Sofistas.md",
-    "História e filosofia/Gregos/Filosfia/Sócrates.md",
-    "História e filosofia/Gregos/Filosfia/Pré socrático.md",
-    "História e filosofia/Gregos/Filosfia/Untitled.md",
-    "O.pdf",
     "Redação/Red1000/2024",
     "Redação/Red1000",
     "Redação/Redação nota 1000/2024 - Desafios para a valorização da herança africana no Brasil",
