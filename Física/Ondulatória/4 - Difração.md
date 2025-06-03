@@ -1,0 +1,2 @@
+- definição difração de onda
+- 
