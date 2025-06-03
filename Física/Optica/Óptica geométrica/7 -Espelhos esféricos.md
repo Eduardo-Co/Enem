@@ -12,8 +12,6 @@
 ---
 Elementos geométricos
 
-## Espelhos Esféricos (Côncavos) — Conceitos Principais
-
 - **Centro de curvatura (C):** Centro da esfera que gera o espelho.
 - **Vértice (V):** Ponto central da superfície do espelho.
 - **Foco principal (F):** Ponto onde raios paralelos ao eixo principal convergem após a reflexão.
