@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Optica/Óptica geométrica/Princípios óptica geométrica.md",
+                "file": "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Princípios óptica geométrica"
+              "title": "7 -Espelhos esféricos"
             }
           }
         ]
@@ -180,7 +180,11 @@
   },
   "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Física/Optica/Óptica geométrica/Reflexão.md",
+    "Física/Optica/Óptica geométrica/6 -Translação, rotação e associação de espelhos.md",
+    "Física/Optica/Óptica geométrica/Refração da luz.md",
+    "Física/Optica/Óptica geométrica/5 -Reflexão total.md",
+    "Física/Optica/Óptica geométrica/4 -Reflexão.md",
+    "Física/Optica/Óptica geométrica/1 -Princípios óptica geométrica.md",
     "Física/Optica/Luz/Propriedades da luz 2.md",
     "Física/Optica/Luz/Propriedades da luz.md",
     "Física/Optica/Luz/Natureza da luz.md",
@@ -205,11 +209,7 @@
     "Biologia/Bioenergia/Respiração celular/Inibidor de cadeia respiratória.md",
     "Biologia/Bioenergia/Respiração celular/3 -Fosforilação oxidativa.md",
     "Biologia/Bioenergia/Respiração celular/2 -Ciclo de Krebs.md",
-    "Biologia/Bioenergia/Respiração celular/1 -Glicólise.md",
-    "Biologia/Bioenergia/Respiração celular/Introdução - Respiração celular.md",
-    "Biologia/Bioquimica/Carboidratos.md",
     "Biologia/Bioenergia/Respiração celular",
-    "Biologia/Bioenergia/Hidrogenossomos e mitossomos.md",
     "Biologia/img/Pasted image 20250602100520.png",
     "Biologia/Bioenergia",
     "O.pdf",
