@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
+                "file": "Física/Optica/Óptica geométrica/Refração da luz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 -Espelhos esféricos"
+              "title": "Refração da luz"
             }
           }
         ]
@@ -178,16 +178,25 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "47ffdf60920981e3",
   "lastOpenFiles": [
+    "Física/Optica/Óptica geométrica/Imagem em Dioptros planos.md",
+    "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
     "Física/Optica/Óptica geométrica/6 -Translação, rotação e associação de espelhos.md",
-    "Física/Optica/Óptica geométrica/Refração da luz.md",
     "Física/Optica/Óptica geométrica/5 -Reflexão total.md",
     "Física/Optica/Óptica geométrica/4 -Reflexão.md",
+    "Física/Optica/Óptica geométrica/3 -Eclipses.md",
+    "Física/Optica/Óptica geométrica/2 -Objetos e imagem.md",
     "Física/Optica/Óptica geométrica/1 -Princípios óptica geométrica.md",
     "Física/Optica/Luz/Propriedades da luz 2.md",
     "Física/Optica/Luz/Propriedades da luz.md",
     "Física/Optica/Luz/Natureza da luz.md",
+    "Física/Eletromagnetismo/Condutores no campo magnético.md",
+    "Física/Eletromagnetismo/Movimento da carga em um campo elétrico.md",
+    "Física/Eletromagnetismo/Forças magnéticas sobre a carga.md",
+    "Física/Eletromagnetismo/Campo magnético gerado por um fio - espira - senoide.md",
+    "Física/Eletromagnetismo/Campo magnético.md",
+    "Física/Optica/Óptica geométrica/Refração da luz.md",
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Eletroestática + fotovoltaica/Campo elétrico.md",
     "Física/Eletroestática + fotovoltaica/Carga e força elétrica.md",
@@ -198,17 +207,8 @@
     "Física/Eletroestática + fotovoltaica/Tensão e trabalho.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Quimiossíntese.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fermentação.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fatores limitantes da fotossíntese e ponto de compensação luminoso.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Plantas C3,C4 e MAC.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Leucoplasto e Amiloplasto.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Cloroplastos.md",
     "Biologia/img/Pasted image 20250602164120.png",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese",
-    "Biologia/Bioenergia/Respiração celular/Inibidor de cadeia respiratória.md",
-    "Biologia/Bioenergia/Respiração celular/3 -Fosforilação oxidativa.md",
-    "Biologia/Bioenergia/Respiração celular/2 -Ciclo de Krebs.md",
     "Biologia/Bioenergia/Respiração celular",
     "Biologia/img/Pasted image 20250602100520.png",
     "Biologia/Bioenergia",
