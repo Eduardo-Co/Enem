@@ -1,6 +1,0 @@
-- definição onda
-- Crista
-- vale
-- Comprimento de onda 
-- Amplitude -> energia
-- 

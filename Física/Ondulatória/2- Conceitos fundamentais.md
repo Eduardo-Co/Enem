@@ -1,0 +1,3 @@
+- período -> s/vibração
+- frequência -> v/segundo
+-  
