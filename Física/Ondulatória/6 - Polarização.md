@@ -1,0 +1,3 @@
+- Criar polos em um onda, polarização.
+- Filtro polarizador passar só um tipo de onda, apenas uma vibração / filtro analisador.
+-  
