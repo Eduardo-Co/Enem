@@ -41,3 +41,8 @@
 
 - Para que uma pessoa veja seu corpo inteiro em um espelho plano, a altura mínima do espelho deve ser igual à metade da altura da pessoa.
 - Isso se deve à semelhança de triângulos formados pelos raios de luz que vão dos pés e da cabeça da pessoa até seus olhos, refletindo no espelho.
+
+
+---
+
+==Lembre-se, uma reflexão em um espelho plano tem que se manter as mesmas distâncias, ela apenas reverte a imagem. Pense em o espelho de casa.== 

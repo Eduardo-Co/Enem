@@ -11,12 +11,14 @@
             "id": "a7a25ebb79302d8c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Optica/Óptica geométrica/4 -Reflexão.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "4 -Reflexão"
             }
           }
         ]
@@ -178,8 +180,10 @@
   },
   "active": "a7a25ebb79302d8c",
   "lastOpenFiles": [
-    "Física/Ondulatória/6 - Polarização.md",
+    "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
+    "Física/Optica/Óptica geométrica/4 -Reflexão.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Ondulatória/6 - Polarização.md",
     "Física/Ondulatória/5 - Ressonância.md",
     "Física/Ondulatória/4 - Difração.md",
     "Física/Ondulatória/3 - Reflexão e refração.md",
@@ -189,10 +193,8 @@
     "Física/Ondulatória",
     "Física/Optica/Óptica geométrica/Refração da luz.md",
     "Física/Optica/Óptica geométrica/Imagem em Dioptros planos.md",
-    "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
     "Física/Optica/Óptica geométrica/6 -Translação, rotação e associação de espelhos.md",
     "Física/Optica/Óptica geométrica/5 -Reflexão total.md",
-    "Física/Optica/Óptica geométrica/4 -Reflexão.md",
     "Física/Optica/Óptica geométrica/3 -Eclipses.md",
     "Física/Optica/Óptica geométrica/2 -Objetos e imagem.md",
     "Física/Optica/Óptica geométrica/1 -Princípios óptica geométrica.md",
