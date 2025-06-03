@@ -1,2 +1,4 @@
 - definição difração de onda
-- 
+- princípio de huygens 
+- quanto maior restrição maior é a refração. Tem que ter obstáculos. 
+- difração pequeno -> pequeno, difração é mais perceptível quanto maior for as dimensões do obstáculo em relação ao comprimento de onda

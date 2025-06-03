@@ -1,0 +1,4 @@
+- definição ressonância
+- frequência igual ou múltiplo da frequências naturais do corpo. isso provoca a vibração do corpo. 
+- ressonância para captar transmissões
+- ponte em tacoma narrows
