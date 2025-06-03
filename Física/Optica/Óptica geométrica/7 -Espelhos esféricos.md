@@ -49,3 +49,4 @@ Referencial de gauss
     
 - **Equação dos espelhos esféricos:**  
     $\dfrac{1}{f} = \dfrac{1}{p} + \dfrac{1}{p'}$
+c
