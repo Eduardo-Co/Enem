@@ -41,3 +41,34 @@ Os valores de \( m \) e \( n \) são **determinados por experimento**, não pela
 ---
 
 > 💡 As leis da velocidade são essenciais para prever e controlar a dinâmica das reações químicas!
+
+
+
+## 🔎 Exemplo Prático
+
+Para a reação:  
+$$
+2\text{NO}(g) + 2\text{H}_2(g) \rightarrow \text{N}_2(g) + 2\text{H}_2\text{O}(g)
+$$
+
+Em laboratório, encontrou-se:
+$$
+v = k \cdot [\text{NO}]^2 \cdot [\text{H}_2]^1
+$$
+
+| Reagente    | Ordem (expoente) | Efeito ao dobrar concentração |
+| ----------- | ---------------- | ----------------------------- |
+| \(\text{NO}\)    | 2                | Velocidade ×4                |
+| \(\text{H}_2\)   | 1                | Velocidade ×2                |
+
+- **Ordem total:** \(2 + 1 = 3\)
+
+---
+
+## 🧠 Resumo das Regras
+
+- Dobrar [NO] → velocidade quadruplica  
+- Dobrar [H₂] → velocidade dobra  
+- Dobrar ambos → velocidade ×8
+
+---
