@@ -1,4 +1,13 @@
+- Classificações de ácidos
 - monopróticos ou monoácidos -> liberam um H+
 - Liberar um íon H+ ou tem só um H na formula
 - Dipróicos:
-- 2 hidrogênios -> liberam H+ duas etapas de ionização. 
+- 2 hidrogênios -> liberam H+ duas etapas de ionização, cada etapa perde 1H+ ex H2SO4  -> H^ +  HSO4^- -> HSO4^- -> H^+ + SO4^2-
+- Ácidos tripóticos ou triácidos: mesmo processo do diprótico ou diácido  
+- só olhar a quantidade oxigênio.
+- Excessões da afirmação acima, H3PO3 e H3PO2. 
+- Quanto à volatilidade -> Evaporar: únicos que não evaporam H2SO4, H3PO4 únicos que são fixos
+- Ausência ou presença de oxigênio:
+- Sem oxigênio; Hidrácidos
+- Com oxigênio: Oxiácidos
+- 
