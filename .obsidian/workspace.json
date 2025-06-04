@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Bases"
             }
+          },
+          {
+            "id": "f34fdafea79fb715",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "41c28ff5df076c22",
+  "active": "f34fdafea79fb715",
   "lastOpenFiles": [
     "Química/Funções inorgânicas/Bases/Bases.md",
     "Química/Funções inorgânicas/Bases",
