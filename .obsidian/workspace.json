@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "104be02e45e4f21f",
+        "id": "8f4df3e46cc71e10",
         "type": "tabs",
         "children": [
           {
-            "id": "ef47db5aed0f8679",
+            "id": "428bff3e9e6e983d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Funções inorgânicas/Funções inorgânicas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Funções inorgânicas"
             }
           }
         ]
@@ -176,8 +178,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "ef47db5aed0f8679",
+  "active": "428bff3e9e6e983d",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Funções inorgânicas/Funções inorgânicas.md",
+    "Química/Funções inorgânicas",
     "Química/Misturas/Relação entre as concentrações.md",
     "Química/Misturas/Solubilidade.md",
     "Química/Misturas/PPM e PPB.md",
@@ -191,7 +196,6 @@
     "Química/Reações químicas/Neutralização ou salificação.md",
     "Química/Reações químicas/Reações químicas.md",
     "Química/Reações químicas/Combustão.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Reações químicas/Oxiredução.md",
     "Química/Reações químicas/Fenômeno físico e químico.md",
     "Química/Cinética química/5 - Mecanismos de reação.md",
@@ -203,8 +207,6 @@
     "Química/Cinética química/1- Teoria das colisões.md",
     "Química/Ligações químicas/Geometria molecular.md",
     "Química/Untitled Kanban.md",
-    "Física/Untitled Kanban.md",
-    "Física/Optica/Óptica geométrica/Imagem em Dioptros planos.md",
     "Física/Ondulatória",
     "Biologia/img/Pasted image 20250602164120.png",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese",
@@ -216,7 +218,6 @@
     "Redação/Red1000/2024",
     "Redação/Red1000",
     "Redação/Redação nota 1000/2024 - Desafios para a valorização da herança africana no Brasil",
-    "Redação/Redação nota 1000",
     "Redação/Pasted image 20250516214114.png",
     "Untitled.canvas",
     "Matemática/Untitled.canvas",
