@@ -3,7 +3,7 @@ Definido em:
 - Estrutura sintática
 - Desvios gramaticais
 
-No máximo 2 desvios e 1 na estrutura sintática
+No máximo 2 desvios gramaticais e 1 na estrutura sintática - 200 Pontos / Máximo
 
 ---
 ## Estrutura sintática:
