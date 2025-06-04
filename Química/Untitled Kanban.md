@@ -23,7 +23,6 @@ kanban-plugin: board
 ## Faltou de questões
 
 - [ ] Precipitação - 134342
-- [ ] Conceito de densidade
 - [ ] Titulação
 
 
@@ -39,6 +38,7 @@ kanban-plugin: board
 
 ## Concluído
 
+- [ ] Conceito de densidade
 
 
 
