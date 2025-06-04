@@ -35,6 +35,8 @@ kanban-plugin: board
 - [ ] Exemplo de transformadores na prática
 - [ ] Teoria - Força eletromotriz, gerador e receptor
 - [ ] Eletrodinâmica -> Entender e aplicar a leis de kirchoff e técnica de vinicius
+- [ ] ótica - Ampliação linear / Inversão e interferência
+- [ ] ótica - vergência
 
 
 ## Concluido
