@@ -1,0 +1,11 @@
+ - grau de ionização ($\alpha$)
+ - Moléculas ionizadas /moléculas totais * 100
+ - Porcentagem do grau de ionização
+ - ou regra de três simples.
+ - Fraco < 5%, até 50% moderado >= 50% forte
+ - Força dos hidrácidos
+ - Forte só existem três -> HCl, HBr, HI na ordem de força
+ - Moderado -> HF
+ - resto é fraco.
+ - Os maios fortes estão na mesma família da tabela, Familia 7A
+ - 
