@@ -1,0 +1,13 @@
+- Nomeclatura dos ácidos:
+- presença de oxigênio -
+- hidrácido - sem 
+- oxiácido - com
+- ácido nome do elemento + ídrico 
+- Quando for hidrácido
+- Nomeclatura dos oxiácidos
+- ácido per __ ico
+- ácido __ico
+- ácido __ oso
+- ácido hipo __ oso
+- Depende doo NOX. lembrando que em ácidos é sempre H = +1 e O = -2
+- Exceções se coindiciar com a familia então é sempre ico no final
