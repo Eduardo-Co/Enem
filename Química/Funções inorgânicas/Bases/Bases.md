@@ -3,3 +3,9 @@
 	- n° ions
 	- força
 	- solubilidade
+
+	- Monobases -> 1 OH sobrou
+	- dibases -> 2 OH
+	- tribases -> 3 OH
+	- Fortes: 1A, 2A
+	- fracos: Resto
