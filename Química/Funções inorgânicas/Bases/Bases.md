@@ -1,0 +1,5 @@
+- Arrhenius: compostos que quando dissolvidos em agua geram ânion, sendo eles o hidróxidos (OH^-)
+- Classificação: 
+	- n° ions
+	- força
+	- solubilidade
