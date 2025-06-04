@@ -1,0 +1,4 @@
+- monopróticos ou monoácidos -> liberam um H+
+- Liberar um íon H+ ou tem só um H na formula
+- Dipróicos:
+- 2 hidrogênios -> liberam H+ duas etapas de ionização. 
