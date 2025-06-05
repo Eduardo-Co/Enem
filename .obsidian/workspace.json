@@ -4,53 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "54ec42e66d6fb106",
+        "id": "19df880ccb57df73",
         "type": "tabs",
         "children": [
           {
-            "id": "9fc87d7b2a5bc33c",
+            "id": "0d129cf47b962031",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redação/Red1000/2024/2 - Desafios da cultura africana no Brasil.md",
+                "file": "Matemática/Funções/1°grau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Desafios da cultura africana no Brasil"
+              "title": "1°grau"
             }
           },
           {
-            "id": "e995b4f67c915c4d",
+            "id": "18864e3269942416",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Redação/Competência 3/Projeto de texto.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Projeto de texto"
-            }
-          },
-          {
-            "id": "8270b6c8144b4942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redação/Red1000/2024/1 -Desafios da herança africana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 -Desafios da herança africana"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,40 +190,40 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "8270b6c8144b4942",
+  "active": "0d129cf47b962031",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Funções/1°grau.md",
+    "Pasted image 20250605082616.png",
+    "Matemática/Matemática básica/Conjuntos/Cálculo de subconjuntos.md",
+    "Matemática/Untitled Kanban.md",
+    "Matemática/Matemática básica/Conjuntos/Conjuntos numéricos.md",
+    "Matemática/Matemática básica/Porcentagem/Questões.md",
+    "Matemática/Matemática básica/Porcentagem/Porcentagem.md",
+    "Matemática/Matemática básica/Razão e proporção/Razão e proporção.md",
+    "Matemática/Matemática básica/Razão e proporção/Regra de três.md",
+    "Matemática/Matemática básica/Razão e proporção/Escala.md",
+    "Matemática/Matemática básica/MMC e MDC.md",
+    "Matemática/Matemática básica/Teorema fundamental da divisibilidade e critérios de divisibilidade.md",
+    "Matemática/Matemática básica/Quantidade de divisores naturais.md",
+    "Matemática/Matemática básica/Produto e divisão.md",
+    "Matemática/Matemática básica/Radiciação.md",
+    "Matemática/Matemática básica/Unidades de medida.md",
+    "Matemática/Matemática básica/Juros/Compostos.md",
+    "Matemática/Untitled.canvas",
     "Redação/Red1000/2024/2 - Desafios da cultura africana no Brasil.md",
     "Redação/Competência 3/Projeto de texto.md",
     "Redação/Red1000/2024/1 -Desafios da herança africana.md",
     "Redação/Competência 3/Argumentação.md",
     "Redação/Competência 3/Aspectos avaliativos.md",
-    "Pasted image 20250605082616.png",
     "Química/Funções inorgânicas/Bases/Bases.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Competência 3",
     "Química/Funções inorgânicas/Bases",
     "Redação/Sacadas sobre os títulos.md",
     "Redação/2 - Além da matéria.md",
     "Redação/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
-    "Redação/Introdução/Como fazer a introdução.md",
-    "Redação/Desenvolvimento 2/Desenvolvimento 2.md",
-    "Redação/Desenvolvimento 1/Desenvolvimento 1.md",
-    "Redação/Competência 2/Repertório coringa.md",
-    "Redação/Competência 2/Repertório sociocultural.md",
-    "Redação/Competência 2/Textos motivadores.md",
-    "Redação/Competência 2/Aspectos avaliados no repertório.md",
-    "Redação/Competência 1/C1 - Aspectos avaliativos.md",
-    "Redação/Competência 1/Principais desvios gramaticais.md",
-    "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
-    "Química/Funções inorgânicas/Ácidos/Força ácido.md",
     "Química/Funções inorgânicas/Ácidos",
-    "Química/Funções inorgânicas/Ácidos/Classificação de ácidos.md",
-    "Química/Funções inorgânicas/Funções inorgânicas.md",
     "Química/Funções inorgânicas",
-    "Química/Misturas/Relação entre as concentrações.md",
-    "Química/Misturas/Solubilidade.md",
-    "Química/Misturas/PPM e PPB.md",
-    "Química/Separação de misturas/Misturas homogêneas.md",
     "Física/Ondulatória",
     "Biologia/img/Pasted image 20250602164120.png",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese",
@@ -251,7 +234,6 @@
     "Física/Caixinhas.canvas",
     "Redação/Pasted image 20250516214114.png",
     "Untitled.canvas",
-    "Matemática/Untitled.canvas",
     "História e filosofia/Untitled.canvas",
     "Biologia/Caixinhas.canvas",
     "Química/Untitled.canvas",

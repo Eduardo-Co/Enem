@@ -4,22 +4,6 @@ kanban-plugin: board
 
 ---
 
-## Decorar
-
-- [ ] Critérios e teorema da divisbilidade
-
-
-## Treinar
-
-- [ ] Radiciação / Potenciação
-- [ ] MMC/MDC
-
-
-## Entender
-
-- [ ] Porcentagem
-
-
 ## Fazer exercícios esporadicamente
 
 - [ ] Porcentagem
@@ -53,10 +37,19 @@ kanban-plugin: board
 
 
 
+## O que deve ter no resumo
+
+- [ ] Divisores naturais
+- [ ] Critérios de divisibilidade
+- [ ] Escala
+- [ ] Juros - Antecipação de parcelas e fórmulas
+- [ ] Subconjuntos
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
