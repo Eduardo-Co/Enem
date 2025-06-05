@@ -27,4 +27,33 @@
 
 4. Parágrafo:
 
-	***Resumo/Retomada***: O tópico frasal da sua conclusão tem de ser um breve resumo de tudo que você apresentou ( tema + tese + argumentos). Não esqueça de iniciá-lo com um operador argumentativo. 
+	***Resumo/Retomada***: O tópico frasal da sua conclusão tem de ser um breve resumo de tudo que você apresentou ( tema + tese + argumentos). Não esqueça de iniciá-lo com um operador argumentativo.
+
+	 ***Proposta de intervenção***: para finalizar seu texto, é necessário resolver todos os argumentos apresentados na redação. 
+
+	Detalhar bem a proposta de intervenção é importante para a nota. 
+
+---
+
+## Aprofundamento do esqueleto do texto:
+
+Essa parte não é necessária, mas é profundamente recomendada para que garanta o máximo de pontos possível:
+
+1. Parágrafo:
+
+	***Prévia dos argumentos***: Tente encerrar a sua introdução com uma prévia dos argumentos que serão apresentados ao longo do seu texto.
+
+2. Parágrafo:
+
+	Após o tópico frasal 1 e o desenvolvimento do argumento. Poderá ser apresentado:
+	
+	***Possível repertório***: Esse é um bom momento para utilizar outro repertório sociocultural, cuidando sempre para que o uso seja produtivo no texto. 
+	***Apenas um repertório cultural produtivo é necessário para tirar 200 na C2, porém caso haja mais de um produtivo, sua argumentação será mais produtiva.***
+
+3. Parágrafo:
+
+	Conexão + tópico frasal 2 + desenvolvimento do argumento 2 + Possível repertório
+
+	***Argumento 2:***  Ao desenvolver o 2° argumento tente deixar implícito qual será a proposta de intervenção.
+
+	***Possível repertório:***  Outro bom momento para um repertório sociocultural. 
