@@ -1,0 +1,2 @@
+- É necessário hierarquizar os argumentos, assim mostra-se que há um projeto de texto bem feito.  Exemplo: Apresentar a causa antes da consequência; O argumento mais abrangente e em seguida o mais específico. 
+- 

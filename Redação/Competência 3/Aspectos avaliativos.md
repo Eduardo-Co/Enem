@@ -1,4 +1,5 @@
 ![[Pasted image 20250605082616.png]]
+
 ## Projeto de texto:
 
 Esquema geral da estrutura de um texto, no qual se estabelecem os principais pontos pelos quais deve passar a argumentação a ser desenvolvida. Planejamento prévio à escrita da redação, que se mostra subjacente no texto final. É um esquema que se deixa perceber pela organização dos argumentos presentes no texto. 
@@ -13,4 +14,7 @@ Considera-se desenvolvimento a fundamentação dos argumentos, explicitando e ex
 ---
 ## Autoria:
 
+Para o Enem, o conceito de autoria se mostra relacionado ao projeto de texto elaborado e ao desenvolvimento, ou seja, não é preciso se preocupar com autoria. Afinal, há muitas divergências - entre os linguistas - sobre a definição de autoria. 
+
+---
 
