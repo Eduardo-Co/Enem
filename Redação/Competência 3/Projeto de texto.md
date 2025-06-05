@@ -54,6 +54,16 @@ Essa parte não é necessária, mas é profundamente recomendada para que garant
 
 	Conexão + tópico frasal 2 + desenvolvimento do argumento 2 + Possível repertório
 
-	***Argumento 2:***  Ao desenvolver o 2° argumento tente deixar implícito qual será a proposta de intervenção.
+	***Argumento 2:***  Ao desenvolver o 2° argumento tente deixar implícito qual será a proposta de intervenção. 
 
-	***Possível repertório:***  Outro bom momento para um repertório sociocultural. 
+	***Possível repertório:***  Outro bom momento para um repertório sociocultural. No entanto, aqui não é bom colocar um repertório, prefere-se aprofundar no argumento. 
+
+
+4. Parágrafo:
+	Resumo/Retomada + proposta de intervenção + fechamento
+
+	Fechamento: Não finalize o texto "de soco". Feche o seu texto com uma frase que conclua as ideias apresentadas. Geralmente, frases de efeitos são bem vindas, mas isso não é o mais importante
+	***Esse não é um elemento obrigatório, mas é recomendável e ajuda bastante a evoluir a qualidade do seu texto.***
+	Recuperar uma ideia ou um repertório será MUITO bem visto. 
+
+
