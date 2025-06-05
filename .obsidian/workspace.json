@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Redação/Competência 3/Projeto de texto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projeto de texto"
+            }
+          },
+          {
+            "id": "8270b6c8144b4942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Redação/Red1000/2024/1 -Desafios da herança africana.md",
                 "mode": "source",
                 "source": false
@@ -36,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,12 +207,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e995b4f67c915c4d",
+  "active": "8270b6c8144b4942",
   "lastOpenFiles": [
     "Redação/Red1000/2024/2 - Desafios da cultura africana no Brasil.md",
+    "Redação/Competência 3/Projeto de texto.md",
     "Redação/Red1000/2024/1 -Desafios da herança africana.md",
     "Redação/Competência 3/Argumentação.md",
-    "Redação/Competência 3/Projeto de texto.md",
     "Redação/Competência 3/Aspectos avaliativos.md",
     "Pasted image 20250605082616.png",
     "Química/Funções inorgânicas/Bases/Bases.md",
