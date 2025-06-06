@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguagens/Analise sintática/Estrutura e Definições.md",
+                "file": "Linguagens/Virgulas/Uso errôneo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estrutura e Definições"
+              "title": "Uso errôneo"
             }
           }
         ],
@@ -195,8 +195,11 @@
   },
   "active": "e0d8085bf4817273",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Linguagens/Virgulas/Usos da vírgula.md",
+    "Linguagens/Virgulas/Uso errôneo.md",
     "Linguagens/Analise sintática/Estrutura e Definições.md",
+    "Linguagens/Virgulas",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Cronograma.md",
     "História e filosofia/Império romano/Roma antiga.md",
     "Linguagens/Analise sintática",
@@ -225,13 +228,11 @@
     "Matemática/Matemática básica/Conjuntos/Conjuntos numéricos.md",
     "Matemática/Matemática básica/Porcentagem/Questões.md",
     "Matemática/Matemática básica/Porcentagem/Porcentagem.md",
-    "Matemática/Matemática básica/Razão e proporção/Razão e proporção.md",
     "Matemática/Untitled.canvas",
     "Redação/Competência 3",
     "Química/Funções inorgânicas/Bases",
     "Química/Funções inorgânicas/Ácidos",
     "Química/Funções inorgânicas",
-    "Física/Ondulatória",
     "Biologia/img/Pasted image 20250602164120.png",
     "Biologia/img/Pasted image 20250602100520.png",
     "Física/Caixinhas.canvas",
