@@ -1,3 +1,5 @@
+
+==Qualidade atribuída depois, como resultado da ação.==
 ### 1. **Predicativo do Sujeito**
 
 - **Função:** Atribui uma qualidade, estado ou condição ao sujeito, no predicado.
