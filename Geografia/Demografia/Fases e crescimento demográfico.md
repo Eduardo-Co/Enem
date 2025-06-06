@@ -1,11 +1,11 @@
-|Conceito|Essência (≤ 15 palavras)|
-|---|---|
-|Crescimento **vertical**|Saldo **nascimentos − mortes** positivo; adensa a população existente.|
-|Crescimento **horizontal**|Saldo **imigração − emigração** positivo; migrações ampliam o total.|
-|Taxa de **natalidade**|Nascidos vivos por 1000 hab./ano.|
-|Taxa de **fecundidade**|Filhos médios por mulher (15-49 anos).|
-|Taxa de **mortalidade**|Óbitos por 1000 hab./ano.|
-|Taxa de **crescimento**|Variação total anual = saldo natural + saldo migratório.|
+| zConceito                  | Essência (≤ 15 palavras)                                               |
+| -------------------------- | ---------------------------------------------------------------------- |
+| Crescimento **vertical**   | Saldo **nascimentos − mortes** positivo; adensa a população existente. |
+| Crescimento **horizontal** | Saldo **imigração − emigração** positivo; migrações ampliam o total.   |
+| Taxa de **natalidade**     | Nascidos vivos por 1000 hab./ano.                                      |
+| Taxa de **fecundidade**    | Filhos médios por mulher (15-49 anos).                                 |
+| Taxa de **mortalidade**    | Óbitos por 1000 hab./ano.                                              |
+| Taxa de **crescimento**    | Variação total anual = saldo natural + saldo migratório.               |
 
 |Fase demográfica|Características-chave (≤ 15 palavras)|
 |---|---|
