@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b44dc79c150a967",
+        "id": "e6599766d9d8400d",
         "type": "tabs",
         "children": [
           {
-            "id": "f64f1b86df581676",
+            "id": "597e0c458bfc6192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguagens/Analise sintática/Predicativos.md",
+                "file": "Linguagens/Analise sintática/Complemento adnominal e adjunto adnominal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Predicativos"
+              "title": "Complemento adnominal e adjunto adnominal"
             }
           }
         ]
@@ -178,10 +178,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "f64f1b86df581676",
+  "active": "597e0c458bfc6192",
   "lastOpenFiles": [
-    "Linguagens/Analise sintática/Sujeito e predicado.md",
+    "Linguagens/Analise sintática/Objetos.md",
+    "Linguagens/Analise sintática/Complemento adnominal e adjunto adnominal.md",
     "Linguagens/Analise sintática/Predicativos.md",
+    "Linguagens/Analise sintática/Sujeito e predicado.md",
     "Linguagens/Virgulas/Uso errôneo.md",
     "Linguagens/Analise sintática/Estrutura e Definições.md",
     "Linguagens/Como estudar.md",
@@ -211,8 +213,6 @@
     "Matemática/Estatística/Básica.md",
     "Matemática/Funções/1°grau.md",
     "Matemática/Estatística",
-    "Matemática/Matemática básica/Conjuntos/Cálculo de subconjuntos.md",
-    "Matemática/Untitled Kanban.md",
     "Matemática/Untitled.canvas",
     "Redação/Competência 3",
     "Química/Funções inorgânicas/Bases",
