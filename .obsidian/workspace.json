@@ -34,18 +34,6 @@
               "icon": "lucide-file",
               "title": "Roma antiga"
             }
-          },
-          {
-            "id": "c4012b2108ff91e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
-            }
           }
         ],
         "currentTab": 1
