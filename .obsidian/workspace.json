@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cronograma.md",
+                "file": "História e filosofia/Império romano/Roma antiga.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cronograma"
+              "title": "Roma antiga"
+            }
+          },
+          {
+            "id": "c4012b2108ff91e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ],
@@ -195,7 +207,12 @@
   },
   "active": "e0d8085bf4817273",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "História e filosofia/Império romano/Roma antiga.md",
     "Geografia/Demografia/Pequenos agricultores e patrimônio histórico.md",
+    "História e filosofia/Império romano/Untitled",
+    "História e filosofia/Império romano",
+    "Cronograma.md",
     "Geografia/Demografia/Teorias demográficas.md",
     "Geografia/Demografia/PEA e economia.md",
     "Geografia/Demografia/Panoramas e conceitos Demográficos.md",
@@ -204,7 +221,6 @@
     "Geografia/Demografia/Indicadores sociais.md",
     "Geografia/Demografia/Herança cultural e memória coletiva.md",
     "Geografia/Demografia/Fases e crescimento demográfico.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Pasted image 20250605082616.png",
     "Matemática/Estatística/Básica.md",
     "Matemática/Funções/1°grau.md",
@@ -221,9 +237,6 @@
     "Matemática/Matemática básica/Teorema fundamental da divisibilidade e critérios de divisibilidade.md",
     "Matemática/Matemática básica/Quantidade de divisores naturais.md",
     "Matemática/Matemática básica/Produto e divisão.md",
-    "Matemática/Matemática básica/Radiciação.md",
-    "Matemática/Matemática básica/Unidades de medida.md",
-    "Matemática/Matemática básica/Juros/Compostos.md",
     "Matemática/Untitled.canvas",
     "Redação/Competência 3",
     "Química/Funções inorgânicas/Bases",
@@ -232,9 +245,7 @@
     "Física/Ondulatória",
     "Biologia/img/Pasted image 20250602164120.png",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese",
-    "Biologia/Bioenergia/Respiração celular",
     "Biologia/img/Pasted image 20250602100520.png",
-    "Biologia/Bioenergia",
     "Física/Caixinhas.canvas",
     "Redação/Pasted image 20250516214114.png",
     "Untitled.canvas",
