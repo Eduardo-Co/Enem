@@ -1,0 +1,2 @@
+- separar oração subordinada que vem antes da principal 
+- 

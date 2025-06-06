@@ -1,0 +1,6 @@
+- período simples
+- composto
+- Oração principal
+- Oração subordinada substantiva 
+- Oração subordinada substÂntiva indireta que faz papael de objeto indireto
+- Oraçãoa subordinada substantiva subjetiva -> suje
