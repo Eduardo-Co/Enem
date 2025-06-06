@@ -1,5 +1,4 @@
 
-
 # Poema é uma espécie de enigma:
 
 Utiliza-se da flexibilidade da língua portuguesa para "enganar", mascarar, sua real intenção, então:
