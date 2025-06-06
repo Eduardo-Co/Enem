@@ -1,0 +1,6 @@
+- Mulheres participavam mais na política/economia.
+- Havia água encanada, aquedutos. 
+- Divida em três:
+- Monarquia: Estabelecimento das classes sociais; Patrícios, Clientes, Plebeus, Escravizados. Falar economia e religião
+- República: Distribuição das funções/poderes. Revolta da plebe pela falta de poder político. Crise da república. 
+- Império:
