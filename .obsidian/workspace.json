@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Clima"
             }
+          },
+          {
+            "id": "2da3c24d222997b8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "c4ee0e37159e9182",
+  "active": "2da3c24d222997b8",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Clima Brasileiro/Clima.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Clima Brasileiro",
     "Linguagens/Conteúdos que caem/Palavras comuns.md",
     "Linguagens/Conteúdos que caem/Eliminação de questões.md",
