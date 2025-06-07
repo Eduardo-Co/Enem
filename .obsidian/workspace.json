@@ -11,12 +11,14 @@
             "id": "c4ee0e37159e9182",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Geografia/Clima Brasileiro/Clima.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Clima"
             }
           }
         ]
@@ -179,6 +181,8 @@
   "active": "c4ee0e37159e9182",
   "lastOpenFiles": [
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Geografia/Clima Brasileiro/Clima.md",
+    "Geografia/Clima Brasileiro",
     "Linguagens/Conteúdos que caem/Palavras comuns.md",
     "Linguagens/Conteúdos que caem/Eliminação de questões.md",
     "Linguagens/Conteúdos que caem/Estruturas da questão do Enem.md",
@@ -207,7 +211,6 @@
     "Linguagens/Conteúdos que não caem/Virgulas/Usos da vírgula.md",
     "Linguagens/Conteúdos que não caem/Analise sintática/Adjunto adverbial.md",
     "Linguagens/Conteúdos que não caem/Analise sintática/Diferenciação entre Predicativo Complemento e adjunto.md",
-    "Linguagens/Conteúdos que não caem/Analise sintática/Complemento adnominal e adjunto adnominal.md",
     "Linguagens/Conteúdos que não caem/Virgulas",
     "Linguagens/Conteúdos que não caem/Analise sintática",
     "História e filosofia/Império romano/Untitled",
@@ -215,7 +218,6 @@
     "Redação/Pasted image 20250605082616.png",
     "Matemática/Estatística",
     "Matemática/Untitled.canvas",
-    "Redação/Competência 3",
     "Biologia/img/Pasted image 20250602164120.png",
     "Biologia/img/Pasted image 20250602100520.png",
     "Física/Caixinhas.canvas",
