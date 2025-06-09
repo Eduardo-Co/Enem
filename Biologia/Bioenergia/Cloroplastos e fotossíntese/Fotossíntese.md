@@ -34,7 +34,7 @@
     - Elétrons excitados pela luz retornam ao seu aceptor original, formando um ciclo.
     - **Produz ATP** (mas não NADPH nem O₂).
     - Lembra a cadeia transportadora de elétrons da respiração: os elétrons vão pulando entre moléculas, liberando energia.
-
+![[Fotofosforilação+cíclica.jpg]]
 - ##### **Fotofosforilação Acíclica (principal da fase clara)**
     1. **Fotossistema II (FSII) capta luz** → elétron é excitado e ejetado.
     2. **Esse elétron passa por uma cadeia transportadora**, liberando energia para bombear prótons (H⁺) para o interior do tilacoide.
@@ -51,6 +51,7 @@
     - **NADPH** (poder redutor para o ciclo de Calvin)
     - **O₂** (subproduto liberado)
 
+![[Fotofosforilação+acíclica.jpg]]
 ----
 
 ### **Fase Escura da Fotossíntese (Ciclo de Calvin)**
@@ -70,7 +71,7 @@
 |**2. Redução**|- Usa **ATP** (doa fosfato) e **NADPH** (doa hidrogênios).|
 ||- Converte os 3-fosfogliceratos em **G3P** (triose).|
 |**3. Regeneração da RuBP**|- Parte do G3P vira glicose, outra parte **regenera RuBP**.|
-
+![[869d7fee-ciclo-de-calvin.png]]
 ---
 
 #### **Resumo em tópicos**

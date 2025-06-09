@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Bioenergia/Respiração celular/3 -Fosforilação oxidativa.md",
+                "file": "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 -Fosforilação oxidativa"
+              "title": "Fotossíntese"
             }
           }
         ]
@@ -178,8 +178,21 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "800d5b3788b8acb9",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Biologia/img/869d7fee-ciclo-de-calvin.png",
+    "Biologia/img/Fotofosforilação+acíclica.jpg",
+    "Imagem do WhatsApp de 2025-06-09 à(s) 15.30.41_d78e94b4.jpg",
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
+    "Biologia/img/Comparação+fosforilação+cíclica+X+fosforilação+acíclica.jpg",
+    "Biologia/img/Fotofosforilação+cíclica.jpg",
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fermentação.md",
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fatores limitantes da fotossíntese e ponto de compensação luminoso.md",
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Cloroplastos.md",
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Quimiossíntese.md",
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Plantas C3,C4 e MAC.md",
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Leucoplasto e Amiloplasto.md",
+    "Biologia/Bioenergia/Respiração celular/3 -Fosforilação oxidativa.md",
     "Biologia/Bioenergia/Respiração celular/2 -Ciclo de Krebs.md",
     "Biologia/img/ciclo-de-krebs.webp",
     "Biologia/Bioenergia/Respiração celular/1 -Glicólise.md",
@@ -200,16 +213,7 @@
     "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
     "Geografia/Clima Brasileiro/Clima.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
-    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
-    "Biologia/Impactos ambientais/Egostos.md",
-    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
-    "Biologia/Ecologia/Teste de Ecologia.md",
     "Geografia/Clima Brasileiro",
-    "Linguagens/Conteúdos que caem/Palavras comuns.md",
-    "Linguagens/Conteúdos que caem/Eliminação de questões.md",
-    "Linguagens/Conteúdos que caem/Estruturas da questão do Enem.md",
     "Linguagens/Conteúdos que caem",
     "Linguagens/Conteúdos que não caem",
     "Linguagens/Untitled.canvas",
@@ -229,11 +233,7 @@
     "História e filosofia/Untitled.canvas",
     "Química/Untitled.canvas",
     "Biologia/img/Pasted image 20250512130556.png",
-    "Biologia/img/Pasted image 20250512123227.png",
-    "Biologia/img/Pasted image 20250512125733.png",
-    "Biologia/img/Pasted image 20250512130504.png",
     "Redação/Untitled.canvas",
-    "Química/img/Pasted image 20250507155531.png",
     "Geografia/Caixinhas.canvas",
     "Física/Untitled.canvas"
   ]
