@@ -71,7 +71,7 @@
 |**2. Redução**|- Usa **ATP** (doa fosfato) e **NADPH** (doa hidrogênios).|
 ||- Converte os 3-fosfogliceratos em **G3P** (triose).|
 |**3. Regeneração da RuBP**|- Parte do G3P vira glicose, outra parte **regenera RuBP**.|
-![[869d7fee-ciclo-de-calvin.png]]
+![[bio-3-4.webp]]
 ---
 
 #### **Resumo em tópicos**
