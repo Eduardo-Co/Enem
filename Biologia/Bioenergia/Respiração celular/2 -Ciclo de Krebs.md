@@ -107,3 +107,4 @@ Tudo multiplicado por dois, porquê são 2 piruvatos na glicólise.
 💡 Esses produtos representam a principal função do ciclo de Krebs: **extrair elétrons** e converter a energia química dos alimentos em transportadores energéticos ($NADH$ e $FADH_2$) que alimentarão a **cadeia transportadora de elétrons** para a produção massiva de ATP! 🔥⚡️
 
 ---
+![[ciclo-de-krebs.webp]]

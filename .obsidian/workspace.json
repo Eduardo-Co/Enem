@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Bioenergia/Respiração celular/1 -Glicólise.md",
+                "file": "Biologia/Bioenergia/Respiração celular/3 -Fosforilação oxidativa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 -Glicólise"
+              "title": "3 -Fosforilação oxidativa"
             }
           }
         ]
@@ -180,6 +180,9 @@
   },
   "active": "800d5b3788b8acb9",
   "lastOpenFiles": [
+    "Biologia/Bioenergia/Respiração celular/2 -Ciclo de Krebs.md",
+    "Biologia/img/ciclo-de-krebs.webp",
+    "Biologia/Bioenergia/Respiração celular/1 -Glicólise.md",
     "Biologia/Bioenergia/Mitocôndria.md",
     "Biologia/Bioenergia/Hidrogenossomos e mitossomos.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -207,8 +210,6 @@
     "Linguagens/Conteúdos que caem/Palavras comuns.md",
     "Linguagens/Conteúdos que caem/Eliminação de questões.md",
     "Linguagens/Conteúdos que caem/Estruturas da questão do Enem.md",
-    "Geografia/Tectonismo/Placas tectônicas.md",
-    "Geografia/Tectonismo/Estrutura da terra.md",
     "Linguagens/Conteúdos que caem",
     "Linguagens/Conteúdos que não caem",
     "Linguagens/Untitled.canvas",
@@ -233,7 +234,6 @@
     "Biologia/img/Pasted image 20250512130504.png",
     "Redação/Untitled.canvas",
     "Química/img/Pasted image 20250507155531.png",
-    "Química/img/Pasted image 20250430143026.png",
     "Geografia/Caixinhas.canvas",
     "Física/Untitled.canvas"
   ]
