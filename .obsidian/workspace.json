@@ -11,24 +11,14 @@
             "id": "e1c7c0efb7710ace",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Biologia/Bioquimica/Carboidratos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Carboidratos"
             }
           }
         ]
@@ -190,6 +180,9 @@
   },
   "active": "e1c7c0efb7710ace",
   "lastOpenFiles": [
+    "Biologia/Bioquimica/Proteínas.md",
+    "Biologia/Bioquimica/Lipídeos.md",
+    "Biologia/Untitled Kanban.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Bioquimica/Síntese Proteica.md",
     "Biologia/Bioquimica/Sais minerais.md",
@@ -220,9 +213,7 @@
     "Biologia/Citologia/História da célula.md",
     "Biologia/Bioquimica/Água.md",
     "Biologia/Bioquimica/Enzimas.md",
-    "Biologia/Bioquimica/Proteínas.md",
     "Biologia/Bioquimica/Aminoácidos.md",
-    "Biologia/Bioquimica/Lipídeos.md",
     "Biologia/Bioquimica/Carboidratos.md",
     "Geografia/Clima Brasileiro",
     "Linguagens/Conteúdos que caem",
