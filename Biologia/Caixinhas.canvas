@@ -164,7 +164,12 @@
 		{"id":"111415b2272c422f","type":"text","text":"ligação fosfodiéster","x":12340,"y":413,"width":250,"height":60},
 		{"id":"c66719bcdaf59fcc","type":"text","text":"Estrutura dos ácidos nucleicos","x":12660,"y":413,"width":250,"height":60},
 		{"id":"053176481808e4f4","type":"text","text":"Bases nitrogenadas","x":12960,"y":413,"width":250,"height":60},
-		{"id":"c65d23c7d47abb9b","type":"text","text":"Tipos","x":13260,"y":413,"width":250,"height":60}
+		{"id":"c65d23c7d47abb9b","type":"text","text":"Tipos","x":13260,"y":413,"width":250,"height":60},
+		{"id":"39b86d98945cd9bc","type":"text","text":"Citologia","x":14509,"y":185,"width":250,"height":60},
+		{"id":"c447d74ed775800d","x":14070,"y":395,"width":250,"height":60,"type":"text","text":"Membrana"},
+		{"id":"8acc20a4c89d7ecb","x":13776,"y":596,"width":250,"height":60,"type":"text","text":"Transportes"},
+		{"id":"6707f4a25a6000ed","x":13777,"y":834,"width":250,"height":60,"type":"text","text":"Bomba sódio potássio"},
+		{"id":"8b4b0ff59a4e6a20","x":14509,"y":395,"width":250,"height":60,"type":"text","text":"Organelas\n"}
 	],
 	"edges":[
 		{"id":"8879b600c42c49e3","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"d0b82dd16d5a8770","toSide":"top","color":"4"},
@@ -334,6 +339,11 @@
 		{"id":"a5bcc8f244d7f4ab","fromNode":"dc3c9c3bc14d1285","fromSide":"bottom","toNode":"1ce82136765a12f5","toSide":"top"},
 		{"id":"fafd3819bbd7b635","fromNode":"87aaa51b74f6f5e0","fromSide":"bottom","toNode":"c66719bcdaf59fcc","toSide":"top"},
 		{"id":"c1955857b2e51622","fromNode":"87aaa51b74f6f5e0","fromSide":"bottom","toNode":"053176481808e4f4","toSide":"top"},
-		{"id":"93282c7b1b1862cc","fromNode":"87aaa51b74f6f5e0","fromSide":"bottom","toNode":"c65d23c7d47abb9b","toSide":"top"}
+		{"id":"93282c7b1b1862cc","fromNode":"87aaa51b74f6f5e0","fromSide":"bottom","toNode":"c65d23c7d47abb9b","toSide":"top"},
+		{"id":"f9ec0bce92032d42","fromNode":"77a1a2ab53705c4c","fromSide":"bottom","toNode":"39b86d98945cd9bc","toSide":"top"},
+		{"id":"317b4451affa860f","fromNode":"39b86d98945cd9bc","fromSide":"bottom","toNode":"c447d74ed775800d","toSide":"top"},
+		{"id":"b94378c76b3963bc","fromNode":"c447d74ed775800d","fromSide":"bottom","toNode":"8acc20a4c89d7ecb","toSide":"top"},
+		{"id":"f8c98e008ee7c591","fromNode":"8acc20a4c89d7ecb","fromSide":"bottom","toNode":"6707f4a25a6000ed","toSide":"top"},
+		{"id":"790906430fde1217","fromNode":"39b86d98945cd9bc","fromSide":"bottom","toNode":"8b4b0ff59a4e6a20","toSide":"top"}
 	]
 }
