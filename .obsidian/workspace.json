@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1c7c0efb7710ace",
+            "id": "51745875a4f8a833",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biologia/Bioquimica/Carboidratos.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Carboidratos"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -178,8 +176,9 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e1c7c0efb7710ace",
+  "active": "51745875a4f8a833",
   "lastOpenFiles": [
+    "Biologia/Bioquimica/Carboidratos.md",
     "Biologia/Bioquimica/Proteínas.md",
     "Biologia/Bioquimica/Lipídeos.md",
     "Biologia/Untitled Kanban.md",
@@ -214,7 +213,6 @@
     "Biologia/Bioquimica/Água.md",
     "Biologia/Bioquimica/Enzimas.md",
     "Biologia/Bioquimica/Aminoácidos.md",
-    "Biologia/Bioquimica/Carboidratos.md",
     "Geografia/Clima Brasileiro",
     "Linguagens/Conteúdos que caem",
     "Linguagens/Conteúdos que não caem",
