@@ -44,3 +44,24 @@ A parede celular é um envoltório rígido que fica externamente à membrana pla
 | Estrutura | **Elástica**, ligações de H flexíveis              | **Rígida**, reforçada por lignina               |
 | Função    | Crescimento celular e comunicação via plasmodesmos | Reforço mecânico (xilema, súber, esclerênquima) |
 | Local     | Em todas as células em expansão                    | Em células já diferenciadas (fibras, vasos)     |
+
+---
+## RESUMO ULTRACURTO – Parede Celular
+
+|Grupo|Principal componente|Observação-chave|Dica para lembrar|
+|---|---|---|---|
+|**Bactéria**|Peptidoglicano|Gram+: espessa  <br>Gram-: fina + LPS|“Bactéria gosta de Pão”  <br>P**eptidoglicano**|
+|**Arquea**|Pseudopeptidoglicano  <br>S-layer (proteína)|Sem peptidoglicano “verdadeiro”|“Arquea é alternativa”|
+|**Alga**|Celulose (+ outros)|Pode ter sílica, cálcio, agar|“Alga é criativa: celulose e mais”|
+|**Fungo**|Quitina|Exoesqueleto|“Fungo = Quitina, tipo inseto”|
+|**Planta**|Celulose (hemicelulose e pectina)|Suporte, citocinese, turgor|“Planta: Celulose sempre”|
+
+---
+
+### Parede Primária × Secundária
+
+- **Primária**: Elástica, mais água, célula crescendo.
+- **Secundária**: Rígida (com lignina), menos água, suporte.
+
+
+
