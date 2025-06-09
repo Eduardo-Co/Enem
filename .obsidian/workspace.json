@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "326f6c15251cd8a4",
+        "id": "63f4a6b9a433685c",
         "type": "tabs",
         "children": [
           {
-            "id": "6d6abf5b530c1ddb",
+            "id": "a988ab2960f93ad4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Conceitos básicos"
             }
           }
         ]
@@ -174,8 +178,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "6d6abf5b530c1ddb",
+  "active": "a988ab2960f93ad4",
   "lastOpenFiles": [
+    "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
     "Geografia/Clima Brasileiro/Clima.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
@@ -205,8 +211,6 @@
     "Linguagens/Conteúdos que não caem/Virgulas/Vírgulas nas orações.md",
     "Linguagens/Conteúdos que não caem/Orações/Orações coordenadas.md",
     "Linguagens/Conteúdos que não caem/Orações/Orações substantivas reduzidas.md",
-    "Linguagens/Conteúdos que não caem/Orações/Oração subordinadas adverbiais.md",
-    "Linguagens/Conteúdos que não caem/Orações/Orações subordinadas adjetivas.md",
     "Linguagens/Conteúdos que não caem/Orações",
     "Linguagens/Conteúdos que não caem/Virgulas",
     "Linguagens/Conteúdos que não caem/Analise sintática",
