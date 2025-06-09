@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
+                "file": "Biologia/Bioquimica/Lipídeos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceitos básicos"
+              "title": "Lipídeos"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "a988ab2960f93ad4",
   "lastOpenFiles": [
-    "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
+    "Biologia/Bioquimica/Carboidratos.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Conceitos básicos.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
     "Geografia/Clima Brasileiro/Clima.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
     "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
@@ -210,7 +211,6 @@
     "Linguagens/Como estudar.md",
     "Linguagens/Conteúdos que não caem/Virgulas/Vírgulas nas orações.md",
     "Linguagens/Conteúdos que não caem/Orações/Orações coordenadas.md",
-    "Linguagens/Conteúdos que não caem/Orações/Orações substantivas reduzidas.md",
     "Linguagens/Conteúdos que não caem/Orações",
     "Linguagens/Conteúdos que não caem/Virgulas",
     "Linguagens/Conteúdos que não caem/Analise sintática",
