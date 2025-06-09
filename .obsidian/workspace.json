@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "15100fcec186e4d8",
+        "id": "326f6c15251cd8a4",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ee0e37159e9182",
+            "id": "6d6abf5b530c1ddb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geografia/Clima Brasileiro/Clima.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Clima"
-            }
-          },
-          {
-            "id": "2da3c24d222997b8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,9 +174,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "2da3c24d222997b8",
+  "active": "6d6abf5b530c1ddb",
   "lastOpenFiles": [
     "Geografia/Clima Brasileiro/Clima.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Processos de especiação.md",
+    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
+    "Biologia/Impactos ambientais/Egostos.md",
+    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
+    "Biologia/Ecologia/Ecologia básica e avançada/Sucessão ecológica.md",
+    "Biologia/Ecologia/Teste de Ecologia.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Clima Brasileiro",
     "Linguagens/Conteúdos que caem/Palavras comuns.md",
@@ -218,12 +207,7 @@
     "Linguagens/Conteúdos que não caem/Orações/Orações substantivas reduzidas.md",
     "Linguagens/Conteúdos que não caem/Orações/Oração subordinadas adverbiais.md",
     "Linguagens/Conteúdos que não caem/Orações/Orações subordinadas adjetivas.md",
-    "Linguagens/Conteúdos que não caem/Orações/Orações subordinada substântiva.md",
     "Linguagens/Conteúdos que não caem/Orações",
-    "Linguagens/Conteúdos que não caem/Virgulas/Uso errôneo.md",
-    "Linguagens/Conteúdos que não caem/Virgulas/Usos da vírgula.md",
-    "Linguagens/Conteúdos que não caem/Analise sintática/Adjunto adverbial.md",
-    "Linguagens/Conteúdos que não caem/Analise sintática/Diferenciação entre Predicativo Complemento e adjunto.md",
     "Linguagens/Conteúdos que não caem/Virgulas",
     "Linguagens/Conteúdos que não caem/Analise sintática",
     "História e filosofia/Império romano/Untitled",
