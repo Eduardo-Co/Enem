@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0b0217e3108be02",
+        "id": "9a9d8fd2d983e21d",
         "type": "tabs",
         "children": [
           {
-            "id": "51745875a4f8a833",
+            "id": "c85a29040f203745",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "7 -Espelhos esféricos"
             }
           }
         ]
@@ -160,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +177,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "51745875a4f8a833",
+  "active": "c85a29040f203745",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
     "Biologia/Bioquimica/Carboidratos.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Carboidratos.md",
     "Biologia/Bioquimica/Proteínas.md",
     "Biologia/Bioquimica/Lipídeos.md",
     "Biologia/Untitled Kanban.md",
@@ -211,7 +214,6 @@
     "Biologia/Citologia/Membrana plasmática.md",
     "Biologia/Citologia/História da célula.md",
     "Biologia/Bioquimica/Água.md",
-    "Biologia/Bioquimica/Enzimas.md",
     "Geografia/Clima Brasileiro",
     "Linguagens/Conteúdos que caem",
     "Linguagens/Conteúdos que não caem",
