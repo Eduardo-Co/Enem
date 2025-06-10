@@ -18,7 +18,20 @@
   - $P$: potência (W)
   - $A$: área (m²)
 
-## 📢 Nível Sonoro
+# 📢 **Nível Sonoro**
+
 - Medido em decibéis (dB).
-- Escala logarítmica que relaciona a intensidade sonora ao limiar de audição humano.
-- Permite comparar a intensidade percebida pelo ouvido humano.
+- Fórmula:
+  - Em decibéis:
+    $$
+    N = 10 \cdot \log\left(\frac{I}{I_0}\right)
+    $$
+  - Em bels (B):
+    $$
+    N = \log\left(\frac{I}{I_0}\right)
+    $$
+
+- Onde:
+  - $N$: nível sonoro.
+  - $I$: intensidade sonora observada (W/m²).
+  - $I_0$: limiar de audibilidade humano ($10^{-12}$ W/m²).

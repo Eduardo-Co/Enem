@@ -1,0 +1,3 @@
+- equação de tayolr
+- ondas estacionárias: nós e anti nós e interferência reflexão e interferência. 
+- 
