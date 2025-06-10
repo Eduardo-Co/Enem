@@ -1,0 +1,4 @@
+- Altura ou tom: frequência
+- Timbre: meio/fonte emissora diferença no comprimento de onda, pode ter a mesma frequência mas a onda se comporta de forma diferente. 
+- Intensidade; Energia da onda. $I = \frac{P}{A}$ área em $m^2$ 
+- Nível sonoro.
