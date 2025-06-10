@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Ondulatória/10 - Onda estacionária em cordas.md",
+                "file": "Física/Ondulatória/Efeito Doppler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Onda estacionária em cordas"
+              "title": "Efeito Doppler"
             }
           }
         ]
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Física/Ondulatória/Efeito Doppler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Efeito Doppler"
             }
           },
           {
@@ -179,8 +180,10 @@
   },
   "active": "ad3b07445a6b8b56",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Ondulatória/10 - Onda estacionária em cordas.md",
+    "Física/Ondulatória/Efeito Doppler.md",
+    "Física/Ondulatória/11 - Tubos Sonoros.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Ondulatória/9 - características do som.md",
     "Física/Ondulatória/8 - Acústica.md",
     "Física/Ondulatória/1- onda.md",
@@ -206,7 +209,6 @@
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fermentação.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Leucoplasto e Amiloplasto.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Quimiossíntese.md",
     "Biologia/img/bio-3-4.webp",
     "Biologia/img/869d7fee-ciclo-de-calvin.png",
     "Biologia/img/Fotofosforilação+acíclica.jpg",
