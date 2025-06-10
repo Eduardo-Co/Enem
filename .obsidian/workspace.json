@@ -11,12 +11,14 @@
             "id": "ac06d77d69f8f160",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Ondulatória/10 - Onda estacionária em cordas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "10 - Onda estacionária em cordas"
             }
           }
         ]
@@ -178,13 +180,13 @@
   },
   "active": "ac06d77d69f8f160",
   "lastOpenFiles": [
-    "Física/Ondulatória/7 - Inteferência.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Física/Ondulatória/Efeito Doppler.md",
+    "Física/Ondulatória/8 - Acústica.md",
     "Física/Ondulatória/9 - características do som.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Ondulatória/7 - Inteferência.md",
+    "Física/Ondulatória/Efeito Doppler.md",
     "Física/Ondulatória/10 - Onda estacionária em cordas.md",
     "Física/Ondulatória/11 - Tubos Sonoros.md",
-    "Física/Ondulatória/8 - Acústica.md",
     "Física/Ondulatória/1- onda.md",
     "Física/Untitled Kanban.md",
     "Física/Ondulatória/3 - Reflexão e refração.md",
