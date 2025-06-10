@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9a9d8fd2d983e21d",
+        "id": "a2c477294d962c96",
         "type": "tabs",
         "children": [
           {
-            "id": "c85a29040f203745",
+            "id": "ad3b07445a6b8b56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física/Ondulatória/1- onda.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1- onda"
-            }
-          },
-          {
-            "id": "12ecbc454168df03",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,9 +173,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "ad3b07445a6b8b56",
   "lastOpenFiles": [
     "Física/Ondulatória/1- onda.md",
+    "Física/Ondulatória/7 - Inteferência.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Untitled Kanban.md",
     "Física/Ondulatória/3 - Reflexão e refração.md",
     "Física/Caixinhas.canvas",
@@ -202,7 +187,6 @@
     "Física/Ondulatória/2- Conceitos fundamentais.md",
     "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
     "Biologia/Bioquimica/Carboidratos.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Carboidratos.md",
     "Biologia/Bioquimica/Proteínas.md",
     "Biologia/Bioquimica/Lipídeos.md",
@@ -225,7 +209,6 @@
     "Biologia/img/Fotofosforilação+cíclica.jpg",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Cloroplastos.md",
     "Biologia/Bioenergia/Respiração celular/3 -Fosforilação oxidativa.md",
-    "Biologia/Bioenergia/Respiração celular/2 -Ciclo de Krebs.md",
     "Biologia/img/ciclo-de-krebs.webp",
     "Geografia/Clima Brasileiro",
     "Linguagens/Conteúdos que caem",
