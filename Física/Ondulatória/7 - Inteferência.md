@@ -4,13 +4,13 @@
 - batimento sonoro: está relacionado com ritmicidade de ondas, ou seja, ondas sofrendo interferência de manteria cíclica e bem definida. Isso se dá pela diferença de frequência entre ondas
 - Interferência pontual: a diferença de distância $\Delta x= \frac{nf}{2}$ onde se forem ondas coerentes ou em fase (crista com crista) e n par então será construtiva caso contrário destrutiva e o impar também inverte essa situação
 
-***Lembre-se para houver interferência elas devem se propagar no mesmo meio.***
+***Lembre-se para houver interferência elas devem se propagar no mesmo meio. Elas precisam ser próximas ou ter a mesma frequência***
 
 
 
 - **Princípio da superposição**
     - Duas ou mais perturbações que chegam **ao mesmo ponto, no mesmo meio**, somam suas amplitudes ponto a ponto.
-    - Requisito-chave: **fontes coerentes** — mesma frequência e fase relativa constante.
+    - Requisito chave: **fontes coerentes** — mesma frequência e fase relativa constante.
         
 - **Interferência construtiva (máximos)**
     - Crista sobre crista ou vale sobre vale → amplitude resultante aumenta.
