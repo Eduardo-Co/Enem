@@ -1,0 +1,2 @@
+- processo dissociativo dos sais passo a passo
+- 

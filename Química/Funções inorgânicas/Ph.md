@@ -1,0 +1,5 @@
+- ph
+- ácidos em água
+- bases em água
+- escala de ph
+- 
