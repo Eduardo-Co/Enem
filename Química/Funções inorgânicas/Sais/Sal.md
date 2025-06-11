@@ -1,0 +1,3 @@
+- composto iônico -> ac + bas
+-  cation formado por algo diferente de h+
+- anion diferente de OH
