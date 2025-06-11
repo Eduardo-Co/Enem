@@ -11,12 +11,14 @@
             "id": "7eec1a2c68e37f8c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Funções inorgânicas/Ácidos/Força ácido.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Força ácido"
             }
           }
         ]
@@ -178,15 +180,15 @@
   },
   "active": "7eec1a2c68e37f8c",
   "lastOpenFiles": [
-    "Química/img/Pasted image 20250611095124.png",
+    "Química/Funções inorgânicas/Ácidos/Classificação de ácidos.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/img/Pasted image 20250611095124.png",
     "Química/Funções inorgânicas/Bases/Bases.md",
     "Química/Funções inorgânicas/Funções inorgânicas.md",
     "Química/Funções inorgânicas/Sais/Sal.md",
     "Química/Funções inorgânicas/Óxidos/Óxidos.md",
     "Química/Funções inorgânicas/Sais/Processo dissociativo dos sais.md",
     "Química/Funções inorgânicas/Sais/Reações de Neutralização.md",
-    "Química/Funções inorgânicas/Ácidos/Classificação de ácidos.md",
     "Química/Funções inorgânicas/Ph.md",
     "Física/Ondulatória/11 - Tubos.md",
     "Química/Funções inorgânicas/Óxidos",
