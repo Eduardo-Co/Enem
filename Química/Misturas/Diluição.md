@@ -7,14 +7,14 @@ Ao **adicionar solvente** a uma solução, estamos fazendo uma **diluição**: a
 ### 📐 Fórmula da Diluição
 
 $$
-M_1 \cdot V_1 = M_2 \cdot V_2
+C_1 \cdot V_1 = C_2 \cdot V_2
 $$
 
 Onde:
 
-- $M_1$ → concentração inicial (mol/L)
+- $C_1$ → concentração inicial (mol/L)
 - $V_1$ → volume inicial (L)
-- $M_2$ → concentração final (mol/L)
+- $C_2$ → concentração final (mol/L)
 - $V_2$ → volume final (L)
 
 Essa fórmula também vale para:

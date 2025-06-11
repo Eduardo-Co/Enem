@@ -2,6 +2,8 @@
 
 A **titulação** é um método experimental que permite determinar a **concentração de uma solução desconhecida** por meio de uma **reação química completa** com outra de concentração conhecida (**solução padrão**).
 
+==LEMBRE-SE DE VERIFICAR A EQUAÇÃO SE ESTÁ BALANCEADA OU NÃO==
+
 ---
 
 ### 🧪 Etapas da Titulação
