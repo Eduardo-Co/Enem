@@ -6,3 +6,4 @@
 	- quebradiço
 - todo sal é forte = libera ions em água
 - há os sais de carater ácido básico msito e hidratados
+- nomenclatura dos sais
