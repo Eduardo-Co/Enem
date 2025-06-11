@@ -3,7 +3,6 @@
 ### **Classificação**
 - **Hidrácidos:** **Sem oxigênio** (ex: HCl, HBr)
 - **Oxiácidos:** **Com oxigênio** (ex: H₂SO₄, HNO₃)
-    
 
 ---
 
