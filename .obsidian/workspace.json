@@ -33,7 +33,8 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,12 +191,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "465a76f9d4837fba",
+  "active": "52af4dcda7b47406",
   "lastOpenFiles": [
+    "Química/Funções inorgânicas/Sais/Sal.md",
     "Pasted image 20250611095124.png",
     "Química/Funções inorgânicas/Sais/Processo dissociativo dos sais.md",
     "Química/Funções inorgânicas/Sais/Reações de Neutralização.md",
-    "Química/Funções inorgânicas/Sais/Sal.md",
     "Química/Funções inorgânicas/Funções inorgânicas.md",
     "Química/Funções inorgânicas/Ácidos/Classificação de ácidos.md",
     "Química/Funções inorgânicas/Ph.md",
@@ -241,7 +242,6 @@
     "Redação/Pasted image 20250605082616.png",
     "Matemática/Untitled.canvas",
     "Biologia/img/Pasted image 20250602164120.png",
-    "Biologia/img/Pasted image 20250602100520.png",
     "Untitled.canvas",
     "História e filosofia/Untitled.canvas",
     "Química/Untitled.canvas",
