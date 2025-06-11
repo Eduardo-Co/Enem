@@ -1,3 +1,8 @@
 - composto iônico -> ac + bas
 -  cation formado por algo diferente de h+
 - anion diferente de OH
+- segue as propriedades das ligações covalentes
+	- se for solúvel libera ións então conduz carga elétrica
+	- quebradiço
+- todo sal é forte = libera ions em água
+- há os sais de carater ácido básico msito e hidratados
