@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
+                "file": "Química/Ligações químicas/Estruturas de Lewis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distribuição dos elementos e suas característica na tabela periódica"
+              "title": "Estruturas de Lewis"
             }
           }
         ]
@@ -178,8 +178,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "aaac730ddfd0da1c",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Química/Ligações químicas/Hibridização.md",
+    "Química/Ligações químicas/Ligações Sigma e Pi - Covalente.md",
+    "Química/Ligações químicas/Ligações metálicas.md",
+    "Química/Ligações químicas/Ligação Dativa ou Coordenada.md",
+    "Química/Ligações químicas/Ligação iônica.md",
+    "Química/Ligações químicas/Ligação covalente.md",
+    "Química/Atomo/3 - Tabela Periódica/Distribuição dos elementos e suas característica na tabela periódica.md",
     "Química/Atomo/3 - Tabela Periódica/Características das famílias.md",
     "Química/Atomo/3 - Tabela Periódica/Propriedades periódicas dos elementos.md",
     "Química/Atomo/2 - Distribuição eletrônica/Distribuição eletrônica.md",
@@ -206,13 +213,6 @@
     "Química/Funções inorgânicas/Teorias/Teoria ácido base.md",
     "Química/Funções inorgânicas/Teorias",
     "Física/Optica/Luz/Propriedades da luz.md",
-    "Física/Optica/Luz/Propriedades da luz 2.md",
-    "Física/Optica/Luz/Natureza da luz.md",
-    "Física/Optica/Óptica geométrica/5 -Reflexão total.md",
-    "Física/Optica/Óptica geométrica/3 -Eclipses.md",
-    "Física/Optica/Óptica geométrica/2 -Objetos e imagem.md",
-    "Física/Optica/Óptica geométrica/1 -Princípios óptica geométrica.md",
-    "Física/Ondulatória/2- Conceitos fundamentais.md",
     "Física/Caixinhas.canvas",
     "Biologia/Caixinhas.canvas",
     "Biologia/img/bio-3-4.webp",
