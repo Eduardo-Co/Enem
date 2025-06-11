@@ -1,5 +1,9 @@
 ## ⚗️ Neutralização Ácido–Base
 
+
+## ==PARA TER UMA NEUTRALIZAÇÃO TOTAL A QUANTIDADE DE H LIBERADAS TEM QUE SER IGUAL A QUANTIDADE DE HIDROXILAS LIBERADAS==
+
+
 ### Neutralização Total
 - **Definição**: Quando todo o ácido reage completamente com toda a base.
 - **Condição**: As quantidades estão na proporção estequiométrica.
