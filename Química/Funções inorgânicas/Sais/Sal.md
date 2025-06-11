@@ -35,3 +35,4 @@
 | Forte           | Fraca          | Sal ácido           | Ácido          |
 | Fraco           | Forte          | Sal básico          | Básico         |
 
+![[Pasted image 20250611095124.png]]
