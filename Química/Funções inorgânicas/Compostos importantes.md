@@ -4,36 +4,36 @@
 
 ## 🧂 1. Carbonatos ($\text{CO}_3^{2-}$)
 
-- **Definição**: Íon derivado do ácido carbônico ($\text{H}_2\text{CO}_3$) — formado pela dissolução de $\text{CO}_2$ em água, que se equilibra em:
-  - $\text{CO}_2(g) + \text{H}_2\text{O}(l) \leftrightarrow \text{H}_2\text{CO}_3(aq)$
-  - $\text{H}_2\text{CO}_3(aq) \leftrightarrow \text{H}^+(aq) + \text{HCO}_3^-(aq)$
-  - $\text{HCO}_3^-(aq) \leftrightarrow \text{H}^+(aq) + \text{CO}_3^{2-}(aq)$
-- **Importância no ENEM**:
-  - Dureza temporária da água (CaCO$_3$).
-  - Relação com processos de chuva ácida e intemperismo de rochas calcárias.
-- **Reação típica**:
+- Derivados do **ácido carbônico (H₂CO₃)** → ácido **fraco**.
+- Formados por neutralização:
+  - $\text{H}_2\text{CO}_3(aq) + 2\,\text{NaOH}(aq) \rightarrow \text{Na}_2\text{CO}_3(aq) + 2\,\text{H}_2\text{O}(l)$
+- Sal típico: **carbonato de cálcio (CaCO₃)** → forma dureza temporária da água.
+- Reação com ácidos fortes:
   - $\text{CaCO}_3(s) + 2\,\text{HCl}(aq) \rightarrow \text{CaCl}_2(aq) + \text{H}_2\text{O}(l) + \text{CO}_2(g)$
 
 ---
 
 ## 🧪 2. Sulfatos ($\text{SO}_4^{2-}$)
 
-- **Definição**: Íon derivado do ácido sulfúrico ($\text{H}_2\text{SO}_4$).
-- **Importância no ENEM**:
-  - Formação de sulfatos insolúveis como $\text{CaSO}_4$, contribuindo para a dureza permanente da água.
-  - Utilizados em testes laboratoriais: precipitação de $\text{BaSO}_4$ como indicativo da presença de sulfato.
+- Derivados do **ácido sulfúrico (H₂SO₄)** → ácido **forte**.
+- Formados por neutralização:
+  - $\text{H}_2\text{SO}_4(aq) + 2\,\text{NaOH}(aq) \rightarrow \text{Na}_2\text{SO}_4(aq) + 2\,\text{H}_2\text{O}(l)$
+- Sal típico: **sulfato de cálcio (CaSO₄)** → forma dureza permanente da água.
 
 ---
 
-## 💧 3. Dureza da Água
+## 💡 Principais Pontos (ENEM)
 
-- **Causada por**: íons $\text{Ca}^{2+}$ e $\text{Mg}^{2+}$.
-  - Temporária: carbonatos e bicarbonatos.
-  - Permanente: sulfatos e cloretos.
-- **Consequências**:
-  - Formação de incrustações em tubulações e caldeiras.
-- **Reações envolvidas**:
-  - $\text{Ca}^{2+}(aq) + \text{CO}_3^{2-}(aq) \rightarrow \text{CaCO}_3(s)\downarrow$
-  - $\text{Ca}^{2+}(aq) + \text{SO}_4^{2-}(aq) \rightarrow \text{CaSO}_4(s)\downarrow$
+- **Carbonatos**:
+  - Ácido fraco + base forte → sal neutro.
+  - Liberam CO₂ com ácidos fortes (teste qualitativo).
+  - Dureza temporária da água.
+- **Sulfatos**:
+  - Ácido forte + base → sal neutro.
+  - Precipitação de BaSO₄ → teste para sulfato.
+  - Dureza permanente da água.
+- **Força ácida**:
+  - Relação entre oxigênios e hidrogênios (quanto maior a diferença, mais forte o ácido).
+  - Nomenclatura: ácido “ico” → sufixo “ato” (independente da força do ácido).
 
 ---
