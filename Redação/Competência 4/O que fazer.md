@@ -1,0 +1,4 @@
+- Presença de elementos coesivos = 2 entre parágrafos e 1 em cada parágrafo
+- Não repita nenhum elemento argumentativo
+- Utilizar o operador argumentativo correto.
+- 1° Tem? ; 2° Repetem? ; 3° Adequado
