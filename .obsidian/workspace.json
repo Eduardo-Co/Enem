@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "52cde4f91f304193",
+        "id": "96f3538fb7b69347",
         "type": "tabs",
         "children": [
           {
-            "id": "68ef6e7000fd396d",
+            "id": "9c87f1cb7b48013d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redação/Competência 4/O que fazer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "O que fazer"
+              "title": "New tab"
             }
           }
         ]
@@ -178,10 +174,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "68ef6e7000fd396d",
+  "active": "9c87f1cb7b48013d",
   "lastOpenFiles": [
-    "Redação/img/Pasted image 20250605082616.png",
     "Redação/Competência 4/O que fazer.md",
+    "Redação/img/Pasted image 20250605082616.png",
     "Redação/img/Pasted image 20250516214114.png",
     "Redação/Competência 3/200 Pontos na competência 3.md",
     "Redação/img",
