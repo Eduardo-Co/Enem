@@ -39,21 +39,35 @@
         - $\mathrm{Fe(OH)_2}$ → Hidróxido de ferro (II)
         - $\mathrm{Fe(OH)_3}$ → Hidróxido de ferro (III)
 ---
-### **1. Amônia ($\mathrm{NH_3}$)**
+## ⚠️ Bases sem OH⁻ na Fórmula (Exceções de Arrhenius)
 
-- **Fórmula:** $\mathrm{NH_3}$
-    
-- **Reação na água:**
-    
-    NH3+H2O→NH4++OH−\mathrm{NH_3} + \mathrm{H_2O} \rightarrow \mathrm{NH_4^+} + \mathrm{OH^-}NH3​+H2​O→NH4+​+OH−
-- **Obs:** É base de **Arrhenius** apenas pelo fato de **liberar OH⁻ ao reagir com água**, mesmo não tendo OH⁻ em sua estrutura original.
-    
+Mesmo sem $\mathrm{OH^-}$ na estrutura, alguns compostos **liberam $\mathrm{OH^-}$ em solução aquosa** e são considerados bases:
 
-### **2. Outras Aminas (orgânicas)**
+### 1. Amônia ($\mathrm{NH_3}$)
 
-- Exemplo: **Metilamina** $\mathrm{CH_3NH_2}$
-    
-- **Reação na água:**
-    
-    CH3NH2+H2O→CH3NH3++OH−\mathrm{CH_3NH_2} + \mathrm{H_2O} \rightarrow \mathrm{CH_3NH_3^+} + \mathrm{OH^-}CH3​NH2​+H2​O→CH3​NH3+​+OH−
-- **Obs:** Também liberam $\mathrm{OH^-}$ em meio aquoso, mesmo sem OH⁻ na fórmula.
+- **Reação em água:**
+  $$
+  \mathrm{NH_3} + \mathrm{H_2O} \rightarrow \mathrm{NH_4^+} + \mathrm{OH^-}
+  $$
+- **Obs:** Não possui $\mathrm{OH^-}$, mas **libera $\mathrm{OH^-}$** em solução.
+
+---
+
+### 2. Aminas (ex: metilamina, $\mathrm{CH_3NH_2}$)
+
+- **Reação em água:**
+  $$
+  \mathrm{CH_3NH_2} + \mathrm{H_2O} \rightarrow \mathrm{CH_3NH_3^+} + \mathrm{OH^-}
+  $$
+- **Obs:** Mesma lógica: não possui $\mathrm{OH^-}$, mas **forma $\mathrm{OH^-}$** ao dissolver em água.
+
+---
+
+## 🧪 Tabela-resumo
+
+| Composto           | Possui $\mathrm{OH^-}$ na fórmula? | Libera $\mathrm{OH^-}$ em água? | Reação                                  |
+|--------------------|:----------------------------------:|:-------------------------------:|-----------------------------------------|
+| $\mathrm{NH_3}$    | ❌                                 | ✔️                              | $\mathrm{NH_3} + \mathrm{H_2O} \rightarrow \mathrm{NH_4^+} + \mathrm{OH^-}$   |
+| $\mathrm{CH_3NH_2}$| ❌                                 | ✔️                              | $\mathrm{CH_3NH_2} + \mathrm{H_2O} \rightarrow \mathrm{CH_3NH_3^+} + \mathrm{OH^-}$ |
+
+> **Resumo:** Compostos como $\mathrm{NH_3}$ e aminas **não têm OH⁻ na fórmula**, mas são bases porque **aumentam a concentração de $\mathrm{OH^-}$ em solução aquosa**.
