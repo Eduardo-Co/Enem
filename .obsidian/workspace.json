@@ -11,12 +11,14 @@
             "id": "50384072ea3ff046",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Matemática/Progressões/Sequência e progressões.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Sequência e progressões"
             }
           }
         ]
@@ -178,9 +180,9 @@
   },
   "active": "50384072ea3ff046",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Cronograma.md",
     "Matemática/Progressões/Sequência e progressões.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática básica/Teorema fundamental da divisibilidade e critérios de divisibilidade.md",
     "Matemática/Matemática básica/Quantidade de divisores naturais.md",
     "Matemática/Matemática básica/Primos.md",

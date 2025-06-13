@@ -1,3 +1,5 @@
+## Lembre-se quando se relaciona com data o outro tipo o 1° sempre conta então por exemplo: 1980 -> 2010 SÃ
+
 # Progressão Aritmética (PA)
 
 - **Fórmula do termo geral:**  
