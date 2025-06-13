@@ -1,4 +1,4 @@
-## Lembre-se quando se relaciona com data o outro tipo o 1° sempre conta então por exemplo: 1980 -> 2010 SÃ
+## Quando lidamos com **intervalos de datas** (anos, meses, dias) em contextos de **Progressão Aritmética (PA)** ou contagem discreta, é fundamental **contar o termo inicial**.
 
 # Progressão Aritmética (PA)
 
