@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd2a4437be4995af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matemática/Progressões/Sequência e progressões.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sequência e progressões"
-            }
-          },
-          {
-            "id": "7e29aaa4f54c8b84",
+            "id": "50384072ea3ff046",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -33,8 +19,7 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,8 +176,9 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "7e29aaa4f54c8b84",
+  "active": "50384072ea3ff046",
   "lastOpenFiles": [
+    "Cronograma.md",
     "Matemática/Progressões/Sequência e progressões.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática básica/Teorema fundamental da divisibilidade e critérios de divisibilidade.md",
@@ -224,7 +210,6 @@
     "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
     "Química/Funções inorgânicas/Ácidos/Força ácido.md",
     "Química/Funções inorgânicas/Ácidos/Classificação de ácidos.md",
-    "Química/Funções inorgânicas/Bases/Bases.md",
     "Química/Funções inorgânicas/Untitled",
     "Química/Funções inorgânicas/Reações",
     "Química/img/Pasted image 20250611095124.png",
