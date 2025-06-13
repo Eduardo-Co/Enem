@@ -11,3 +11,8 @@ Tem que ter cuidado se quer incluir ou não os extremos.
 - interpolação arit
 
 ---
+
+## Progressão Geométrica:
+
+- formula
+- representação gráfica da pg

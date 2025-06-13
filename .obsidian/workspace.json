@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "291939e5e91243c0",
+        "id": "e187a245b2e52fe3",
         "type": "tabs",
         "children": [
           {
-            "id": "41a20d5a312104ec",
+            "id": "29f1a32b39a0081c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,10 +178,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "41a20d5a312104ec",
+  "active": "29f1a32b39a0081c",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Matemática básica/Teorema fundamental da divisibilidade e critérios de divisibilidade.md",
     "Matemática/Progressões/Sequência e progressões.md",
+    "Matemática/Matemática básica/Quantidade de divisores naturais.md",
+    "Matemática/Matemática básica/Primos.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Progressões",
     "Redação/Competência 2/Repertório coringa.md",
     "Redação/Red1000/2024/2 - Desafios da cultura africana no Brasil.md",
@@ -210,8 +213,6 @@
     "Química/Funções inorgânicas/Ácidos/Classificação de ácidos.md",
     "Química/Funções inorgânicas/Bases/Bases.md",
     "Química/Cinética química/4 - Leis da velocidade.md",
-    "Química/Cinética química/5 - Mecanismos de reação.md",
-    "Química/Cinética química/3 - Velocidade média.md",
     "Química/Funções inorgânicas/Untitled",
     "Química/Funções inorgânicas/Reações",
     "Química/img/Pasted image 20250611095124.png",
