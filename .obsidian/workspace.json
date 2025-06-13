@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50384072ea3ff046",
+            "id": "aa93f0aa4e253ac6",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +177,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "50384072ea3ff046",
+  "active": "aa93f0aa4e253ac6",
   "lastOpenFiles": [
-    "Matemática/Progressões/Sequência e progressões.md",
+    "História e filosofia/História do Direito/Democracia e direito.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "História e filosofia/História do Direito",
+    "Matemática/Progressões/Sequência e progressões.md",
     "Cronograma.md",
     "Matemática/Matemática básica/Teorema fundamental da divisibilidade e critérios de divisibilidade.md",
     "Matemática/Matemática básica/Quantidade de divisores naturais.md",
@@ -209,13 +212,11 @@
     "Química/Funções inorgânicas/Ácidos/Excessões.md",
     "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
     "Química/Funções inorgânicas/Ácidos/Força ácido.md",
-    "Química/Funções inorgânicas/Ácidos/Classificação de ácidos.md",
     "Química/Funções inorgânicas/Untitled",
     "Química/Funções inorgânicas/Reações",
     "Química/img/Pasted image 20250611095124.png",
     "Química/Funções inorgânicas/Óxidos",
     "Química/Funções inorgânicas/Sais",
-    "Química/Funções inorgânicas/Teorias",
     "Física/Caixinhas.canvas",
     "Biologia/Caixinhas.canvas",
     "Biologia/img/bio-3-4.webp",
