@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e187a245b2e52fe3",
+        "id": "f758015b966eab1e",
         "type": "tabs",
         "children": [
           {
-            "id": "aa93f0aa4e253ac6",
+            "id": "ddc15244be6d6b1c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -177,10 +175,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "aa93f0aa4e253ac6",
+  "active": "ddc15244be6d6b1c",
   "lastOpenFiles": [
-    "História e filosofia/História do Direito/Democracia e direito.md",
+    "Geografia/Massas de ar e corrente/Massas de ar e correntes marítimas.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Geografia/Massas de ar e corrente",
+    "História e filosofia/História do Direito/Democracia e direito.md",
     "História e filosofia/História do Direito",
     "Matemática/Progressões/Sequência e progressões.md",
     "Cronograma.md",
@@ -211,12 +211,10 @@
     "Química/Funções inorgânicas/Sais/Processo dissociativo dos sais.md",
     "Química/Funções inorgânicas/Ácidos/Excessões.md",
     "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
-    "Química/Funções inorgânicas/Ácidos/Força ácido.md",
     "Química/Funções inorgânicas/Untitled",
     "Química/Funções inorgânicas/Reações",
     "Química/img/Pasted image 20250611095124.png",
     "Química/Funções inorgânicas/Óxidos",
-    "Química/Funções inorgânicas/Sais",
     "Física/Caixinhas.canvas",
     "Biologia/Caixinhas.canvas",
     "Biologia/img/bio-3-4.webp",
