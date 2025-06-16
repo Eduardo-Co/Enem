@@ -45,7 +45,7 @@
 ## 💊 **4. ANTIBIÓTICOS E RESISTÊNCIA**
 
 - **Penicilina**: inibe a **síntese do peptidoglicano**, por isso é mais eficaz contra Gram-positivas.
-- **Gram-negativas**: dificultam a ação de antibióticos pela membrana externa e presença de **bombas de efluxo**.
+- **Gram-negativas**: dificultam a ação de antibióticos pela membrana externa e presença de **bombas de efluxo** -> tratam mais os lipopolissacarídeos.
 
 > ⚠️ Resistência pode vir por **mutação** ou por **troca de plasmídeos** via conjugação!
 

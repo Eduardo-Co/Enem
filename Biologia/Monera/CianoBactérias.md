@@ -5,14 +5,14 @@
 
 As **cianobactérias** são **procariontes** fotossintetizantes. Ou seja:
 
-|Característica|Explicação|
-|---|---|
-|**Domínio**|Bactérias|
-|**Núcleo**|❌ Não têm (são procariontes)|
-|**Organela membranosa?**|❌ Nenhuma|
-|**Parede celular**|Presente, com **peptidoglicano**|
-|**DNA**|Circular, no **nucleoide**|
-|**Fotossíntese?**|✅ Sim! Com **pigmentos fotossintetizantes** em **membranas internas** (tilacoides primitivos)|
+| Característica           | Explicação                                                                                    |
+| ------------------------ | --------------------------------------------------------------------------------------------- |
+| **Domínio**              | Bactérias                                                                                     |
+| **Núcleo**               | ❌ Não têm (são procariontes)                                                                  |
+| **Organela membranosa?** | ❌ Nenhuma                                                                                     |
+| **Parede celular**       | Presente, com **peptidoglicano**                                                              |
+| **DNA**                  | Circular, no **nucleoide**                                                                    |
+| **Fotossíntese?**        | ✅ Sim! Com **pigmentos fotossintetizantes** em **membranas internas** (tilacoides primitivos) |
 
 ---
 
