@@ -11,12 +11,14 @@
             "id": "57ad9a80d8c80bed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Micologia/Fungos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Fungos"
             }
           }
         ]
@@ -177,13 +179,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "57ad9a80d8c80bed",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Micologia/Fungos.md",
     "Biologia/Micologia",
     "Simulados.md",
     "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
     "Geografia/Massas de ar e corrente/Massas de ar e correntes marítimas.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Massas de ar e corrente",
     "História e filosofia/História do Direito/Democracia e direito.md",
     "História e filosofia/História do Direito",
@@ -213,11 +216,9 @@
     "Química/Funções inorgânicas/Óxidos/Óxidos.md",
     "Química/Funções inorgânicas/Sais/Sal.md",
     "Química/Funções inorgânicas/Sais/Reações de Neutralização.md",
-    "Química/Funções inorgânicas/Sais/Processo dissociativo dos sais.md",
     "Química/Funções inorgânicas/Untitled",
     "Química/Funções inorgânicas/Reações",
     "Química/img/Pasted image 20250611095124.png",
-    "Química/Funções inorgânicas/Óxidos",
     "Física/Caixinhas.canvas",
     "Biologia/Caixinhas.canvas",
     "Biologia/img/bio-3-4.webp",
