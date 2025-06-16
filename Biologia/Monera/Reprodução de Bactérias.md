@@ -13,4 +13,6 @@
 ## Conjugação 
 
 - transferir gêne de resistÊncia a antibióticos 
-- 
+
+
+
