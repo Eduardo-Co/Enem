@@ -70,6 +70,20 @@ Sempre **a favor do gradiente de concentração** (alta → baixa concentração
 
 Vai **contra o gradiente de concentração**:
 
+
+
+### **Bomba de Sódio e Potássio (Transporte Ativo)**
+
+|Íon|Local de Alta Concentração|Fluxo com a Bomba|
+|---|---|---|
+|**Na⁺ (sódio)**|**Fora da célula**|Sai da célula (3 íons)|
+|**K⁺ (potássio)**|**Dentro da célula**|Entra na célula (2 íons)|
+
+- **Gasta ATP** para funcionar.
+- **Mantém o equilíbrio eletroquímico da célula.**
+- **Essencial para o impulso nervoso** (potencial de ação e repolarização).
+---
+
 ### 1. **Bomba de Sódio e Potássio (Na⁺/K⁺)**
 #### **Função principal:**
 
