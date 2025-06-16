@@ -5,8 +5,7 @@ Fungos são **eucariontes**, ou seja, suas células são muito parecidas com as 
 > **Materialidade ENEM:** Isso explica por que infecções fúngicas, como candidíase ou micose, são **persistentes e de tratamento mais lento** do que infecções bacterianas.
 
 
-- Principais funções dos fungos e tipos de fungos. 
-- Processo de fermentação e liberação de CO2
+
 - Decompositores -> fungos saprófagos.
 - micoriza -mutualismo principais relações
 
@@ -24,26 +23,75 @@ Embora os tropismos sejam mais estudados em plantas, os fungos **também apresen
 
 ---
 
-## ♻️ **FUNGOS NA BIOREMEDIAÇÃO**
+## 🍄 **Como os Fungos Fazem Biorremediação?**
 
-### 🔬 **O que é bioremediação?**
+### 🔬 **1. Produção de Enzimas Degradadoras**
 
-Uso de organismos (fungos, bactérias, plantas) para **remover poluentes do ambiente** — como metais pesados, petróleo, pesticidas.
+Fungos liberam **enzimas extracelulares** (fora da célula), que quebram compostos tóxicos e complexos. Alguns exemplos:
 
-### 🍄 **Como os fungos são usados?**
+|Enzima|Função|
+|---|---|
+|**Lacases**|Degradam corantes e compostos aromáticos|
+|**Peroxidases (como lignina peroxidase)**|Quebram lignina, mas também **petróleo, solventes, pesticidas**|
+|**Mn-peroxidases**|Atuam na degradação de metais pesados|
 
-- Fungos como **_Phanerochaete chrysosporium_** (fungo branco da madeira) decompõem **poluentes orgânicos complexos**, inclusive **corantes, solventes e hidrocarbonetos**.
-    
-- Fungos absorvem **metais pesados** como mercúrio e chumbo do solo e da água.
-    
-- Produzem **enzimas como peroxidases e lacases**, que quebram ligações químicas resistentes.
-    
-
-> **Materialidade ENEM:** Fungos são aliados no combate à **poluição** — substituem processos industriais caros e poluentes, sendo alternativas **verdes e sustentáveis**.
-
-
+> Essas enzimas transformam moléculas grandes e tóxicas em **compostos menores, menos tóxicos ou até inofensivos**.
 
 ---
+
+### 🌱 **2. Micélio como filtro natural**
+
+O **micélio** (conjunto de hifas do fungo) funciona como **uma rede filtrante** no solo ou na água. Ele:
+- **Absorve metais pesados** como mercúrio, chumbo, cádmio
+- Retém **hidrocarbonetos** (como os presentes no petróleo)
+- Atua como **esponja viva**, capturando toxinas
+    
+
+---
+
+### 🔗 **3. Biodegradação de materiais sintéticos**
+
+Fungos conseguem degradar até **plásticos, poliuretano, pesticidas e derivados do petróleo**. Alguns fungos conseguem:
+- Transformar óleo em **compostos orgânicos simples**
+- Degradar materiais de **aterros sanitários**
+
+---
+
+## Equação geral da fermentação:
+
+$$
+\text{C}_6\text{H}_{12}\text{O}_6 \rightarrow 2\,\text{C}_2\text{H}_5\text{OH} + 2\,\text{CO}_2 + \text{energia (ATP)}
+$$
+
+---
+
+## **Fungos Decompositores (Saprófagos)**
+
+### 🔍 O que são?
+
+Fungos **saprófagos** são **decompositores**: eles se alimentam de **matéria orgânica morta**, como folhas, animais, madeira e fezes.
+
+> A palavra "saprófago" vem de "sapros" (podre) e "phagein" (comer).
+
+---
+
+### ⚙️ Como funcionam?
+
+1. **Liberam enzimas digestivas no ambiente** (digestão extracorpórea)
+2. **Decompõem moléculas grandes** (celulose, lignina, proteínas)
+3. **Absorvem os nutrientes resultantes** (como glicose, aminoácidos)
+
+---
+## **Micorrizas: Mutualismo Planta-Fungo**
+
+### 🤝 O que é?
+
+**Micorriza** = associação mutualística entre:
+- **Fungo micorrízico** (geralmente Glomeromycota)
+- **Raízes de plantas vasculares** (como árvores, gramíneas, culturas agrícolas)
+
+---
+
 ## Características: 
 
 | Característica                              | Descrição rápida                                               |
