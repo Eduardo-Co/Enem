@@ -1,0 +1,4 @@
+- Procariontes 
+- Não possuem organelas 
+- Unicelulares
+-
