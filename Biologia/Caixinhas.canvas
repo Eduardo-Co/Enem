@@ -166,10 +166,17 @@
 		{"id":"053176481808e4f4","type":"text","text":"Bases nitrogenadas","x":12960,"y":413,"width":250,"height":60},
 		{"id":"c65d23c7d47abb9b","type":"text","text":"Tipos","x":13260,"y":413,"width":250,"height":60},
 		{"id":"39b86d98945cd9bc","type":"text","text":"Citologia","x":14509,"y":185,"width":250,"height":60},
-		{"id":"c447d74ed775800d","x":14070,"y":395,"width":250,"height":60,"type":"text","text":"Membrana"},
-		{"id":"8acc20a4c89d7ecb","x":13776,"y":596,"width":250,"height":60,"type":"text","text":"Transportes"},
-		{"id":"6707f4a25a6000ed","x":13777,"y":834,"width":250,"height":60,"type":"text","text":"Bomba sódio potássio"},
-		{"id":"8b4b0ff59a4e6a20","x":14509,"y":395,"width":250,"height":60,"type":"text","text":"Organelas\n"}
+		{"id":"c447d74ed775800d","type":"text","text":"Membrana","x":14070,"y":395,"width":250,"height":60},
+		{"id":"8acc20a4c89d7ecb","type":"text","text":"Transportes","x":13776,"y":596,"width":250,"height":60},
+		{"id":"6707f4a25a6000ed","type":"text","text":"Bomba sódio potássio","x":13777,"y":834,"width":250,"height":60},
+		{"id":"8b4b0ff59a4e6a20","type":"text","text":"Organelas\n","x":14509,"y":395,"width":250,"height":60},
+		{"id":"86eeb144b33d2fbd","type":"text","text":"Micologia","x":15897,"y":20,"width":250,"height":60},
+		{"id":"a51186df7e7f69a0","type":"text","text":"Processos de Biorremediação","x":15244,"y":260,"width":293,"height":63},
+		{"id":"0c5bb5a35bba6e5a","type":"text","text":"Fungos decompositores","x":15597,"y":263,"width":250,"height":60},
+		{"id":"b4ccfe456418b780","type":"text","text":"MicroRizinas","x":15897,"y":260,"width":250,"height":60},
+		{"id":"b1f2d721e97f259d","type":"text","text":"Características Gerais","x":16197,"y":263,"width":250,"height":60},
+		{"id":"9e1ddd897a999f45","x":16497,"y":261,"width":250,"height":60,"type":"text","text":"Reprodução"},
+		{"id":"fe0815cb397931d0","x":16797,"y":260,"width":250,"height":60,"type":"text","text":"Líquens"}
 	],
 	"edges":[
 		{"id":"8879b600c42c49e3","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"d0b82dd16d5a8770","toSide":"top","color":"4"},
@@ -344,6 +351,13 @@
 		{"id":"317b4451affa860f","fromNode":"39b86d98945cd9bc","fromSide":"bottom","toNode":"c447d74ed775800d","toSide":"top"},
 		{"id":"b94378c76b3963bc","fromNode":"c447d74ed775800d","fromSide":"bottom","toNode":"8acc20a4c89d7ecb","toSide":"top"},
 		{"id":"f8c98e008ee7c591","fromNode":"8acc20a4c89d7ecb","fromSide":"bottom","toNode":"6707f4a25a6000ed","toSide":"top"},
-		{"id":"790906430fde1217","fromNode":"39b86d98945cd9bc","fromSide":"bottom","toNode":"8b4b0ff59a4e6a20","toSide":"top"}
+		{"id":"790906430fde1217","fromNode":"39b86d98945cd9bc","fromSide":"bottom","toNode":"8b4b0ff59a4e6a20","toSide":"top"},
+		{"id":"b751e3da3d862aa4","fromNode":"77a1a2ab53705c4c","fromSide":"bottom","toNode":"86eeb144b33d2fbd","toSide":"top"},
+		{"id":"3f65498b11ef8e35","fromNode":"86eeb144b33d2fbd","fromSide":"bottom","toNode":"a51186df7e7f69a0","toSide":"top"},
+		{"id":"06b9120c19a5d2af","fromNode":"86eeb144b33d2fbd","fromSide":"bottom","toNode":"0c5bb5a35bba6e5a","toSide":"top"},
+		{"id":"c861a295de0818c6","fromNode":"86eeb144b33d2fbd","fromSide":"bottom","toNode":"b4ccfe456418b780","toSide":"top"},
+		{"id":"aa5dd347d83a8868","fromNode":"86eeb144b33d2fbd","fromSide":"bottom","toNode":"b1f2d721e97f259d","toSide":"top"},
+		{"id":"3181116dd82b2962","fromNode":"86eeb144b33d2fbd","fromSide":"bottom","toNode":"9e1ddd897a999f45","toSide":"top"},
+		{"id":"d2a8abea5d39b04b","fromNode":"86eeb144b33d2fbd","fromSide":"bottom","toNode":"fe0815cb397931d0","toSide":"top"}
 	]
 }
