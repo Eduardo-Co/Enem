@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f758015b966eab1e",
+        "id": "281177ff620d5481",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc15244be6d6b1c",
+            "id": "57ad9a80d8c80bed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Simulados.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Simulados"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -179,10 +177,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "ddc15244be6d6b1c",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
+    "Biologia/Micologia",
     "Simulados.md",
+    "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
     "Geografia/Massas de ar e corrente/Massas de ar e correntes marítimas.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Geografia/Massas de ar e corrente",
@@ -215,7 +214,6 @@
     "Química/Funções inorgânicas/Sais/Sal.md",
     "Química/Funções inorgânicas/Sais/Reações de Neutralização.md",
     "Química/Funções inorgânicas/Sais/Processo dissociativo dos sais.md",
-    "Química/Funções inorgânicas/Ácidos/Excessões.md",
     "Química/Funções inorgânicas/Untitled",
     "Química/Funções inorgânicas/Reações",
     "Química/img/Pasted image 20250611095124.png",
