@@ -1,3 +1,20 @@
+## Características: 
+
+| Característica                              | Descrição rápida                                               |
+| ------------------------------------------- | -------------------------------------------------------------- |
+| **Não são plantas**                         | Sem clorofila; não fazem fotossíntese.                         |
+| **Eucariontes**                             | Núcleo definido, como células humanas.                         |
+| **Parede celular de quitina**               | Diferente das plantas (que têm celulose).                      |
+| **Reserva energética: glicogênio**          | Igual aos animais.                                             |
+| **Heterotróficos extracorpóreos**           | Digestão fora do corpo, absorção depois.                       |
+| **Vivem bem em ambientes úmidos e quentes** | Por isso crescem em banheiros, pão, solo.                      |
+| **Hifas**                                   | Filamentos que formam o corpo do fungo.                        |
+| **Micélio**                                 | Conjunto de hifas.                                             |
+| **Esporulação**                             | Forma de reprodução assexuada.                                 |
+| **Brotamento**                              | Muito comum em leveduras.                                      |
+| **Sexuada (fusão de hifas)**                | Hifas de fungos diferentes se fundem → variabilidade genética. |
+
+
 ### 🧬 **Por que fungos são difíceis de eliminar?**
 
 Fungos são **eucariontes**, ou seja, suas células são muito parecidas com as nossas (humanas). Eles têm **núcleo definido, organelas membranosas** e produzem substâncias semelhantes às nossas. Por isso, **medicamentos antifúngicos têm que ser específicos**, pois se forem muito agressivos, **podem afetar também nossas células**, diferente de antibióticos (que atacam células procariontes como as das bactérias).
@@ -91,18 +108,4 @@ Fungos **saprófagos** são **decompositores**: eles se alimentam de **matéria 
 4. Crescimento de novo micélio
 
 ---
-## Características: 
 
-| Característica                              | Descrição rápida                                               |
-| ------------------------------------------- | -------------------------------------------------------------- |
-| **Não são plantas**                         | Sem clorofila; não fazem fotossíntese.                         |
-| **Eucariontes**                             | Núcleo definido, como células humanas.                         |
-| **Parede celular de quitina**               | Diferente das plantas (que têm celulose).                      |
-| **Reserva energética: glicogênio**          | Igual aos animais.                                             |
-| **Heterotróficos extracorpóreos**           | Digestão fora do corpo, absorção depois.                       |
-| **Vivem bem em ambientes úmidos e quentes** | Por isso crescem em banheiros, pão, solo.                      |
-| **Hifas**                                   | Filamentos que formam o corpo do fungo.                        |
-| **Micélio**                                 | Conjunto de hifas.                                             |
-| **Esporulação**                             | Forma de reprodução assexuada.                                 |
-| **Brotamento**                              | Muito comum em leveduras.                                      |
-| **Sexuada (fusão de hifas)**                | Hifas de fungos diferentes se fundem → variabilidade genética. |

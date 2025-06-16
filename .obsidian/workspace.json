@@ -11,12 +11,14 @@
             "id": "2276742e87ae383a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Micologia/Fungos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Fungos"
             }
           }
         ]
@@ -179,8 +181,8 @@
   },
   "active": "2276742e87ae383a",
   "lastOpenFiles": [
-    "Simulados.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Simulados.md",
     "Biologia/Monera/Utilização.md",
     "Biologia/Monera/Reprodução de Bactérias.md",
     "Biologia/Monera/Antibióticos.md",
