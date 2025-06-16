@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e598e0249567352",
+        "id": "a633fc1e09795acd",
         "type": "tabs",
         "children": [
           {
-            "id": "2276742e87ae383a",
+            "id": "b642c90e019aa9d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Micologia/Principais fungos e seu uso.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Principais fungos e seu uso"
+              "title": "New tab"
             }
           }
         ]
@@ -179,18 +175,18 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "2276742e87ae383a",
+  "active": "b642c90e019aa9d2",
   "lastOpenFiles": [
+    "Biologia/Monera/Bactérias.md",
+    "Biologia/Micologia/Principais fungos e seu uso.md",
     "Biologia/Micologia/Líquens.md",
     "Biologia/Micologia/Fungos.md",
-    "Biologia/Micologia/Principais fungos e seu uso.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Simulados.md",
     "Biologia/Monera/Utilização.md",
     "Biologia/Monera/Reprodução de Bactérias.md",
     "Biologia/Monera/Antibióticos.md",
     "Biologia/Monera/Doenças bacterianas.md",
-    "Biologia/Monera/Bactérias.md",
     "Biologia/Monera/Biotecnologia.md",
     "Biologia/Monera/Classificação dos seres e diferenças.md",
     "Biologia/Monera/Archeas.md",

@@ -1,17 +1,14 @@
 ## 🧬 **1. CARACTERÍSTICAS GERAIS**
 
-|Item|Detalhes|
-|---|---|
-|**Domínio**|Bacteria|
-|**Tipo celular**|Procarionte (sem núcleo e sem organelas membranosas)|
-|**Material genético**|DNA **circular**, concentrado no **nucleoide** (não está envolto por membrana)|
-|**Ribossomos**|Tipo 70S (menores que os eucariontes), livres no citoplasma|
-|**Parede celular**|Composta por **peptidoglicano** (única entre os domínios)|
-|**Membrana plasmática**|Presente, sem esteróis (exceto em alguns casos como _Mycoplasma_)|
-|**Reprodução**|Assexuada por **fissão binária**|
-|**Locomoção**|Algumas têm **flagelos**; outras deslizam|
-|**Plasmídeos**|DNA extra, com genes de **resistência ou metabolismo especial**|
-|**Forma**|Coco (esférica), bacilo (bastão), espirilo (espiral), vibrião (vírgula)|
+| Item                    | Detalhes                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| **Domínio**             | Bacteria                                                                       |
+| **Tipo celular**        | Procarionte (sem núcleo e sem organelas membranosas)                           |
+| **Material genético**   | DNA **circular**, concentrado no **nucleoide** (não está envolto por membrana) |
+| **Ribossomos**          | Tipo 70S (menores que os eucariontes), livres no citoplasma                    |
+| **Parede celular**      | Composta por **peptidoglicano** (única entre os domínios)                      |
+| **Membrana plasmática** | Presente, sem esteróis (exceto em alguns casos como _Mycoplasma_)              |
+| **Plasmídeos**          | DNA extra, com genes de **resistência ou metabolismo especial**                |
 
 ---
 
