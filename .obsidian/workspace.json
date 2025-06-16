@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Monera/Doenças bacterianas.md",
+                "file": "Biologia/Monera/Antibióticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doenças bacterianas"
+              "title": "Antibióticos"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "2276742e87ae383a",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Monera/Doenças bacterianas.md",
+    "Biologia/Monera/Antibióticos.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Monera/Utilização.md",
     "Biologia/Monera/Biotecnologia.md",
     "Biologia/Monera/Reprodução de Bactérias.md",
