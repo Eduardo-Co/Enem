@@ -11,14 +11,12 @@
             "id": "2276742e87ae383a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biologia/Monera/Antibióticos.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Antibióticos"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -181,14 +179,15 @@
   },
   "active": "2276742e87ae383a",
   "lastOpenFiles": [
-    "Biologia/Monera/Doenças bacterianas.md",
-    "Biologia/Monera/Antibióticos.md",
+    "Simulados.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Monera/Utilização.md",
-    "Biologia/Monera/Biotecnologia.md",
     "Biologia/Monera/Reprodução de Bactérias.md",
-    "Biologia/Monera/Classificação dos seres e diferenças.md",
+    "Biologia/Monera/Antibióticos.md",
+    "Biologia/Monera/Doenças bacterianas.md",
     "Biologia/Monera/Bactérias.md",
+    "Biologia/Monera/Biotecnologia.md",
+    "Biologia/Monera/Classificação dos seres e diferenças.md",
     "Biologia/Monera/Archeas.md",
     "Biologia/Monera/CianoBactérias.md",
     "Biologia/Caixinhas.canvas",
@@ -201,7 +200,6 @@
     "Biologia/Monera",
     "Biologia/Untitled Kanban.md",
     "Biologia/Micologia",
-    "Simulados.md",
     "Geografia/Massas de ar e corrente/Massas de ar e correntes marítimas.md",
     "Geografia/Massas de ar e corrente",
     "História e filosofia/História do Direito/Democracia e direito.md",
@@ -213,7 +211,6 @@
     "Matemática/Matemática básica/Primos.md",
     "Matemática/Progressões",
     "Redação/Competência 2/Repertório coringa.md",
-    "Redação/Red1000/2024/2 - Desafios da cultura africana no Brasil.md",
     "Redação/Eu",
     "Redação/img/Pasted image 20250605082616.png",
     "Redação/img/Pasted image 20250516214114.png",
