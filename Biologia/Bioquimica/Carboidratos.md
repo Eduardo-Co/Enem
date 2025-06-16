@@ -23,7 +23,6 @@
 
 - **Unidades básicas** dos carboidratos.
 - Possuem **de 3 a 7 carbonos**.
-- Fórmula geral: CnH2nOnC_nH_{2n}O_nCn​H2n​On​
 #### 🧪 Exemplos por número de carbonos:
 
 | Nº de Carbonos | Nome        | Exemplos                              |
