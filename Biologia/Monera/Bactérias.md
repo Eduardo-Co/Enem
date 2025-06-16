@@ -15,23 +15,6 @@
 
 ---
 
-## 🔁 **2. REPRODUÇÃO BACTERIANA**
-
-- **Fissão binária (divisão simples):**
-    - Cópia do DNA
-    - Divisão da célula em duas geneticamente idênticas
-    - Rápida: algumas bactérias dobram a população em 20 min!
-        
-### 🔄 Recombinação genética (não é reprodução, mas gera variabilidade):
-
-|Processo|Como ocorre|
-|---|---|
-|**Transformação**|Bactéria absorve DNA do ambiente (ex: fragmentos de bactérias mortas)|
-|**Transdução**|Vírus bacteriófago transfere genes de uma bactéria a outra|
-|**Conjugação**|Uma bactéria transfere DNA por um **pili sexual** (ponte citoplasmática), usando plasmídeo F|
-
----
-
 ## 🦠 **3. ESTRUTURA DA PAREDE CELULAR**
 
 ### 🔬 Coloração de Gram
@@ -49,17 +32,6 @@
 
 > ⚠️ Resistência pode vir por **mutação** ou por **troca de plasmídeos** via conjugação!
 
----
-
-## 🌍 **5. CLASSIFICAÇÃO FUNCIONAL DAS BACTÉRIAS**
-
-### Pela nutrição:
-
-|Tipo|Fonte de energia|Exemplo|
-|---|---|---|
-|**Heterotróficas**|Comem matéria orgânica|Bactérias decompositoras, patogênicas|
-|**Autotróficas fotossintéticas**|Luz solar|_Cyanobacteria_ (embora estejam em outro grupo)|
-|**Autotróficas quimiossintéticas**|Oxidação de compostos inorgânicos|Bactérias nitrificantes no ciclo do nitrogênio|
 
 ---
 
@@ -81,20 +53,7 @@
 
 ---
 
-## ☢️ **7. FORMAS DE RESISTÊNCIA – ENDÓSPOROS**
-
-Algumas bactérias (ex: _Bacillus_, _Clostridium_) formam **endósporos**, estruturas altamente resistentes a:
-
-- Calor extremo
-- Radiação
-- Dessecação
-- Desinfetantes
-
-> ⚠️ **Importância sanitária**: endósporos dificultam a esterilização e causam **doenças sérias como botulismo e tétano**.
-
----
-
-## 🎯 **RESUMO FINAL (MODO ENEM)**
+## 🎯 **RESUMO FINAL (MODO ENEM)
 
 |Característica|Gram-Positiva|Gram-Negativa|
 |---|---|---|

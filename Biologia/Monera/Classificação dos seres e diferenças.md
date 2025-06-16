@@ -1,7 +1,6 @@
 
 ## Principais diferenças entre Archeas e Bactérias
 
-
 ### 1. **Composição da parede celular**
 
 |Grupo|Parede celular|
