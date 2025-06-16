@@ -10,6 +10,8 @@
         
 - Tropismo: responde a açúcares no ambiente, crescimento é orientado por **quimiotropismo** (atração por nutrientes).
 
+Produção de etanol pela destilação da fermentação alcoólica 
+
 ---
 
 ### 🔹 **2. _Penicillium chrysogenum_**

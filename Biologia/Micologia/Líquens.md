@@ -6,10 +6,10 @@
 
 **Líquen** é uma **associação mutualística** entre:
 
-|Organismo|Função na relação|
-|---|---|
-|**Fungo (micobionte)**|Forma a estrutura externa, as **hifas** absorvem água e sais minerais do ambiente, e **protegem contra ressecamento e radiação**|
-|**Alga verde ou Cianobactéria (fotobionte)**|Realiza **fotossíntese** e **fornece carboidratos (açúcares)** ao fungo|
+| Organismo                                   | Função na relação                                                                                                                |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Fungo (micobionte)**                      | Forma a estrutura externa, as **hifas** absorvem água e sais minerais do ambiente, e **protegem contra ressecamento e radiação** |
+| **Alga azul ou Cianobactéria (fotobionte)** | Realiza **fotossíntese** e **fornece carboidratos (açúcares)** ao fungo                                                          |
 
 > 🧪 **Em alguns líquens, a cianobactéria também fixa nitrogênio atmosférico** e fornece **compostos nitrogenados** ao fungo. 🌩️🟢
 
