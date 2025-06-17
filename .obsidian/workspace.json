@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Calorimetia"
             }
+          },
+          {
+            "id": "809fa89bc537d599",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,11 +192,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "a1225e4fa37483ea",
+  "active": "809fa89bc537d599",
   "lastOpenFiles": [
+    "Física/Termologia/Calorimetia.md",
     "Física/Termologia/Dilatação térmica.md",
     "Física/Termologia/Temperatura e calor e Termometria.md",
-    "Física/Termologia/Calorimetia.md",
     "Física/Termologia/Trocas de calor e mudança de fase.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Simulados.md",
