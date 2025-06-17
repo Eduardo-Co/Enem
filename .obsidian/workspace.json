@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Termologia/Calorimetia.md",
+                "file": "Física/Termologia/Trocas de calor e mudança de fase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calorimetia"
+              "title": "Trocas de calor e mudança de fase"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "a1225e4fa37483ea",
   "lastOpenFiles": [
-    "Física/Termologia/Dilatação térmica.md",
     "Física/Termologia/Calorimetia.md",
+    "Física/Termologia/Trocas de calor e mudança de fase.md",
+    "Física/Termologia/Dilatação térmica.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Simulados.md",
     "Física/Termologia/Temperatura e calor e Termometria.md",
@@ -209,7 +210,6 @@
     "Biologia/Impactos ambientais/Espécies exóticas.md",
     "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
-    "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Monera",
     "Biologia/Micologia",
