@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Termologia/Trocas de calor e mudança de fase.md",
+                "file": "Física/Termologia/Calorimetia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trocas de calor e mudança de fase"
+              "title": "Calorimetia"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "a1225e4fa37483ea",
   "lastOpenFiles": [
-    "Física/Termologia/Calorimetia.md",
     "Física/Termologia/Trocas de calor e mudança de fase.md",
+    "Física/Termologia/Calorimetia.md",
     "Física/Termologia/Dilatação térmica.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Simulados.md",
