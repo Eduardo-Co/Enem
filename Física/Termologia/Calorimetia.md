@@ -1,41 +1,50 @@
-- Caloria = elevar 1°C de 1g de água
+## Caloria
+- 1 caloria ($cal$) = calor necessário para elevar $1^\circ C$ em $1g$ de água.
 
- - BTU = mesma coisa só que com kelvin e joul
+## BTU
+- BTU = calor para elevar $1^\circ F$ em $1lb$ de água.
+- 1 BTU $\approx$ 252 cal $\approx$ 1055 J.
 
-- Equivalente mecânico da caloria = Sistema que identificou a transformação de energia mecanica em térmica.
+## Equivalente mecânico da caloria
+- 1 caloria $\approx$ 4,18\,J (transformação energia mecânica $\leftrightarrow$ térmica).
 
-- Capacidade térmica pela quantidade de calor - Inclusive sua unidade de medida; Q = 
+## Capacidade térmica
+- $C = \frac{Q}{\Delta T}$
+- Unidade: $J/^\circ C$ ou $cal/^\circ C$
 
-- Capacidade térmica pela massa e calor específico. 
+## Capacidade térmica (massa e calor específico)
+- $C = m \cdot c$
+- $c$ = calor específico
 
--  Calor sensível
+## Calor sensível
+- Calor que altera $T$, sem mudar estado físico.
+- $Q = m \cdot c \cdot \Delta T$
 
----
+## Valor calórico dos alimentos
+- Determinado por calorímetro.
+- Libera energia ao ser digerido.
 
--  Valor calórico dos alimentos - calorímetro
+## Mudanças de estado físico
+- Sólido $\leftrightarrow$ Líquido $\leftrightarrow$ Gasoso
+- Plasma: gás ionizado, alta energia (ex: Sol, relâmpago)
+- Condensado de Bose-Einstein (CBE): átomos bosônicos a $\sim 0\,K$, estado quântico coletivo.
 
-- Mudanças de estado
+## Diagramas de fase
+- Gráfico $P \times T$, mostra regiões dos estados físicos.
 
-- Sólido
+## Experiência de Tyndall
+- Luz dispersa por partículas em suspensão (efeito colóide).
 
- - Líquido
+## Diferença entre vapor e gás
+- Vapor: gás abaixo do ponto crítico, pode condensar fácil.
+- Gás: acima do ponto crítico, não condensa facilmente.
 
-- Gasoso
+## Transformação isobárica
+- Pressão constante.
 
-- Plasma
+## Transformação isotérmica
+- Temperatura constante.
 
-- Condensado de Bose-Einstein
-
----
-
-- Diagramas de fase
-
-- Experiência de Tyndall
-
-- Diferença vapor e gás
-
-- Isobárica, Isotérmica.
-
----
-
-- Calor latente
+## Calor latente
+- $Q = mL$
+- Calor que muda o estado físico sem variar a temperatura.
