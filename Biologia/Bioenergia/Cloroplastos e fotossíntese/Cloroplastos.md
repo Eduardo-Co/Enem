@@ -10,7 +10,7 @@ Cloroplastos são organelas presentes em células vegetais e em algumas algas. S
 
 ---
 ### **Estrutura dos Cloroplastos**
-  
+    
 
 #### a) **Duas membranas**
 - **Membrana externa:** Mais permeável, protege a organela.

@@ -4,18 +4,10 @@
 - Usa **energia luminosa** (do Sol), transformando-a em **energia química** (armazenada na glicose).
 - Absorve **CO₂ e água** e **libera oxigênio** como subproduto.
     
-
----
-
-### **2. Estrutura envolvida**
-
-- Ocorre nos **cloroplastos** das células vegetais, especialmente nas **moedinhas verdes chamadas tilacoides** (organizadas em pilhas chamadas **grana**).
-- Tilacoide = local das reações luminosas.
     
-
 ---
 
-### **3. Etapas da Fotossíntese**
+### **2. Etapas da Fotossíntese**
 
 |Etapa|Onde ocorre|O que usa|O que produz|Principal função|
 |---|---|---|---|---|
