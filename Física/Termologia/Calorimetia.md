@@ -34,5 +34,8 @@
 
 - Diferença vapor e gás
 
+- Isobárica, Isotérmica.
+
 ---
 
+- Calor latente
