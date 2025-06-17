@@ -11,12 +11,14 @@
             "id": "a1225e4fa37483ea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Termologia/Dilatação térmica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Dilatação térmica"
             }
           }
         ]
@@ -179,9 +181,9 @@
   },
   "active": "a1225e4fa37483ea",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Simulados.md",
     "Física/Termologia/Dilatação térmica.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Caixinhas.canvas",
     "Física/Termologia",

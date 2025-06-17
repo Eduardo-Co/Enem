@@ -1,15 +1,19 @@
-Conceito de dilatação
+- Conceito de dilatação
 
-Dilatação linear
+- Dilatação linear
 
-Bimetais com coeficientes diferentes para entortar para um lado.
+- Bimetais com coeficientes diferentes para entortar para um lado.
 
-Dilatação superficial
+- Dilatação superficial
 
-Lâminas com furo no meio  - Dilatação superficial 
+- Lâminas com furo no meio  - Dilatação superficial 
 
-Dilatação volumétrica
+- Dilatação volumétrica
 
 
 ----
 
+-  Perigo ao dilatar líquidos
+
+- Dilatação de um líquido 
+- 
