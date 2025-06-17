@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Bioquimica/Aminoácidos.md",
+                "file": "Biologia/Bioquimica/Lipídeos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aminoácidos"
+              "title": "Lipídeos"
             }
           }
         ]
@@ -181,6 +181,9 @@
   },
   "active": "b642c90e019aa9d2",
   "lastOpenFiles": [
+    "Biologia/Bioquimica/Enzimas.md",
+    "Biologia/Bioquimica/Proteínas.md",
+    "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Carboidratos.md",
     "Biologia/Citologia/Membrana plasmática.md",
     "Biologia/Citologia/Organelas citoplasmáticas.md",
@@ -206,9 +209,6 @@
     "Biologia/Micologia/Fungos.md",
     "Biologia/Monera/Biotecnologia.md",
     "Biologia/Monera/CianoBactérias.md",
-    "Biologia/Monera/Archeas.md",
-    "Biologia/Monera/Bactérias.md",
-    "Biologia/Micologia/Líquens.md",
     "Biologia/Monera",
     "Biologia/Micologia",
     "Geografia/Massas de ar e corrente",

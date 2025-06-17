@@ -8,27 +8,6 @@
 
 ---
 
-### 📚 Do DNA à Proteína
-
-1. **DNA (Ácido Desoxirribonucleico)**: Armazena as informações genéticas.
-2. **Replicação**: Copia o DNA para manter a informação.
-3. **Transcrição**: Produz RNA mensageiro (mRNA) a partir do DNA.
-4. **Tradução**: O mRNA é lido pelos **ribossomos**, que unem os aminoácidos na ordem correta, formando a **proteína**.
-
----
-
-### ⚙️ Funções das Proteínas
-
-- **Transporte**: Hemoglobina transporta oxigênio.
-- **Estrutural**: Actina e tubulina formam o citoesqueleto; colágeno dá sustentação.
-- **Defesa**: Anticorpos combatem agentes patogênicos.
-- **Hormonal**: Ex: insulina regula a glicemia.
-- **Plástica**: Participam da construção e manutenção dos tecidos.
-- **Adesão Celular**: Ex: desmossomos conectam células.
-- **Enzimática**: Catalisam reações bioquímicas (todas as enzimas são proteínas).
-
----
-
 ### 🧩 Níveis Estruturais das Proteínas
 
 1. **Primária**: Sequência linear de aminoácidos unidos por ligações peptídicas.
