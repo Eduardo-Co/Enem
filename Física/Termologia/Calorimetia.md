@@ -4,7 +4,7 @@
 
 - Equivalente mecânico da caloria = Sistema que identificou a transformação de energia mecanica em térmica.
 
-- Capacidade térmica pela quantidade de calor - Inclusive sua unidade de medida 
+- Capacidade térmica pela quantidade de calor - Inclusive sua unidade de medida; Q = 
 
 - Capacidade térmica pela massa e calor específico. 
 
