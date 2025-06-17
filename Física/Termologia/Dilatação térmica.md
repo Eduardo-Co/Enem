@@ -1,28 +1,42 @@
-- Conceito de dilatação: Dilatação é a expansão de um objeto de forma uniforme em sua área.
+# Dilatação
 
-- Dilatação linear: $L = L_0 (1+\cdot \alpha \cdot \Delta T)$
-Também pode ser dada por $L = L_{0}+L_{0}\alpha \Delta T \rightarrow \Delta L = L_{0} + \alpha \Delta T$
+- **Conceito:**  
+Dilatação é a expansão uniforme de um objeto ao variar a temperatura.
 
-- Bimetais com coeficientes diferentes para entortar para um lado.
-Na dilatação linear há como se fazer um metal com metais de diferente coeficiente de dilatação, assim, o que tiver maior vai entortar para o seu lado, seja aumentando a diltação entortando par acima ou retraindo entortanto para baixo;
+---
 
-- Dilatação superficial: A dilatação superfial segue o mesmo da linear; pode ser dado o coeficiênte de dilatação superfical aqui; Assim nao precisará multiplicar por dois
-$$
-\Delta D_{A} = D_{0}(1 + 2\alpha \Delta T)  
-$$
+- **Dilatação linear:**  
+$L = L_0 (1 + \alpha \Delta T)$  
+Ou: $L = L_0 + L_0 \alpha \Delta T \Rightarrow \Delta L = L_0 \alpha \Delta T$
 
-- Lâminas com furo no meio  - Dilatação superficial: Veja que aqui a lâmina aumenta o tamanho do buraco, e não o diminui 
+- **Bimetais:**  
+Bimetais possuem coeficientes de dilatação diferentes, entortando para o lado do metal de maior $\alpha$.
 
-- Dilatação volumétrica: A dilatação volumétrica segue o mesmo de superficial; pode ser dado o coeficiênte de dilatação volumétrica aqui, assim, não precisará multiplicar por três.
-$$
-\Delta D_{V} = D_{0}(1+3 \alpha \Delta T)
-$$
+---
 
+- **Dilatação superficial:**  
+Segue mesma lógica da linear, mas com coeficiente superficial:  
+$\Delta A = A_0 (1 + 2\alpha \Delta T)$
 
-----
+- **Lâmina com furo:**  
+O furo **aumenta** junto com a lâmina ao dilatar.
 
--  Perigo ao dilatar líquidos: Verifique que os líquidos e os recipientes dilatam simultaneamente, então existe uma dilatação aparente e a real nos líquidos. 
+---
 
-- Dilatação de um líquido A dilatação dos líquidos é volumétrica, mas leve em consideração a parte dilata do Recipiente. Portanto: $D = d_r + d_a$ 
+- **Dilatação volumétrica:**  
+Segue mesma lógica, com coeficiente volumétrico:  
+$\Delta V = V_0 (1 + 3\alpha \Delta T)$
 
-- Dilatação anômala da água: A água possui uma dilatação anômala que será mais estudado à frente. 
+---
+
+- **Perigo ao dilatar líquidos:**  
+Líquidos e recipientes dilatam juntos, gerando **dilatação aparente** e **real**.
+
+- **Dilatação dos líquidos:**  
+É volumétrica; considerar a dilatação do recipiente:  
+$\Delta V_{\text{ap}} = \Delta V_{\text{líq}} - \Delta V_{\text{rec}}$
+
+---
+
+- **Dilatação anômala da água:**  
+A água apresenta dilatação **anômala** (será estudada depois).
