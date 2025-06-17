@@ -1,3 +1,0 @@
-
-definição temperatura:
-
