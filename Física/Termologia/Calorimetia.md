@@ -12,6 +12,14 @@
 
 ---
 
- Valor calórico dos alimentos - calorímetro
+-  Valor calórico dos alimentos - calorímetro
 
----
+- Mudanças de estado
+
+- Sólido
+
+ - Líquido
+
+- Gasoso
+
+- Plasma
