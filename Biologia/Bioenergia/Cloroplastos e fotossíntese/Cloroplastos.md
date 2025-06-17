@@ -4,32 +4,13 @@
 
 ### 1. **O que são cloroplastos?**
 
-Cloroplastos são organelas presentes em células vegetais e em algumas algas. São os responsáveis pela **fotossíntese**, o processo que converte energia da luz solar em energia química (glicose), base de toda a cadeia alimentar.
+Cloroplastos são organelas presentes em células vegetais e em algumas algas. São os responsáveis pela **fotossíntese**, 
 
-- Só existem em organismos fotossintetizantes.
 - Sua cor verde é devido à **clorofila**, pigmento essencial para absorção da luz solar.
 
 ---
-
-### 2. **Função Principal: Fotossíntese**
-
-A fotossíntese ocorre **em duas etapas** principais:
-
-**a) Fase clara (ou luminosa):**
-- Ocorre **nas membranas dos tilacoides**.
-- A luz é absorvida pela clorofila → gera ATP e NADPH, além de liberar oxigênio (O₂) a partir da água.
-    
-
-**b) Fase escura (Ciclo de Calvin):**
-- Ocorre **no estroma**.
-- Utiliza o ATP e o NADPH para transformar gás carbônico (CO₂) em glicose.
-    
-
----
-
-### 3. **Estrutura dos Cloroplastos**
-
-Os cloroplastos são **organizadas e multifuncionais**. Os principais componentes são:
+### **Estrutura dos Cloroplastos**
+  
 
 #### a) **Duas membranas**
 - **Membrana externa:** Mais permeável, protege a organela.
