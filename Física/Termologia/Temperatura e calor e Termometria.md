@@ -10,5 +10,6 @@ calor def:
 
 escalas
 
+variação temperatura em escalas
 
 

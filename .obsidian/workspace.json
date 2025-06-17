@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a633fc1e09795acd",
+        "id": "3823ea5751cf2bcc",
         "type": "tabs",
         "children": [
           {
-            "id": "b642c90e019aa9d2",
+            "id": "a1225e4fa37483ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Termologia/Temperatura e calor e Termometria.md",
+                "file": "Física/Termologia/Dilatação térmica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temperatura e calor e Termometria"
-            }
-          },
-          {
-            "id": "ad34698aca5e5e37",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "title": "Dilatação térmica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +179,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "ad34698aca5e5e37",
+  "active": "a1225e4fa37483ea",
   "lastOpenFiles": [
-    "Física/Termologia/Temperatura e calor e Termometria.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Termologia/Dilatação térmica.md",
+    "Física/Termologia/Temperatura e calor e Termometria.md",
+    "Física/Caixinhas.canvas",
     "Física/Termologia",
     "Simulados.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Plantas C3,C4 e MAC.md",
@@ -221,7 +210,6 @@
     "Biologia/Impactos ambientais/Acidificação dos oceanos.md",
     "Biologia/Ecologia/Ecologia básica e avançada/Cadeias Alimentares e teias alimentares.md",
     "Biologia/Caixinhas.canvas",
-    "Biologia/Untitled Kanban.md",
     "Biologia/Monera",
     "Biologia/Micologia",
     "Geografia/Massas de ar e corrente",
@@ -233,7 +221,6 @@
     "Redação/img",
     "Redação/Competência 4",
     "Química/img/Pasted image 20250611095124.png",
-    "Física/Caixinhas.canvas",
     "Biologia/img/bio-3-4.webp",
     "Biologia/img/869d7fee-ciclo-de-calvin.png",
     "Biologia/img/Fotofosforilação+acíclica.jpg",
