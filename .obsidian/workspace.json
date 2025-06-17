@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Temperatura e calor e Termometria"
             }
+          },
+          {
+            "id": "ad34698aca5e5e37",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +192,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "b642c90e019aa9d2",
+  "active": "ad34698aca5e5e37",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Temperatura e calor e Termometria.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia",
     "Simulados.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Plantas C3,C4 e MAC.md",

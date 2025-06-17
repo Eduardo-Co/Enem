@@ -8,4 +8,7 @@ calor def:
 ---
 # Termometria
 
+escalas
+
+
 
