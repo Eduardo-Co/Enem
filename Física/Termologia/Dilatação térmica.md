@@ -16,4 +16,5 @@
 -  Perigo ao dilatar líquidos
 
 - Dilatação de um líquido 
-- 
+
+- Dilatação anômala da água

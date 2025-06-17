@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Termologia/Dilatação térmica.md",
+                "file": "Física/Termologia/Calorimetia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dilatação térmica"
+              "title": "Calorimetia"
             }
           }
         ]
@@ -181,9 +181,10 @@
   },
   "active": "a1225e4fa37483ea",
   "lastOpenFiles": [
+    "Física/Termologia/Dilatação térmica.md",
+    "Física/Termologia/Calorimetia.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Simulados.md",
-    "Física/Termologia/Dilatação térmica.md",
     "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Caixinhas.canvas",
     "Física/Termologia",
