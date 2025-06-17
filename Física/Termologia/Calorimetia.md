@@ -1,8 +1,8 @@
-- Caloria 
+- Caloria = elevar 1°C de 1g de água
 
- - BTU
+ - BTU = mesma coisa só que com kelvin e joul
 
-- Equivalente mecânico da caloria
+- Equivalente mecânico da caloria = Sistema que identificou a transformação de energia mecanica em térmica.
 
 - Capacidade térmica pela quantidade de calor - Inclusive sua unidade de medida 
 
