@@ -29,7 +29,41 @@ $$
 
 ---
 
+### Exemplo:
+
+Qual a temperatura em Fahrenheit ($T_F$) e Kelvin ($T_K$) correspondente a $T_C = 40^\circ C$?
+
+**Para Fahrenheit:**
+
+$$
+\frac{40}{100} = \frac{T_F - 32}{180}
+$$
+
+Multiplicando cruzado:
+
+$$
+40 \times 180 = 100 \times (T_F - 32) \\
+7200 = 100T_F - 3200 \\
+7200 + 3200 = 100T_F \\
+10400 = 100T_F \\
+T_F = 104
+$$
+
+**Para Kelvin:**
+
+$$
+\frac{40}{100} = \frac{T_K - 273}{100}
+$$
+
+Multiplicando cruzado:
+
+$$
+40 = T_K - 273 \\
+T_K = 40 + 273 = 313
+$$
 
 ---
 
-> Para converter variações de temperatura entre escalas, use a relação proporcional acima (Teorema de Tales).
+**Respostas:**  
+$T_F = 104^\circ F$  
+$T_K = 313\,K$
