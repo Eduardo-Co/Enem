@@ -1,2 +1,3 @@
 - lei de lavousier 
-- Lei
+- Lei de Proust
+- 
