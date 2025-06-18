@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60876f770ea57d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Química/Estequiometria/Limitante e excesso.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Limitante e excesso"
-            }
-          },
-          {
             "id": "025b703b1a63fba9",
             "type": "leaf",
             "state": {
@@ -191,14 +177,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "60876f770ea57d14",
+  "active": "025b703b1a63fba9",
   "lastOpenFiles": [
-    "Química/Estequiometria/Pureza e rendimento.md",
     "Química/Estequiometria/Limitante e excesso.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Estequiometria/Pureza e rendimento.md",
     "Química/Estequiometria/Formulas Químicas.md",
     "Química/Estequiometria/Rendimentos das reações.md",
     "Química/Estequiometria/Cálculo estequiométrico.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Estequiometria/Leis ponderais e volumétrica.md",
     "Química/Estequiometria/Balanceamento químico.md",
     "Química/Estequiometria/Mol e massa molar.md",
@@ -222,7 +208,6 @@
     "Biologia/Bioenergia/Respiração celular/1 -Glicólise.md",
     "Biologia/Bioenergia/Hidrogenossomos e mitossomos.md",
     "Biologia/Bioquimica/Água.md",
-    "Biologia/Bioquimica/Lipídeos.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Monera",
     "Biologia/Micologia",
