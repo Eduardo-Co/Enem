@@ -32,12 +32,9 @@
 ## Diagramas de fase
 - Gráfico $P \times T$, mostra regiões dos estados físicos.
 
-## Experiência de Tyndall
-- Luz dispersa por partículas em suspensão (efeito colóide).
-
 ## Diferença entre vapor e gás
 - Vapor: gás abaixo do ponto crítico, pode condensar fácil.
-- Gás: acima do ponto crítico, não condensa facilmente.
+- Gás: acima do ponto crítico, não condensa
 
 ## Transformação isobárica
 - Pressão constante.

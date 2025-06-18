@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Termologia/Calorimetia.md",
+                "file": "Física/Eletrodinâmica/Questões.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calorimetia"
+              "title": "Questões"
             }
           }
         ]
@@ -181,9 +181,10 @@
   },
   "active": "60876f770ea57d14",
   "lastOpenFiles": [
+    "Física/Termologia/Calorimetia.md",
+    "Física/Eletrodinâmica/Questões.md",
     "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Termologia/Dilatação térmica.md",
-    "Física/Termologia/Calorimetia.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Trocas de calor e mudança de fase.md",
     "Simulados.md",
