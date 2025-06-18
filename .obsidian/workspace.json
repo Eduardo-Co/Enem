@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Estequiometria/Formulas Químicas.md",
+                "file": "Química/Estequiometria/Limitante e excesso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formulas Químicas"
+              "title": "Limitante e excesso"
             }
           },
           {
@@ -193,8 +193,10 @@
   },
   "active": "60876f770ea57d14",
   "lastOpenFiles": [
-    "Química/Estequiometria/Rendimentos das reações.md",
+    "Química/Estequiometria/Pureza e rendimento.md",
+    "Química/Estequiometria/Limitante e excesso.md",
     "Química/Estequiometria/Formulas Químicas.md",
+    "Química/Estequiometria/Rendimentos das reações.md",
     "Química/Estequiometria/Cálculo estequiométrico.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Estequiometria/Leis ponderais e volumétrica.md",
@@ -221,8 +223,6 @@
     "Biologia/Bioenergia/Hidrogenossomos e mitossomos.md",
     "Biologia/Bioquimica/Água.md",
     "Biologia/Bioquimica/Lipídeos.md",
-    "Biologia/Bioquimica/Enzimas.md",
-    "Biologia/Bioquimica/Proteínas.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Monera",
     "Biologia/Micologia",
