@@ -1,0 +1,1 @@
+Ah - Geralmente relaciona-se com baterias a lógica é ver como uma quantidade de energia gasta ou recebida. 
