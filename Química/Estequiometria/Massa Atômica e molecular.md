@@ -19,3 +19,7 @@
 | **Unidade**  | Unidade de massa atômica (u).                                                                  |
 | **Cálculo**  | Soma das massas atômicas dos átomos que formam a molécula.                                     |
 | **Exemplo**  | $H_2SO_4$: 2(1) + 32 + 4(16) = **98 u**  <br>$C_6H_{12}O_6$: 6(12) + 12(1) + 6(16) = **180 u** |
+
+---
+
+***Massa do átomo é próxima ao do Íon***
