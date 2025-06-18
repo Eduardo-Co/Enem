@@ -11,12 +11,14 @@
             "id": "60876f770ea57d14",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Estequiometria/Massa Atômica e molecular.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Massa Atômica e molecular"
             }
           }
         ]
@@ -179,11 +181,16 @@
   },
   "active": "60876f770ea57d14",
   "lastOpenFiles": [
+    "Química/Estequiometria/Mol e massa molar.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Estequiometria/Massa Atômica e molecular.md",
+    "Química/Estequiometria/Formulas Químicas.md",
+    "Química/Estequiometria/Balanceamento químico.md",
+    "Química/Untitled",
     "Física/Eletrodinâmica/Questões.md",
     "Física/Termologia/Calorimetia.md",
     "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Termologia/Dilatação térmica.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Trocas de calor e mudança de fase.md",
     "Simulados.md",
     "Física/Caixinhas.canvas",
@@ -203,11 +210,6 @@
     "Biologia/Bioquimica/Proteínas.md",
     "Biologia/Bioquimica/Aminoácidos.md",
     "Biologia/Bioquimica/Carboidratos.md",
-    "Biologia/Citologia/Membrana plasmática.md",
-    "Biologia/Citologia/Organelas citoplasmáticas.md",
-    "Biologia/Impactos ambientais/Poluição - Impactos ambientais na atmosfera.md",
-    "Biologia/Impactos ambientais/Espécies exóticas.md",
-    "Biologia/Impactos ambientais/Poluição - Impactos Ambientais na água.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Monera",
     "Biologia/Micologia",
@@ -218,7 +220,6 @@
     "Redação/img/Pasted image 20250605082616.png",
     "Redação/img/Pasted image 20250516214114.png",
     "Redação/img",
-    "Redação/Competência 4",
     "Química/img/Pasted image 20250611095124.png",
     "Biologia/img/bio-3-4.webp",
     "Biologia/img/869d7fee-ciclo-de-calvin.png",
