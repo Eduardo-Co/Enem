@@ -1,1 +1,4 @@
-Ah - Geralmente relaciona-se com baterias a lógica é ver como uma quantidade de energia gasta ou recebida. 
+Questões de baterias/Corrente por tempo - Carga elétrica:
+
+ - Aqui o segredo está em manipular as unidades de medida de potência e corrente; de forma que extraia o tempo por meio disso. 
+ - 
