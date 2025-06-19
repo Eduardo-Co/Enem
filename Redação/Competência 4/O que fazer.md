@@ -2,3 +2,4 @@
 - Não repita nenhum elemento argumentativo
 - Utilizar o operador argumentativo correto.
 - 1° Tem? ; 2° Repetem? ; 3° Adequado
+- ![[Pasted image 20250619085205.png]]
