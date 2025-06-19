@@ -18,8 +18,19 @@
               "icon": "lucide-file-text",
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
+          },
+          {
+            "id": "da4f871b0d3c127f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +188,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "025b703b1a63fba9",
+  "active": "da4f871b0d3c127f",
   "lastOpenFiles": [
-    "Química/Estequiometria/Limitante e excesso.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Estequiometria/Limitante e excesso.md",
     "Química/Estequiometria/Pureza e rendimento.md",
     "Química/Estequiometria/Formulas Químicas.md",
     "Química/Estequiometria/Rendimentos das reações.md",
