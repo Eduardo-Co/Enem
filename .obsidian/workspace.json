@@ -11,10 +11,14 @@
             "id": "e02ff7a34159e08c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Simulados.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Simulados"
             }
           }
         ]
@@ -175,11 +179,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "e02ff7a34159e08c",
   "lastOpenFiles": [
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Redação/img/Pasted image 20250619085205.png",
+    "Simulados.md",
+    "Terminologias em latim.md",
     "Redação/Competência 5/O que fazer.md",
+    "Redação/img/Pasted image 20250619085205.png",
     "Redação/Competência 3/Argumentação.md",
     "Redação/Competência 3/200 Pontos na competência 3.md",
     "Redação/Competência 4/O que fazer.md",
@@ -200,14 +206,12 @@
     "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Termologia/Dilatação térmica.md",
     "Física/Termologia/Trocas de calor e mudança de fase.md",
-    "Simulados.md",
     "Física/Caixinhas.canvas",
     "Física/Termologia",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Plantas C3,C4 e MAC.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Leucoplasto e Amiloplasto.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fermentação.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fatores limitantes da fotossíntese e ponto de compensação luminoso.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Monera",
     "Biologia/Micologia",
