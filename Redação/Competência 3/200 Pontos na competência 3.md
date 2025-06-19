@@ -1,4 +1,3 @@
 - Para tirar 200 o projeto de texto tem que ser estratégico
 - Desenvolvimento das informações, fatos e opiniões ou texto
 - Não conseguiu pensar nos dois por quês, não tem problema. 
-- 
