@@ -32,9 +32,19 @@
               "icon": "lucide-file-text",
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
+          },
+          {
+            "id": "a6c5a46815ae471e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,11 +202,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "22f49f17b973424f",
+  "active": "a6c5a46815ae471e",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Progressões/Sequência e progressões.md",
     "Matemática/Funções/2° Grau.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Funções/Equação linear.md",
     "Matemática/Funções/1°grau.md",
     "Simulados.md",
