@@ -15,3 +15,9 @@ Parecido com exercício acima ele te dá o consumo de energia em potência e o q
 Lembrar que independente da queima ou adicionar mais resistores em paralelo, o brilho, ou seja, corrente, que passa é sempre o mesmo. Uma vez que a diferença de potencial e a resistência também será a mesma. 
 
 ---
+
+***Vazão com potência***
+
+Veja que geralmente a vazão é dada em L/minuto claro que se você fizer L por segundo e pegar o calor específico necessário para converter isso em Joules, terá a quantidade de Joules gasta por segundo, então, terá a potência. Desse modo, você conseguirá determinar quanto de energia é gasta para aquecer a água. 
+
+---
