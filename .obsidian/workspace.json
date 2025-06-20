@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Funções/2° Grau.md",
+                "file": "Física/Eletrodinâmica/Questões.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2° Grau"
+              "title": "Questões"
             }
           },
           {
@@ -206,9 +206,10 @@
   },
   "active": "22f49f17b973424f",
   "lastOpenFiles": [
+    "Física/Eletrodinâmica/Tipos de corrente.md",
+    "Matemática/Funções/2° Grau.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Progressões/Sequência e progressões.md",
-    "Matemática/Funções/2° Grau.md",
     "Matemática/Funções/Equação linear.md",
     "Matemática/Funções/1°grau.md",
     "Simulados.md",
