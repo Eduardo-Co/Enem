@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Botânica/Untitled.md",
+                "file": "Biologia/Botânica/Briófitas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Briófitas"
+            }
+          },
+          {
+            "id": "26fa7f395b99d896",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -182,7 +194,12 @@
   "active": "b13dd8a6e16f3f63",
   "lastOpenFiles": [
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Biologia/Botânica/Untitled.md",
+    "Biologia/Botânica/Briófitas.md",
+    "Biologia/Botânica/Caracterização das plantas.md",
+    "Biologia/img/Pasted image 20250623083629.png",
+    "Biologia/Evolução/Tipos de seleção natural.md",
+    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
+    "Biologia/Evolução/Darwinismo e NeoDarwinismo.md",
     "Biologia/Evolução/Filogenia e Cladograma.md",
     "Biologia/Botânica",
     "Linguagens/Análise de questões/Tempo de cada questão e acertos por Simulado.md",
@@ -207,10 +224,6 @@
     "Química/Estequiometria/Formulas Químicas.md",
     "Química/Estequiometria/Rendimentos das reações.md",
     "Química/Estequiometria/Cálculo estequiométrico.md",
-    "Química/Estequiometria/Leis ponderais e volumétrica.md",
-    "Química/Estequiometria/Balanceamento químico.md",
-    "Química/Estequiometria/Mol e massa molar.md",
-    "Química/Estequiometria/Massa Atômica e molecular.md",
     "Química/Untitled",
     "Física/Caixinhas.canvas",
     "Física/Termologia",
@@ -227,7 +240,6 @@
     "Biologia/img/Fotofosforilação+acíclica.jpg",
     "Imagem do WhatsApp de 2025-06-09 à(s) 15.30.41_d78e94b4.jpg",
     "Biologia/img/Comparação+fosforilação+cíclica+X+fosforilação+acíclica.jpg",
-    "Biologia/img/Fotofosforilação+cíclica.jpg",
     "Linguagens/Untitled.canvas",
     "Matemática/Untitled.canvas",
     "Untitled.canvas",
