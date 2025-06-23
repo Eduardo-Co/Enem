@@ -1,0 +1,4 @@
+- Característica: 
+- Fase esporófito:
+- Hermafrodita
+- 
