@@ -60,3 +60,4 @@ Ela ocorre **na membrana interna da mitocôndria** (ou na membrana plasmática d
 |ATP sintase|Prótons retornam à matriz via ATP sintase, que utiliza a energia para formar ATP.|
 
 ---
+![[Pasted image 20250623194922.png]]
