@@ -49,3 +49,4 @@ A **glicólise** é a primeira etapa da respiração celular. Ela ocorre **no ci
 $$
 \text{C}_6\text{H}_{12}\text{O}_6 + 2\text{ADP} + 2\text{P}_i + 2\text{NAD}^+ \longrightarrow 2\text{C}_3\text{H}_4\text{O}_3 + 2\text{ATP} + 2\text{NADH} + 2\text{H}^+ + 2\text{H}_2\text{O}
 $$
+![[Pasted image 20250623194001.png]]

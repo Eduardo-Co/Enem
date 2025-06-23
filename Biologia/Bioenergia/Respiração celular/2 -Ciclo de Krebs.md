@@ -14,6 +14,8 @@ Após a **glicólise**, o **ácido pirúvico (piruvato)** entra na mitocôndria 
   - O NAD⁺ **aceita elétrons e hidrogênios**, tornando-se **NADH + H⁺**.
   - O grupo acetil liga-se à **Coenzima A**, formando **Acetil-CoA**.
 
+![[Pasted image 20250623194402.png]]
+
 ---
 
 ## 🔬 Fórmula geral da descarboxilação oxidativa:
