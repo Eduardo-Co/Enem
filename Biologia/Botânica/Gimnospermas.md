@@ -1,23 +1,35 @@
-
-Permas são sementes Gimno representa Nuas;
-
-Ou seja então sementes nuas.
-
-
-micro -> masculino
-macro -> feminino
-
----
-
-- fanerógamas:
-- reprodução das gimnospermas 
-- função da semente
-- tubo polínico
-- polem 
-- 
-
-![[Pasted image 20250623102257.png]]
-
-As gimnospermas tiveram uma evolução focada na independência da água. Elas agora não precisam do anterozóide caminhando por meio da água para fecundar na oosfera. Isso agora acontece por meio do tubo olínico e semente. De um ponto de vista mais específico, o processo de reprodução das plantas gimnospermas se dá da seguinte forma:
-
-- Na fase Esporófita, a planta desenvolve os gametas, os masculinos são os poléns que são desenvolvidos no microporângio. Eles podem ser levados pelo vento ou por agentes polinizadores até os gametas femininos, que é representado pela oosfera encoberta pelo ovário, o ovário 
+- **Nome & conceito**
+    - _gymno-_ = nu, _-sperma_ = semente → **“sementes nuas”** (não há ovário nem fruto).
+    - Pinheiros, araucárias, ciprestes, ginkgos e cicas constituem a fase visível, vascular e fotossintética.
+        
+- **Cone masculino**
+    - Escamas portam **microsporângios**.
+    - **Meiose** → **microsporos (n)** → germinam ainda dentro da parede e formam o **grão de pólen** (= gametófito masculino haploide, microscópico).
+    - Pólen carrega dois núcleos espermáticos e um núcleo do tubo.
+        
+- **Cone feminino**
+    - Cada escama ovulífera traz **óvulos** (megasporângios + tegumento).
+    - No óvulo, **meiose** → **megasporo (n)** → cresce em **gametófito feminino n**, que produz um ou mais **arquegônios** com **oosferas**.
+        
+- **Polinização, não precisa de água externa**
+    - **Vento** é a via principal (anemofilia); insetos participam só em alguns grupos (cicadáceas, gnetáceas).        
+    - Pólen pousa no **micrópilo** do óvulo e germina.
+        
+- **Tubo polínico**
+    - Cresce lentamente pelo tecido do óvulo; conduz os núcleos espermáticos até o arquegônio.
+    - Substitui totalmente o “nado” do anterozoide das pteridófitas — daí a independência da água para fecundação.
+        
+- **Fecundação → semente nua**
+    - Núcleo espermático + oosfera → **zigoto 2n**.
+    - Óvulo vira **semente** composta por:
+        1. **Embrião 2n** (novo esporófito).
+        2. **Tecido de reserva haploide** (gametófito feminino).
+        3. **Tegumento** lenhoso ou coriáceo protetor.
+            
+    - A maturação pode levar meses a mais de 1 ano, dependendo da espécie.
+        
+- **Germinação**
+    
+    - Semente cai, entra em dormência ou germina; o embrião origina uma **plântula** que cresce no novo **esporófito**, reiniciando o ciclo.
+        
+    - O gametófito feminino, agora esgotado, nunca chega a viver fora da semente.
