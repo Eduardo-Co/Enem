@@ -11,12 +11,14 @@
             "id": "26fa7f395b99d896",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Citologia/Organelas citoplasmáticas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Organelas citoplasmáticas"
             }
           }
         ]
@@ -179,9 +181,9 @@
   },
   "active": "26fa7f395b99d896",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/img/download.jpeg",
     "Biologia/img/Pasted image 20250623100629.png",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Botânica/Angiospermas.md",
     "Biologia/Botânica/Gimnospermas.md",
     "Biologia/Botânica/Pteridófitas.md",
