@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Filogenia e Cladograma"
             }
+          },
+          {
+            "id": "ce92ea8167989cf6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +192,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "ce92ea8167989cf6",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Evolução/Filogenia e Cladograma.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Botânica",
     "Linguagens/Análise de questões/Tempo de cada questão e acertos por Simulado.md",
     "Física/Eletrodinâmica/Questões.md",
