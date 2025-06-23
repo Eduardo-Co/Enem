@@ -49,11 +49,3 @@
 
 ---
 
-## 🧠 **Resumo ENEM-style**
-
-|Tema|O que lembrar?|
-|---|---|
-|**Mutualismo**|Fungo + alga ou cianobactéria → troca de nutrientes e proteção|
-|**Nitrogênio**|Cianobactérias fixam nitrogênio → enriquecem o sistema|
-|**Bioindicadores**|Alta presença de líquens = ar limpo|
-|**Sucessão ecológica**|Líquens iniciam a ecese, degradando rochas e preparando o ambiente|

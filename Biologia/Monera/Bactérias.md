@@ -50,12 +50,3 @@
 
 ---
 
-## 🎯 **RESUMO FINAL (MODO ENEM)
-
-|Característica|Gram-Positiva|Gram-Negativa|
-|---|---|---|
-|Peptidoglicano|Espesso|Fino|
-|Membrana externa|❌ Não tem|✅ Tem (com LPS)|
-|Cor na coloração de Gram|Roxa|Rosa|
-|Sensibilidade à penicilina|Alta|Baixa|
-|Patogenicidade|Menor|Maior (libera endotoxinas)|
