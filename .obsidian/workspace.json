@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fe0ffc43ebde9551",
+        "id": "d172250eb19d1979",
         "type": "tabs",
         "children": [
           {
-            "id": "79071666221c5b35",
+            "id": "803789d20424b177",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Física/Termologia/Gás ideal.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Gás ideal"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -179,10 +177,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "79071666221c5b35",
+  "active": "803789d20424b177",
   "lastOpenFiles": [
-    "Física/Termologia/Formas de transmissão de calor.md",
     "Física/Termologia/Gás ideal.md",
+    "Física/Termologia/Formas de transmissão de calor.md",
     "Física/Termologia/Potencia.md",
     "Física/Termologia/Dilatação térmica.md",
     "Física/Termologia/Calorimetia.md",
