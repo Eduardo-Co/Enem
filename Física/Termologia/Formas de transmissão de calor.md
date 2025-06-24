@@ -4,3 +4,19 @@ capacidade de conduzir, sem bom condutor ou não.
 
 condutor e isolante exemplos; 
 
+
+$\phi = \frac{Q}{\Delta t} = K \cdot A \cdot \frac{\Delta T}{L}$
+
+| Símbolo    | Grandeza                 | Unidade SI |
+| ---------- | ------------------------ | ---------- |
+| $\phi$     | Fluxo de calor           | W (J/s)    |
+| $Q$        | Energia térmica          | J          |
+| $\Delta t$ | Intervalo de tempo       | s          |
+| $K$        | Condutividade térmica    | W/(m·K)    |
+| $A$        | Área de seção            | m²         |
+| $\Delta T$ | Diferença de temperatura | K          |
+| $L$        | Comprimento / espessura  | m          |
+
+---
+## Convecção térmica:
+
