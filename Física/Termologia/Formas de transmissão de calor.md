@@ -1,5 +1,7 @@
 ## Condução térmica: 
 
+Veja que como é condução caso te derem um cubo precisa ter cuidado, pois ele será aplicado somente nas faces do cubo, então é a área de casa face. 
+
 capacidade de conduzir, sem bom condutor ou não. 
 
 onde se transmite

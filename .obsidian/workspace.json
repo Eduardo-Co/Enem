@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d172250eb19d1979",
+        "id": "e46dfd58fe3557b2",
         "type": "tabs",
         "children": [
           {
-            "id": "9be3fdfd91272c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física/Eletrodinâmica/Questões.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questões"
-            }
-          },
-          {
-            "id": "7d45edbad490338d",
+            "id": "05057058a26aa026",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -33,8 +19,7 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,13 +177,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "7d45edbad490338d",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
     "Física/Eletrodinâmica/Questões.md",
-    "Física/Untitled Kanban.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Física/Termologia/Gás ideal.md",
     "Física/Termologia/Formas de transmissão de calor.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Untitled Kanban.md",
+    "Física/Termologia/Gás ideal.md",
     "Física/Termologia/Potencia.md",
     "Física/Termologia/Dilatação térmica.md",
     "Física/Termologia/Calorimetia.md",
@@ -220,7 +205,6 @@
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Plantas C3,C4 e MAC.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Leucoplasto e Amiloplasto.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fatores limitantes da fotossíntese e ponto de compensação luminoso.md",
     "Biologia/img/Pasted image 20250623194922.png",
     "Biologia/img/Pasted image 20250623194402.png",
     "Biologia/img/Pasted image 20250623194001.png",
