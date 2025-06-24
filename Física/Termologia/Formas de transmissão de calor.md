@@ -30,3 +30,4 @@ onde se tansmite
 ## Irradiação Térmica:
 
 onde se transmite
+cameras térmicas
