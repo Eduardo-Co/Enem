@@ -20,3 +20,8 @@ $\phi = \frac{Q}{\Delta t} = K \cdot A \cdot \frac{\Delta T}{L}$
 ---
 ## Convecção térmica:
 
+explicado pela densidade
+
+---
+## Irradiação Térmica:
+
