@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "803789d20424b177",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
-            }
-          },
-          {
             "id": "9be3fdfd91272c88",
             "type": "leaf",
             "state": {
@@ -32,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Questões"
             }
+          },
+          {
+            "id": "7d45edbad490338d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,9 +192,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "803789d20424b177",
+  "active": "7d45edbad490338d",
   "lastOpenFiles": [
     "Física/Eletrodinâmica/Questões.md",
+    "Física/Untitled Kanban.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Gás ideal.md",
     "Física/Termologia/Formas de transmissão de calor.md",
@@ -219,7 +221,6 @@
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Leucoplasto e Amiloplasto.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fatores limitantes da fotossíntese e ponto de compensação luminoso.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fermentação.md",
     "Biologia/img/Pasted image 20250623194922.png",
     "Biologia/img/Pasted image 20250623194402.png",
     "Biologia/img/Pasted image 20250623194001.png",

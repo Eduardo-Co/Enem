@@ -25,6 +25,7 @@ kanban-plugin: board
 - [ ] ### Questão 132 172328
 	
 	ENEM PPL 2° Dia 2017
+- [ ] **Questão 107 - 2021 Amarelo**
 
 
 ## Revisar
