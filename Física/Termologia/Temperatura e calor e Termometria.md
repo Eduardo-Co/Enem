@@ -1,4 +1,3 @@
-## 🌡️ Termometria – Resumo
 
 **Temperatura:**  
 Temperatura é uma grandeza capaz de medir a energia térmica.
