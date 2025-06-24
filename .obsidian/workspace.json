@@ -33,8 +33,7 @@
               "title": "Questões"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,8 +191,9 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "9be3fdfd91272c88",
+  "active": "803789d20424b177",
   "lastOpenFiles": [
+    "Física/Eletrodinâmica/Questões.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Gás ideal.md",
     "Física/Termologia/Formas de transmissão de calor.md",
