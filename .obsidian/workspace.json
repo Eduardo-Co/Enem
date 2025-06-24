@@ -11,12 +11,14 @@
             "id": "05057058a26aa026",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Termologia/Gás ideal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Gás ideal"
             }
           }
         ]
@@ -177,18 +179,18 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "05057058a26aa026",
   "lastOpenFiles": [
+    "Física/Termologia/Temperatura e calor e Termometria.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Questões.md",
     "Física/Termologia/Formas de transmissão de calor.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Untitled Kanban.md",
     "Física/Termologia/Gás ideal.md",
     "Física/Termologia/Potencia.md",
     "Física/Termologia/Dilatação térmica.md",
     "Física/Termologia/Calorimetia.md",
     "Física/Termologia/Mudança de estado.md",
-    "Física/Termologia/Temperatura e calor e Termometria.md",
     "Biologia/Monera/Utilização.md",
     "Biologia/Monera/Classificação dos seres e diferenças.md",
     "Biologia/Monera/Doenças bacterianas.md",
