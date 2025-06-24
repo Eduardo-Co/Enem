@@ -2,6 +2,8 @@
 
 capacidade de conduzir, sem bom condutor ou não. 
 
+onde se transmite
+
 condutor e isolante exemplos; 
 
 
@@ -22,6 +24,9 @@ $\phi = \frac{Q}{\Delta t} = K \cdot A \cdot \frac{\Delta T}{L}$
 
 explicado pela densidade
 
+onde se tansmite
+
 ---
 ## Irradiação Térmica:
 
+onde se transmite
