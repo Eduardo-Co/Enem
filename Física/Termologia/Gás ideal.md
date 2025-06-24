@@ -67,3 +67,29 @@ $$
 \;=\;\sum_i \frac{p_i\,V_i}{T_i}
 $$
 
+---
+
+## Trabalho de um Gás
+
+- **Definição geral**  
+  O trabalho realizado **pelo** gás (positivo se expande) ou **sobre** o gás (negativo se comprime) é a área sob a curva \(p\)×\(V\):
+  $$
+    \tau = \int_{V_i}^{V_f} p\,\mathrm{d}V
+  $$
+
+- **Processo Isobárico** (pressão constante)  
+  $$
+    \tau = p\,\Delta V = p\,(V_f - V_i)
+  $$
+
+- **Analogia Mecânica**  
+  É análogo ao trabalho em mecânica:
+  $$
+    \tau = F \cdot D
+  $$
+  onde \(F\) é a força e \(D\) o deslocamento.
+
+---
+
+
+
