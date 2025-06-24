@@ -20,4 +20,6 @@ Lembrar que independente da queima ou adicionar mais resistores em paralelo, o b
 
 Veja que geralmente a vazão é dada em L/minuto claro que se você fizer L por segundo e pegar o calor específico necessário para converter isso em Joules, terá a quantidade de Joules gasta por segundo, então, terá a potência. Desse modo, você conseguirá determinar quanto de energia é gasta para aquecer a água. 
 
+Essa parte da vazão pode ser vista como uma igualdade de potencial; O potencial elétrico tem que ser igual ao potencial térmico.
+
 ---
