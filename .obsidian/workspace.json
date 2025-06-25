@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e46dfd58fe3557b2",
+        "id": "3ef34e98a9669140",
         "type": "tabs",
         "children": [
           {
-            "id": "05057058a26aa026",
+            "id": "6a2b88ec9f422065",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Termologia/Calorimetia.md",
+                "file": "Química/Termoquímica/Conceitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calorimetia"
+              "title": "Conceitos"
             }
           }
         ]
@@ -179,14 +179,16 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "05057058a26aa026",
+  "active": "6a2b88ec9f422065",
   "lastOpenFiles": [
+    "Química/Termoquímica/Conceitos.md",
+    "Química/Termoquímica",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Termologia/Calorimetia.md",
     "Física/Termologia/Formas de transmissão de calor.md",
     "Física/Termologia/Dilatação térmica.md",
     "Física/Termologia/Temperatura e calor e Termometria.md",
-    "Física/Termologia/Calorimetia.md",
     "Física/Termologia/Gás ideal.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Eletrodinâmica/Questões.md",
     "Física/Untitled Kanban.md",
     "Física/Termologia/Potencia.md",
@@ -220,7 +222,6 @@
     "Biologia/Botânica",
     "Linguagens/Análise de questões",
     "Redação/Competência 5",
-    "Química/Untitled",
     "Física/Caixinhas.canvas",
     "Física/Termologia",
     "Biologia/Caixinhas.canvas",
