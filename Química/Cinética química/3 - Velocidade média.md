@@ -1,52 +1,63 @@
-# 📊 Velocidade Média das Reações Químicas
+## Velocidade média de reação
 
-## 🧪 Definição
-
-A velocidade média é a variação da concentração de um reagente ou produto ao longo de um intervalo de tempo:
+Para um reagente **A**:
 
 $$
-v_{média} = \frac{\Delta[\text{espécie}]}{\Delta t}
+v_{\text{média}} = -\frac{\Delta [A]}{\Delta t}
 $$
 
----
-
-## 🔸 Para Reagentes
-
-Como a concentração **diminui**, usamos valor absoluto:
+Para um produto **P**:
 
 $$
-v = - \frac{[\text{reagente final}] - [\text{reagente inicial}]}{t_{\text{final}} - t_{\text{inicial}}}
+v_{\text{média}} = \frac{\Delta [P]}{\Delta t}
 $$
 
 ---
 
-## 🔸 Para Produtos
+### Ajuste estequiométrico
 
-A concentração **aumenta**, então:
+Para a reação genérica  
 
-$$
-v = \frac{[\text{produto final}] - [\text{produto inicial}]}{t_{\text{final}} - t_{\text{inicial}}}
-$$
+$a\,\mathrm{A} + b\,\mathrm{B} \rightarrow c\,\mathrm{C} + d\,\mathrm{D}$  
 
----
-
-## 📏 Unidade mais comum
-
-- mol·L⁻¹·s⁻¹
-
----
-
-## 🧮 Exemplo Numérico
-
-Reação: A → B
-
-- [A]₀ = 0,50 mol·L⁻¹  
-- [A] aos 20 s = 0,30 mol·L⁻¹
+a velocidade da reação é
 
 $$
-v = \frac{0,30 - 0,50}{20} = \frac{-0,20}{20} = -0,01 \Rightarrow 0,01~mol\cdot L^{-1}\cdot s^{-1}
+v_\text{reação}
+  = -\frac{1}{a}\frac{\Delta[A]}{\Delta t}
+  = -\frac{1}{b}\frac{\Delta[B]}{\Delta t}
+  =  \frac{1}{c}\frac{\Delta[C]}{\Delta t}
+  =  \frac{1}{d}\frac{\Delta[D]}{\Delta t}
 $$
 
 ---
 
-> 📌 A velocidade média fornece uma visão geral da rapidez da reação em um intervalo específico.
+### Exemplo: decomposição do peróxido de hidrogênio
+
+$$
+2\,\mathrm{H_2O_2(aq)} \rightarrow 2\,\mathrm{H_2O(l)} + \mathrm{O_2(g)}
+$$
+
+Dados:  
+$\Delta[\mathrm{H_2O_2}] = 1.00 - 0.70 = 0.30\ \text{mol·L}^{-1}$  
+$\Delta t = 150\ \text{s}$
+
+Velocidade média para o reagente:
+
+$$
+v_{\text{média}}(\mathrm{H_2O_2}) = -\frac{0.30}{150}
+                                   = -2.0\times10^{-3}\ \text{mol·L}^{-1}\text{s}^{-1}
+$$
+
+Velocidade da reação:
+
+$$
+v_\text{reação} = \frac{1}{2}\left|v_{\text{média}}(\mathrm{H_2O_2})\right|
+                = 1.0\times10^{-3}\ \text{mol·L}^{-1}\text{s}^{-1}
+$$
+
+Para o oxigênio formado:
+
+$$
+v_{\text{média}}(\mathrm{O_2}) = +1.0\times10^{-3}\ \text{mol·L}^{-1}\text{s}^{-1}
+$$
