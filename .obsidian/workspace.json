@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Entalpia"
             }
+          },
+          {
+            "id": "b8569e3424029881",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +192,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "578caef2d985a657",
+  "active": "b8569e3424029881",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Termoquímica/Entalpia.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Termoquímica",
     "Física/Termologia/Calorimetia.md",
     "Física/Termologia/Formas de transmissão de calor.md",
