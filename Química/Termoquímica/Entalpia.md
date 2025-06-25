@@ -40,5 +40,6 @@
 
 ## Lei de Hess:
 
-- Função de estado:
-- 
+- Função de estado: Função de estado é uma reação que depende somente do inicial e final, ignorando os processos intermediários
+
+- O Enem ao cobrar Lei de Hess deixa implícito a formação da reação química a ser determinada que seria a de função de estado. Ou seja, você deverá formar essa reação final que pega o reagente primário e o produto final, manipulando as reações dadas.
