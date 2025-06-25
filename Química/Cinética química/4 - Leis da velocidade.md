@@ -1,74 +1,59 @@
-# ⚖️ Leis da Velocidade das Reações Químicas
+# 🔄 Entropia (S) & Energia Livre de Gibbs (G)
 
-## 📐 1. Definição
+## 📚 Entropia – Conceitos-chave
+> [!note]+ Definição  
+> **Entropia (S)** mede a dispersão de energia ou o grau de desordem de um sistema.  
+> É uma **função de estado**: depende apenas dos estados inicial e final.
 
-A velocidade da reação depende da concentração dos reagentes:
+- Unidade: **J · K⁻¹** (geralmente J · mol⁻¹ · K⁻¹ como entropia molar).  
+- **2ª Lei da Termodinâmica:**  
+  $$\Delta S_{\text{universo}} = \Delta S_{\text{sistema}} + \Delta S_{\text{vizinhança}} > 0$$  
+  para processos espontâneos.  
+- **Entropia-padrão (S°):** valor tabulado para 1 mol a 25 °C (298 K) e 1 atm.
 
-$$
-v = k \cdot [A]^m \cdot [B]^n
-$$
-
-- \( v \): velocidade da reação  
-- \( k \): constante da velocidade (depende da temperatura)  
-- \( [A], [B] \): concentrações dos reagentes  
-- \( m, n \): ordens parciais da reação
-
----
-
-## 🔢 2. Ordem da Reação
-
-A ordem total é a soma dos expoentes dos reagentes na lei da velocidade:
-
-$$
-\text{ordem total} = m + n
-$$
-
-- Exemplo: Se $v = k \cdot [A]^1 \cdot [B]^2$ , ordem total = 3
+### 🔧 Fatores que Aumentam S
+- Temperatura ↑  
+- Mudança de fase: $$S_{\text{gás}} > S_{\text{líquido}} > S_{\text{sólido}}$$  
+- Maior nº de moles de gás (ou de partículas)  
+- Mistura de substâncias (mistura ideal: $$\Delta S_\text{mistura} > 0$$)  
+- Complexidade molecular (mais átomos → mais modos vibracionais)
 
 ---
 
-## 📊 3. Determinação Experimental
+## ⚡ Energia Livre de Gibbs – Conceitos-chave
+> [!formula]  
+> $$G = H - T\,S$$  
 
-Os valores de \( m \) e \( n \) são **determinados por experimento**, não pela equação balanceada (exceto em reações elementares).
+- **Critério de espontaneidade (T, P constantes):**  
+  - $$\Delta G < 0$$ → processo espontâneo  
+  - $$\Delta G = 0$$ → equilíbrio  
+  - $$\Delta G > 0$$ → não espontâneo  
+- **Equação fundamental:**  
+  $$\Delta G = \Delta H - T\,\Delta S$$  
+  onde \(T\) é em Kelvin.  
 
----
+> [!tip] Interpretação rápida  
+> | ΔH | ΔS | ΔG (espont.) | Comentário |
+> |---|---|---|---|
+> | − | + | Sempre < 0 | Espontâneo em todas as T |
+> | − | − | T dependente | Espontâneo se \(T < \frac{\Delta H}{\Delta S}\) |
+> | + | + | T dependente | Espontâneo se \(T > \frac{\Delta H}{\Delta S}\) |
+> | + | − | Nunca < 0 | Nunca espontâneo |
 
-## 🧠 4. Efeito das Concentrações
+### 🔄 Relação com Equilíbrio Químico
+$$\Delta G^{\,\circ} = -\,R\,T \ln K$$  
+- \(K > 1 \Rightarrow \Delta G^{\,\circ} < 0\) (produtos favorecidos)  
+- \(K < 1 \Rightarrow \Delta G^{\,\circ} > 0\) (reagentes favorecidos)
 
-- Ordem 1: Dobrar [A] → dobra a velocidade  
-- Ordem 2: Dobrar [B] → quadruplica a velocidade
-
----
-
-> 💡 As leis da velocidade são essenciais para prever e controlar a dinâmica das reações químicas!
-
-
-
-## 🔎 Exemplo Prático
-
-Para a reação:  
-$$
-2\text{NO}(g) + 2\text{H}_2(g) \rightarrow \text{N}_2(g) + 2\text{H}_2\text{O}(g)
-$$
-
-Em laboratório, encontrou-se:
-$$
-v = k \cdot [\text{NO}]^2 \cdot [\text{H}_2]^1
-$$
-
-| Reagente    | Ordem (expoente) | Efeito ao dobrar concentração |
-| ----------- | ---------------- | ----------------------------- |
-| \(\text{NO}\)    | 2                | Velocidade ×4                |
-| \(\text{H}_2\)   | 1                | Velocidade ×2                |
-
-- **Ordem total:** \(2 + 1 = 3\)
+### 🔌 Acoplamento de Reações
+Reações endergônicas (ΔG > 0) podem ocorrer se **acopladas** a reações altamente exergônicas (ΔG ≪ 0), como a hidrólise de ATP em bioquímica.
 
 ---
 
-## 🧠 Resumo das Regras
-
-- Dobrar [NO] → velocidade quadruplica  
-- Dobrar [H₂] → velocidade dobra  
-- Dobrar ambos → velocidade ×8
-
----
+## 📈 Resumo Visual
+```mermaid
+graph LR
+A[ΔH] -- negativo --> C[ΔG < 0]
+B[ΔS] -- positivo --> C
+A -- positivo --> D[ΔG > 0]
+B -- negativo --> D
