@@ -31,4 +31,3 @@
 
 2.  ***Combustão $\Delta H_{c}°$:*** Sempre será Exotérmica; Quantidade de energia liberada na combustão de 1 mol de um combustível nas condições padrões (25°C e 1 atm).
 	- ***Poder Calorífico:*** Energia liberada na queima de uma dada unidade de massa de combustível.
-- 
