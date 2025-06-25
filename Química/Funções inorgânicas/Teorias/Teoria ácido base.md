@@ -1,23 +1,19 @@
+# Teorias Ácido–Base  
 
-- Arrhenius: 
-	- Ácido: Quem libera H+ em meio aquoso
-	- Óxido: Quem libera OH- em meio aquoso
-- Brownsted-Lory:
-	- Ácido: Quem doa protons H+
-	- Base: Quem recebe protons H+
-	- Base e ácido conjugado é sempre:
-		Ácido + Base -> Base + Ácido   Há uma inversão. Ai temos bases e ácidos conjugados
-- Lewis: 
-	- Ácido: Quem recebe elétrons; Se for um Cátion antes da reação será ácido
-	- Base: Quem doa elétrons; Se for um ânion antes da reação será base
+## Arrhenius  
+- **Conceito**: em solução aquosa, **ácido** é quem libera $H^+$ e **base** é quem libera $OH^-$.  
+- **Exemplo**: $HCl_{(aq)} \rightarrow H^+ + Cl^- \quad$ (ácido); $NaOH_{(aq)} \rightarrow Na^+ + OH^- \quad$ (base)  
 
+---
 
-## 🌡️ Teorias Ácido–Base — Resumo Conciso
+## Brønsted–Lowry  
+- **Conceito**: **ácido** é doador de próton ($H^+$); **base** é aceitador de próton.  
+- **Exemplo**: $NH_3 + H_2O \rightarrow NH_4^+ + OH^- \quad$  
+  ($NH_3$ atua como base aceitando $H^+$; $H_2O$ como ácido doando $H^+$)  
 
-| Teoria              | Ácido                                | Base                               | Observação-chave |
-|---------------------|--------------------------------------|------------------------------------|------------------|
-| **Arrhenius**       | Libera $H^{+}$ em $\mathrm{H_2O}$    | Libera $OH^{-}$ em $\mathrm{H_2O}$ | Válida só em meio aquoso |
-| **Brønsted–Lowry**  | Doa próton $H^{+}$                   | Aceita próton $H^{+}$              | Par conjugado: $$\text{Ác}_1 + \text{Base}_2 \rightleftharpoons \text{Base}_1 + \text{Ác}_2$$ |
-| **Lewis**           | **Aceita** par de $e^{-}$            | **Doa** par de $e^{-}$             | Cátions → ácidos • Ânions → bases |
+---
 
-***Espécies anfifílicas ou anfipróticas: São aquelas que são capazes de ser base e ácido ao mesmo tempo***
+## Lewis  
+- **Conceito**: **ácido** é aceitador de um par de elétrons; **base** é doador de um par de elétrons.  
+- **Exemplo**: $BF_3 + :NH_3 \rightarrow F_3B{-}NH_3 \quad$  
+  ($BF_3$ é ácido de Lewis; $NH_3$ é base de Lewis)  
