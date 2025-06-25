@@ -6,6 +6,3 @@ Quando houver reação com mais de um reagente é preciso antetar-se ao limitant
 
 Para ver quem está sobrando e quem está em excesso faça uma regra de três e veja qual lado é maior, ele indicará o excesso. 
 
-
-
-fa

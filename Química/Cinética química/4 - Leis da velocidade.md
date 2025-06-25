@@ -1,59 +1,93 @@
-# 🔄 Entropia (S) & Energia Livre de Gibbs (G)
 
-## 📚 Entropia – Conceitos-chave
-> [!note]+ Definição  
-> **Entropia (S)** mede a dispersão de energia ou o grau de desordem de um sistema.  
-> É uma **função de estado**: depende apenas dos estados inicial e final.
 
-- Unidade: **J · K⁻¹** (geralmente J · mol⁻¹ · K⁻¹ como entropia molar).  
-- **2ª Lei da Termodinâmica:**  
-  $$\Delta S_{\text{universo}} = \Delta S_{\text{sistema}} + \Delta S_{\text{vizinhança}} > 0$$  
-  para processos espontâneos.  
-- **Entropia-padrão (S°):** valor tabulado para 1 mol a 25 °C (298 K) e 1 atm.
+## 1. Conceito Geral  
 
-### 🔧 Fatores que Aumentam S
-- Temperatura ↑  
-- Mudança de fase: $$S_{\text{gás}} > S_{\text{líquido}} > S_{\text{sólido}}$$  
-- Maior nº de moles de gás (ou de partículas)  
-- Mistura de substâncias (mistura ideal: $$\Delta S_\text{mistura} > 0$$)  
-- Complexidade molecular (mais átomos → mais modos vibracionais)
+- A **lei de velocidade** relaciona a velocidade instantânea de uma reação à concentração dos reagentes.  
+- Forma genérica para a reação $aA + bB \rightarrow \text{produtos}$  
+  $$v = k\,[A]^m\,[B]^n$$  
+  onde  
+  - $v$ = velocidade ($\text{mol·L}^{-1}\,\text{s}^{-1}$)  
+  - $k$ = constante de velocidade (depende de $T$)  
+  - $m, n$ = ordens parciais (determinadas **experimentalmente**)  
+  - ordem global $= m + n$
 
 ---
 
-## ⚡ Energia Livre de Gibbs – Conceitos-chave
-> [!formula]  
-> $$G = H - T\,S$$  
+## 2. Lei de Velocidade **Diferencial**  
 
-- **Critério de espontaneidade (T, P constantes):**  
-  - $$\Delta G < 0$$ → processo espontâneo  
-  - $$\Delta G = 0$$ → equilíbrio  
-  - $$\Delta G > 0$$ → não espontâneo  
-- **Equação fundamental:**  
-  $$\Delta G = \Delta H - T\,\Delta S$$  
-  onde \(T\) é em Kelvin.  
+| Ordem | Expressão diferencial | Unidades de $k$ |
+|-------|-----------------------|-----------------|
+| 0ª    | $v = k$              | $\text{mol·L}^{-1}\,\text{s}^{-1}$ |
+| 1ª    | $v = k[A]$           | $\text{s}^{-1}$ |
+| 2ª    | $v = k[A]^2$ ou $k[A][B]$ | $\text{L·mol}^{-1}\,\text{s}^{-1}$ |
 
-> [!tip] Interpretação rápida  
-> | ΔH | ΔS | ΔG (espont.) | Comentário |
-> |---|---|---|---|
-> | − | + | Sempre < 0 | Espontâneo em todas as T |
-> | − | − | T dependente | Espontâneo se \(T < \frac{\Delta H}{\Delta S}\) |
-> | + | + | T dependente | Espontâneo se \(T > \frac{\Delta H}{\Delta S}\) |
-> | + | − | Nunca < 0 | Nunca espontâneo |
-
-### 🔄 Relação com Equilíbrio Químico
-$$\Delta G^{\,\circ} = -\,R\,T \ln K$$  
-- \(K > 1 \Rightarrow \Delta G^{\,\circ} < 0\) (produtos favorecidos)  
-- \(K < 1 \Rightarrow \Delta G^{\,\circ} > 0\) (reagentes favorecidos)
-
-### 🔌 Acoplamento de Reações
-Reações endergônicas (ΔG > 0) podem ocorrer se **acopladas** a reações altamente exergônicas (ΔG ≪ 0), como a hidrólise de ATP em bioquímica.
+> **Dica**: ordens fracionárias ou negativas também existem em mecanismos complexos.
 
 ---
 
-## 📈 Resumo Visual
-```mermaid
-graph LR
-A[ΔH] -- negativo --> C[ΔG < 0]
-B[ΔS] -- positivo --> C
-A -- positivo --> D[ΔG > 0]
-B -- negativo --> D
+## 3. Leis **Integradas**
+
+### 0ª ordem  
+$$[A] = [A]_0 - k\,t$$  
+
+### 1ª ordem  
+$$\ln\!\bigl([A]\bigr) = \ln\!\bigl([A]_0\bigr) - k\,t$$  
+
+### 2ª ordem (a mesma espécie)  
+$$\frac{1}{[A]} = \frac{1}{[A]_0} + k\,t$$  
+
+> Gráficos de $[A]$ vs. $t$, $\ln[A]$ vs. $t$ ou $1/[A]$ vs. $t$ ajudam a identificar a ordem.
+
+---
+
+## 4. Tempo de Meia-Vida ($t_{1/2}$)
+
+| Ordem | $t_{1/2}$ | Comentário |
+|-------|-----------|------------|
+| 0ª    | $\dfrac{[A]_0}{2k}$ | Depende de $[A]_0$ |
+| 1ª    | $\dfrac{\ln 2}{k}$  | **Independe** de $[A]_0$ |
+| 2ª    | $\dfrac{1}{k[A]_0}$ | Diminui com $[A]_0$ |
+
+---
+
+## 5. Determinação Experimental  
+
+1. **Método das velocidades iniciais** – Medir $v_0$ com diferentes $[A]_0$, plotar $\log v_0$ vs. $\log[A]_0$ (inclinação = ordem).  
+2. **Método integral** – Ajustar dados de $[A]$ vs. $t$ às expressões integradas.  
+3. **Método de isolamento / pseudo-1ª ordem** – Manter um reagente em grande excesso para que sua concentração permaneça praticamente constante, simplificando a cinética.
+
+---
+
+## 6. Fatores que Afetam $k$
+
+### 6.1 Temperatura – Equação de Arrhenius  
+$$k = A\,e^{-E_a/RT}$$  
+- $A$ = fator de frequência (ou pré-exponencial)  
+- $E_a$ = energia de ativação  
+- Representação linear: $\ln k$ vs. $1/T$ (reta de inclinação $-E_a/R$).
+
+### 6.2 Catalisadores  
+- Reduzem $E_a$, **não** alteram $\Delta G_{\text{reação}}$ nem a posição de equilíbrio.  
+- Podem atuar via adsorção (cat. heterogênea) ou complexação (cat. homogênea).
+
+### 6.3 Meio reacional  
+- Polaridade, força iônica e pH modificam estados de transição e, portanto, $k$.
+
+---
+
+## 7. Mecanismos e Etapa Determinante
+
+- Para reações elementares, a lei de velocidade é derivada diretamente da estequiometria.  
+- Em sequências de passos, a **etapa lenta** governa a cinética global.  
+- **Intermediários** não aparecem na lei final; use hipóteses de estado estacionário ou pré-equilíbrio para eliminá-los.
+
+---
+
+## 8. Reações Reversíveis & Competitivas  
+
+Para $A \rightleftharpoons B$ com $k_1$ (ida) e $k_{-1}$ (volta):  
+$$\frac{d[A]}{dt} = -k_1[A] + k_{-1}[B]$$  
+A aproximação de **equilíbrio rápido** pode simplificar mecanismos catalíticos.
+
+---
+
