@@ -25,12 +25,24 @@
             "id": "b8569e3424029881",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ],
@@ -194,8 +206,9 @@
   },
   "active": "b8569e3424029881",
   "lastOpenFiles": [
-    "Química/Termoquímica/Entalpia.md",
+    "Química/Untitled.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Termoquímica/Entalpia.md",
     "Química/Termoquímica",
     "Física/Termologia/Calorimetia.md",
     "Física/Termologia/Formas de transmissão de calor.md",
@@ -245,7 +258,6 @@
     "Matemática/Untitled.canvas",
     "Untitled.canvas",
     "História e filosofia/Untitled.canvas",
-    "Química/Untitled.canvas",
     "Redação/Untitled.canvas",
     "Geografia/Caixinhas.canvas",
     "Física/Untitled.canvas"

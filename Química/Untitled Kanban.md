@@ -24,6 +24,11 @@ kanban-plugin: board
 
 - [ ] Precipitação - 134342
 - [ ] Titulação
+- [ ] ### Questão 47 123270
+	
+	ENEM PPL 1° Dia 2015
+	
+	- [](https://app.estuda.com/questoes/?cat=4&q=)
 
 
 ## Fazer exercícios exporadicamente
