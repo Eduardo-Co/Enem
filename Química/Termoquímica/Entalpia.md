@@ -27,5 +27,8 @@
 ## Tipo de Entalpias na reação
 
 
-- Formação: 1 subs composta 
+1. ***Formação $\Delta H_f°$:*** Diferença de entalpia para formação de 1 Mol do composto, sob o estado padrão (25° e 1 atm)
+
+2.  ***Combustão $\Delta H_{c}°$:*** Sempre será Exotérmica; Quantidade de energia liberada na combustão de 1 mol de um combustível nas condições padrões (25°C e 1 atm).
+	- ***Poder Calorífico:*** Energia liberada na queima de uma dada unidade de massa de combustível.
 - 
