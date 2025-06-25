@@ -32,6 +32,13 @@
 2.  ***Combustão $\Delta H_{c}°$:*** Sempre será Exotérmica; Quantidade de energia liberada na combustão de 1 mol de um combustível nas condições padrões (25°C e 1 atm).
 	- ***Poder Calorífico:*** Energia liberada na queima de uma dada unidade de massa de combustível.
 
-3. ***Dissolução $\Delta H_{d}°$***: 
-	-  ***Entalpia Reticular:*** Processo Endotérmico para separação dos Íons. 
-	- ***Solvatação:*** 
+3. ***Dissolução $\Delta H_{d}°$***: $\Delta H_{dissolução} = \Delta H_{reticular} + \Delta H_{solvatação}$
+	-  ***Entalpia Reticular:*** Processo Endotérmico para separação dos Íons. Ligação Iônica
+	- ***Solvatação:*** Liberar a energia que prende o $Na+$ e o $Cl-$ da água. Exotérmico. Força Íon-Dipolo
+
+---
+
+## Lei de Hess:
+
+- Função de estado:
+- 
