@@ -11,12 +11,14 @@
             "id": "9e5fddc24eee7809",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Redação/Jargões desenvolvimento.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Jargões desenvolvimento"
             }
           }
         ]
@@ -179,6 +181,7 @@
   },
   "active": "9e5fddc24eee7809",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Jargões conclusão.md",
     "Redação/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
     "Redação/2 - Além da matéria.md",
@@ -196,7 +199,6 @@
     "Redação/Repertórios/História na redação.md",
     "Redação/Repertórios",
     "Química/Funções inorgânicas/Teorias/Teoria ácido base.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Funções inorgânicas/Funções inorgânicas.md",
     "Química/Funções inorgânicas/Sais/Sal.md",
     "Química/Funções inorgânicas/Reações/Sal + Ácido.md",
@@ -206,7 +208,6 @@
     "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
     "Química/Funções inorgânicas/Ácidos/Força ácido.md",
     "Química/Funções inorgânicas/Ácidos/Excessões.md",
-    "Química/Funções inorgânicas/Ácidos/Classificação de ácidos.md",
     "Química/Untitled.canvas",
     "Química/Termoquímica",
     "Biologia/img/Pasted image 20250623194922.png",
