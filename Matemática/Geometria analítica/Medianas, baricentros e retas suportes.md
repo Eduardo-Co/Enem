@@ -10,3 +10,8 @@
 
 - Fazer a média aritmética dos vértices
 
+
+Veja que o baricentro é o ponto equidistante aos vértices se o triângulo for equilátero. 
+
+----
+
