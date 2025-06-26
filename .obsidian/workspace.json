@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "63cb848621243cc7",
+        "id": "3ea571c5b66e8109",
         "type": "tabs",
         "children": [
           {
-            "id": "05182e4985f0952c",
+            "id": "9e5fddc24eee7809",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Redação/Jargões conclusão.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Jargões conclusão"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -179,13 +177,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "05182e4985f0952c",
+  "active": "9e5fddc24eee7809",
   "lastOpenFiles": [
+    "Redação/Jargões conclusão.md",
     "Redação/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
     "Redação/2 - Além da matéria.md",
     "Redação/Sacadas sobre os títulos.md",
     "Redação/Os textos motivadores.md",
-    "Redação/Jargões conclusão.md",
     "Redação/Jargões desenvolvimento.md",
     "Redação/Desenvolvimento 2/Desenvolvimento 2.md",
     "Redação/Operadores argumentativos.md",
