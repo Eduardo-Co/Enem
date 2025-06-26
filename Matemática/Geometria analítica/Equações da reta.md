@@ -45,5 +45,24 @@ A equação coincidiu com a obtida pelo método algébrico direto.
 
 ---
 
-## Equação segmentária:
+## Coeficiente angular (inclinação) da reta
 
+Para dois pontos $A(x_1,y_1)$ e $B(x_2,y_2)$:
+
+$$a=\frac{\Delta y}{\Delta x}=\frac{y_2-y_1}{x_2-x_1}$$
+
+- **Interpretação**  
+  - $a>0$: reta crescente  
+  - $a<0$: reta decrescente  
+  - $a=0$: reta horizontal  
+
+### Exemplo  
+Com $A(1,2)$ e $B(4,6)$:
+
+$$a=\frac{6-2}{4-1}=\frac43$$
+
+---
+
+## Retas Coplanares ou Paralelas:
+
+Elas serão Coplanares caso o coeficiente angular seja o mesmo, caso não for será paralela. 

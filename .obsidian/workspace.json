@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04b266f2a231f411",
+        "id": "bcb5e4b4dbbb3db7",
         "type": "tabs",
         "children": [
           {
-            "id": "67eca83b342d195d",
+            "id": "fcc5e799b3fd040d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,10 +179,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "67eca83b342d195d",
+  "active": "fcc5e799b3fd040d",
   "lastOpenFiles": [
-    "Matemática/Geometria analítica/Medianas, baricentros e retas suportes.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Geometria analítica/Equações da reta.md",
+    "Matemática/Geometria analítica/Medianas, baricentros e retas suportes.md",
     "Matemática/img/Pasted image 20250626145121.png",
     "Matemática/img/Pasted image 20250626151503.png",
     "Matemática/img/Pasted image 20250626145120.png",
@@ -191,7 +192,6 @@
     "Matemática/img/Pasted image 20250626144555.png",
     "Matemática/Funções/1°grau.md",
     "Matemática/Geometria analítica",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Operadores argumentativos.md",
     "Redação/Jargões conclusão.md",
     "Redação/Jargões desenvolvimento.md",
@@ -214,7 +214,6 @@
     "Química/Funções inorgânicas/Reações/Sal + Ácido.md",
     "Química/Funções inorgânicas/Óxidos/Óxidos.md",
     "Química/Funções inorgânicas/Bases/Bases.md",
-    "Química/Funções inorgânicas/Compostos importantes.md",
     "Química/Untitled.canvas",
     "Química/Termoquímica",
     "Biologia/img/Pasted image 20250623194922.png",
