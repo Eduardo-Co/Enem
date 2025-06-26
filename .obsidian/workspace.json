@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redação/Jargões desenvolvimento.md",
+                "file": "Redação/Jargões conclusão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jargões desenvolvimento"
+              "title": "Jargões conclusão"
             }
           }
         ],
@@ -194,11 +194,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "1f9f20e22933265a",
   "lastOpenFiles": [
+    "Redação/Jargões desenvolvimento.md",
     "Redação/Operadores argumentativos.md",
     "Redação/Jargões conclusão.md",
-    "Redação/Jargões desenvolvimento.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
     "Redação/2 - Além da matéria.md",
