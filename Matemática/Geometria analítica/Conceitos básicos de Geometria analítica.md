@@ -6,3 +6,7 @@
 
 - Equidistantes: 
 	Basta ver que se dois pontos são equidistantes a um terceiro basta fazer a distância desses pontos e igualá-las. 
+
+
+- Ponto médio: Média aritmética do eixo das abscissas e ordenadas.
+
