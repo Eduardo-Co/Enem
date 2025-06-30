@@ -14,7 +14,11 @@
 ![[Pasted image 20250630103220.png]]
 ## Pólen:
 
-No microsporângios produzem células haploides por meio de meiose. 
+1. Meiose
+	- Forma 4 micrósporos haploides
+2. Mitose
+	- Formação do tubo polínico
+	- Formação de duas células fecundativas 
 
 ## Polinização
 
