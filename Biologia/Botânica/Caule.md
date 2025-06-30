@@ -32,3 +32,7 @@ Caule possui Gemas ???
 	- Tubérculos:
 	- Rizoma:
 	- Bulbo:
+
+---
+
+- Anel de malpighi

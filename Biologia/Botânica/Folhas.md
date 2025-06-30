@@ -7,6 +7,7 @@
 
 - Epiderme: Falta de clorofila
 - Mesófilo: Clorofila
+- Posição dos estomatos
 
 ---
 
