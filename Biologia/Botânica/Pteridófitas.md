@@ -5,7 +5,6 @@
 - **Rizoma**: caule subterrâneo ou rente ao solo que armazena reservas e emite novas frondes e raízes.
 - **Soros** visíveis na face inferior das frondes — grupos de esporângios onde se formam os esporos.
 - Preferem **ambientes úmidos ou sombreados**, pois seus gametas masculinos precisam de água para nadar.
-    
 ---
 
 ### **Reprodução (ciclo haplodiplôntico)**
