@@ -9,3 +9,13 @@
 | **Esporófito (2n)**                     | Formado **sobre** o gametófito após fecundação. Tipicamente: **pé** (ancoragem), **seta** (haste) e **cápsula** (esporângio). Sem clorofila ou com pouquíssima, recebe nutrientes da mãe gametófita → **“transitório e dependente”.**                                                                                                                                       |
 | **“Possui maior esporófito”**           | Dentro das briófitas, os **antóceros** têm o esporófito relativamente mais longo e autotrófico; ainda assim continua ligado e dependente do gametófito.                                                                                                                                                                                                                     |
 | **_Sfagno_ (Sphagnum)**                 | - Forma “cabeças” em roseta no ápice (foto 1).  <br>- Sem rizoides na fase adulta; parte inferior morre e vira **turfa**.  <br>- Acidifica o ambiente e libera fenóis → inibe decomposição, criando **turfeiras** (foto 3) importantes para sequestro de carbono.  <br>- Usado historicamente como curativo absorvente e hoje em horticultura (substrato de orquídeas).     |
+
+---
+
+# Morfologia e Reprodução
+ 
+![[Pasted image 20250630131802.png]]
+
+## Morfologia: 
+
+- 
