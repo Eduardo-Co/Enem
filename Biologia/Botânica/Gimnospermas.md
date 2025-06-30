@@ -33,3 +33,6 @@
     - Semente cai, entra em dormência ou germina; o embrião origina uma **plântula** que cresce no novo **esporófito**, reiniciando o ciclo.
         
     - O gametófito feminino, agora esgotado, nunca chega a viver fora da semente.
+
+
+![[Pasted image 20250630153307.png]]

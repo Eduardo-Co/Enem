@@ -28,3 +28,5 @@
 > - **“Protalo faz gameta”** → mitose na fase n.
 
 ![[Pasted image 20250623100629.png]]
+
+---
