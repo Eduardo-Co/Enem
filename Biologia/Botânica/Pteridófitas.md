@@ -1,4 +1,4 @@
-### **Características das pteridófitas**
+ ### **Características das pteridófitas**
 
 - **Plantas vasculares sem sementes** — possuem xilema + floema, mas não formam flores ou frutos. ***Gametófito é avascular***
 - **Fase dominante**: **esporófito diploide (2n)** verde, independente e fotossintético.
