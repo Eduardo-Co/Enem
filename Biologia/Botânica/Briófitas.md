@@ -16,7 +16,7 @@
  
 ![[Pasted image 20250630131802.png]]
 
-## Morfologia: 
+## Reprodução: 
 
 - **Gametófito**
     - Fase **haploide (n)** dominante nas briófitas.
@@ -39,7 +39,11 @@
 
 ---
 
-## Características:
+## Características e morfologia:
+
+![[Pasted image 20250630143151.png]]
 
 - Só reproduzem em meio aquoso
 - Grande participador na Ecese
+- Não possuem vasos condutores
+- Não possuem raízes e sim rizóides
