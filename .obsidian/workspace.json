@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Botânica/Folhas.md",
+                "file": "Biologia/Botânica/flores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Folhas"
+              "title": "flores"
             }
           }
         ]
@@ -181,17 +181,20 @@
   },
   "active": "1934751b21edf411",
   "lastOpenFiles": [
-    "Biologia/Botânica/flores.md",
-    "Biologia/Botânica/Folhas.md",
-    "Biologia/Botânica/Caule.md",
+    "Biologia/Botânica/fruto.md",
     "Biologia/Botânica/Raíz.md",
+    "Biologia/Botânica/Folhas.md",
+    "Biologia/Botânica/flores.md",
+    "Biologia/Botânica/Caule.md",
+    "Biologia/Botânica/Caracterização das plantas.md",
+    "Biologia/Botânica/Briófitas.md",
+    "Biologia/Botânica/Angiospermas.md",
+    "Biologia/Botânica/Sementes.md",
+    "Biologia/Botânica/Pteridófitas.md",
+    "Biologia/Botânica/Gimnospermas.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/img/Pasted image 20250630090648.png",
-    "Biologia/Botânica/Sementes.md",
     "Biologia/Botânica/Untitled",
-    "Biologia/Botânica/Angiospermas.md",
-    "Biologia/Botânica/Briófitas.md",
-    "Biologia/Botânica/fruto.md",
     "Matemática/Geometria analítica/Medianas, baricentros e retas suportes.md",
     "Matemática/Geometria analítica/Equações da reta.md",
     "Matemática/img/Pasted image 20250626145121.png",
@@ -213,9 +216,6 @@
     "Redação/Desenvolvimento 1/Desenvolvimento 1.md",
     "Redação/Desenvolvimento 1/Jargões que podem ser utilizados.md",
     "Redação/Conclusão/Jargões.md",
-    "Redação/Desenvolvimento 2/Jargões.md",
-    "Redação/Repertórios/Onde usar cada um.md",
-    "Redação/Repertórios/Untitled.md",
     "Redação/Repertórios",
     "Química/Untitled.canvas",
     "Química/Termoquímica",
