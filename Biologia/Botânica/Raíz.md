@@ -40,3 +40,24 @@ Periciclo em dicotiledônea: Forma raízes laterais????
 
 - Há duas rotas de absorção
 - Atuação da endoderme 
+
+---
+
+## Tipos de Raízes e funções adicionais 
+
+- Subterrâneas:
+	- Fasciculada ou cabeleira
+	- Axial ou pivotante
+	- Tuberosa:
+
+- Aéreas:
+	- Tabular:
+	- Escora:
+	- Tabular:
+	- Cinturas:
+	- Estrangulante: 
+	- Pneumatóforos:
+	- Grampiformes:
+	- Sugadoras:
+
+- Aquáticas
