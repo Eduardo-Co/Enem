@@ -32,11 +32,9 @@ Fruto é consequência da fecundação de uma flor.
         
 - **Dupla fecundação**
     1. **Fecundação da oosfera** → forma o **embrião diploide (2 n)**.
-        
     2. **Fusão de um núcleo espermático com os dois núcleos polares** → forma o **núcleo primário do endosperma triploide (3 n)**.
         
 - **Vantagens biológicas**
-    
     - O embrião (2 n) recebe material genético de ambos os progenitores, aumentando a **variabilidade genética**.
         
     - O endosperma (3 n) atua como tecido de reserva **mais rico em nutrientes**, sustentando a germinação e favorecendo o sucesso da semente.
