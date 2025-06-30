@@ -38,3 +38,5 @@ Fruto é consequência da fecundação de uma flor.
     - O embrião (2 n) recebe material genético de ambos os progenitores, aumentando a **variabilidade genética**.
         
     - O endosperma (3 n) atua como tecido de reserva **mais rico em nutrientes**, sustentando a germinação e favorecendo o sucesso da semente.
+
+![[Pasted image 20250630160800.png]]
