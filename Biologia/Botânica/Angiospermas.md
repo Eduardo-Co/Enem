@@ -4,14 +4,14 @@ Classificação
 	- Semente: Só tem 1 caule
 	- Folha: Não tem bifurcação são lineares
 	- Organização dos feixes liberolenhosos: Difusos / Desorganizados
-	- Tipo de raíz: Raíz cabeleira, ou seja é bem ramificada não tem um ponto principal o que não permite muita sustentação e muito crescimento da planta, exceto dos coqueiros etc..
+	- Tipo de raiz: Raiz cabeleira, ou seja é bem ramificada não tem um ponto principal o que não permite muita sustentação e muito crescimento da planta, exceto dos coqueiros etc..
 
 - Di(Eu)cotiledôneas
 	- Características: 
 	- Semente: Possui 2 não sei o que
 	- Folha: Bifurcada
 	- Organização dos feixes liberolenhosos: Organizados
-	- Tipo de raíz : Possuí um pivo; que é maior que todos permite melhor sustentação
+	- Tipo de raiz : Possuí um pivô; que é maior que todos permite melhor sustentação
 
 ---
 
