@@ -38,4 +38,5 @@ Periciclo em dicotiledônea: Forma raízes laterais????
 
 ## Vias de Absorção Zona pilífera:
 
-
+- Há duas rotas de absorção
+- Atuação da endoderme 
