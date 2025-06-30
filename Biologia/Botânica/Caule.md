@@ -22,4 +22,13 @@ Caule possui Gemas ???
 	- Estipe:
 	- Colmo:
 	- Haste:
-	- Trepador
+	- Trepador:
+	- Cladódio:
+
+- Solo:
+	- Rastejante:
+
+- Subterrâneos:
+	- Tubérculos:
+	- Rizoma:
+	- Bulbo:
