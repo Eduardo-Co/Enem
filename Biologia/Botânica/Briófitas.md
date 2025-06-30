@@ -18,4 +18,28 @@
 
 ## Morfologia: 
 
-	
+- **Gametófito**
+    - Fase **haploide (n)** dominante nas briófitas.
+    - Produz **gametas por mitose** (as células já são n).
+        
+- **Esporófito**
+    - Fase **diploide (2n)** que surge após a fecundação dentro do arquegônio.
+    - Forma **esporos por meiose** na cápsula; não existe “planta masculina” aqui — todo esporófito contém ambos os complementos cromossômicos.
+        
+- **Esporos**
+    - **Unidades de dispersão haploides (n)** geradas no esporófito.
+    - Ao germinar, originam o **protonema** e depois um novo gametófito; não brotam diretamente um esporófito.
+        
+- **Arquegônio**
+    - Órgão reprodutor **feminino** do gametófito, em forma de garrafa.
+        
+- **Anterídio**
+    - Órgão reprodutor **masculino** do gametófito.
+        
+
+---
+
+## Características:
+
+- Só reproduzem em meio aquoso
+- Grande participador na Ecese
