@@ -24,6 +24,19 @@ Fruto é consequência da fecundação de uma flor.
 
 ---
 
-  Dupla fecundação 
-- Gametófito feminino maduro + Gametófito masculino maduro: O gametófito feminino possui núcleo polar, dois núcleos que ficam antes do oosfera. Na fecundação o tubo polínico masculino se liga no óvulo e fecunda tanto a oosfera quanto o núcleo polar, então fica 1 com 1n e outro com 3n isso permite muita varaibilidade genética e s´´intese proteica, permitindo uma melhor adpatação e sobrevivÊnicia. 
-- Sementes mais nutritivas por causa do 3n
+- **Gametófito feminino maduro (saco embrionário)**
+    - Contém **uma oosfera (1 n)** e **uma célula central com dois núcleos polares (cada um 1 n)**.
+        
+- **Gametófito masculino maduro (grão de pólen)**
+    - Produz **dois núcleos espermáticos (cada um 1 n)** que viajam pelo **tubo polínico**.
+        
+- **Dupla fecundação**
+    1. **Fecundação da oosfera** → forma o **embrião diploide (2 n)**.
+        
+    2. **Fusão de um núcleo espermático com os dois núcleos polares** → forma o **núcleo primário do endosperma triploide (3 n)**.
+        
+- **Vantagens biológicas**
+    
+    - O embrião (2 n) recebe material genético de ambos os progenitores, aumentando a **variabilidade genética**.
+        
+    - O endosperma (3 n) atua como tecido de reserva **mais rico em nutrientes**, sustentando a germinação e favorecendo o sucesso da semente.
