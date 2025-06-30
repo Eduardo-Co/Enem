@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Botânica/Raíz.md",
+                "file": "Biologia/Botânica/Caule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raíz"
+              "title": "Caule"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "1934751b21edf411",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Botânica/Raíz.md",
+    "Biologia/Botânica/Caule.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/img/Pasted image 20250630090648.png",
     "Biologia/Botânica/Sementes.md",
     "Biologia/Botânica/Untitled",
