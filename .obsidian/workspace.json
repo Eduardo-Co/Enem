@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Temperatura e calor e Termometria"
             }
+          },
+          {
+            "id": "aef0276b8b90247f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,13 +192,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "0c89e6c987bd1a73",
+  "active": "aef0276b8b90247f",
   "lastOpenFiles": [
+    "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Termologia/Termodinâmica.md",
     "Física/Termologia/Formas de transmissão de calor.md",
     "Física/Termologia/Maquinas térmicas.md",
     "Física/Termologia/Dilatação térmica.md",
-    "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Termologia/Calorimetia.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/img/Pasted image 20250701105119.png",
