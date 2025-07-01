@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Termodinâmica"
             }
+          },
+          {
+            "id": "aef0276b8b90247f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
         ]
       }
@@ -181,13 +193,13 @@
   },
   "active": "98a7a7fda98cce56",
   "lastOpenFiles": [
-    "Física/Termologia/Gás ideal.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Termodinâmica.md",
+    "Física/Termologia/Gás ideal.md",
     "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Termologia/Formas de transmissão de calor.md",
     "Física/Termologia/Dilatação térmica.md",
     "Física/Termologia/Calorimetia.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Botânica/Caule.md",
     "Biologia/Botânica/Caracterização das plantas.md",
     "Biologia/Botânica/Folhas.md",
@@ -220,7 +232,6 @@
     "Redação/Jargões conclusão.md",
     "Redação/Jargões desenvolvimento.md",
     "Redação/1 -  Caminhos para valorização dos artesãos e dos produtos artesanais brasileiros.md",
-    "Redação/2 - Além da matéria.md",
     "Redação/Repertórios",
     "Química/Untitled.canvas",
     "Química/Termoquímica",
