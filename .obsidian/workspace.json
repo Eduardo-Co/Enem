@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Termologia/pdfs/FSC_AP_Termologia_Calorimetria.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "title": "FSC_AP_Termologia_Calorimetria"
             }
           }
         ],
@@ -192,15 +192,17 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "aef0276b8b90247f",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Física/Termologia/pdfs",
+    "Física/Termologia/Dilatação térmica.md",
+    "Física/Termologia/pdfs/FSC_AP_Termologia_Calorimetria.pdf",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Termologia/Termodinâmica.md",
     "Física/Termologia/Formas de transmissão de calor.md",
     "Física/Termologia/Maquinas térmicas.md",
-    "Física/Termologia/Dilatação térmica.md",
     "Física/Termologia/Calorimetia.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/img/Pasted image 20250701105119.png",
     "Física/Termologia/Gás ideal.md",
     "Biologia/Botânica/Caule.md",
@@ -240,7 +242,6 @@
     "Linguagens/Análise de questões",
     "Redação/Competência 5",
     "Física/Caixinhas.canvas",
-    "Física/Termologia",
     "Biologia/Caixinhas.canvas",
     "Linguagens/Untitled.canvas",
     "Matemática/Untitled.canvas",
