@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Termologia/Termodinâmica.md",
+                "file": "Física/Termologia/Maquinas térmicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Termodinâmica"
+              "title": "Maquinas térmicas"
             }
           },
           {
@@ -193,8 +193,9 @@
   },
   "active": "98a7a7fda98cce56",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Termodinâmica.md",
+    "Física/Termologia/Maquinas térmicas.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Gás ideal.md",
     "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Termologia/Formas de transmissão de calor.md",

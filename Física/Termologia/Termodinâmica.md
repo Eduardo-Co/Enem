@@ -30,4 +30,7 @@ $$
 
 A variação de energia interna está ligada à temperatura, portanto em processos isotérmicos não há variação de energia interna do gás. 
 
-***Isotérmico***: $\frac{1}{x}$
+***Isotérmico***: Hipérbole, tendendo a zero.
+***Isovolumétrico:*** Não há variação de trabalho $Q = \Delta U$
+***Isobárico:*** Trabalho realizado pela área
+***Adiabático:*** Não há troca de calor entre o gás e o meio externo. Q = 0
