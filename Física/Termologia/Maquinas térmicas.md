@@ -47,3 +47,5 @@ $$
 
 - Impossível ter uma máquina térmica com rendimento de 100% de trabalho em ciclos. 
 - Impossível mandar calor de uma fonte fria para uma fonte quente sem sofrer trabalho. 
+- Entropia: 
+	- A ordem tende para desordem. Degradação da energia. 

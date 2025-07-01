@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98a7a7fda98cce56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física/Termologia/Maquinas térmicas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maquinas térmicas"
-            }
-          },
-          {
-            "id": "aef0276b8b90247f",
+            "id": "0c89e6c987bd1a73",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -191,12 +177,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "98a7a7fda98cce56",
+  "active": "0c89e6c987bd1a73",
   "lastOpenFiles": [
-    "Pasted image 20250701105119.png",
-    "Física/Termologia/Termodinâmica.md",
-    "Física/Termologia/Maquinas térmicas.md",
+    "Física/img/Pasted image 20250701105119.png",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Termologia/Maquinas térmicas.md",
+    "Física/Termologia/Termodinâmica.md",
     "Física/Termologia/Gás ideal.md",
     "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Termologia/Formas de transmissão de calor.md",
@@ -225,7 +211,6 @@
     "Matemática/Geometria analítica/Medianas, baricentros e retas suportes.md",
     "Matemática/Geometria analítica/Equações da reta.md",
     "Matemática/img/Pasted image 20250626145121.png",
-    "Matemática/img/Pasted image 20250626151503.png",
     "Matemática/Geometria analítica/Conceitos básicos de Geometria analítica.md",
     "Matemática/img",
     "Matemática/Funções/1°grau.md",
