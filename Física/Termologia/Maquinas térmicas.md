@@ -33,4 +33,17 @@
 ## Ciclo de Carnot:
 
 - Rendimento teórico que mostra um motor de máxima eficiência possível. 
-- 
+![[Pasted image 20250701105119.png]]
+
+
+- Rendimento de Carnot
+$$
+n_{max} = 1 - \frac{Q_{f}}{Q_{q}} = 1 - \frac{T_{f}}{T_{q}}
+$$
+
+---
+
+## 2° Lei da Termodinâmica
+
+- Impossível ter uma máquina térmica com rendimento de 100% de trabalho em ciclos. 
+- Impossível mandar calor de uma fonte fria para uma fonte quente sem sofrer trabalho. 
