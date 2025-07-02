@@ -11,12 +11,14 @@
             "id": "60869e0e665fd2a1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Equilíbrio Químico/Constante de solubilidade Kps.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Constante de solubilidade Kps"
             }
           }
         ]
@@ -179,12 +181,16 @@
   },
   "active": "60869e0e665fd2a1",
   "lastOpenFiles": [
+    "Química/Equilíbrio Químico/Deslocamento de equilíbrio.md",
+    "Química/Equilíbrio Químico/Equilíbrio Iônico.md",
+    "Química/Equilíbrio Químico/Equilíbrio químico.md",
     "Química/Equilíbrio Químico/Lei de Diluição de Ostwald e PH.md",
+    "Química/Equilíbrio Químico/Constante de solubilidade Kps.md",
+    "Química/Funções inorgânicas/Sais/Sal.md",
+    "Química/Funções inorgânicas/Sais/Reações de Neutralização.md",
+    "Química/Funções inorgânicas/Sais/Processo dissociativo dos sais.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Equilíbrio Químico/Hidrólise Salina.md",
-    "Química/Equilíbrio Químico/Equilíbrio químico.md",
-    "Química/Equilíbrio Químico/Equilíbrio Iônico.md",
-    "Química/Equilíbrio Químico/Deslocamento de equilíbrio.md",
     "Química/Termoquímica/Entalpia.md",
     "Química/Equilíbrio Químico",
     "Cronograma.md",
@@ -212,12 +218,9 @@
     "Biologia/img/Pasted image 20250630160755.png",
     "Biologia/img/Pasted image 20250630160557.png",
     "Biologia/img/Pasted image 20250630153307.png",
-    "Biologia/Botânica/Briófitas.md",
     "Biologia/img/Pasted image 20250630143151.png",
     "Biologia/img/Pasted image 20250630131802.png",
     "Biologia/img/Pasted image 20250630103220.png",
-    "Biologia/Botânica/fruto.md",
-    "Biologia/Botânica/Sementes.md",
     "Biologia/img/Pasted image 20250630090648.png",
     "Biologia/Botânica/Untitled",
     "Matemática/img/Pasted image 20250626145121.png",

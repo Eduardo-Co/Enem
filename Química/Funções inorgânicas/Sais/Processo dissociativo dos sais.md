@@ -13,8 +13,6 @@
 
 # 📘 Exemplo: Dissociação do Carbonato de Cálcio (CaCO₃)
 
-
-
 ## 🧪 1️⃣ Fórmula do Sal
 - CaCO₃
 
