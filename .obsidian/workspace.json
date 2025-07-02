@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Lei de Diluição de Ostwald e PH"
             }
+          },
+          {
+            "id": "60869e0e665fd2a1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
         ]
       }
@@ -181,12 +193,12 @@
   },
   "active": "712141a06dbb7807",
   "lastOpenFiles": [
+    "Química/Equilíbrio Químico/Equilíbrio químico.md",
     "Química/Equilíbrio Químico/Equilíbrio Iônico.md",
     "Química/Equilíbrio Químico/Lei de Diluição de Ostwald e PH.md",
-    "Química/Equilíbrio Químico/Deslocamento de equilíbrio.md",
-    "Química/Equilíbrio Químico/Equilíbrio químico.md",
-    "Química/Termoquímica/Entalpia.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Equilíbrio Químico/Deslocamento de equilíbrio.md",
+    "Química/Termoquímica/Entalpia.md",
     "Química/Equilíbrio Químico",
     "Cronograma.md",
     "Física/Termologia/pdfs/FSC_AP_Termologia_Estados Físicos da Matéria.pdf",
@@ -222,7 +234,6 @@
     "Biologia/img/Pasted image 20250630090648.png",
     "Biologia/Botânica/Untitled",
     "Matemática/Geometria analítica/Medianas, baricentros e retas suportes.md",
-    "Matemática/Geometria analítica/Equações da reta.md",
     "Matemática/img/Pasted image 20250626145121.png",
     "Matemática/img",
     "Matemática/Geometria analítica",
