@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Física/Termologia/pdfs/FSC_AP_Termologia_Transmissão de Calor.pdf"
+                "file": "Física/Termologia/pdfs/FSC_AP_Termologia_Estados Físicos da Matéria.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "FSC_AP_Termologia_Transmissão de Calor"
+              "title": "FSC_AP_Termologia_Estados Físicos da Matéria"
             }
           }
         ],
@@ -194,11 +194,12 @@
   },
   "active": "aef0276b8b90247f",
   "lastOpenFiles": [
-    "Física/Termologia/Formas de transmissão de calor.md",
+    "Física/Termologia/pdfs/FSC_AP_Termologia_Calorimetria.pdf",
+    "Física/Termologia/pdfs/FSC_AP_Termologia_Estados Físicos da Matéria.pdf",
     "Física/Termologia/pdfs/FSC_AP_Termologia_Transmissão de Calor.pdf",
+    "Física/Termologia/Formas de transmissão de calor.md",
     "Física/Termologia/Dilatação térmica.md",
     "Física/Termologia/Calorimetia.md",
-    "Física/Termologia/pdfs/FSC_AP_Termologia_Calorimetria.pdf",
     "Física/Termologia/pdfs",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Temperatura e calor e Termometria.md",
