@@ -27,3 +27,19 @@ $$
 pH + pOH = 14
 $$
 ---
+# ✅ Henderson–Hasselbalch: Concentração & pH  
+
+> [!tip] Fórmula-chave  
+> **pH = pKₐ + log₁₀ ([Base Conjugada] / [Ácido Conjugado])**
+
+Ou sal/ácido.
+
+
+## 🧮 Concentração e pH  
+| Situação | Relação [Base]/[Ácido] | Resultado de pH |
+|----------|-----------------------|-----------------|
+| **[Base] = [Ácido]** | log 1 = 0 | pH = pKₐ (máxima eficiência do tampão) |
+| **[Base] > [Ácido]** | log > 0 | pH > pKₐ (meio mais básico) |
+| **[Base] < [Ácido]** | log < 0 | pH < pKₐ (meio mais ácido) |
+
+
