@@ -44,3 +44,19 @@ Veja que é o mesmo.
 
 
 ==Em várias reações de equilíbrio químico, multiplica-se todas para achar um K invés de somar, como na Lei de Hess. ==
+
+---
+
+## Relação entre $K_c$ e $K_p$ 
+
+Verifique que:
+
+$$
+p_{A} \cdot V = n_{A} \cdot R \cdot T
+$$
+$$
+p_{A} = \frac{n_{A}}{V} \cdot R \cdot T
+$$
+$$
+p_{A} = [A] \cdot R \cdot T
+$$
