@@ -29,3 +29,18 @@
   $$
 
 Se você inverter uma reação, inverte também o K. As propriedades que você faz com essa constante está relacionada com essa fórmula. 
+
+---
+
+## Equilíbrio Químico – Constante de Pressão $K_p$
+
+  $$a\,\mathrm{A(g)} + b\,\mathrm{B(g)} \;\rightleftharpoons\; c\,\mathrm{C(g)} + d\,\mathrm{D(g)}$$  
+$$
+  K_p \;=\; \frac{\bigl(P_{\mathrm{C}}\bigr)^{c}\,\bigl(P_{\mathrm{D}}\bigr)^{d}}
+                  {\bigl(P_{\mathrm{A}}\bigr)^{a}\,\bigl(P_{\mathrm{B}}\bigr)^{b}}
+  $$
+
+Veja que é o mesmo. 
+
+
+==Em várias reações de equilíbrio químico, multiplica-se todas para achar um K invés de somar, como na Lei de Hess. ==
