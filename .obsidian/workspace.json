@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Equilíbrio Químico/Equilíbrio químico.md",
+                "file": "Química/Equilíbrio Químico/Equilíbrio Iônico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equilíbrio químico"
+              "title": "Equilíbrio Iônico"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "712141a06dbb7807",
   "lastOpenFiles": [
-    "Química/Termoquímica/Entalpia.md",
+    "Química/Equilíbrio Químico/Deslocamento de equilíbrio.md",
+    "Química/Equilíbrio Químico/Equilíbrio Iônico.md",
     "Química/Equilíbrio Químico/Equilíbrio químico.md",
+    "Química/Termoquímica/Entalpia.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Equilíbrio Químico",
     "Cronograma.md",
@@ -223,9 +225,7 @@
     "Matemática/img/Pasted image 20250626145121.png",
     "Matemática/Geometria analítica/Conceitos básicos de Geometria analítica.md",
     "Matemática/img",
-    "Matemática/Funções/1°grau.md",
     "Matemática/Geometria analítica",
-    "Redação/Operadores argumentativos.md",
     "Redação/Repertórios",
     "Química/Untitled.canvas",
     "Física/Caixinhas.canvas",

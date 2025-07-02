@@ -47,16 +47,44 @@ Veja que é o mesmo.
 
 ---
 
-## Relação entre $K_c$ e $K_p$ 
+## Relação entre $K_c$ e $K_p$ — Dedução detalhada
 
-Verifique que:
+### Passo 1 · Lei dos gases ideais
+Para qualquer gás $i$:
+$$
+p_iV = n_iRT
+\qquad\Longrightarrow\qquad
+p_i = \frac{n_i}{V}RT = [i]RT
+$$
 
+### Passo 2 · Expressão de $K_p$
+
+Para a reação genérica  
+$a\,\mathrm{A(g)} + b\,\mathrm{B(g)} \rightleftharpoons c\,\mathrm{C(g)} + d\,\mathrm{D(g)}$:
 $$
-p_{A} \cdot V = n_{A} \cdot R \cdot T
+K_p = \frac{(p_{\mathrm C})^{c}(p_{\mathrm D})^{d}}
+           {(p_{\mathrm A})^{a}(p_{\mathrm B})^{b}}
 $$
+
+### Passo 3 · Substituir $p_i = [i]RT$
 $$
-p_{A} = \frac{n_{A}}{V} \cdot R \cdot T
+\begin{aligned}
+K_p &= 
+\frac{\bigl([C]\,RT\bigr)^{c}\bigl([D]\,RT\bigr)^{d}}
+     {\bigl([A]\,RT\bigr)^{a}\bigl([B]\,RT\bigr)^{b}} \\[6pt]
+&= (RT)^{\,c+d-a-b}\,
+   \frac{[C]^{c}[D]^{d}}{[A]^{a}[B]^{b}}
+\end{aligned}
 $$
+
+### Passo 4 · Introduzir $\Delta n$ e $K_c$
+Defina a variação de mols gasosos:  
+$\Delta n = (c+d) - (a+b)$  
+
+Reconheça que:
+$K_c = \dfrac{[C]^{c}[D]^{d}}{[A]^{a}[B]^{b}}$
+
+### Passo 5 · Resultado final
 $$
-p_{A} = [A] \cdot R \cdot T
+\boxed{K_p = K_c\,(RT)^{\Delta n}}
 $$

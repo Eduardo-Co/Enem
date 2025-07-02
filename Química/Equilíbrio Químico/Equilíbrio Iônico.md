@@ -1,0 +1,1 @@
+Ka -> representa o quanto forte é um ácido, uma vez que ele é a concentração de produto por reagente e se forma mais produto então tem mais protons liberados. 
