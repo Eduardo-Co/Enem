@@ -14,14 +14,16 @@ K_{a} = \alpha^2 \cdot C_{m}
 $$
 ---
 
-Curiosidades apenas. 
-
-Visando que a molécula de água tem 55 mol /L  de concentração e que constantemente, quando em equilíbrio há a formação H+ e OH- e sua reversão também, pois está em equilíbrio, de acordo com:
 
 $$
-K_{c} \cdot H_{2}O = [H^+][OH^-]
+K_w = [H^+][OH^-] = 1.0 \times 10^{-14}
 $$
+
 $$
-K_{w} = [H^+][OH^-]
+pK_w = -\log_{10} K_w = 14
 $$
-Considerando que Kw vale $10^-14$ o Pk 
+
+$$
+pH + pOH = 14
+$$
+---
