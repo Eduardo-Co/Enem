@@ -25,12 +25,14 @@
             "id": "aef0276b8b90247f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Física/Termologia/pdfs/FSC_AP_Termologia_Calorimetria.pdf"
+                "file": "Física/Termologia/Calorimetia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "FSC_AP_Termologia_Calorimetria"
+              "icon": "lucide-file",
+              "title": "Calorimetia"
             }
           }
         ],
@@ -192,11 +194,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "aef0276b8b90247f",
   "lastOpenFiles": [
+    "Física/Termologia/pdfs/FSC_AP_Termologia_Calorimetria.pdf",
     "Física/Termologia/pdfs",
     "Física/Termologia/Dilatação térmica.md",
-    "Física/Termologia/pdfs/FSC_AP_Termologia_Calorimetria.pdf",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Temperatura e calor e Termometria.md",
     "Física/Termologia/Termodinâmica.md",

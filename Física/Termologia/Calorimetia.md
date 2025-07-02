@@ -24,6 +24,13 @@
 - Determinado por calorímetro.
 - Libera energia ao ser digerido.
 
+
+## Equilíbrio Térmico
+$$
+\sum Q = 0
+$$
+---
+
 ## Mudanças de estado físico
 - Sólido $\leftrightarrow$ Líquido $\leftrightarrow$ Gasoso
 - Plasma: gás ionizado, alta energia (ex: Sol, relâmpago)
@@ -35,12 +42,6 @@
 ## Diferença entre vapor e gás
 - Vapor: gás abaixo do ponto crítico, pode condensar fácil.
 - Gás: acima do ponto crítico, não condensa
-
-## Transformação isobárica
-- Pressão constante.
-
-## Transformação isotérmica
-- Temperatura constante.
 
 ## Calor latente
 - $Q = mL$
