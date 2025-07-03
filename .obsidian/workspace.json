@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Geometria analítica/Equação da circuferência.md",
+                "file": "Redação/Jargões desenvolvimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equação da circuferência"
+              "title": "Jargões desenvolvimento"
+            }
+          },
+          {
+            "id": "065590717eeeeded",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,14 +190,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "065590717eeeeded",
   "lastOpenFiles": [
+    "Redação/Jargões desenvolvimento.md",
+    "Matemática/Geometria analítica/Equação da circuferência.md",
     "Matemática/Geometria analítica/Equações da reta.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Geometria analítica/Hiperbole.md",
     "Matemática/Geometria analítica/Elipse.md",
     "Matemática/Geometria analítica/Posição relativa entre a reta e circunferência.md",
-    "Matemática/Geometria analítica/Equação da circuferência.md",
     "Matemática/Geometria analítica/Medianas, baricentros e retas suportes.md",
     "Matemática/Geometria analítica/Conceitos básicos de Geometria analítica.md",
     "Matemática/Untitled.canvas",
