@@ -1,0 +1,4 @@
+
+- Tangente
+- Secante
+- 

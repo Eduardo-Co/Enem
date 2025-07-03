@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff0b4f34349a910b",
+        "id": "18434ca01202d333",
         "type": "tabs",
         "children": [
           {
-            "id": "8022773a58c53ccb",
+            "id": "ca82ad3d5c7f5765",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Geometria analítica/Equação da circuferência.md",
+                "file": "Matemática/Geometria analítica/Posição relativa entre a reta e circunferência.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equação da circuferência"
+              "title": "Posição relativa entre a reta e circunferência"
             }
           }
         ]
@@ -179,10 +179,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "8022773a58c53ccb",
+  "active": "ca82ad3d5c7f5765",
   "lastOpenFiles": [
-    "Matemática/Geometria analítica/Equações da reta.md",
+    "Matemática/Geometria analítica/Posição relativa entre a reta e circunferência.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Geometria analítica/Equação da circuferência.md",
+    "Matemática/Geometria analítica/Equações da reta.md",
     "Matemática/Geometria analítica/Medianas, baricentros e retas suportes.md",
     "Matemática/Geometria analítica/Conceitos básicos de Geometria analítica.md",
     "Matemática/Untitled.canvas",
@@ -207,8 +209,6 @@
     "Matemática/Matemática básica/Juros/Compostos.md",
     "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
     "Matemática/Matemática básica/Conjuntos/Propriedades de conjunto.md",
-    "Matemática/Matemática básica/Conjuntos/Operações com conjuntos.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Equilíbrio Químico",
     "Física/Termologia/pdfs/FSC_AP_Termologia_Estados Físicos da Matéria.pdf",
     "Física/Termologia/pdfs/FSC_AP_Termologia_Calorimetria.pdf",
