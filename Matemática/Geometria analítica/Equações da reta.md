@@ -66,3 +66,7 @@ $$a=\frac{6-2}{4-1}=\frac43$$
 ## Retas Coplanares ou Paralelas:
 
 Elas serão Coplanares caso o coeficiente angular seja o mesmo, caso não for será paralela. 
+
+---
+
+
