@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Geometria analítica/Elipse.md",
+                "file": "Matemática/Geometria analítica/Hiperbole.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elipse"
+              "title": "Hiperbole"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "ca82ad3d5c7f5765",
   "lastOpenFiles": [
-    "Matemática/Geometria analítica/Posição relativa entre a reta e circunferência.md",
     "Matemática/Geometria analítica/Elipse.md",
+    "Matemática/Geometria analítica/Hiperbole.md",
+    "Matemática/Geometria analítica/Posição relativa entre a reta e circunferência.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Geometria analítica/Equação da circuferência.md",
     "Matemática/Geometria analítica/Equações da reta.md",
@@ -208,7 +209,6 @@
     "Matemática/Matemática básica/Porcentagem/Porcentagem.md",
     "Matemática/Matemática básica/Juros/Simples.md",
     "Matemática/Matemática básica/Juros/Compostos.md",
-    "Matemática/Matemática básica/Conjuntos/Relação de pertinência e inclusão.md",
     "Química/Equilíbrio Químico",
     "Física/Termologia/pdfs/FSC_AP_Termologia_Estados Físicos da Matéria.pdf",
     "Física/Termologia/pdfs/FSC_AP_Termologia_Calorimetria.pdf",
