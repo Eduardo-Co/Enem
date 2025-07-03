@@ -29,17 +29,6 @@
 
 ---
 
-## 3️⃣ Desvio Padrão e Percentil
-
-- **Desvio padrão (s):**  
-  $$s = \sqrt{\frac{\sum (x_i - \bar{x})^2}{n}}$$
-  (Quanto maior, mais espalhados os dados)
-
-- **Percentil:**  
-  Indica a posição de um valor em relação ao total (ex: percentil 90 = maior que 90% dos valores).
-
----
-
 ## 4️⃣ Contagem de Eventos Cíclicos
 
 - **Eventos cíclicos:**  
