@@ -11,10 +11,12 @@
             "id": "8dfd4b4c0b791da0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -175,10 +177,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "8dfd4b4c0b791da0",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Simulados.md",
     "Linguagens/Tipos de interpretação.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Maquinas térmicas.md",
     "Física/Termologia/pdfs/Leis termodinâmica.pdf",
     "Física/Termologia/Gás ideal.md",
