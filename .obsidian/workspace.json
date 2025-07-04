@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10cc3100f1c85465",
+            "id": "1f2f7a06c78906d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Física/Termologia/Maquinas térmicas.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Maquinas térmicas"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -179,10 +177,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "10cc3100f1c85465",
+  "active": "1f2f7a06c78906d3",
   "lastOpenFiles": [
-    "Física/Termologia/pdfs/Leis termodinâmica.pdf",
     "Física/Termologia/Maquinas térmicas.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Termologia/pdfs/Leis termodinâmica.pdf",
     "Física/Termologia/Gás ideal.md",
     "Redação/Jargões desenvolvimento.md",
     "Física/Termologia/pdfs/Gases.pdf",
@@ -191,7 +190,6 @@
     "Redação/img/Pasted image 20250605082616.png",
     "Matemática/Geometria analítica/Equação da circuferência.md",
     "Matemática/Geometria analítica/Equações da reta.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Geometria analítica/Hiperbole.md",
     "Matemática/Geometria analítica/Elipse.md",
     "Matemática/Geometria analítica/Posição relativa entre a reta e circunferência.md",
