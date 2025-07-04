@@ -25,12 +25,14 @@
             "id": "065590717eeeeded",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Redação/img/Pasted image 20250605082616.png"
+                "file": "Redação/Jargões conclusão.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250605082616"
+              "icon": "lucide-file",
+              "title": "Jargões conclusão"
             }
           }
         ],
@@ -195,6 +197,7 @@
   "active": "065590717eeeeded",
   "lastOpenFiles": [
     "Redação/Jargões desenvolvimento.md",
+    "Redação/img/Pasted image 20250605082616.png",
     "Matemática/Geometria analítica/Equação da circuferência.md",
     "Matemática/Geometria analítica/Equações da reta.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -221,7 +224,6 @@
     "Matemática/Matemática básica/Razão e proporção/Escala.md",
     "Matemática/Matemática básica/Porcentagem/Questões.md",
     "Matemática/Matemática básica/Porcentagem/Porcentagem.md",
-    "Matemática/Matemática básica/Juros/Simples.md",
     "Química/Equilíbrio Químico",
     "Física/Termologia/pdfs/FSC_AP_Termologia_Estados Físicos da Matéria.pdf",
     "Física/Termologia/pdfs/FSC_AP_Termologia_Calorimetria.pdf",
@@ -237,7 +239,6 @@
     "Biologia/img/Pasted image 20250630103220.png",
     "Biologia/img/Pasted image 20250630090648.png",
     "Biologia/Botânica/Untitled",
-    "Matemática/img/Pasted image 20250626145121.png",
     "Matemática/img",
     "Matemática/Geometria analítica",
     "Redação/Repertórios",
