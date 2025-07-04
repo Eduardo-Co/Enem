@@ -25,10 +25,12 @@
             "id": "065590717eeeeded",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Redação/img/Pasted image 20250605082616.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250605082616"
             }
           }
         ],
