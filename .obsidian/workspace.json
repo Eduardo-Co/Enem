@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "53cb5270ff813a86",
+        "id": "385d29e546b4a6f3",
         "type": "tabs",
         "children": [
           {
-            "id": "1f2f7a06c78906d3",
+            "id": "8dfd4b4c0b791da0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
