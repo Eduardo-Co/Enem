@@ -11,12 +11,14 @@
             "id": "1f2f7a06c78906d3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Linguagens/Tipos de interpretação.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Tipos de interpretação"
             }
           }
         ]
@@ -179,8 +181,9 @@
   },
   "active": "1f2f7a06c78906d3",
   "lastOpenFiles": [
-    "Física/Termologia/Maquinas térmicas.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Linguagens/Tipos de interpretação.md",
+    "Física/Termologia/Maquinas térmicas.md",
     "Física/Termologia/pdfs/Leis termodinâmica.pdf",
     "Física/Termologia/Gás ideal.md",
     "Redação/Jargões desenvolvimento.md",
@@ -209,7 +212,6 @@
     "Matemática/Matemática básica/Potenciação.md",
     "Matemática/Matemática básica/MMC e MDC.md",
     "Matemática/Matemática básica/Razão e proporção/Regra de três.md",
-    "Matemática/Matemática básica/Razão e proporção/Razão e proporção.md",
     "Química/Equilíbrio Químico",
     "Física/Termologia/pdfs/Estados físicos.pdf",
     "Física/Termologia/pdfs/Calorimetria.pdf",
