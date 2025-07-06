@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Funções inorgânicas/Ácidos/Força ácido.md",
+                "file": "Biologia/Citologia/Organelas citoplasmáticas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Força ácido"
+              "title": "Organelas citoplasmáticas"
             }
           }
         ]
@@ -181,6 +181,10 @@
   },
   "active": "8dfd4b4c0b791da0",
   "lastOpenFiles": [
+    "Biologia/Citologia/História da célula.md",
+    "Biologia/Citologia/Microscopia.md",
+    "Biologia/Citologia/Membrana plasmática.md",
+    "Química/Funções inorgânicas/Ácidos/Força ácido.md",
     "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
     "Química/Funções inorgânicas/Ácidos/Excessões.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -209,10 +213,6 @@
     "Matemática/Matemática básica/Unidades de medida.md",
     "Matemática/Matemática básica/Teorema fundamental da divisibilidade e critérios de divisibilidade.md",
     "Matemática/Matemática básica/Radiciação.md",
-    "Matemática/Matemática básica/Quantidade de divisores naturais.md",
-    "Matemática/Matemática básica/Produto e divisão.md",
-    "Matemática/Matemática básica/Primos.md",
-    "Matemática/Matemática básica/Potenciação.md",
     "Química/Equilíbrio Químico",
     "Física/Termologia/pdfs/Estados físicos.pdf",
     "Física/Termologia/pdfs/Calorimetria.pdf",

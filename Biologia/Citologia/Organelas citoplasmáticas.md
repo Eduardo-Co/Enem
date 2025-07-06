@@ -24,7 +24,7 @@
   - Abundante em células do fígado e em células produtoras de hormônios esteroides.
 
 ## 4. Complexo de Golgi
-- **Função:** Modificação, armazenamento e distribuição de proteínas e lipídios.
+- **Função:** Modificação, armazenamento e distribuição de ***==proteínas e lipídios.==***
 - **Características:**
   - Forma vesículas que podem se transformar em lisossomos ou ser secretadas pela célula.
   - Importante na formação do acrossomo em espermatozoides.
