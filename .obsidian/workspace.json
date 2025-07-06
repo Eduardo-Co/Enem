@@ -11,12 +11,14 @@
             "id": "8dfd4b4c0b791da0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Funções inorgânicas/Ácidos/Força ácido.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Força ácido"
             }
           }
         ]
@@ -179,9 +181,11 @@
   },
   "active": "8dfd4b4c0b791da0",
   "lastOpenFiles": [
+    "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
+    "Química/Funções inorgânicas/Ácidos/Excessões.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Simulados.md",
     "Linguagens/Tipos de interpretação.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Termologia/Maquinas térmicas.md",
     "Física/Termologia/pdfs/Leis termodinâmica.pdf",
     "Física/Termologia/Gás ideal.md",
@@ -209,8 +213,6 @@
     "Matemática/Matemática básica/Produto e divisão.md",
     "Matemática/Matemática básica/Primos.md",
     "Matemática/Matemática básica/Potenciação.md",
-    "Matemática/Matemática básica/MMC e MDC.md",
-    "Matemática/Matemática básica/Razão e proporção/Regra de três.md",
     "Química/Equilíbrio Químico",
     "Física/Termologia/pdfs/Estados físicos.pdf",
     "Física/Termologia/pdfs/Calorimetria.pdf",
