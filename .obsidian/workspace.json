@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "610e729db92d9a42",
+        "id": "dc3c18dbce83b4dc",
         "type": "tabs",
         "children": [
           {
-            "id": "a16cb5c0db87c8a0",
+            "id": "576acbfa409dbb7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Botânica/Histologia/Histologia Vegetal.md",
+                "file": "Biologia/Botânica/Histologia Vegetal.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,15 +179,16 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "a16cb5c0db87c8a0",
+  "active": "576acbfa409dbb7a",
   "lastOpenFiles": [
-    "Biologia/Botânica/Histologia/Untitled.md",
-    "Biologia/Botânica/Histologia/Histologia Vegetal.md",
-    "Biologia/img/Pasted image 20250707105545.png",
-    "Biologia/Botânica/fruto.md",
     "Biologia/Botânica/Folhas.md",
     "Biologia/Botânica/flores.md",
     "Biologia/Botânica/Caule.md",
+    "Biologia/Botânica/fruto.md",
+    "Biologia/Botânica/Transpiração vegetal.md",
+    "Biologia/Botânica/Histologia Vegetal.md",
+    "Biologia/Botânica/Histologia/Untitled.md",
+    "Biologia/img/Pasted image 20250707105545.png",
     "Biologia/Botânica/Caracterização das plantas.md",
     "Biologia/Botânica/Gimnospermas.md",
     "Biologia/Botânica/Pteridófitas.md",
@@ -212,7 +213,6 @@
     "Redação/Jargões desenvolvimento.md",
     "Física/Termologia/pdfs/Gases.pdf",
     "Física/Termologia/pdfs/Transmissão calor.pdf",
-    "Redação/Jargões conclusão.md",
     "Redação/img/Pasted image 20250605082616.png",
     "Matemática/Untitled.canvas",
     "Química/Equilíbrio Químico",
