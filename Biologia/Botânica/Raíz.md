@@ -41,26 +41,46 @@
 
 ## Vias de Absorção Zona pilífera:
 
-- Há duas rotas de absorção
-- Atuação da endoderme 
+- **Rota apoplástica (água)**
+    - Fluxo por paredes celulares e espaços intercelulares até a endoderme.
+    - Movimento rápido, sem atravessar membranas plasmáticas.
+        
+- **Rota simplástica (solutos / substâncias)**
+    - Água + íons atravessam a membrana do pelo radical, entram no citoplasma.
+    - Percorrem célula-a-célula via plasmodesmos até o xilema.
+        
+- **Papel da endoderme**
+    - Possui **estria de Caspary** (suberina + lignina) que bloqueia o apoplasto.
+    - Obriga toda a solução a entrar no simplasto → **filtragem seletiva** de íons e toxinas antes de atingir o cilindro vascular.
 
 ---
-
 ## Tipos de Raízes e funções adicionais 
+## Tipos de raízes & funções acessórias
 
-- Subterrâneas:
-	- Fasciculada ou cabeleira
-	- Axial ou pivotante
-	- Tuberosa:
+### Subterrâneas
 
-- Aéreas:
-	- Tabular:
-	- Escora:
-	- Tabular:
-	- Cinturas:
-	- Estrangulante: 
-	- Pneumatóforos:
-	- Grampiformes:
-	- Sugadoras:
+- **Axial / pivotante:** raiz primária dominante (feijoeiro).
+    
+- **Fasciculada / cabeleira:** feixe de raízes equivalentes (gramíneas).
+    
+- **Tuberosa:** armazenamento (mandioca, cenoura).
+    
 
-- Aquáticas
+### Aéreas
+
+- **Tabular (raiz-tabuleiro):** placas laterais de suporte (figueira).
+    
+- **Escora (raízes-escora):** suportes inclinados (milho, mangue).
+    
+- **Cintura / estrangulante:** abraçam troncos (Ficus).
+    
+- **Grampiformes:** aderência/trepação (hera).
+    
+- **Pneumatóforos:** troca gasosa em substrato anóxico (mangue – Avicennia).
+    
+- **Sugadoras (haustórios):** parasitismo (cipó-chumbo).
+    
+
+### Aquáticas
+
+- **Hidrófitas flutuantes:** raízes pendentes absorvem nutrientes da água (aguapé).

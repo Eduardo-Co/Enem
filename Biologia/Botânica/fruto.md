@@ -1,26 +1,35 @@
+## Fruto — visão-geral
 
-- Definição de fruto:
-- Formada pelo 
-
-## Partes do fruto - Pericarpo
-
-- EPIcarpo:
-- MESOcarpo:
-- ENDOcarpo:
-- Caroço: Endocarpo lignificado que contém semente.
--  Pericarpo Seco: 
-	- Indeiscente: Não se abre para liberar a semente
-	- Deiscentes: Abre para liberar semente, ex: Vagem
-
----
-## Pseudofrutos:
-
-- Parte comestível não veio do ovário da flor.
-- Maçã, pera, morango
+- **Definição:** estrutura que se origina (geralmente) do ovário fecundado, contendo a(s) semente(s).
+- **Formado por:** ovário + desenvolvimento do pericarpo; pode incluir tecidos acessórios (pseudofruto).
 
 ---
 
-## Fruto Partenocárpico:
+### Pericarpo – camadas
 
-- Não há fecundação
-- Não há sementes
+- **Epicarpo:** exocarpo; casca externa.
+- **Mesocarpo:** polpa intermediária, carnosidade.
+- **Endocarpo:** camada interna; pode ser membranoso (uva) ou lignificado (caroço de pêssego).
+- **Caroço:** endocarpo duro + semente no interior.
+
+---
+
+### Pericarpo seco
+
+- **Indeiscente:** não se abre; semente dispersa com o fruto (noz, aquênio, cariopse).
+- **Deiscente:** fendas naturais liberam sementes (vagem de feijão, cápsula).
+
+---
+
+### Pseudofrutos (falsos frutos)
+
+- Parte comestível **não** deriva do ovário; ovário forma apenas as sementinhas ou parte minoritária.
+    - **Exemplos:** maçã (receptáculo floral), pera, morango (receptáculo + aquênios).
+
+---
+
+### Fruto partenocárpico
+
+- Desenvolvimento **sem fecundação** ⇒ ausência de sementes.
+- Ocorre naturalmente (banana-prata) ou induzido (melancia sem sementes).
+    
