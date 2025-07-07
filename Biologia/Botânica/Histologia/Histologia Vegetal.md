@@ -30,6 +30,16 @@ Felogênio:
 ## Adultos ou Permanentes:
 
 - Revestimento:
+	- Epiderme: ***Vivas***, achatadas e sem clorofila. Encontrada na folha.
+		- Anexados a epiderme:
+		- Estômatos 
+		- Pelos
+		- Acúleos: Tipo espinho, mas não é a folha e sim acúleo da epiderme.
+
+	- Súber: ***Morto***, Suberina mata a célula e vira essa célula protetora, morta. 
+	
+
+
 - Sustentação
 - Condução de seivas:
 - Preenchimento ou parênquimas:
