@@ -17,7 +17,7 @@ O que cresce é onde tem gemas, por exemplo na gema apical.
 ## Secundários:
 
 Câmbio: 
-	- **Produção de xilema secundário (madeira)**: células formadas para o lado interno; conduzem seiva bruta e conferem resistência mecânica.
+	- **Produção de xilema secundário**: células formadas para o lado interno; conduzem seiva bruta e conferem resistência mecânica.
 	- **Produção de floema secundário (libro)**: células formadas para o lado externo; conduzem seiva elaborada (açúcares).
 	- ***Crescimento em espessura
 
@@ -40,10 +40,11 @@ Felogênio:
 		- Lenticelas: Troca gasosas -> furinhos
 		- Ritidoma: Troca gasosa também.
 
+- ***Sustentação***:
+	- Colênquima: Vivo - Celulose - Flexibilidade e plasticidade (Moldar um tecido)
+	- Esclerênquima: Morto - Lignina - Resistência - Elasticidade (Molda mas volta a posição original)
 
-- Sustentação
-
-- ***Condução de seivas:*** Xilema ou lenho; Tecido ***morto***. Impregnação de lignina, assim como suberina no súber.
+- ***Condução de seivas:*** Xilema ou ***lenho***; Tecido ***morto***. Impregnação de lignina, assim como suberina no súber.
 	- Condução e sustentação de ***Seiva inorgânica***.
 	- Permitem a passagem da seiva:
 		- Vasos lenhosos: Espesso  
@@ -56,11 +57,22 @@ Felogênio:
 	- Cerne (Morta): Xilema que não funciona; Tá entupido -> ***MUITA RESISTÊNCIA***
 	- Alburno (Morta): Funciona.
 
+	***Líber*** ou Floema:
+		- Anucleada para descida da seiva orgânica
+
 - ***Preenchimento ou parênquimas:*** Armazenamento
 	- Parênquima Clorofiliano: Armazena clorofila 
 	- Parênquima amilífero: Armazena amido
 	- Parênquima aquífero: Armazena água -> Suculentas; Árido 
 	- Parênquima aerífero: Armazena ar -> flutuar 
+
+- ***Tecidos de Secreção:***
+	- Nectários: Néctar produzido
+	- Vasos lactíferos: Latex 
+	- Vasos Hidatódios: Estomatos aquíferos
+	- Vasos resiníferos: Resinas
+	Tudo isso para liberar ou proteger;
+	
 
 
 ***Toda parte da planta faz troca gasosa, não é como o humano que faz por meio do sangue. Então há troca gasosa nos estômatos das folhas, no caule e na raiz. Todas independentes.***
