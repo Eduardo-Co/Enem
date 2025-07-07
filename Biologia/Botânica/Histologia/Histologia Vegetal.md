@@ -37,9 +37,30 @@ Felogênio:
 		- Acúleos: Tipo espinho, mas não é a folha e sim acúleo da epiderme.
 
 	- Súber: ***Morto***, Suberina mata a célula e vira essa célula protetora, morta. 
-	
+		- Lenticelas: Troca gasosas -> furinhos
+		- Ritidoma: Troca gasosa também.
 
 
 - Sustentação
-- Condução de seivas:
-- Preenchimento ou parênquimas:
+
+- ***Condução de seivas:*** Xilema ou lenho; Tecido ***morto***. Impregnação de lignina, assim como suberina no súber.
+	- Condução e sustentação de ***Seiva inorgânica***.
+	- Permitem a passagem da seiva:
+		- Vasos lenhosos: Espesso  
+		- Traqueídeos: Fino; 
+
+	Fases de crescimento:
+	- Lenho primaveril: Maior transporte - menor sustentação
+	- Lenho estival (Seca): menor transporte - maior sustentação
+
+	- Cerne (Morta): Xilema que não funciona; Tá entupido -> ***MUITA RESISTÊNCIA***
+	- Alburno (Morta): Funciona.
+
+- ***Preenchimento ou parênquimas:*** Armazenamento
+	- Parênquima Clorofiliano: Armazena clorofila 
+	- Parênquima amilífero: Armazena amido
+	- Parênquima aquífero: Armazena água -> Suculentas; Árido 
+	- Parênquima aerífero: Armazena ar -> flutuar 
+
+
+***Toda parte da planta faz troca gasosa, não é como o humano que faz por meio do sangue. Então há troca gasosa nos estômatos das folhas, no caule e na raiz. Todas independentes.***
