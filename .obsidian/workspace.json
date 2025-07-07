@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Botânica/Sementes.md",
+                "file": "Biologia/Botânica/Histologia Vegetal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sementes"
+              "title": "Histologia Vegetal"
             }
           },
           {
@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Raíz"
             }
+          },
+          {
+            "id": "7d3d33cfc67d531c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,8 +218,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "64535cb8bf968cc0",
+  "active": "7d3d33cfc67d531c",
   "lastOpenFiles": [
+    "Biologia/Botânica/Histologia Vegetal.md",
+    "Biologia/Botânica/Sementes.md",
     "Biologia/Botânica/Folhas.md",
     "Biologia/Botânica/flores.md",
     "Biologia/Botânica/Caule.md",
@@ -217,7 +229,6 @@
     "Biologia/Botânica/Briófitas.md",
     "Biologia/Botânica/Caracterização das plantas.md",
     "Biologia/Botânica/Pteridófitas.md",
-    "Biologia/Botânica/Histologia Vegetal.md",
     "Biologia/Botânica/Angiospermas.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Botânica/Hormônios vegetais.md",
@@ -227,7 +238,6 @@
     "Biologia/Botânica/Histologia/Untitled.md",
     "Biologia/img/Pasted image 20250707105545.png",
     "Biologia/Botânica/Gimnospermas.md",
-    "Biologia/Botânica/Sementes.md",
     "Biologia/Botânica/Histologia",
     "Biologia/Citologia/Organelas citoplasmáticas.md",
     "Biologia/Citologia/História da célula.md",
