@@ -11,12 +11,14 @@
             "id": "4a2ffc7f10884382",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Botânica/Pteridófitas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Pteridófitas"
             }
           }
         ]
@@ -179,24 +181,24 @@
   },
   "active": "4a2ffc7f10884382",
   "lastOpenFiles": [
-    "Biologia/Botânica/Hormônios vegetais.md",
-    "Biologia/Botânica/Transporte de seiva.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Botânica/Histologia Vegetal.md",
     "Biologia/Botânica/Folhas.md",
     "Biologia/Botânica/flores.md",
     "Biologia/Botânica/Caule.md",
+    "Biologia/Botânica/Caracterização das plantas.md",
+    "Biologia/Botânica/Briófitas.md",
+    "Biologia/Botânica/Angiospermas.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Botânica/Hormônios vegetais.md",
+    "Biologia/Botânica/Transporte de seiva.md",
     "Biologia/Botânica/fruto.md",
     "Biologia/Botânica/Transpiração vegetal.md",
     "Biologia/Botânica/Histologia/Untitled.md",
     "Biologia/img/Pasted image 20250707105545.png",
-    "Biologia/Botânica/Caracterização das plantas.md",
     "Biologia/Botânica/Gimnospermas.md",
     "Biologia/Botânica/Pteridófitas.md",
     "Biologia/Botânica/Raíz.md",
     "Biologia/Botânica/Sementes.md",
-    "Biologia/Botânica/Angiospermas.md",
-    "Biologia/Botânica/Briófitas.md",
     "Biologia/Botânica/Histologia",
     "Biologia/Citologia/Organelas citoplasmáticas.md",
     "Biologia/Citologia/História da célula.md",
@@ -207,7 +209,6 @@
     "Química/Funções inorgânicas/Ácidos/Excessões.md",
     "Simulados.md",
     "Linguagens/Tipos de interpretação.md",
-    "Física/Termologia/Maquinas térmicas.md",
     "Física/Termologia/pdfs/Leis termodinâmica.pdf",
     "Física/Termologia/pdfs/Gases.pdf",
     "Física/Termologia/pdfs/Transmissão calor.pdf",
