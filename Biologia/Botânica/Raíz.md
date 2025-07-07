@@ -1,38 +1,41 @@
 ## Definição:
 
+## Raiz – visão-geral
 
-
----
-## Função:
-
-- Absorção
-- Fixação
+- **Definição:** órgão subterrâneo (geral), sem folhas, negativo fototropismo, responde por nutrição e fixação.
+    
 
 ---
-## Morfologia da Raiz:
 
-## Zonas e funções
+### Funções principais
 
-- Zona de ramificações:
-- Zona pilíferas:
-- Zona de distensão (Zona lisa):
-- Zona meristemática:
-- Coifa: 
+- **Absorção** de água + sais.
+- **Fixação** mecânica ao substrato.
+- **Reserva** (raízes tuberosas).
+- **Condução** ascendente (xilema) / descendente (floema).
+
+---
+## Morfologia externa × zonas funcionais
+
+- **Coifa:** ***protege*** meristema, perceção gravitacional.
+- **Zona meristemática:** ***divisão*** celular contínua.
+- **Zona de distensão (lisa):** ***alongamento*** → crescimento em comprimento.
+- **Zona pilífera:** ***pelos*** radiculares ↑ superfície, ***absorção***; entrada via **apoplasto** (parede) & **simplasto** (citoplasma); **endoderme** (estria de Caspary) força passagem seletiva p/ simplasto.
+- **Zona de ramificações:** ***maturação, emissão de raízes laterais*** (origem: **periciclo**).
 
 ---
 
 ## Diferenças anatômicas da raiz de Mono e Dicotiledôneas:
 
-- Epiderme
-- Córtex
-- Endoderme
-- Cilindro vascular
-- Periciclo
-- Xilema
-- Floema
+|Estrato|**Monocotiledônea**|**Eudicotiledônea**|
+|---|---|---|
+|**Epiderme**|fina, pêlos|idem|
+|**Córtex**|largo, sem crescimento sec.|idem|
+|**Endoderme**|com estrias de Caspary|idem|
+|**Periciclo**|origina raízes laterais|idem + origina câmbio vascular|
+|**Cilindro vascular**|xilema + floema em anel, medula central (pith), poliarco|xilema em estrela, floema entre os “raios”, sem medula, tri-/tetra-arco|
+|**Crescimento secundário**|ausente (sem câmbio)|presente (xilema/floema secund.)|
 ![[Pasted image 20250630090648.png]]
-
-Periciclo em dicotiledônea: Forma raízes laterais????
 
 ---
 
