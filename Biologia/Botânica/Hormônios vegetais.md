@@ -1,0 +1,7 @@
+| Hormônio                  | Onde é produzido               | Função-chave (1 verbo)                                   | Exemplos que caem                                     |
+| ------------------------- | ------------------------------ | -------------------------------------------------------- | ----------------------------------------------------- |
+| **Auxina (AIA)**          | gemas apicais & folhas jovens  | _Alongar_ células → dominância apical, foto-/geotropismo | estiolamento, enraizamento, frutos partenocárpicos    |
+| **Giberelina (GA)**       | embrião da semente & folhas    | _Estimular_ crescimento caules & germinação (amilase)    | “uva-sem-semente”, espigamento do arroz               |
+| **Citocinina**            | ápice radicular → via xilema   | _Dividir_ células, atrasar senescência                   | cultura de tecidos (razão AIA/CK), folhas mais verdes |
+| **Ácido abscísico (ABA)** | folhas maduras & sementes      | _Frear_ crescimento; fechar estômatos; induzir dormência | estresse hídrico, tolerância à seca                   |
+| **Etileno**               | quase todo tecido em maturação | _Amadurecer_ frutos; abscisão de folhas                  | banana amadurecida, queda de folhas outonais          |
