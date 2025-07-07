@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Botânica/Pteridófitas.md",
+                "file": "Biologia/Botânica/Gimnospermas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pteridófitas"
+              "title": "Gimnospermas"
             }
           }
         ]
@@ -179,10 +179,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "7d3d33cfc67d531c",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Biologia/Botânica/Raíz.md",
     "Biologia/Botânica/Pteridófitas.md",
+    "Biologia/Botânica/Raíz.md",
     "Biologia/Botânica/Hormônios vegetais.md",
     "Biologia/Botânica/Briófitas.md",
     "Biologia/Botânica/Histologia Vegetal.md",
