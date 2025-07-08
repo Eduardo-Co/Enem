@@ -12,4 +12,6 @@
 
 - Encontro de dois objetos:
 
-> 
+> Há duas maneiras de fazer o encontro entre objetos se movendo em sentidos contrários. 
+>1° - Você pode pegar a distância dele pela velocidade média entre eles. Cite um exemplo GPT
+>2° - Utilizar a fórmula da função horária de cada um e iguala-las, com objetivo de encontrar a posição em que vão se encontrar 
