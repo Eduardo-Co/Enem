@@ -32,6 +32,11 @@ A partir disso podemos definir conceitos como:
 - Aceleração média: 
 	$a_m = \frac{\Delta V}{\Delta t}$
 
+- Nomenclatura para aceleração:
+	- Aceleração variando com a velocidade (mesmo sinal) = Acelerado
+	- Aceleração variando com sinal contrário à velocidade = retardado
+
+
 Aqui você irá ver o quanto a velocidade aumentou ou diminuir - a variação da velocidade em um tempo.
 
 
@@ -40,5 +45,11 @@ Aqui você irá ver o quanto a velocidade aumentou ou diminuir - a variação da
 $S = S_{0} + V_{0} \cdot t + \frac{a \cdot t^2}{2}$
 
 Veja que ela é similar a anterior só adiciona a aceleração vezes o tempo ao quadrado. 
+
+- Função horária da velocidade:
+
+$V = V_{0} + a \cdot t$
+
+
 
 
