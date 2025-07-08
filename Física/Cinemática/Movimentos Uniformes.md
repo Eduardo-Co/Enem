@@ -50,6 +50,12 @@ Veja que ela é similar a anterior só adiciona a aceleração vezes o tempo ao 
 
 $V = V_{0} + a \cdot t$
 
+- Equação de Torricheli:
 
+$v^2 = v_0^2 + 2 \cdot a \cdot \Delta S$
 
+Parara não precisar usar o tempo 
 
+- Velocidade média no MUV:
+
+$v_{m} = \frac{v_f+v_0}{2}$
