@@ -11,12 +11,14 @@
             "id": "7d3d33cfc67d531c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Cinemática/Movimentos Uniformes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Movimentos Uniformes"
             }
           }
         ]
@@ -179,6 +181,9 @@
   },
   "active": "7d3d33cfc67d531c",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Cinemática/Movimentos Uniformes.md",
+    "Física/Cinemática",
     "Biologia/Botânica/Folhas.md",
     "Biologia/Botânica/Hormônios vegetais.md",
     "Biologia/Botânica/Angiospermas.md",
@@ -191,7 +196,6 @@
     "Biologia/Botânica/flores.md",
     "Biologia/Botânica/Caule.md",
     "Biologia/Botânica/Caracterização das plantas.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Botânica/Transporte de seiva.md",
     "Biologia/Botânica/fruto.md",
     "Biologia/Botânica/Transpiração vegetal.md",
@@ -206,7 +210,6 @@
     "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
     "Química/Funções inorgânicas/Ácidos/Excessões.md",
     "Simulados.md",
-    "Linguagens/Tipos de interpretação.md",
     "Física/Termologia/pdfs/Leis termodinâmica.pdf",
     "Física/Termologia/pdfs/Gases.pdf",
     "Física/Termologia/pdfs/Transmissão calor.pdf",
@@ -224,7 +227,6 @@
     "Biologia/img/Pasted image 20250630143151.png",
     "Biologia/img/Pasted image 20250630131802.png",
     "Biologia/img/Pasted image 20250630103220.png",
-    "Matemática/img",
     "Química/Untitled.canvas",
     "Física/Caixinhas.canvas",
     "Biologia/Caixinhas.canvas",
