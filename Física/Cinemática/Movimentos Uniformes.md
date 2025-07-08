@@ -15,3 +15,30 @@
 > Há duas maneiras de fazer o encontro entre objetos se movendo em sentidos contrários. 
 >1° - Você pode pegar a distância dele pela velocidade média entre eles. Cite um exemplo GPT
 >2° - Utilizar a fórmula da função horária de cada um e iguala-las, com objetivo de encontrar a posição em que vão se encontrar 
+
+
+- Movimento uniformemente variado
+
+Sabe-se que:
+
+$V = \frac{\Delta S}{\Delta t}$
+
+Agora a velocidade varia, mas em função do tempo também, chamado de aceleração:
+
+$a = \frac{V}{t}$
+
+A partir disso podemos definir conceitos como:
+
+- Aceleração média: 
+	$a_m = \frac{\Delta V}{\Delta t}$
+
+Aqui você irá ver o quanto a velocidade aumentou ou diminuir - a variação da velocidade em um tempo.
+
+
+- Função horária da posição com aceleração:
+
+$S = S_{0} + V_{0} \cdot t + \frac{a \cdot t^2}{2}$
+
+Veja que ela é similar a anterior só adiciona a aceleração vezes o tempo ao quadrado. 
+
+
