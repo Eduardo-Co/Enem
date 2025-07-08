@@ -1,61 +1,45 @@
+## Cinemática
 
-- Conceito de velocidade média
-- Referencial 
-- S = S0 + VT 
-- Referência entre dois objetos em movimento:
+### 1. Conceitos básicos
+- **Velocidade média**  
+- **Referencial**  
+- **Equação horária do MRU:**  
+  $$S = S_0 + Vt$$  
 
-1. A velocidade relativa entre dois móveis em sentidos contrários corresponde à soma dos módulos de suas velocidades
+### 2. Referência entre dois objetos em movimento
+1. **Sentidos contrários:** a velocidade relativa é a **soma** dos módulos das velocidades.  
+2. **Mesmo sentido:** a velocidade relativa é a **diferença** dos módulos das velocidades.  
 
-2. A velocidade relativa entre dois móveis no mesmo sentido corresponde à diferença dos módulos de suas velocidades 
+> [!info] **Observação**  
+> A velocidade relativa pode ser positiva ou negativa, dependendo da escolha do referencial. Mesmo que os carros se cruzem no caso 1, continuarão se afastando com velocidade constante igual à soma dos módulos; no caso 2, a diferença nem sempre é simples subtração, como se percebe intuitivamente.
 
->***Aqui a velocidade iria se assumir positiva ou negativa, dependendo de como está a relação entre os dois móveis. Perceba que mesmo se os carros se cruzem no 1°, ainda vão ficar se afastando com velocidade constante que é a soma das duas, pois estão em opostos, mas o 2° não será sempre a subtração, é intuitivo. ***
-
-- Encontro de dois objetos:
-
-> Há duas maneiras de fazer o encontro entre objetos se movendo em sentidos contrários. 
->1° - Você pode pegar a distância dele pela velocidade média entre eles. Cite um exemplo GPT
->2° - Utilizar a fórmula da função horária de cada um e iguala-las, com objetivo de encontrar a posição em que vão se encontrar 
-
-
-- Movimento uniformemente variado
-
-Sabe-se que:
-
-$V = \frac{\Delta S}{\Delta t}$
-
-Agora a velocidade varia, mas em função do tempo também, chamado de aceleração:
-
-$a = \frac{V}{t}$
-
-A partir disso podemos definir conceitos como:
-
-- Aceleração média: 
-	$a_m = \frac{\Delta V}{\Delta t}$
-
-- Nomenclatura para aceleração:
-	- Aceleração variando com a velocidade (mesmo sinal) = Acelerado
-	- Aceleração variando com sinal contrário à velocidade = retardado
+### 3. Encontro de dois objetos
+> [!tip] **Métodos para determinar o ponto de encontro**  
+> 1. Dividir a distância inicial pela **velocidade média relativa**.  
+> 2. **Igualar** as funções horárias de cada móvel para encontrar a posição de encontro.  
 
 
-Aqui você irá ver o quanto a velocidade aumentou ou diminuir - a variação da velocidade em um tempo.
+### 4. Movimento Uniformemente Variado (MUV)
 
+#### 4.1 Definições
+- **Velocidade média (MUV):**  
+  $$V = \frac{\Delta S}{\Delta t}$$  
+- **Aceleração (taxa de variação da velocidade):**  
+  $$a = \frac{\Delta V}{\Delta t}$$  
 
-- Função horária da posição com aceleração:
+#### ==4.2 Classificação dos movimentos==
+- **Acelerado:** velocidade e aceleração com mesmo sinal.  
+- **Retardado:** velocidade e aceleração com sinais opostos.  
 
-$S = S_{0} + V_{0} \cdot t + \frac{a \cdot t^2}{2}$
+#### 4.3 Equações fundamentais
+- **Função horária da posição:**  
+  $$S = S_0 + V_0\,t + \frac{a\,t^2}{2}$$  
+- **Função horária da velocidade:**  
+  $$V = V_0 + a\,t$$  
+- **Equação de Torricelli (elimina $t$):**  
+  $$V^2 = V_0^2 + 2\,a\,\Delta S$$  
+- **Velocidade média no MUV:**  
+  $$V_m = \frac{V_f + V_0}{2}$$  
 
-Veja que ela é similar a anterior só adiciona a aceleração vezes o tempo ao quadrado. 
-
-- Função horária da velocidade:
-
-$V = V_{0} + a \cdot t$
-
-- Equação de Torricheli:
-
-$v^2 = v_0^2 + 2 \cdot a \cdot \Delta S$
-
-Parara não precisar usar o tempo 
-
-- Velocidade média no MUV:
-
-$v_{m} = \frac{v_f+v_0}{2}$
+> [!info] **Dica rápida**  
+> Use a equação de Torricelli quando o tempo **não** estiver disponível ou não for solicitado. Além disso, tenha em mente que Torricelli não é uma função

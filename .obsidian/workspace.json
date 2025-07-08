@@ -11,14 +11,12 @@
             "id": "7d3d33cfc67d531c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Física/Cinemática/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -181,8 +179,8 @@
   },
   "active": "7d3d33cfc67d531c",
   "lastOpenFiles": [
+    "Física/Cinemática/Lançamentos verticais e queda livre.md",
     "Física/Cinemática/Movimentos Uniformes.md",
-    "Física/Cinemática/Untitled.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Cinemática",
     "Biologia/Botânica/Folhas.md",
