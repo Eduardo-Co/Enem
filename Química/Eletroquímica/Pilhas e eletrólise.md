@@ -52,3 +52,14 @@ Grupo 1, Grupo 2 e $Al^{3+}$ --- ==H== --- Demais metais
 
 
 ----
+
+## Eletrólise quantitativa:
+
+Aqui na eletrólise quantitativa é cobrado tempo reação ou quanto que foi reagido em uma eletrólise. Pode ser em purificação ou galvanização ou até mesmo energia produzida, consigo pensar em diversas maneiras. No entanto, um passo simples para resolver é:
+
+1. Veja que estaremos trabalhando com Ampers = $A = \frac{Q}{s}$ Carga sobre segundos, então a partir disso você tem quanto de energia foi fornecida a carga tempo etc...
+2. Verifique que em uma eletrólise é liberado elétrons, esses elétrons serão multiplicados pela constante de Faraday. 
+3. Basta fazer uma regra de três com a carga que foi utilizada. 
+
+---
+
