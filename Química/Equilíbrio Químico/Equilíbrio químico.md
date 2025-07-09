@@ -8,7 +8,8 @@
 
 ## Equilíbrio Químico
 
-- **$K_c$ – constante de equilíbrio derivada da cinética**
+- **$K_c$ – constante de equilíbrio derivada da cinética**: Com essa constante você verá para onde se desloca o equilíbrio, ou seja para onde irá se formar mais, no reagente ou no  produto. Lembrando que a fórmula é dada velocidade de reação na seguinte maneria: $\frac{\text{produto}}{\text{reagente}}$
+
 
   Para a reação genérica  
   $$a\,\mathrm{A} + b\,\mathrm{B} \;\rightleftharpoons\; c\,\mathrm{C} + d\,\mathrm{D}$$

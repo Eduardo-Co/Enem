@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Equilíbrio químico"
             }
+          },
+          {
+            "id": "1e63ed047009d541",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
         ]
       }
@@ -181,11 +193,12 @@
   },
   "active": "541138ad2178f8db",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Equilíbrio Químico/Equilíbrio químico.md",
     "Química/Equilíbrio Químico/Equilíbrio Iônico.md",
     "Química/Equilíbrio Químico/Deslocamento de equilíbrio.md",
     "Química/Equilíbrio Químico/Constante de solubilidade Kps.md",
     "Química/Eletroquímica/Pilhas e eletrólise.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Eletroquímica",
     "Física/Cinemática/Movimentos Uniformes.md",
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
@@ -211,8 +224,6 @@
     "Biologia/Botânica/Histologia",
     "Biologia/Citologia/Organelas citoplasmáticas.md",
     "Biologia/Citologia/História da célula.md",
-    "Biologia/Citologia/Microscopia.md",
-    "Biologia/Citologia/Membrana plasmática.md",
     "Física/Termologia/pdfs/Leis termodinâmica.pdf",
     "Física/Termologia/pdfs/Gases.pdf",
     "Física/Termologia/pdfs/Transmissão calor.pdf",
