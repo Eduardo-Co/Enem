@@ -32,9 +32,23 @@ $\Delta E=0$ → equilíbrio
 - **Cátodo ($-$)**: redução  
 - Reações são as mesmas, mas dirigidas pela fonte externa que inverte o sentido natural.
 
-## 🔌 Eletrólise (sal fundido)
+## Eletrólise Ígnea
 
 - Sem presença de alga
 - Ânion se aproxima do Ânodo
 - Cátion se aproxima do Cátodo 
-- No Ânodo é sempre uma molécula diâtomica 
+- No Ânodo é sempre uma molécula Diatômica do mesmo elemento tipo -> $Cl_2$  
+
+## Eletrólise Aquosa
+
+- Aqui há a presença do hidróxido e do próton que existe na água. 
+- Preferência de descarga:
+
+***Ânodo(+):***
+F, Ânions oxigenados ----- ==OH== ----- Cl; Br; I
+
+***Cátodo(-):***
+Grupo 1, Grupo 2 e $Al^{3+}$ --- ==H== --- Demais metais
+
+
+----
