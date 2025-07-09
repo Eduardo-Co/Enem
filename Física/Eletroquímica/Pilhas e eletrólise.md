@@ -29,3 +29,6 @@ Nesse sentido quem oxida tem sinal negativo e o fluxo parte dele para o cátodo 
 
 ## Eletrólise:
 
+Funciona de forma similar a pilha, no entanto, agora o ânodo é o lado positivo e o cátodo o negativo. 
+
+Ocorre uma reação de oxireduça~oforçada 
