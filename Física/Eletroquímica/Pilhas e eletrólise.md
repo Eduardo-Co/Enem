@@ -1,5 +1,5 @@
-- **Agente Redutor (AR)** → **oxida** (perde e$^-$)  
-- **Agente Oxidante (AO)** → **reduz** (ganha e$^-$)
+- **Agente Redutor (AR)** → **oxida** (perde e$^-$)   = Se refere sempre à molécula e não o elemento
+- **Agente Oxidante (AO)** → **reduz** (ganha e$^-$) = Se refere sempre à molécula e não o elemento
 
 - Caráter **oxidante** = sofre redução  
 - Caráter **redutor**  = sofre oxidação  
