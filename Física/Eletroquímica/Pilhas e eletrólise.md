@@ -1,34 +1,40 @@
-- Agente Redutor: Quem oxida
-- Agente Oxidante: Quem reduz
+- **Agente Redutor (AR)** → **oxida** (perde e$^-$)  
+- **Agente Oxidante (AO)** → **reduz** (ganha e$^-$)
 
-Caráter oxidante -> sofre redução. 
-Caráter redutor -> sofre oxidação 
+- Caráter **oxidante** = sofre redução  
+- Caráter **redutor**  = sofre oxidação  
 
-Potencial de oxidação e redução são iguais a não ser pelo sinal. 
+- Potenciais: $E_{\text{ox}} = -E_{\text{red}}$
 
-$\Delta E  = E_{\text{red}}(\text{Reduz}) - E_{\text{red}}(\text{Oxida})$
+$$
+\Delta E = E_{\text{red}}(\text{cátodo}) - E_{\text{red}}(\text{ânodo})
+$$
 
-$\Delta E<0 \to \text{ não espontânea}$
-$\Delta E > 0 \to \text{espontânea}$
-$\Delta E = 0 \to equilíbrio$
+$\Delta E>0$ → espontânea (pilha)  
+$\Delta E<0$ → não espontânea (eletrólise)  
+$\Delta E=0$ → equilíbrio  
 
-
-Metal de sacrifício -> proteger um outro metal; Então precisa oxidar no lugar do metal a ser protegido. Maior potencial de oxidação ou menor de oxidação. 
-
----
-## Pilha ou Célula Galvânica: Espontâneo 
-
- 
-Diferença de potencial causada por:
-- Ânodo: quem oxida
-- Cátodo: quem reduz
-
-Nesse sentido quem oxida tem sinal negativo e o fluxo parte dele para o cátodo que tem sinal positivo. Também o ânodo perde massa e cátodo ganha massa. 
+- **Metal de sacrifício**: maior $E_{\text{ox}}$ (ou $E_{\text{red}}$ mais negativo) → oxida-se para proteger outro metal.
 
 ---
 
-## Eletrólise:
+## 🔋 Pilha / Célula Galvânica (espontânea)
 
-Funciona de forma similar a pilha, no entanto, agora o ânodo é o lado positivo e o cátodo o negativo. 
+- **Ânodo ($-$)**: oxidação, perde massa  
+- **Cátodo ($+$)**: redução, ganha massa  
+- e$^-$ fluem Ânodo → Cátodo (corrente externa sentido oposto)
 
-Ocorre uma reação de oxireduça~oforçada 
+---
+
+## ⚙️ Eletrólise (forçada)
+
+- **Ânodo ($+$)**: oxidação  
+- **Cátodo ($-$)**: redução  
+- Reações são as mesmas, mas dirigidas pela fonte externa que inverte o sentido natural.
+
+## 🔌 Eletrólise (sal fundido)
+
+- Sem presença de alga
+- Ânion se aproxima do Ânodo
+- Cátion se aproxima do Cátodo 
+- No Ânodo é sempre uma molécula diâtomica 
