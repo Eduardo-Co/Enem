@@ -25,4 +25,7 @@ Diferença de potencial causada por:
 
 Nesse sentido quem oxida tem sinal negativo e o fluxo parte dele para o cátodo que tem sinal positivo. Também o ânodo perde massa e cátodo ganha massa. 
 
- 
+---
+
+## Eletrólise:
+
