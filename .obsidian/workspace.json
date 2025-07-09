@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f864408b085ece9a",
+        "id": "03be69eab79e2288",
         "type": "tabs",
         "children": [
           {
-            "id": "d37d6aef0fa330f9",
+            "id": "541138ad2178f8db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Cinemática/Movimentos Uniformes.md",
+                "file": "Física/Eletroquímica/Pilhas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movimentos Uniformes"
+              "title": "Pilhas"
             }
           }
         ]
@@ -179,12 +179,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "d37d6aef0fa330f9",
+  "active": "541138ad2178f8db",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Eletroquímica/Pilhas.md",
+    "Física/Eletroquímica",
+    "Física/Cinemática/Movimentos Uniformes.md",
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
     "Física/img/Pasted image 20250708121445.png",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Física/Cinemática/Movimentos Uniformes.md",
     "Física/Cinemática",
     "Biologia/Botânica/Folhas.md",
     "Biologia/Botânica/Hormônios vegetais.md",
@@ -210,7 +212,6 @@
     "Biologia/Citologia/Membrana plasmática.md",
     "Química/Funções inorgânicas/Ácidos/Força ácido.md",
     "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
-    "Química/Funções inorgânicas/Ácidos/Excessões.md",
     "Física/Termologia/pdfs/Leis termodinâmica.pdf",
     "Física/Termologia/pdfs/Gases.pdf",
     "Física/Termologia/pdfs/Transmissão calor.pdf",
@@ -219,7 +220,6 @@
     "Química/Equilíbrio Químico",
     "Física/Termologia/pdfs/Estados físicos.pdf",
     "Física/Termologia/pdfs/Calorimetria.pdf",
-    "Física/Termologia/pdfs",
     "Física/img/Pasted image 20250701105119.png",
     "Biologia/img/Pasted image 20250630160800.png",
     "Biologia/img/Pasted image 20250630160755.png",
