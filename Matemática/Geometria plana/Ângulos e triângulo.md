@@ -65,4 +65,18 @@ $$
 $$
 
 ---
+## Quadrilátero circunscrito:
 
+- Soma dos lados opostos são iguais
+
+---
+
+## Relação entre cordas secantes e tangentes
+
+Corda x Corda: Relação de igualdade entre a multiplicação dos segmentos cordados da mesma reta
+
+Secante x Secante: Relação de igualdade entre a multiplicação dos segmentos cordados da mesma reta![[Pasted image 20250710100454.png]]
+
+Secante x Tangente: 
+
+Mesma coisa só que a tangente é ao quadrado![[Pasted image 20250710100635.png]]
