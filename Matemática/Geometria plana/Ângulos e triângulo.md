@@ -2,5 +2,18 @@
 
 Isso trás a explicação da fórmula que dá o comprimento de uma circunferência; Uma vez que todo radiano é um escalar vezes o raio se pegarmos $2\pi$ e multiplicarmos pelo raio temos um arco que é a circunferência toda.
 
+***Ângulo > 90° :*** Ângulo obtuso
+***Ângulo < 90° :*** Ângulo agudo
 
-***Ângulo > 90°
+---
+
+## Triângulos:
+
+- Condição de existência:
+
+  $$
+ | a-b| < c < a+b
+  $$
+  Isso para qualquer lado.
+  
+  
