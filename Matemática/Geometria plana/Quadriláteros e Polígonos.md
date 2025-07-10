@@ -19,4 +19,34 @@ $$
 - Se n for impar não passa pelo centro
 - Se n for par passa pelo centro 
 
+
+## Polígonos convexos
+
+- **Soma dos ângulos internos**
+
+$$
+\sum_{i=1}^{n} \alpha_i = (n-2)\cdot 180^\circ
+$$
+
+- **Soma dos ângulos externos**
+
+$$
+\sum_{i=1}^{n} \varepsilon_i = 360^\circ
+$$
+
+- **Relação entre internos e externos**
+
+$$
+\varepsilon_i = 180^\circ - \alpha_i \\
+n\cdot 180^\circ - \sum_{i=1}^{n} \alpha_i = 360^\circ \\
+\therefore\; \sum_{i=1}^{n} \alpha_i = (n-2)\cdot 180^\circ
+$$
+> Portanto, qualquer abordagem (internos ou externos) leva ao mesmo resultado ― e a soma dos externos é sempre 360°, seja qual for o número de lados.
 ---
+
+## Área de triângulo equilátero
+
+![[Pasted image 20250710125413.png]]
+
+***Fórmula de Heron:***
+
