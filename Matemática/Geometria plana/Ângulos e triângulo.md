@@ -35,8 +35,18 @@ Isso trás a explicação da fórmula que dá o comprimento de uma circunferênc
 
 ---
 
-## Congruência de triângulos
+## Congruência de triângulos e base média
 
 ***LAL*** : lado - ângulo - lado (O Ângulo deve ser o compreendido entre os lados)
 ***ALA***: ângulo - lado - ângulo (Lado compreendido entre os ângulos)
+![[Pasted image 20250710090951.png]]
+
+---
+
+## Teorema de tales em triângulos
+
+![[Pasted image 20250710091506.png]]![[Pasted image 20250710091806.png]]
+
+---
+## Semelhança de triângulos:
 
