@@ -83,3 +83,7 @@ sendo $$p = \frac{\text{perímetro}}{2}$$
 
 ![[Pasted image 20250710133539.png]]
 
+Área de qualquer polígono é separa em triângulos equiláteros.
+
+
+---
