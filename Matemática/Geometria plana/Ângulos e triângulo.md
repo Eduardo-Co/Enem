@@ -61,7 +61,7 @@ Isso trás a explicação da fórmula que dá o comprimento de uma circunferênc
 
 Se tivermos figurinhas semelhantes: 
 $$
-\frac{A_{1}}{A_{2}} = \frac{L_{1}}{L_{2}}
+\frac{A_{1}}{A_{2}} = (\frac{L_{1}}{L_{2}})^2
 $$
 
 ---
