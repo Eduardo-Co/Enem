@@ -50,3 +50,19 @@ Isso trás a explicação da fórmula que dá o comprimento de uma circunferênc
 ---
 ## Semelhança de triângulos:
 
+***LAL***: Lado - Ângulo - Lado : Se houver lados proporcionais e o ângulo entre esses lados iguais, será semelhante
+
+***AA***: Ângulo - Ângulo : Caso houverem dois ângulos iguais
+
+***LLL***: Os lados são proporcionais
+
+---
+***Semelhança entre áreas:***
+
+Se tivermos figurinhas semelhantes: 
+$$
+\frac{A_{1}}{A_{2}} = \frac{L_{1}}{L_{2}}
+$$
+
+---
+
