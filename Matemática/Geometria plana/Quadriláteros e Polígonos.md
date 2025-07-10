@@ -61,5 +61,25 @@ Sendo $p = \frac{\text{Perímetro}}{2}$
 ***Usando o seno:***
 
 $$
-A = a \cdot b \cdot sen()
+A = \frac{a \cdot b \cdot sen(\alpha)}{2}
+$$Se alpha for o ângulo formado por a e b
+
+
+***Triângulo inscrito***:
+
+
+Basta fazer $$A = \frac{a \cdot b \cdot c}{4R}$$
+
+![[Pasted image 20250710132654.png]]
+
+
+***Triângulo circunscrito:***
 $$
+A = p \cdot r
+$$
+sendo $$p = \frac{\text{perímetro}}{2}$$
+
+## Área do segmento circular
+
+![[Pasted image 20250710133539.png]]
+
