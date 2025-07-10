@@ -33,6 +33,9 @@ Isso trás a explicação da fórmula que dá o comprimento de uma circunferênc
 
 - Em triângulos com ângulo 30°,60°,90°: ![[Pasted image 20250710090003.png]]
 
+Agora caso o triângulo retângulo tenha dois ângulos iguais ou seja é isósceles e retângulo. Temos que sua altura é $$h = \frac{l\sqrt{ 3 }}{2}$$
+
+
 ---
 
 ## Congruência de triângulos e base média
