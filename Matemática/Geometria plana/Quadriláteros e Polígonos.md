@@ -44,9 +44,22 @@ $$
 > Portanto, qualquer abordagem (internos ou externos) leva ao mesmo resultado ― e a soma dos externos é sempre 360°, seja qual for o número de lados.
 ---
 
-## Área de triângulo equilátero
+## Área de triângulo 
 
 ![[Pasted image 20250710125413.png]]
 
 ***Fórmula de Heron:***
 
+É possível descobrir a área de um triangulo apenas com os lados, sendo:
+
+$$
+A = \sqrt{ p \cdot (p-a) \cdot(p-b) \cdot(p-c) } 
+$$
+Sendo $p = \frac{\text{Perímetro}}{2}$
+
+
+***Usando o seno:***
+
+$$
+A = a \cdot b \cdot sen()
+$$
