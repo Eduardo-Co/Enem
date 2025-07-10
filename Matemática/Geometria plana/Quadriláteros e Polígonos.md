@@ -18,3 +18,5 @@ $$
 
 - Se n for impar não passa pelo centro
 - Se n for par passa pelo centro 
+
+---
