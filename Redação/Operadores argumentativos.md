@@ -1,4 +1,0 @@
-
-## Recuperam ou fecham
-
-- Dessarte
