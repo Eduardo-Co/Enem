@@ -7,3 +7,13 @@
 6. Leia o texto caso não tenha acabado. 
 
 
+# Tipo de questões: 
+
+
+## Comparação entre textos:
+
+- ***Aproximação:*** Precisa ler ambos os textos; Leia o enunciado e procure o que há de comum nos textos
+
+- ***Diferença entre textos:*** Precisa ler ambos os textos; Leia o enunciado e procure a principal diferença 
+
+- ***Aspectos sobre apenas um deles:*** Precisa ler apenas um; Leia o outro texto somente para eliminar alternativas detratoras, se necessário.  
