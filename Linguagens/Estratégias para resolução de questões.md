@@ -15,4 +15,6 @@
 
 - ***Diferença entre textos:*** Precisa ler ambos os textos; Leia o enunciado e procure a principal diferença 
 
-- ***Aspectos sobre apenas um deles:*** Precisa ler apenas um; Leia o outro texto somente para eliminar alternativas detratoras, se necessário.  
+- ***Aspectos sobre apenas um deles:*** Precisa ler apenas um; Leia o outro texto somente para eliminar alternativas detratoras, se necessário.      
+
+

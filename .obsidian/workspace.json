@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc9c3d67841b2335",
+        "id": "e2baba54748b3b5e",
         "type": "tabs",
         "children": [
           {
-            "id": "bfca62af1404dfe2",
+            "id": "b7332a99e01d4763",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguagens/Estratégias para resolução de questões.md",
+                "file": "Linguagens/Conteúdos que caem/Variação linguística.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estratégias para resolução de questões"
+              "title": "Variação linguística"
             }
           }
         ]
@@ -179,13 +179,17 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "bfca62af1404dfe2",
+  "active": "b7332a99e01d4763",
   "lastOpenFiles": [
+    "Matemática/img/Pasted image 20250710125413.png",
+    "Matemática/img/Pasted image 20250710132654.png",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Linguagens/Conteúdos que caem/Variação linguística.md",
+    "Linguagens/Estratégias para resolução de questões.md",
     "Linguagens/Como estudar.md",
     "Linguagens/Untitled Kanban.md",
     "Linguagens/Interpretar Poemas.md",
     "Linguagens/Untitled.canvas",
-    "Linguagens/Estratégias para resolução de questões.md",
     "Linguagens/Análise de questões/Tempo de cada questão e acertos por Simulado.md",
     "Linguagens/Conteúdos que caem/Palavras comuns.md",
     "Linguagens/Conteúdos que caem/Estruturas da questão do Enem.md",
@@ -193,10 +197,8 @@
     "Matemática/Geometria plana/Ângulos e triângulo.md",
     "Matemática/Geometria plana/Quadriláteros e Polígonos.md",
     "Matemática/Geometria plana/Círculo.md",
-    "Pasted image 20250710151050.png",
-    "Pasted image 20250710133539.png",
-    "Pasted image 20250710132654.png",
-    "Pasted image 20250710125413.png",
+    "Matemática/img/Pasted image 20250710151050.png",
+    "Matemática/img/Pasted image 20250710133539.png",
     "Matemática/img/Pasted image 20250710091506.png",
     "Matemática/img/Pasted image 20250710100635.png",
     "Matemática/img/Pasted image 20250710100454.png",
@@ -209,7 +211,6 @@
     "Matemática/Geometria analítica/Equação da circuferência.md",
     "Matemática/Geometria analítica/Equações da reta.md",
     "Matemática/Geometria analítica/Hiperbole.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Geometria plana",
     "Matemática/EvD.md",
     "Química/Eletroquímica/Pilhas e eletrólise.md",
@@ -220,9 +221,7 @@
     "Química/Equilíbrio Químico/Constante de solubilidade Kps.md",
     "Química/Eletroquímica",
     "Física/Cinemática/Movimentos Uniformes.md",
-    "Física/Cinemática/Lançamentos verticais e queda livre.md",
     "Física/Cinemática",
-    "Biologia/Botânica/Folhas.md",
     "Biologia/Botânica/Histologia",
     "Física/Termologia/pdfs/Leis termodinâmica.pdf",
     "Física/Termologia/pdfs/Gases.pdf",
