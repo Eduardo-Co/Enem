@@ -8,8 +8,7 @@
 
 
 # Tipo de questões: 
-
-
+ 
 ## Comparação entre textos:
 
 - ***Aproximação:*** Precisa ler ambos os textos; Leia o enunciado e procure o que há de comum nos textos
