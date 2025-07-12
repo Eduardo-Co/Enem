@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Jargões desenvolvimento"
             }
+          },
+          {
+            "id": "cee51002018c9a52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redação/Jargões desenvolvimento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jargões desenvolvimento"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,8 +194,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "b7332a99e01d4763",
+  "active": "cee51002018c9a52",
   "lastOpenFiles": [
+    "Redação/Os textos motivadores.md",
+    "Redação/Jargões desenvolvimento.md",
     "Redação/Eu/Meus repertórios.md",
     "Redação/Eu/Progressão Enem e testes.md",
     "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
@@ -218,8 +235,6 @@
     "Matemática/img/Pasted image 20250710090951.png",
     "Matemática/img/Pasted image 20250710090003.png",
     "Matemática/Geometria analítica/Posição relativa entre a reta e circunferência.md",
-    "Matemática/Geometria analítica/Medianas, baricentros e retas suportes.md",
-    "Matemática/Geometria analítica/Elipse.md",
     "Matemática/Geometria plana",
     "Matemática/Matemática básica/Untitled",
     "Química/Eletroquímica",
