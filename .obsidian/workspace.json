@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redação/Eu/Meus repertórios.md",
+                "file": "Redação/Jargões desenvolvimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meus repertórios"
+              "title": "Jargões desenvolvimento"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "b7332a99e01d4763",
   "lastOpenFiles": [
-    "Redação/Eu/Progressão Enem e testes.md",
     "Redação/Eu/Meus repertórios.md",
+    "Redação/Eu/Progressão Enem e testes.md",
     "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
     "Redação/Operadores argumentativos.md",
     "Redação/Competência 2/Repertório coringa.md",
