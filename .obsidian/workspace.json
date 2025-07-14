@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f241df7e9b2a77",
+        "id": "a33d670534d25466",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa21b7decdc63d0",
+            "id": "97902a9181ba178b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Botânica/Folhas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Folhas"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Rizoma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,16 +179,17 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "2aa21b7decdc63d0",
+  "active": "97902a9181ba178b",
   "lastOpenFiles": [
     "Biologia/Botânica/Histologia Vegetal.md",
+    "Biologia/Botânica/Caule.md",
+    "Biologia/Botânica/Pteridófitas.md",
     "Biologia/Botânica/Raíz.md",
     "Biologia/Botânica/fruto.md",
     "Biologia/Botânica/Angiospermas.md",
     "Biologia/Botânica/flores.md",
     "Biologia/img/Pasted image 20250630160800.png",
     "Biologia/Botânica/Gimnospermas.md",
-    "Biologia/Botânica/Pteridófitas.md",
     "Biologia/Botânica/Briófitas.md",
     "Biologia/Monera/Antibióticos.md",
     "Biologia/Monera/Bactérias.md",
@@ -203,7 +208,6 @@
     "Biologia/Bioenergia/Respiração celular/Inibidor de cadeia respiratória.md",
     "Biologia/Bioenergia/Respiração celular/Introdução - Respiração celular.md",
     "Biologia/Bioenergia/Respiração celular/3 -Fosforilação oxidativa.md",
-    "Biologia/Bioenergia/Respiração celular/2 -Ciclo de Krebs.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Verminoses/Nematona",
     "Biologia/Verminoses/Platelmintos",
