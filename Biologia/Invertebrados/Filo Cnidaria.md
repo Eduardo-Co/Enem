@@ -1,4 +1,4 @@
-# Filo Cnidários = Uriga ou Celenterados (cele = cavidade)
+# Filo Cnidários = Urtiga ou Celenterados (cele = cavidade)
 
 Ex: Água vivas
 
@@ -22,3 +22,11 @@ Possuem então:
 
 - ***Cnidócitos:*** 
 	Os cnidócitos são células responsáveis por expelir as toxinas do animal, por meio de um arpão que possuem na célula. 
+
+
+## Reprodução:
+
+Sua reprodução se dá por alternância de gerações; 
+- Uma fase sexuada
+- Outra assexuada 
+

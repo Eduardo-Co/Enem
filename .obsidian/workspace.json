@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Invertebrados/Filo Cnidaria.md",
+                "file": "Biologia/Invertebrados/Filo Platyhelminthes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filo Cnidaria"
+              "title": "Filo Platyhelminthes"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "9d3cbdcfb12e3337",
   "lastOpenFiles": [
-    "Biologia/Invertebrados/Filos dos Poríferos.md",
     "Biologia/Invertebrados/Filo Cnidaria.md",
+    "Biologia/Invertebrados/Filo Platyhelminthes.md",
+    "Biologia/Invertebrados/Filos dos Poríferos.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Untitled.md",
     "Biologia/Invertebrados",
