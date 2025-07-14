@@ -1,0 +1,4 @@
+
+## Ascaridíases:
+
+Ascaris Lumbricoides - 
