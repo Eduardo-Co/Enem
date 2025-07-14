@@ -44,7 +44,6 @@ Ex: Tênia;
 Possuem espinhos na "Cabeça", chamada Escólex. 
 
 ### Reprodução:
-
 - Monoica
 - Autofecundação
 ---
