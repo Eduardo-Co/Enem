@@ -30,4 +30,13 @@ Pelas fezes, o humano expele os ovos de tênia que são ingeridos pelos porcos, 
 
 - Hospedeiro transitório: Humano
 
-Veja que, aqui o humano é transitório, então ele ingere os ovos da teníase pelo coco de alguém, esse fode tudo. Os cistos vão para os 
+Veja que, aqui o humano é transitório, então ele ingere os ovos da teníase pelo coco de alguém, esse fode tudo. Os cistos vão para os  músculos e cérebro e tudo.
+
+---
+## Prevenção: Profilaxia
+
+- Não cague em qualquer lugar
+- Esquenta a carne do porco
+- Lava as mãos
+
+---
