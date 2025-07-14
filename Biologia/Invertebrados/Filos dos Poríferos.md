@@ -3,7 +3,9 @@
 Ex: Esponja 
 
 - Aquáticos
-- Não tem órgãos nem sistemas. Nem tecidos verdadeiros 
+
+- Não tem órgãos nem sistemas. Nem tecidos verdadeiros (***Ablasticos***)
+
 - Filtração: Poro - Átrio - Ósculo. 
 	Ósculo é a abertura para sair a água. 
 
