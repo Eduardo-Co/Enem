@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Botânica/Briófitas.md",
+                "file": "Biologia/Botânica/Angiospermas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Briófitas"
+              "title": "Angiospermas"
+            }
+          },
+          {
+            "id": "5ab750fc09b2b63f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Biologia/img/Pasted image 20250630160800.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250630160800"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,8 +192,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "67aae44482c75cce",
+  "active": "5ab750fc09b2b63f",
   "lastOpenFiles": [
+    "Biologia/Botânica/Angiospermas.md",
+    "Biologia/Botânica/Gimnospermas.md",
+    "Biologia/Botânica/Pteridófitas.md",
+    "Biologia/Botânica/Briófitas.md",
     "Biologia/Monera/Antibióticos.md",
     "Biologia/Monera/Bactérias.md",
     "Biologia/Monera/CianoBactérias.md",
@@ -203,10 +220,6 @@
     "Biologia/Citologia/Parede celular.md",
     "Biologia/Citologia/Organelas citoplasmáticas.md",
     "Biologia/Citologia/Membrana plasmática.md",
-    "Biologia/Bioquimica/Enzimas.md",
-    "Biologia/Bioquimica/Proteínas.md",
-    "Biologia/Bioquimica/Aminoácidos.md",
-    "Biologia/Bioquimica/Lipídeos.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Verminoses/Nematona",
     "Biologia/Verminoses/Platelmintos",
