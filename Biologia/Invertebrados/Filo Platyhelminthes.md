@@ -1,16 +1,12 @@
-Vermes achatados.
 
-Ex: Planária e Tênia
+- ***Simetria Bilateral (Primeiros a ter)***
 
-- Simetria Bilateral (Primeiros a ter)
-
-- Triblástico
+- ***Triblástico***
 	- Endo
 	- Epi
 	- Mesoderme -> musculatura, primeiro animal a se movimentar de fato.
 
-- São acelomados 
-
+- ***São acelomados*** 
 ---
 ## Órgãos e sistemas
 
@@ -29,7 +25,7 @@ Precisam de ambientes úmidos, são finos.
 
 ### Reprodução:
 - monoica
-	- Mas ocor
+	Apesar de ser monoica há uma fecundação cruzada
 
 ---
 ## Classe Trematoda:
