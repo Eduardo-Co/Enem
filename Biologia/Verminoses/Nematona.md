@@ -9,7 +9,6 @@ Ascaris Lumbricoides - Lombriga
 2. Vai para o fígado
 3. Se desenvolve e reproduz no intestino 
 4. Secreção dos ovos pelas fezes.
-----
 ### Medidas profiláticas:
 
 - Saneamento
@@ -64,3 +63,13 @@ Prova elefantíase, muitos parasitas que entopem o sistema linfático, e isso ca
 
 ---
 ## Enterobiose:
+
+- Pode ser pego apenas respirando...
+- Pega pelo coco também
+- Causa coceira no rabo. 
+
+### Profilaxia:
+- Saneamento
+- Higiene 
+
+---

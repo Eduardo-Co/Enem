@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Nematona"
             }
+          },
+          {
+            "id": "4566f9b63a708b8f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +192,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "6bc5e58a548d531c",
+  "active": "4566f9b63a708b8f",
   "lastOpenFiles": [
-    "Biologia/Verminoses/Platelmintos/Trematoda.md",
     "Biologia/Verminoses/Nematona.md",
+    "Biologia/Verminoses/Platelmintos/Trematoda.md",
     "Biologia/Invertebrados/Filo Platyhelminthes.md",
     "Biologia/Invertebrados/Filo Cnidaria.md",
     "Biologia/Invertebrados/Filo Nematona.md",
