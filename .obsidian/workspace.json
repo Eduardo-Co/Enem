@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Botânica/Angiospermas.md",
+                "file": "Biologia/Botânica/fruto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angiospermas"
-            }
-          },
-          {
-            "id": "5ab750fc09b2b63f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Biologia/img/Pasted image 20250630160800.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250630160800"
+              "title": "fruto"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,9 +179,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "5ab750fc09b2b63f",
+  "active": "67aae44482c75cce",
   "lastOpenFiles": [
     "Biologia/Botânica/Angiospermas.md",
+    "Biologia/Botânica/flores.md",
+    "Biologia/img/Pasted image 20250630160800.png",
     "Biologia/Botânica/Gimnospermas.md",
     "Biologia/Botânica/Pteridófitas.md",
     "Biologia/Botânica/Briófitas.md",
@@ -219,7 +208,6 @@
     "Biologia/Bioenergia/Respiração celular/1 -Glicólise.md",
     "Biologia/Citologia/Parede celular.md",
     "Biologia/Citologia/Organelas citoplasmáticas.md",
-    "Biologia/Citologia/Membrana plasmática.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Verminoses/Nematona",
     "Biologia/Verminoses/Platelmintos",
@@ -236,7 +224,6 @@
     "Matemática/img/Pasted image 20250710100635.png",
     "Matemática/img/Pasted image 20250710100454.png",
     "Matemática/img/Pasted image 20250710091806.png",
-    "Matemática/img/Pasted image 20250710090951.png",
     "Matemática/Geometria plana",
     "Matemática/Matemática básica/Untitled",
     "Química/Eletroquímica",
