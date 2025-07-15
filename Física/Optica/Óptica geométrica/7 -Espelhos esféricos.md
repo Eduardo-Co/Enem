@@ -9,6 +9,7 @@
 - Espalha os raios refletidos, aumentando o campo de visão.
 - Forma imagens sempre menores, direitas e virtuais.
 - **Aplicações:** retrovisores de veículos, espelhos de segurança em lojas e corredores (para visualizar áreas amplas).
+- ***A imagem está sempre entre o foco e o vértice da face refletora***
 
 ---
 
