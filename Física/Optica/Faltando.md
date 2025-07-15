@@ -1,2 +1,0 @@
-- Refração - Índice de refração
-- 

@@ -4,19 +4,6 @@ kanban-plugin: board
 
 ---
 
-## Decorar
-
-
-
-## Treinar
-
-
-
-## Entender
-
-- [ ] Eletrodinâmica
-
-
 ## Fazer exercícios esporadicamente
 
 - [ ] Elétrica/Eletrodinamica/Ohm/etc...
@@ -62,10 +49,15 @@ kanban-plugin: board
 
 
 
+## Óptica
+
+- [ ] Ponto crítico - Refração
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
