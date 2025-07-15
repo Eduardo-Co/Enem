@@ -17,3 +17,18 @@ O cristalino converge a luz para a retina.
 ## Problemas de visão:
 
 - Acuidade visual: Ângulo de visão que você distingue um ponto de outro = $1/60°$ 
+
+
+### Miopia:
+
+- A zona de acomodação do míope é menor, então ele consegue ver mais próximo. A imagem convergem antes da retina então não consegue diferenciar muito o que acontece à distância. 
+- A imagem aparece antes da retina
+
+### Hipermetropia:
+
+- O ponto próximo mais afastado, o que é o oposto do míope.
+- A imagem aparece depois da retina
+
+### Astigmatismo
+
+- Há ais de um ponto imagem, deixando a imagem borrada. 
