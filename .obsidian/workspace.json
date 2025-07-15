@@ -25,12 +25,14 @@
             "id": "3eece74486b1db52",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Cinemática/Movimentos Uniformes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Movimentos Uniformes"
             }
           }
         ],
@@ -194,6 +196,8 @@
   },
   "active": "3eece74486b1db52",
   "lastOpenFiles": [
+    "Física/Cinemática/Lançamentos verticais e queda livre.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Quantidade de Movimento/Colisões.md",
     "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Física/Untitled Kanban.md",
@@ -202,7 +206,6 @@
     "Untitled.md",
     "Física/Untitled.canvas",
     "Física/Quantidade de Movimento",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Botânica/Folhas.md",
     "Pasted image 20250714100826.png",
     "Biologia/Botânica/Histologia Vegetal.md",
@@ -224,7 +227,6 @@
     "Biologia/Micologia/Líquens.md",
     "Biologia/Micologia/Principais fungos e seu uso.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Cloroplastos.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Quimiossíntese.md",
     "Biologia/Verminoses/Nematona",
     "Biologia/Verminoses/Platelmintos",
     "Biologia/Verminoses",
