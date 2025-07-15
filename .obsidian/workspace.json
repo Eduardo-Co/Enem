@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Quantidade de Movimento/Quantidade de movimento.md",
+                "file": "Física/Quantidade de Movimento/Colisões.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quantidade de movimento"
+              "title": "Colisões"
             }
           }
         ]
@@ -181,8 +181,13 @@
   },
   "active": "337b3ab3095dcb1c",
   "lastOpenFiles": [
-    "Física/Untitled.canvas",
     "Física/Quantidade de Movimento/Quantidade de movimento.md",
+    "Física/Quantidade de Movimento/Colisões.md",
+    "Física/Untitled Kanban.md",
+    "Cronograma.md",
+    "Resumos/1 Semana/Biolgoia.md",
+    "Untitled.md",
+    "Física/Untitled.canvas",
     "Física/Quantidade de Movimento",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Botânica/Folhas.md",
@@ -207,10 +212,6 @@
     "Biologia/Micologia/Principais fungos e seu uso.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Cloroplastos.md",
     "Biologia/Bioenergia/Cloroplastos e fotossíntese/Quimiossíntese.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Leucoplasto e Amiloplasto.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Plantas C3,C4 e MAC.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fatores limitantes da fotossíntese e ponto de compensação luminoso.md",
-    "Biologia/Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
     "Biologia/Verminoses/Nematona",
     "Biologia/Verminoses/Platelmintos",
     "Biologia/Verminoses",

@@ -39,5 +39,6 @@ $$
 
 Quanto trata-se de um sistema isolado, a quantidade de movimento se mantém constante, uma vez que não há força atuando sobre eles. Então:
 $$
-Q_{f} = Q_{i}
+Q_{f} = Q_{i} \rightarrow Q_{f} - Q_{i} = 0
 $$
+---
