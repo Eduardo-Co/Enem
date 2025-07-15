@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Colisões"
             }
+          },
+          {
+            "id": "3eece74486b1db52",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +192,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "337b3ab3095dcb1c",
+  "active": "3eece74486b1db52",
   "lastOpenFiles": [
-    "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Física/Quantidade de Movimento/Colisões.md",
+    "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Física/Untitled Kanban.md",
     "Cronograma.md",
     "Resumos/1 Semana/Biolgoia.md",
