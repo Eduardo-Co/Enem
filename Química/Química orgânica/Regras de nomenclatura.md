@@ -1,3 +1,9 @@
+# Prioridades para nomenclatura:
+
+1. Grupo Funcional
+2. Insaturação
+3. Ramificação
+---
 # Nomenclatura
 
 - ***Prefixo - Indica o número de carbonos***
@@ -73,5 +79,12 @@ Ele sofre homólise no carbono da extremidade, ficando: ***Vinil ou Etenil***
 
 ## Caso do Benzil e Fenil: 
 ![[Pasted image 20250716140421.png]]
+
+
+## Caso do Naftaleno
+
+![[Pasted image 20250716142054.png]]
+
+Quando é no carbono de cima ou de baixo é $\alpha - naftil$, caso seja na lateral será $\beta - naftil$
 
 ----
