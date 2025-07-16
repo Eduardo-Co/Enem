@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3434d254f8365261",
+        "id": "92865ce4681138e0",
         "type": "tabs",
         "children": [
           {
-            "id": "e7c7936c6ef1fe48",
+            "id": "21c6d1306b90cac1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Química/Química orgânica/Classificação de cadeias carbônicas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Classificação de cadeias carbônicas"
             }
           }
         ]
@@ -175,17 +179,22 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e7c7936c6ef1fe48",
+  "active": "21c6d1306b90cac1",
   "lastOpenFiles": [
+    "Pasted image 20250716104735.png",
+    "Química/Química orgânica/Classificações do carbono.md",
+    "Química/Química orgânica/Classificação de cadeias carbônicas.md",
+    "Química/img/Pasted image 20250716104121.png",
+    "Pasted image 20250714100826.png",
+    "Química/Química orgânica/Representação das fórmulas estruturais.md",
+    "Química/img/Pasted image 20250716103649.png",
     "Química/Química orgânica/Hibridização do carbono.md",
     "Química/img/Pasted image 20250716102350.png",
     "Química/Ligações químicas/Hibridização.md",
     "Química/img/Pasted image 20250716102203.png",
     "Química/img/Pasted image 20250716100347.png",
-    "Pasted image 20250714100826.png",
     "Ink/Writing/2025.7.16 - 10.15am.writing",
     "Ink/Writing/2025.7.16 - 10.14am.writing",
-    "Química/Química orgânica/Classificações do carbono.md",
     "Química/img/Pasted image 20250716094838.png",
     "Química/Química orgânica/Organôgenos.md",
     "Química/Untitled.canvas",
@@ -213,8 +222,6 @@
     "Física/Optica/Óptica geométrica/2 -Objetos e imagem.md",
     "Física/Optica/Óptica geométrica/1 -Princípios óptica geométrica.md",
     "Física/Optica/Faltando.md",
-    "Física/Cinemática/Lançamentos verticais e queda livre.md",
-    "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Física/Untitled.canvas",
     "Física/Quantidade de Movimento",
     "Biologia/img/Pasted image 20250630160800.png",
@@ -225,8 +232,6 @@
     "Matemática/img/Pasted image 20250710125413.png",
     "Matemática/img/Pasted image 20250710132654.png",
     "Linguagens/Untitled.canvas",
-    "Matemática/img/Pasted image 20250710151050.png",
-    "Matemática/img/Pasted image 20250710133539.png",
     "Matemática/Untitled.canvas",
     "Biologia/Caixinhas.canvas",
     "Untitled.canvas",
