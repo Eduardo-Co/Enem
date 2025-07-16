@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a806718e827272b",
+            "id": "8e5dcec29fe5ddd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Química orgânica/Classificações do carbono.md",
+                "file": "Química/Química orgânica/Hibridização do carbono.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classificações do carbono"
+              "title": "Hibridização do carbono"
             }
           }
         ]
@@ -179,11 +179,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "7a806718e827272b",
+  "active": "8e5dcec29fe5ddd6",
   "lastOpenFiles": [
-    "Pasted image 20250716094838.png",
-    "Química/Química orgânica/Organôgenos.md",
+    "Pasted image 20250716100347.png",
     "Química/Química orgânica/Classificações do carbono.md",
+    "Química/Química orgânica/Hibridização do carbono.md",
+    "Química/img/Pasted image 20250716094838.png",
+    "Pasted image 20250714100826.png",
+    "Química/Química orgânica/Organôgenos.md",
     "Química/Untitled.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Química orgânica",
@@ -212,10 +215,8 @@
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
     "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Cronograma.md",
-    "Resumos/1 Semana/Biolgoia.md",
     "Física/Untitled.canvas",
     "Física/Quantidade de Movimento",
-    "Pasted image 20250714100826.png",
     "Biologia/img/Pasted image 20250630160800.png",
     "Biologia/Verminoses/Nematona",
     "Biologia/Verminoses/Platelmintos",
@@ -230,7 +231,6 @@
     "Matemática/img/Pasted image 20250710091506.png",
     "Matemática/img/Pasted image 20250710100635.png",
     "Matemática/img/Pasted image 20250710100454.png",
-    "Matemática/img/Pasted image 20250710091806.png",
     "Matemática/Geometria plana",
     "Matemática/Untitled.canvas",
     "Biologia/Caixinhas.canvas",
