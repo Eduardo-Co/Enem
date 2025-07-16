@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b14c2f69c934bcc5",
+        "id": "c7d872089bfc6643",
         "type": "tabs",
         "children": [
           {
-            "id": "fab19c2bf1fb2e11",
+            "id": "7a806718e827272b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Química/Química orgânica/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -187,13 +179,17 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "fab19c2bf1fb2e11",
+  "active": "7a806718e827272b",
   "lastOpenFiles": [
+    "Química/Untitled.canvas",
+    "Química/Química orgânica/Untitled.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Química orgânica",
+    "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Física/Optica/Optica - 2 - Principais/Refração.md",
     "Física/Optica/Óptica geométrica/5 -Reflexão total.md",
     "Física/Optica/Óptica geométrica/4 -Reflexão.md",
-    "Física/Untitled Kanban.md",
     "Física/Optica/Optica - 2 - Principais/Vergência e di.md",
     "Física/Optica/Optica - 2 - Principais/Aumento linar.md",
     "Física/Optica/Optica - 2 - Principais/Untitled",
@@ -212,14 +208,12 @@
     "Física/Optica/Óptica geométrica/1 -Princípios óptica geométrica.md",
     "Física/Optica/Faltando.md",
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Cronograma.md",
     "Resumos/1 Semana/Biolgoia.md",
     "Untitled.md",
     "Física/Untitled.canvas",
     "Física/Quantidade de Movimento",
-    "Biologia/Botânica/Folhas.md",
     "Pasted image 20250714100826.png",
     "Biologia/img/Pasted image 20250630160800.png",
     "Biologia/Verminoses/Nematona",
@@ -237,9 +231,7 @@
     "Matemática/img/Pasted image 20250710100454.png",
     "Matemática/img/Pasted image 20250710091806.png",
     "Matemática/Geometria plana",
-    "Matemática/Matemática básica/Untitled",
     "Matemática/Untitled.canvas",
-    "Química/Untitled.canvas",
     "Biologia/Caixinhas.canvas",
     "Untitled.canvas",
     "História e filosofia/Untitled.canvas",
