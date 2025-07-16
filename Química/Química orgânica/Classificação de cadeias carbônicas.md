@@ -12,6 +12,12 @@
 
 ### Saturação:
 - Saturada
-- I
+- Insaturada
+
+### Natureza dos átomos:
+
+
+### Disposição dos átomos:
+
 
 ---
