@@ -47,3 +47,16 @@ Hidrocarboneto - O
 Aldeído - AL
 
 ---
+# Radicais:
+
+***Definição***: Átomos de elétrons desemparelhados, ou seja quando há algum elétron livre. Um radical é formado quando uma ligação covalente sofre homólise (cisão homolítica).
+
+Cisão homolítica: Quebra por igual; Ou seja uma ligação que quebra a ligação covalente onde cada um fica com seu respectivo elétron. 
+
+***Radicais são instáveis e se ligam a outros compostos orgânicos.***
+
+Quando houver isso você pega o SUFIXO + IL ; 
+
+***Aqui também há identificador, se for, por exemplo, no carbono secundário será:*** Sec-propil 
+
+---
