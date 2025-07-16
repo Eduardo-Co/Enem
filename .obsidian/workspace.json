@@ -4,18 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c7d872089bfc6643",
+        "id": "b0af096a45354135",
         "type": "tabs",
         "children": [
           {
-            "id": "8e5dcec29fe5ddd6",
+            "id": "9fc998d4bd7df35c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Química/Química orgânica/Hibridização do carbono.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Hibridização do carbono"
@@ -179,11 +180,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "8e5dcec29fe5ddd6",
+  "active": "9fc998d4bd7df35c",
   "lastOpenFiles": [
+    "Química/Química orgânica/Hibridização do carbono.md",
+    "Ink/Writing/2025.7.16 - 10.15am.writing",
+    "Ink/Writing/2025.7.16 - 10.14am.writing",
     "Pasted image 20250716100347.png",
     "Química/Química orgânica/Classificações do carbono.md",
-    "Química/Química orgânica/Hibridização do carbono.md",
     "Química/img/Pasted image 20250716094838.png",
     "Pasted image 20250714100826.png",
     "Química/Química orgânica/Organôgenos.md",
@@ -221,7 +224,6 @@
     "Biologia/Verminoses/Nematona",
     "Biologia/Verminoses/Platelmintos",
     "Biologia/Verminoses",
-    "Biologia/Invertebrados",
     "Redação/Untitled.canvas",
     "Matemática/img/Pasted image 20250710125413.png",
     "Matemática/img/Pasted image 20250710132654.png",
@@ -230,8 +232,6 @@
     "Matemática/img/Pasted image 20250710133539.png",
     "Matemática/img/Pasted image 20250710091506.png",
     "Matemática/img/Pasted image 20250710100635.png",
-    "Matemática/img/Pasted image 20250710100454.png",
-    "Matemática/Geometria plana",
     "Matemática/Untitled.canvas",
     "Biologia/Caixinhas.canvas",
     "Untitled.canvas",
