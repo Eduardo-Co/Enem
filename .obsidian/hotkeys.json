@@ -14,13 +14,5 @@
       ],
       "key": "Q"
     }
-  ],
-  "obsidian-latex-suite:latex-suite-enable-all-features": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "-"
-    }
   ]
 }
