@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Funções inorgânicas/Bases/Bases.md",
+                "file": "Química/Química orgânica/Regras de nomenclatura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bases"
+              "title": "Regras de nomenclatura"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 253.5
   },
   "right": {
     "id": "58e3cf5b5003b992",
@@ -181,13 +181,15 @@
   },
   "active": "44aa3db7cfe6d5a0",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Química/Química orgânica/Regras de nomenclatura.md",
-    "Química/Química orgânica/Representação das fórmulas estruturais.md",
-    "Química/Química orgânica/Organôgenos.md",
-    "Química/Química orgânica/Classificações do carbono.md",
-    "Química/Química orgânica/Classificação de cadeias carbônicas.md",
     "Química/Química orgânica/Cadeias aromáticas.md",
+    "Química/Química orgânica/Classificação de cadeias carbônicas.md",
+    "Química/Química orgânica/Classificações do carbono.md",
+    "Química/Química orgânica/Regras de nomenclatura.md",
+    "Química/Química orgânica/Organôgenos.md",
+    "Química/Química orgânica/Representação das fórmulas estruturais.md",
+    "Química/Funções inorgânicas/Funções inorgânicas.md",
+    "Química/Funções inorgânicas/Bases/Bases.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Pasted image 20250716142054.png",
     "Simulados.md",
     "Pasted image 20250716140421.png",
@@ -224,7 +226,6 @@
     "Física/Optica/Olho.md",
     "Física/Quantidade de Movimento/Colisões.md",
     "Física/Cinemática/Movimentos Uniformes.md",
-    "Física/Ondulatória/4 - Difração.md",
     "Física/Untitled.canvas",
     "Física/Quantidade de Movimento",
     "Biologia/Verminoses/Nematona",
