@@ -11,12 +11,14 @@
             "id": "44aa3db7cfe6d5a0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Funções inorgânicas/Bases/Bases.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Bases"
             }
           }
         ]
@@ -179,6 +181,7 @@
   },
   "active": "44aa3db7cfe6d5a0",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Química orgânica/Regras de nomenclatura.md",
     "Química/Química orgânica/Representação das fórmulas estruturais.md",
     "Química/Química orgânica/Organôgenos.md",
@@ -186,7 +189,6 @@
     "Química/Química orgânica/Classificação de cadeias carbônicas.md",
     "Química/Química orgânica/Cadeias aromáticas.md",
     "Pasted image 20250716142054.png",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Simulados.md",
     "Pasted image 20250716140421.png",
     "Química/img/Pasted image 20250716134356.png",
