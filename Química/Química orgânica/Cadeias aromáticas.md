@@ -30,3 +30,8 @@ Veja que no caso dos condensados as ligações duplas trocam de lugar, para que 
 
 4n + 2 = n° de elétrons pi (cada ligação pi possui dois elétrons, lembrando); 
 
+Se der um número inteiro então isso quer dizer que é um anel benzênico. 
+
+![[Pasted image 20250716120920.png]]
+
+---
