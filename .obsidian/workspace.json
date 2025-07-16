@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b0af096a45354135",
+        "id": "3434d254f8365261",
         "type": "tabs",
         "children": [
           {
-            "id": "9fc998d4bd7df35c",
+            "id": "e7c7936c6ef1fe48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Química/Química orgânica/Hibridização do carbono.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hibridização do carbono"
+              "title": "New tab"
             }
           }
         ]
@@ -180,15 +175,18 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "9fc998d4bd7df35c",
+  "active": "e7c7936c6ef1fe48",
   "lastOpenFiles": [
     "Química/Química orgânica/Hibridização do carbono.md",
+    "Química/img/Pasted image 20250716102350.png",
+    "Química/Ligações químicas/Hibridização.md",
+    "Química/img/Pasted image 20250716102203.png",
+    "Química/img/Pasted image 20250716100347.png",
+    "Pasted image 20250714100826.png",
     "Ink/Writing/2025.7.16 - 10.15am.writing",
     "Ink/Writing/2025.7.16 - 10.14am.writing",
-    "Pasted image 20250716100347.png",
     "Química/Química orgânica/Classificações do carbono.md",
     "Química/img/Pasted image 20250716094838.png",
-    "Pasted image 20250714100826.png",
     "Química/Química orgânica/Organôgenos.md",
     "Química/Untitled.canvas",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -217,7 +215,6 @@
     "Física/Optica/Faltando.md",
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
     "Física/Quantidade de Movimento/Quantidade de movimento.md",
-    "Cronograma.md",
     "Física/Untitled.canvas",
     "Física/Quantidade de Movimento",
     "Biologia/img/Pasted image 20250630160800.png",
@@ -230,8 +227,6 @@
     "Linguagens/Untitled.canvas",
     "Matemática/img/Pasted image 20250710151050.png",
     "Matemática/img/Pasted image 20250710133539.png",
-    "Matemática/img/Pasted image 20250710091506.png",
-    "Matemática/img/Pasted image 20250710100635.png",
     "Matemática/Untitled.canvas",
     "Biologia/Caixinhas.canvas",
     "Untitled.canvas",

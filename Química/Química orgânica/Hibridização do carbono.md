@@ -45,5 +45,10 @@ $$
 Veja que agora ele consegue fazer 4 ligações, isso explica o pq o carbono faz 4 ligações. 
 
 
----
+> [!important] Modificações nos horbitais
+> Dependendo do tipo de ligação nem todas as caixinas (orbitais) são hibridizados, o número de ligações dupla ou tripla influência. Exemplo: Se fizer uma dupla sobra 1 orbital, ele não hibridiza e fica livre na camada L. ![[Pasted image 20250716102203.png]]
+> Agora se for duas $pi$ e 1 simples $sigma$ então temos uma hibridização sp, assim como a dupla, sobrará 1 hibridizado.
+> ![[Pasted image 20250716102350.png]]
+
+Caso não tenha entendido é pq é uma bosta a explicação desse professor do aprova. Aqui está: https://www.youtube.com/watch?v=R5XBDIhQX7A&t=80s&ab_channel=Caf%C3%A9comqu%C3%ADmica-ProfMichel
 
