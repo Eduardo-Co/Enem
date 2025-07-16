@@ -7,6 +7,8 @@
 ---
 ## Prefixo:
 
+Caso seja uma cadeia cíclica (fechada) terá antes de todos, o prefixo : "ciclo"
+
 N° de carbonos e prefixo:
 1 - Met
 2 - Et
@@ -25,6 +27,16 @@ O resto segue o prefixo relacionado ao número. Guarda-se então até o 4, Met,E
 - Dupla: en
 - Tripla: in
 
+Tem que se atentar onde está a dupla ou tripla do carbono. 
+
+- Começa-se a contar sempre da extremidade mais próxima da insaturação. Começando da extremidade mais próxima a ela. 
+
+![[Pasted image 20250716131055.png]]
+
+- Se for uma cadeia fechada a insaturação sempre estará entre o carbono 1 e 2. A menos que seja duas duplas:
+
+- Quando for duas duplas ou mais: Coloca-se o 1 e o localizador da outra insaturação.  
+
 ----
 ## Sufixo:
 
@@ -33,3 +45,5 @@ Função orgânica - Sufixo
 Hidrocarboneto - O
 Álcool - OL
 Aldeído - AL
+
+---
