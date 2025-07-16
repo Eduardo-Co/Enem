@@ -70,4 +70,8 @@ Veja que temos o iso-propil circulado, caso adicionemos mais um $CH_2$ ficará b
 Ele sofre homólise no carbono da extremidade, ficando: ***Vinil ou Etenil***
 ![[Pasted image 20250716134828.png]]
 
+
+## Caso do Benzil e Fenil: 
+![[Pasted image 20250716140421.png]]
+
 ----
