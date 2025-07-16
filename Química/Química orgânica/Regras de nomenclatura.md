@@ -19,6 +19,17 @@ N° de carbonos e prefixo:
 O resto segue o prefixo relacionado ao número. Guarda-se então até o 4, Met,Et,Prop,But.
 
 ---
-
 ## Infixo:
 
+- Simples: an
+- Dupla: en
+- Tripla: in
+
+----
+## Sufixo:
+
+Função orgânica - Sufixo
+
+Hidrocarboneto - O
+Álcool - OL
+Aldeído - AL
