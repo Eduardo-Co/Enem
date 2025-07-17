@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Geometria Espacial/Prismas e pirâmides.md",
+                "file": "Matemática/Geometria analítica/Equações da reta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prismas e pirâmides"
+              "title": "Equações da reta"
             }
           }
         ]
@@ -181,9 +181,12 @@
   },
   "active": "e834e3b30c6da00e",
   "lastOpenFiles": [
+    "Matemática/Geometria analítica/Equação da circuferência.md",
+    "Matemática/Geometria analítica/Elipse.md",
+    "Matemática/Geometria analítica/Conceitos básicos de Geometria analítica.md",
+    "Matemática/Geometria Espacial/Prismas e pirâmides.md",
     "Pasted image 20250717095911.png",
     "Matemática/Geometria Espacial/Relação de EULER.md",
-    "Matemática/Geometria Espacial/Prismas e pirâmides.md",
     "Matemática/Geometria Espacial/Planificação.md",
     "Matemática/Geometria Espacial/Posições relativas.md",
     "Química/Ligações químicas/Hibridização.md",
@@ -211,7 +214,6 @@
     "Química/img/Pasted image 20250716120920.png",
     "Excalidraw/Drawing 2025-07-16 12.18.14.excalidraw.md",
     "Ink/Writing/2025.7.16 - 12.18pm.writing",
-    "Química/img/Pasted image 20250716115738.png",
     "Ink/Writing/2025.7.16 - 10.15am.writing",
     "Ink/Writing/2025.7.16 - 10.14am.writing",
     "Química/Untitled.canvas",
@@ -225,8 +227,6 @@
     "Física/Optica/Optica - 2 - Principais/Aumento linar.md",
     "Física/Optica/Optica - 2 - Principais/Untitled",
     "Física/Optica/Optica - 2 - Principais",
-    "Física/Optica/Óptica geométrica/6 -Translação, rotação e associação de espelhos.md",
-    "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
     "Física/Untitled.canvas",
     "Física/Quantidade de Movimento",
     "Biologia/Verminoses/Nematona",
