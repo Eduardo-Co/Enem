@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] Escala
 - [ ] Juros - Antecipação de parcelas e fórmulas
 - [ ] Subconjuntos
+- [ ] Altura de um triângulo equilátero inscrito em uma circunferência - $l = \frac{2}{3}h$
 
 
 ## Faltou de questoes
