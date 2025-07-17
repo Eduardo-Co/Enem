@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Geometria Espacial/Relação de EULER.md",
+                "file": "Matemática/Geometria Espacial/Planificação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relação de EULER"
+              "title": "Planificação"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "e834e3b30c6da00e",
   "lastOpenFiles": [
-    "Matemática/Geometria Espacial/Posições relativas.md",
     "Matemática/Geometria Espacial/Relação de EULER.md",
+    "Matemática/Geometria Espacial/Planificação.md",
+    "Matemática/Geometria Espacial/Posições relativas.md",
     "Química/Ligações químicas/Hibridização.md",
     "Matemática/Geometria Espacial",
     "Química/Química orgânica/Hibridização do carbono.md",
@@ -226,7 +227,6 @@
     "Física/Optica/Óptica geométrica/7 -Espelhos esféricos.md",
     "Física/Optica/Óptica geométrica/Imagem em Dioptros planos.md",
     "Física/Optica/Óptica geométrica/Refração da luz.md",
-    "Física/Optica/Olho.md",
     "Física/Untitled.canvas",
     "Física/Quantidade de Movimento",
     "Biologia/Verminoses/Nematona",
