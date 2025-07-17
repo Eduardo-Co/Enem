@@ -11,14 +11,19 @@
             "id": "e834e3b30c6da00e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Matemática/Geometria analítica/Equações da reta.md",
-                "mode": "source",
-                "source": false
+                "file": "Matemática/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Equações da reta"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -181,6 +186,8 @@
   },
   "active": "e834e3b30c6da00e",
   "lastOpenFiles": [
+    "Matemática/EvD.md",
+    "Matemática/Geometria analítica/Equações da reta.md",
     "Matemática/Geometria analítica/Equação da circuferência.md",
     "Matemática/Geometria analítica/Elipse.md",
     "Matemática/Geometria analítica/Conceitos básicos de Geometria analítica.md",
@@ -223,8 +230,6 @@
     "Física/Optica/Optica - 2 - Principais/Refração.md",
     "Física/Optica/Óptica geométrica/5 -Reflexão total.md",
     "Física/Optica/Óptica geométrica/4 -Reflexão.md",
-    "Física/Optica/Optica - 2 - Principais/Vergência e di.md",
-    "Física/Optica/Optica - 2 - Principais/Aumento linar.md",
     "Física/Optica/Optica - 2 - Principais/Untitled",
     "Física/Optica/Optica - 2 - Principais",
     "Física/Untitled.canvas",
