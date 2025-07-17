@@ -19,3 +19,4 @@ Faces vezes lados (vértices).
 $$
 S = (V - 2) \cdot 360°) 
 $$
+---
