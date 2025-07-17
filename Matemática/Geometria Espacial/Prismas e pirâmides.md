@@ -18,4 +18,21 @@ $$
 
 ---
 
-## Relaç
+## Relação de proporcionalidade com cortes em pirâmides ou qualquer poliedro semelhante
+
+![[Pasted image 20250717095911.png]]
+
+Há uma relação entre as medidas de comprimento
+
+$$
+\frac{a'}{a}= \frac{h}{H}; \frac{a_{l}}{a_{L}} = \frac{h}{H} ;  \frac{A_{b}}{A_{B}} = \left( \frac{h}{H} \right)^2 ; \frac{V_{P}}{V} = \left( \frac{h}{H} \right)^3
+$$
+
+### Como calcular volume do tronco:
+
+$$
+V_{T} = \frac{h_{t}}{3} \cdot (A_{B} + A_{b} + \sqrt{ A_{b} \cdot A_{B} })
+$$
+Esse é o volume do tronco.
+
+---
