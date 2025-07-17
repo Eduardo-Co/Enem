@@ -7,4 +7,15 @@ $$
 
 ## Volume de uma pirâmide
 
-- $A_b + A_L = A_T$   -  á
+- $A_b + A_L = V$   - Área da base + Área lateral é o total
+
+Pode-se observa a área de uma pirâmide, também, como:
+
+$$
+V = \frac{a \cdot b \cdot h}{3} 
+$$
+Área da base vezes altura dividido por três. 
+
+---
+
+## Relaç
