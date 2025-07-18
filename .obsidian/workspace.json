@@ -74,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 213.5
   },
   "right": {
     "id": "58e3cf5b5003b992",
@@ -125,13 +124,61 @@
             }
           },
           {
-            "id": "1023f34af88deb6d",
+            "id": "2146d4d14ea9a7f4",
             "type": "leaf",
             "state": {
-              "type": "annotations-outline",
+              "type": "comment-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Enhanced Annotations"
+              "icon": "highlighter",
+              "title": "HiNote"
+            }
+          },
+          {
+            "id": "c273f355bd234624",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024 - Desafios para a valorização da herança africana no Brasil"
+            }
+          },
+          {
+            "id": "5442f57114c4fba4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024 - Desafios para a valorização da herança africana no Brasil"
+            }
+          },
+          {
+            "id": "1e054df5eff29eb3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ],
@@ -139,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,10 +199,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
-      "note-annotations:Enable highlighting mode": false
+      "hi-note:HiNote": false
     }
   },
-  "active": "1023f34af88deb6d",
+  "active": "75c9a6d41028179b",
   "lastOpenFiles": [
     "esse entrave, ca.md",
     "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
