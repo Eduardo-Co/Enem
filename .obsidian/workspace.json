@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#termodinâmica",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 200
   },
   "right": {
     "id": "58e3cf5b5003b992",
@@ -132,54 +132,6 @@
               "icon": "highlighter",
               "title": "HiNote"
             }
-          },
-          {
-            "id": "c273f355bd234624",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2024 - Desafios para a valorização da herança africana no Brasil"
-            }
-          },
-          {
-            "id": "5442f57114c4fba4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2024 - Desafios para a valorização da herança africana no Brasil"
-            }
-          },
-          {
-            "id": "1e054df5eff29eb3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
           }
         ],
         "currentTab": 3
@@ -190,6 +142,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "hi-note:HiNote": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -198,23 +151,23 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "switcher:Open quick switcher": false,
-      "hi-note:HiNote": false
+      "switcher:Open quick switcher": false
     }
   },
-  "active": "75c9a6d41028179b",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
     "Redação/Eu/Progressão Enem e testes.md",
+    "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
     "Redação/Eu/Meus repertórios.md",
     "Redação/Jargões desenvolvimento.md",
-    "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
     "esse entrave, ca.md",
     "Calendar/2025-07-18.md",
     "Calendar",
     "Pasted image 20250714100826.png",
     "2025-W29.md",
-    "Untitled.md",
     "Química/img/Pasted image 20250716140421.png",
     "Matemática/img/Pasted image 20250717095911.png",
     "Matemática/Untitled Kanban.md",
@@ -235,7 +188,6 @@
     "Química/Química orgânica/Classificação de cadeias carbônicas.md",
     "Química/Química orgânica/Cadeias aromáticas.md",
     "Química/Química orgânica/Representação das fórmulas estruturais.md",
-    "Química/Química orgânica/Regras de nomenclatura.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/img/Pasted image 20250716142054.png",
     "Química/img/Pasted image 20250716134356.png",
