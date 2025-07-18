@@ -1,4 +1,3 @@
-
 Organôgenos = Organo + Genia 
 
  - Formadores de compostos orgânicos. 
