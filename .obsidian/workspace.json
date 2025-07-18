@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Química orgânica/Hidrocarbonetos/Regras de nomenclatura.md",
+                "file": "Química/Química orgânica/Representação das fórmulas estruturais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regras de nomenclatura"
+              "title": "Representação das fórmulas estruturais"
             }
           }
         ]
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Química/Química orgânica/Hidrocarbonetos/Regras de nomenclatura.md",
+                "file": "Química/Química orgânica/Representação das fórmulas estruturais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Regras de nomenclatura"
+              "title": "Backlinks for Representação das fórmulas estruturais"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Química/Química orgânica/Hidrocarbonetos/Regras de nomenclatura.md",
+                "file": "Química/Química orgânica/Representação das fórmulas estruturais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Regras de nomenclatura"
+              "title": "Outgoing links from Representação das fórmulas estruturais"
             }
           },
           {
@@ -204,11 +204,11 @@
   },
   "active": "48aa97ab27016991",
   "lastOpenFiles": [
+    "Química/Química orgânica/Cadeias aromáticas.md",
+    "Química/Química orgânica/Hidrocarbonetos/Regras de nomenclatura.md",
     "Química/Química orgânica/Hidrocarbonetos/Hibridização do carbono.md",
     "Química/Química orgânica/Hidrocarbonetos/Classificações do carbono.md",
     "Química/Química orgânica/Hidrocarbonetos/Classificação de cadeias carbônicas.md",
-    "Química/Química orgânica/Hidrocarbonetos/Regras de nomenclatura.md",
-    "Química/Química orgânica/Cadeias aromáticas.md",
     "Química/Química orgânica/Representação das fórmulas estruturais.md",
     "Química/Química orgânica/Organôgenos.md",
     "Química/Química orgânica/Hidrocarbonetos",
