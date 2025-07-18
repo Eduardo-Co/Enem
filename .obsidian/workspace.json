@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024 - Desafios para a valorização da herança africana no Brasil"
+              "title": "Untitled"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024 - Desafios para a valorização da herança africana no Brasil"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -133,12 +133,12 @@
               "title": "HiNote"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,11 +156,11 @@
   },
   "active": "364359dee4ac2e1e",
   "lastOpenFiles": [
-    "Redação/Eu/Untitled Kanban.md",
     "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
+    "Untitled.md",
+    "Redação/Eu/Untitled Kanban.md",
     "Redação/Eu/Progressão Enem e testes.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
     "Redação/Eu/Meus repertórios.md",
     "Redação/Jargões desenvolvimento.md",
