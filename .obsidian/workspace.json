@@ -11,19 +11,14 @@
             "id": "364359dee4ac2e1e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Redação/Eu/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "2024 - Desafios para a valorização da herança africana no Brasil"
             }
           }
         ]
@@ -161,8 +156,8 @@
   },
   "active": "364359dee4ac2e1e",
   "lastOpenFiles": [
-    "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
     "Redação/Eu/Untitled Kanban.md",
+    "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
     "Redação/Eu/Progressão Enem e testes.md",
     "Untitled 1.md",
     "Untitled.md",
