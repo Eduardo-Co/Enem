@@ -4,26 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c1a3b3f13bbb82db",
+        "id": "4b01ae9b2dbd8755",
         "type": "tabs",
         "children": [
           {
-            "id": "e834e3b30c6da00e",
+            "id": "75c9a6d41028179b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Matemática/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -58,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rizoma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,14 +153,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1f0780dea726f05a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,15 +184,22 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e834e3b30c6da00e",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
+    "Química/img/Pasted image 20250716140421.png",
+    "Matemática/img/Pasted image 20250717095911.png",
+    "2025-07-18.md",
+    "Pasted image 20250714100826.png",
+    "Matemática/Untitled Kanban.md",
+    "Redação/Redação nota mil",
     "Matemática/EvD.md",
     "Matemática/Geometria analítica/Equações da reta.md",
     "Matemática/Geometria analítica/Equação da circuferência.md",
     "Matemática/Geometria analítica/Elipse.md",
     "Matemática/Geometria analítica/Conceitos básicos de Geometria analítica.md",
     "Matemática/Geometria Espacial/Prismas e pirâmides.md",
-    "Pasted image 20250717095911.png",
     "Matemática/Geometria Espacial/Relação de EULER.md",
     "Matemática/Geometria Espacial/Planificação.md",
     "Matemática/Geometria Espacial/Posições relativas.md",
@@ -208,11 +215,9 @@
     "Química/Funções inorgânicas/Funções inorgânicas.md",
     "Química/Funções inorgânicas/Bases/Bases.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Pasted image 20250716142054.png",
+    "Química/img/Pasted image 20250716142054.png",
     "Simulados.md",
-    "Pasted image 20250716140421.png",
     "Química/img/Pasted image 20250716134356.png",
-    "Pasted image 20250714100826.png",
     "Química/img/Pasted image 20250716134825.png",
     "Química/img/Pasted image 20250716134828.png",
     "Química/Funções inorgânicas/Óxidos/Óxidos.md",
@@ -225,16 +230,11 @@
     "Ink/Writing/2025.7.16 - 10.14am.writing",
     "Química/Untitled.canvas",
     "Química/Química orgânica",
-    "Física/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
-    "Física/Optica/Optica - 2 - Principais/Refração.md",
-    "Física/Optica/Óptica geométrica/5 -Reflexão total.md",
-    "Física/Optica/Óptica geométrica/4 -Reflexão.md",
     "Física/Optica/Optica - 2 - Principais/Untitled",
     "Física/Optica/Optica - 2 - Principais",
     "Física/Untitled.canvas",
     "Física/Quantidade de Movimento",
-    "Biologia/Verminoses/Nematona",
     "Redação/Untitled.canvas",
     "Linguagens/Untitled.canvas",
     "Matemática/Untitled.canvas",
