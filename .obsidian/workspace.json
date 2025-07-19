@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3b3936c9a7ef5da",
+        "id": "22ce2f5fd1747c44",
         "type": "tabs",
         "children": [
           {
-            "id": "48aa97ab27016991",
+            "id": "885a31d5ef64de2c",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -94,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Calendarr/2025-07-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-07-19"
             }
           },
           {
@@ -201,9 +202,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "0875c2dbe25baa01",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
-    "Calendar/2025-07-19.md",
+    "Calendarr/2025-07-19.md",
+    "conflict-files-obsidian-git.md",
     "Redação/Eu/Progressão Enem e testes.md",
     "Redação/Eu/Untitled Kanban.md",
     "Química/Química orgânica/Representação das fórmulas estruturais.md",
@@ -222,7 +224,7 @@
     "Redação/Jargões desenvolvimento.md",
     "esse entrave, ca.md",
     "Calendar/2025-07-18.md",
-    "Calendar",
+    "Calendarr",
     "Pasted image 20250714100826.png",
     "2025-W29.md",
     "Química/img/Pasted image 20250716140421.png",
@@ -234,7 +236,6 @@
     "Matemática/Geometria analítica/Equação da circuferência.md",
     "Matemática/Geometria analítica/Elipse.md",
     "Matemática/Geometria analítica/Conceitos básicos de Geometria analítica.md",
-    "Matemática/Geometria Espacial/Prismas e pirâmides.md",
     "Matemática/Geometria Espacial",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/img/Pasted image 20250716142054.png",
