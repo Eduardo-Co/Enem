@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "22ce2f5fd1747c44",
+        "id": "1c1e9c21dcb9ef38",
         "type": "tabs",
         "children": [
           {
-            "id": "885a31d5ef64de2c",
+            "id": "b95887e933f4479a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Calendar/2025-07-19.md",
-                "bFile": "Calendar/2025-07-19.md",
-                "aRef": ""
+                "file": "Calendário/2025-07-19.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2025-07-19"
+              "icon": "lucide-file",
+              "title": "2025-07-19"
             }
           }
         ]
@@ -94,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Calendário/2025-07-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-07-19"
             }
           },
           {
@@ -181,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -201,8 +202,9 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "b95887e933f4479a",
   "lastOpenFiles": [
+    "Calendário/2025-07-19.md",
     "Calendário",
     "Calendarr/2025-07-19.md",
     "conflict-files-obsidian-git.md",
@@ -250,7 +252,6 @@
     "Química/Untitled.canvas",
     "Química/Química orgânica",
     "Física/Caixinhas.canvas",
-    "Física/Optica/Optica - 2 - Principais/Untitled",
     "Física/Untitled.canvas",
     "Redação/Untitled.canvas",
     "Linguagens/Untitled.canvas",
