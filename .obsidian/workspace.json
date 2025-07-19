@@ -94,13 +94,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendarr/2025-07-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-19"
+              "title": "Outline"
             }
           },
           {
@@ -202,7 +201,7 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "0875c2dbe25baa01",
   "lastOpenFiles": [
     "Calendarr/2025-07-19.md",
     "conflict-files-obsidian-git.md",
