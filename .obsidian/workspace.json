@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c1e9c21dcb9ef38",
+        "id": "c07ffafa04eb1937",
         "type": "tabs",
         "children": [
           {
-            "id": "b95887e933f4479a",
+            "id": "f170ccca4c941759",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendário/2025-07-19.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-19"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,23 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendário/2025-07-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-19"
-            }
-          },
-          {
-            "id": "0875c2dbe25baa01",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           },
           {
@@ -181,8 +166,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,9 +186,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "b95887e933f4479a",
+  "active": "20b4fce5db701f68",
   "lastOpenFiles": [
     "Calendário/2025-07-19.md",
+    "2025-07-19.md",
     "Calendário",
     "Calendarr/2025-07-19.md",
     "conflict-files-obsidian-git.md",
@@ -236,7 +221,6 @@
     "Matemática/EvD.md",
     "Matemática/Geometria analítica/Equações da reta.md",
     "Matemática/Geometria analítica/Equação da circuferência.md",
-    "Matemática/Geometria analítica/Elipse.md",
     "Matemática/Geometria Espacial",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/img/Pasted image 20250716142054.png",
