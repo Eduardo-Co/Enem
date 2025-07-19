@@ -2,7 +2,6 @@
 ## ***Proposta de intervenção - Exemplificação***
 
 - Agente
-- agente. 
 - Ação (o que)
 - Meio/Modo (como)
 - Finalidade
@@ -10,7 +9,7 @@
 
 - ***Agente - Redação:*** Caminhos para fortalecimento de políticas de ações afirmativas no Brasil: ***Não obtive sucesso, especifiquei o ministério - Talvez agora tenha entendido porquê isso não deu certo, devia ter explicado a função do agente*** 
 - ***Ação - Redação:*** Invisibilidade feminina na política em questão no Brasil: 
-
+- ***Meio - Redação:*** 
 
 ### ***2° Bateria de testes***:
 
