@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] Excreção dos animais aquáticos e terrestres
 - [ ] Viviparidade - Ver em quais animais se encaixa e usar esse conceito
 - [ ] Regulação de temperatura
+- [ ] Doenças causadas pelos filos
 
 
 ## Estudados
