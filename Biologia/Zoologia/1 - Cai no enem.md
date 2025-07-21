@@ -8,12 +8,23 @@ kanban-plugin: board
 
 - [ ] Mistura de sangues
 - [ ] Esqueleto do animais e sua composição
+- [ ] Semelhança genética
+- [ ] Cladograma evolutivo
+- [ ] Sucesso adaptativo
+
+
+## Estudados
+
+
+
+## Necessitam de revisão
+
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

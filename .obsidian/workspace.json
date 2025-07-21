@@ -17,6 +17,8 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
                     false
                   ]
                 }
@@ -196,7 +198,7 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "26b2633860cb63c8",
   "lastOpenFiles": [
     "Biologia/Zoologia/Filho Chordata/Aves.md",
     "Biologia/Zoologia/1 - Cai no enem.md",
