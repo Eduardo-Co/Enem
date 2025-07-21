@@ -4,45 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "89358dee7d4afe4b",
+        "id": "d332a34c3dc5e6f9",
         "type": "tabs",
         "children": [
           {
-            "id": "26b2633860cb63c8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Biologia/Zoologia/1 - Cai no enem.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "1 - Cai no enem"
-            }
-          },
-          {
-            "id": "562fc84e0724eee6",
+            "id": "21165b5af6a74063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/3 - Citologia/Organelas citoplasmáticas.md",
+                "file": "Biologia/4 - Bioquimica/Enzimas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organelas citoplasmáticas"
+              "title": "Enzimas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,13 +192,16 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "562fc84e0724eee6",
+  "active": "21165b5af6a74063",
   "lastOpenFiles": [
-    "Biologia/3 - Citologia/Membrana plasmática.md",
+    "Biologia/4 - Bioquimica/Proteínas.md",
+    "Biologia/4 - Bioquimica/Aminoácidos.md",
+    "Biologia/Zoologia/1 - Cai no enem.md",
+    "Biologia/4 - Bioquimica/Carboidratos.md",
     "Biologia/3 - Citologia/Organelas citoplasmáticas.md",
+    "Biologia/3 - Citologia/Membrana plasmática.md",
     "Biologia/1 - Ecologia/Teste de Ecologia.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Biologia/Zoologia/1 - Cai no enem.md",
     "Untitled.md",
     "Biologia/Zoologia/Filho Chordata/Aves.md",
     "Biologia/Zoologia/Filho Chordata/Répteis.md",
@@ -242,10 +224,7 @@
     "Biologia/Zoologia/Filo Nematona.md",
     "Biologia/Zoologia/Filo Cnidaria.md",
     "Calendário/2025-07-19.md",
-    "2025-07-19.md",
     "Calendário",
-    "Calendarr/2025-07-19.md",
-    "conflict-files-obsidian-git.md",
     "Química/Química orgânica/Hidrocarbonetos",
     "Calendarr",
     "Química/img/Pasted image 20250716140421.png",
