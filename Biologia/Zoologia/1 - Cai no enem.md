@@ -11,6 +11,9 @@ kanban-plugin: board
 - [ ] Semelhança genética
 - [ ] Cladograma evolutivo
 - [ ] Sucesso adaptativo
+- [ ] Processos evolutivos para evitar a perda de água
+- [ ] Excreção dos animais aquáticos e terrestres
+- [ ] Viviparidade - Ver em quais animais se encaixa e usar esse conceito
 
 
 ## Estudados
