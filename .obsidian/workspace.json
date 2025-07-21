@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Zoologia/Filho Chordata/Répteis.md",
+                "file": "Biologia/Zoologia/Filho Chordata/Aves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Répteis"
+              "title": "Aves"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Zoologia/Filho Chordata/Répteis.md",
+                "file": "Biologia/Zoologia/Filho Chordata/Aves.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Répteis"
+              "title": "Outline of Aves"
             }
           },
           {
@@ -194,12 +194,13 @@
   },
   "active": "26b2633860cb63c8",
   "lastOpenFiles": [
+    "Biologia/Zoologia/Filho Chordata/Répteis.md",
+    "Biologia/Zoologia/Filho Chordata/Aves.md",
     "Biologia/Zoologia/Filho Chordata/Peixes ósseos.md",
     "Biologia/Zoologia/Filho Chordata/Agnathas.md",
     "Biologia/Zoologia/Filho Chordata/Anfíbios.md",
     "Biologia/Zoologia/Filho Chordata/Pasted image 20250721092646.png",
     "Biologia/Zoologia/Filho Chordata/Peixes cartilaginosos.md",
-    "Biologia/Zoologia/Filho Chordata/Répteis.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Zoologia/Filho Chordata/Protocordados.md",
     "Biologia/Zoologia/Cladogrâmga.png",
