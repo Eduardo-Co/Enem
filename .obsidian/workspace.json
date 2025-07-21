@@ -11,13 +11,30 @@
             "id": "f170ccca4c941759",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250714100826.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250714100826"
+            }
+          },
+          {
+            "id": "4b15ebb3394f4864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Invertebrados/Filo Mollusca.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Filo Mollusca"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,12 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Biologia/Invertebrados/Filo Mollusca.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Filo Mollusca"
             }
           },
           {
@@ -170,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +205,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "4b15ebb3394f4864",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Invertebrados/Filo Mollusca.md",
+    "Pasted image 20250714100826.png",
     "Calendário/2025-07-19.md",
     "2025-07-19.md",
     "Calendário",
@@ -212,17 +234,13 @@
     "esse entrave, ca.md",
     "Calendar/2025-07-18.md",
     "Calendarr",
-    "Pasted image 20250714100826.png",
     "2025-W29.md",
     "Química/img/Pasted image 20250716140421.png",
     "Matemática/img/Pasted image 20250717095911.png",
     "Matemática/Untitled Kanban.md",
     "Redação/Redação nota mil",
     "Matemática/EvD.md",
-    "Matemática/Geometria analítica/Equações da reta.md",
-    "Matemática/Geometria analítica/Equação da circuferência.md",
     "Matemática/Geometria Espacial",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/img/Pasted image 20250716142054.png",
     "Química/img/Pasted image 20250716134356.png",
     "Química/img/Pasted image 20250716134825.png",
