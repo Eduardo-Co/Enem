@@ -11,12 +11,12 @@
             "id": "f170ccca4c941759",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Pasted image 20250714100826.png"
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250714100826"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           },
           {
@@ -25,16 +25,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Invertebrados/Filo Mollusca.md",
+                "file": "Biologia/Invertebrados/Filo Annelida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filo Mollusca"
+              "title": "Filo Annelida"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,13 +106,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Invertebrados/Filo Mollusca.md",
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Filo Mollusca"
+              "title": "Outline of LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           },
           {
@@ -205,11 +204,16 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "4b15ebb3394f4864",
+  "active": "f170ccca4c941759",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Biologia/Invertebrados/Filo Mollusca.md",
     "Pasted image 20250714100826.png",
+    "Biologia/Invertebrados/Filo Annelida.md",
+    "Biologia/Invertebrados/Filos dos Poríferos.md",
+    "Biologia/Invertebrados/Filo Platyhelminthes.md",
+    "Biologia/Invertebrados/Filo Nematona.md",
+    "Biologia/Invertebrados/Filo Cnidaria.md",
+    "Biologia/Invertebrados/Filo Mollusca.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Calendário/2025-07-19.md",
     "2025-07-19.md",
     "Calendário",
@@ -231,15 +235,10 @@
     "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
     "Redação/Eu/Meus repertórios.md",
     "Redação/Jargões desenvolvimento.md",
-    "esse entrave, ca.md",
-    "Calendar/2025-07-18.md",
     "Calendarr",
-    "2025-W29.md",
     "Química/img/Pasted image 20250716140421.png",
     "Matemática/img/Pasted image 20250717095911.png",
-    "Matemática/Untitled Kanban.md",
     "Redação/Redação nota mil",
-    "Matemática/EvD.md",
     "Matemática/Geometria Espacial",
     "Química/img/Pasted image 20250716142054.png",
     "Química/img/Pasted image 20250716134356.png",
