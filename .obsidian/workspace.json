@@ -11,12 +11,14 @@
             "id": "26b2633860cb63c8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Biologia/Zoologia/Filho Chordata/Anfíbios.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Anfíbios"
             }
           }
         ]
@@ -92,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+                "file": "Biologia/Zoologia/Filho Chordata/Anfíbios.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "title": "Outline of Anfíbios"
             }
           },
           {
@@ -192,9 +194,11 @@
   },
   "active": "26b2633860cb63c8",
   "lastOpenFiles": [
+    "Biologia/Zoologia/Filho Chordata/Agnathas.md",
+    "Biologia/Zoologia/Filho Chordata/Anfíbios.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Zoologia/Filho Chordata/Peixes ósseos.md",
     "Biologia/Zoologia/Filho Chordata/Peixes cartilaginosos.md",
-    "Biologia/Zoologia/Filho Chordata/Agnathas.md",
     "Biologia/Zoologia/Filho Chordata/Protocordados.md",
     "Biologia/Zoologia/Filho Chordata/Pasted image 20250721092646.png",
     "Biologia/Zoologia/Cladogrâmga.png",
@@ -202,7 +206,6 @@
     "Biologia/Zoologia/Filho Chordata",
     "Biologia/Zoologia/Filo Arthropoda.md",
     "Biologia/Zoologia/Filo Echinodermata.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Zoologia/Filo Annelida.md",
     "Biologia/Zoologia/Filo Mollusca.md",
     "Simulados.md",
@@ -221,8 +224,6 @@
     "Química/Química orgânica/Cadeias aromáticas.md",
     "Química/Química orgânica/Hidrocarbonetos/Regras de nomenclatura.md",
     "Química/Química orgânica/Hidrocarbonetos/Hibridização do carbono.md",
-    "Química/Química orgânica/Hidrocarbonetos/Classificações do carbono.md",
-    "Química/Química orgânica/Hidrocarbonetos/Classificação de cadeias carbônicas.md",
     "Química/Química orgânica/Hidrocarbonetos",
     "Calendarr",
     "Química/img/Pasted image 20250716140421.png",
