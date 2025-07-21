@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Zoologia/Filho Chordata/Agnathas.md",
+                "file": "Biologia/Zoologia/Filho Chordata/Peixes cartilaginosos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agnathas"
+              "title": "Peixes cartilaginosos"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Zoologia/Filho Chordata/Agnathas.md",
+                "file": "Biologia/Zoologia/Filho Chordata/Peixes cartilaginosos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Agnathas"
+              "title": "Outline of Peixes cartilaginosos"
             }
           },
           {
@@ -194,8 +194,9 @@
   },
   "active": "d508cf80fcca6148",
   "lastOpenFiles": [
-    "Biologia/Zoologia/Filho Chordata/Protocordados.md",
     "Biologia/Zoologia/Filho Chordata/Agnathas.md",
+    "Biologia/Zoologia/Filho Chordata/Peixes cartilaginosos.md",
+    "Biologia/Zoologia/Filho Chordata/Protocordados.md",
     "Biologia/Zoologia/Filho Chordata/Pasted image 20250721092646.png",
     "Biologia/Zoologia/Cladogrâmga.png",
     "Biologia/Invertebrados/Filo.md",
@@ -225,7 +226,6 @@
     "Química/Química orgânica/Hidrocarbonetos/Classificação de cadeias carbônicas.md",
     "Química/Química orgânica/Organôgenos.md",
     "Química/Química orgânica/Hidrocarbonetos",
-    "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
     "Calendarr",
     "Química/img/Pasted image 20250716140421.png",
     "Matemática/img/Pasted image 20250717095911.png",

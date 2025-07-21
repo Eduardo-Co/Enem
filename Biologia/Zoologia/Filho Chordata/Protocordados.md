@@ -1,4 +1,5 @@
 Possuir eixo de sustentação central na fase embrionária - notocorda
+***Não tem crânio***
 
 ---
 ## Características:
