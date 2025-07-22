@@ -28,4 +28,5 @@
 	-  Dúvida: Aplicar porcentagem no todo e nas partes é a mesma coisa? 
 	- Assunto: Porcentagem
 	-  Como foi cobrado: Entender como trabalhar com a porcentagem, descontos e acréscimos. 
-2. 
+2. V
+3. 
