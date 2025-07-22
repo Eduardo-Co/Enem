@@ -13,4 +13,4 @@ Toda iteração entre dois corpos produz força. Existem 4 tipos fundamentais de
 - ***Força elástica:*** Interações em molas, elásticos ou similares. 
 - ***Força magnética:*** Campos magnéticos
 - ***Força de empuxo:*** Interação entre corpos e fluidos
-- ***Forças nu***
+- ***Forças nucleares:*** Forte e fraca, ocorrem nos núcleos dos átomos. 
