@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Dinâmica/Atrito Estático.md",
+                "file": "Física/Dinâmica/Força de arrasto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atrito Estático"
+              "title": "Força de arrasto"
             }
           }
         ],
@@ -209,8 +209,10 @@
   },
   "active": "8fd0c5720e223e22",
   "lastOpenFiles": [
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/Dinâmica/Atrito Dinâmico.md",
+    "Física/Dinâmica/Força de arrasto.md",
     "Física/Dinâmica/Atrito Estático.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/Dinâmica/Diagramas e tipos de problema.md",
     "Física/Dinâmica/Leis de Newton.md",
     "Física/Dinâmica/Tipos de força e definição.md",
@@ -237,7 +239,6 @@
     "Biologia/3 - Citologia/Organelas citoplasmáticas.md",
     "Biologia/3 - Citologia/Membrana plasmática.md",
     "Biologia/1 - Ecologia/Teste de Ecologia.md",
-    "Untitled.md",
     "Biologia/Zoologia/Filho Chordata/Pasted image 20250721092646.png",
     "Biologia/Zoologia/Cladogrâmga.png",
     "Biologia/Zoologia/Filho Chordata",
