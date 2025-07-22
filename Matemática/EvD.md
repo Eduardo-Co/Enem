@@ -16,5 +16,6 @@
 
 1. F - 04:00 Volume de uma pirâmide - Como efetivamente se calcula, seja ela de base qualquer.
 2. F - 01:36 não prestei atenção na resposta - Anotar sempre como deve ser a resposta e voltar a ela.
-3. F - 03:00 probabilidade
-4. 
+3. F - 03:00 Combinação 
+4. V - 02:00
+5. V - 01:40 Lógica 
