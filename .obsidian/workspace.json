@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "acd1887b9a9fa9ad",
+        "id": "a37e4b536be65f6a",
         "type": "tabs",
         "children": [
           {
-            "id": "f43cbfd9e4c736a4",
+            "id": "adbb68c664c3dfdc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Física/Dinâmica/Tipos de força e definição.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Tipos de força e definição"
             }
           }
         ]
@@ -190,10 +192,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "f43cbfd9e4c736a4",
+  "active": "adbb68c664c3dfdc",
   "lastOpenFiles": [
-    "Matemática/Untitled.canvas",
+    "Física/Dinâmica/Tipos de força e definição.md",
+    "Física/Dinâmica",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Untitled.canvas",
     "Matemática/EvD.md",
     "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Plantas C3,C4 e MAC.md",
     "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Leucoplasto e Amiloplasto.md",
@@ -237,7 +241,6 @@
     "Pasted image 20250716121912.png",
     "Ink/Writing/2025.7.16 - 12.18pm.writing",
     "Ink/Writing/2025.7.16 - 10.15am.writing",
-    "Ink/Writing/2025.7.16 - 10.14am.writing",
     "Química/Untitled.canvas",
     "Física/Caixinhas.canvas",
     "Física/Untitled.canvas",
