@@ -1,0 +1,1 @@
+Aqui não há vantagem mecânica, só muda a direção da força. 
