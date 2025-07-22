@@ -16,7 +16,9 @@
                 "file": "Física/Dinâmica/Untitled Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
-                  "list-collapse": []
+                  "list-collapse": [
+                    false
+                  ]
                 }
               },
               "icon": "lucide-trello",
@@ -196,13 +198,16 @@
   },
   "active": "a74ba70cc5418ed0",
   "lastOpenFiles": [
-    "Física/Quantidade de Movimento/Quantidade de movimento.md",
+    "Física/Dinâmica/De questões/Decomposição Vetorial.md",
+    "Física/img/Pasted image 20250722191557.png",
+    "Física/img/Pasted image 20250722103636.png",
     "Física/Dinâmica/Untitled Kanban.md",
+    "Física/Dinâmica/De questões",
+    "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Física/Cinemática/Movimentos Uniformes.md",
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
     "Física/Quantidade de Movimento/Colisões.md",
     "Física/Dinâmica/Força elástica.md",
-    "Pasted image 20250722103636.png",
     "Pasted image 20250722103424.png",
     "Física/img/Pasted image 20250722103450.png",
     "Física/img/Pasted image 20250722102603.png",
@@ -231,10 +236,7 @@
     "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Cloroplastos.md",
     "Biologia/5 - Bioenergia/Respiração celular/Inibidor de cadeia respiratória.md",
     "Biologia/5 - Bioenergia/Respiração celular/2 -Ciclo de Krebs.md",
-    "Biologia/5 - Bioenergia/Respiração celular/3 -Fosforilação oxidativa.md",
-    "Biologia/5 - Bioenergia/Respiração celular/1 -Glicólise.md",
     "Biologia/Zoologia/Filho Chordata/Pasted image 20250721092646.png",
-    "Biologia/Zoologia/Cladogrâmga.png",
     "Biologia/Zoologia/Filho Chordata",
     "Calendário",
     "Química/Química orgânica/Hidrocarbonetos",
@@ -242,7 +244,6 @@
     "Redação/Redação nota mil",
     "Matemática/Geometria Espacial",
     "Ink/Writing/2025.7.16 - 12.18pm.writing",
-    "Ink/Writing/2025.7.16 - 10.15am.writing",
     "Química/Untitled.canvas",
     "Física/Caixinhas.canvas",
     "Física/Untitled.canvas",
