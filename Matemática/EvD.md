@@ -19,3 +19,13 @@
 3. F - 03:00 Combinação 
 4. V - 02:00
 5. V - 01:40 Lógica 
+
+---
+
+***22/07*** - Terça feira
+
+1. F 03:00 
+	-  Dúvida: Aplicar porcentagem no todo e nas partes é a mesma coisa? 
+	- Assunto: Porcentagem
+	-  Como foi cobrado: Entender como trabalhar com a porcentagem, descontos e acréscimos. 
+2. 
