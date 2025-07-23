@@ -14,5 +14,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Alt"
+    }
   ]
 }
