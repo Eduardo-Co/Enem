@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba9c02aa153530d4",
+        "id": "b521389688215cdb",
         "type": "tabs",
         "children": [
           {
-            "id": "272a3a87f958b644",
+            "id": "595911dacff96e8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 235.5110321044922
   },
   "right": {
     "id": "58e3cf5b5003b992",
@@ -192,15 +192,18 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "272a3a87f958b644",
+  "active": "595911dacff96e8c",
   "lastOpenFiles": [
-    "Pasted image 20250723111625.png",
-    "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
+    "Química/Funções inorgânicas/Sais/Sal.md",
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
     "Química/Química orgânica/Função oxigenadas/Função Álcool.md",
     "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
+    "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
+    "Química/img/Pasted image 20250723115437.png",
+    "Química/Química orgânica/Função oxigenadas/Untitled.md",
+    "Química/img/Pasted image 20250723111625.png",
     "Química/Química orgânica/Função oxigenadas/Função Aldeído e Cetona.md",
-    "Pasted image 20250723100100.png",
+    "Química/img/Pasted image 20250723100100.png",
     "Química/img/Pasted image 20250723095650.png",
     "Ink/Writing/2025.7.23 - 9.41am.writing",
     "Química/img/Pasted image 20250723091240.png",
@@ -223,8 +226,6 @@
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
     "Física/Quantidade de Movimento/Colisões.md",
     "Física/Dinâmica/Força elástica.md",
-    "Pasted image 20250722103424.png",
-    "Física/img/Pasted image 20250722103450.png",
     "Física/Dinâmica/Polias móveis.md",
     "Física/Dinâmica/Polia fixas.md",
     "Física/Dinâmica/Planos inclinados.md",
@@ -233,7 +234,6 @@
     "Física/Dinâmica/Atrito Estático.md",
     "Física/Dinâmica/Diagramas e tipos de problema.md",
     "Física/Dinâmica/Leis de Newton.md",
-    "Física/Dinâmica/Tipos de força e definição.md",
     "Física/Dinâmica",
     "Matemática/Untitled.canvas",
     "Biologia/Zoologia/Filho Chordata",
