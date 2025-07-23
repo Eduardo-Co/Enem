@@ -1,7 +1,16 @@
+## Probabilidade
+
+Há a necessidade de pegar o espaço amostral e fazer bonitinho
+
+
+---
+
+
+
 ***09/07*** - Quarta feira
 
 1. V - 06:07 - Geometria plana (Faltou)
-2. V - 04:49 - Geometria plana + Capacidade executar o que foi pedido com clarez
+2. V - 04:49 - Geometria plana + Capacidade executar o que foi pedido com clareza
 3. V - 01:36 - Aumento linear - pode ser uma PA
 4. V - 06:27 - Equação da circunferência e da reta - Geometria analítica 
 5. V - 02:15 - Matemática Básica 
@@ -21,12 +30,3 @@
 5. V - 01:40 Lógica 
 
 ---
-
-***22/07*** - Terça feira
-
-1. F 03:00 
-	-  Dúvida: Aplicar porcentagem no todo e nas partes é a mesma coisa? 
-	- Assunto: Porcentagem
-	-  Como foi cobrado: Entender como trabalhar com a porcentagem, descontos e acréscimos. 
-2. V
-3. F - Probabilidade sem reposição de um total; Chance de algo acontecer sucessivamente.
