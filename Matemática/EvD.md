@@ -29,4 +29,4 @@
 	- Assunto: Porcentagem
 	-  Como foi cobrado: Entender como trabalhar com a porcentagem, descontos e acréscimos. 
 2. V
-3. 
+3. F - Probabilidade sem reposição de um total; Chance de algo acontecer sucessivamente.
