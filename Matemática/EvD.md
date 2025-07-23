@@ -46,3 +46,4 @@
 6. V - 01:51 - ***Porcentagem:*** Medir grau de crescimento; 
 7. F - 01:50 - ***Conceito de número par e que possuí raiz:*** Ver os números que eram pares e possuem raízes
 	- ***Motivo do erro***: Não prestei atenção e não verifiquei a parte da raiz, realmente afobei. 
+---
