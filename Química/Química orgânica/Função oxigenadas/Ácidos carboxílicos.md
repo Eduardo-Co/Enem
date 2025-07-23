@@ -34,4 +34,34 @@ Ele é formado pela neutralização de um ácido carboxílico, onde o ácido per
 
 Usa-se nome do ácido correspondente, substituindo-se o ***-ICO*** por ***-ATO***.
 
+### Características dos Sais de ácidos graxos
+
+- Sólidos em temperatura ambientes 
+- Não voláteis, ou seja, não evaporam.
+- Sais de ácidos carboxílicos de ***cadeia longa*** (ácidos graxos) são denominados de  ***sabões***. 
+
+### Como é formada a reação de saponificação?
+
+1. Óleo/Gordura -> Hidrólise -> Glicerina + Ácido Graxo
+2. Pega o ácido graxo e neutraliza com soda cáustica -> sabão + água. 
+
+### Estrutura do Sabão
+
+Possui uma parte apolar -> solúvel em óleos e gorduras
+Possui parte polar -> solúvel em água (Grupo funcional da hidroxila COOH)
+
+### Por que o sabão limpa?
+
+A parte apolar do sabão reage com a gordura e encapsula.
+
 ---
+## Anidrido de ácido carbóxilico
+
+***Produto de uma desidratação,*** duas moléculas de ácido carboxílico reagem e ***PERDEM O H e 1 O***, liberando água. 
+
+### Nomenclatura:
+
+Anidrido + nome do ácido corresponde 
+
+![[Pasted image 20250723121637.png]]
+
