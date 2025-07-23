@@ -7,7 +7,7 @@
 ---
 ## Probabilidade
 
-1. Questão para contar de maneiras o evento ocorre. Isso influ
+1. Questão para contar de maneiras o evento ocorre e calcular a probabilidade a partir disso.
 
 ---
 
@@ -38,7 +38,11 @@
 ---
 ***23/07*** - Quarta feira
 
-1. V - 02:00 - Lógica
-2. V - 05:00 - Geometria plana; Como achar área de triângulos isósceles apenas com os catetos iguais - Consegui, mas por pouco, não li no enunciado que o triângulo isósceles era retângulo - Prestar mais atenção à isso. 
-3. V - 03:00 - Interpretação de gráfico básica
-4. V - 02:00 - Fazer média 
+1. V - 02:00 - ***Lógica***
+2. V - 05:00 - ***Geometria Plana:*** Área de triângulo isóceles
+3. V - 03:00 - ***Interpretação de gráfico básica***
+4. V - 02:00 - ***Medidas de tendência central:*** Fazer média; Custo benefício 
+5. V - 01:16 - ***Geometria plana:*** área de círculo; 
+6. V - 01:51 - ***Porcentagem:*** Medir grau de crescimento; 
+7. F - 01:50 - ***Conceito de número par e que possuí raiz:*** Ver os números que eram pares e possuem raízes
+	- ***Motivo do erro***: Não prestei atenção e não verifiquei a parte da raiz, realmente afobei. 
