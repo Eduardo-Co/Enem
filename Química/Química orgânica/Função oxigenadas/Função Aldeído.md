@@ -17,14 +17,21 @@ Aldeídos são compostos orgânicos que apresentam grupo ***CARBONILA***, ele es
 ---
 # Cetona:
 
-Cetonas são compostos orgânicos que apresentam o grupo ***CARBONILA*** ligado entre ***DOIS ÁTOMOS DE CARBONOS***. Veja que tem que haver uma ligação dupla com oxigênio e dois carbonos.
-
+Cetonas são compostos orgânicos que apresentam o grupo ***CARBONILA*** ligado entre ***DOIS ÁTOMOS DE CARBONOS***.
 ***-CO-*** 
 
 ![[Pasted image 20250723100100.png]]
 
+---
 ## Nomenclatura:
 
 ***PREFIXO + INFIXO + ONA***
 
 ---
+## Nomenclatura usual:
+
+***Cetona*** + grupos ligados à carbonila (cetona) + ílica
+
+---
+
+
