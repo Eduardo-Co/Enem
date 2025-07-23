@@ -2,6 +2,8 @@
 
 Compostos orgânicos que contém grupos hidroxila, ligados ***DIRETAMENTE A ÁTOMOS DE CARBONOS SATURADOS.***
 
+***Grupo hidroxila***
+
 ---
 ## Classificações do Álcoois:
 
@@ -58,4 +60,11 @@ Ponto de ebulição ***normalmente mais elevado*** se comparado a outros compost
 
 Extremamente tóxico, ao ingerir, além disso, a chama da queima do metanol é ***invisível aos olhos***.
 
-## 
+## Etanol:
+
+Produzido por meio de fermentação. Pode ser a partir da sacarose ou (Glicose/Frutose). No final é a fermentação que forma o ácido pirúvico e na falta de oxigênio produz o etanol. 
+
+## Álcool anidro: Puro sem água, mistura-se com gasolina
+## Álcool hidratado: Mistura com água, vendido em limpeza, gel, bebidas alcoólicas e etc..
+
+---
