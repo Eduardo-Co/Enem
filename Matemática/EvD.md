@@ -1,7 +1,13 @@
+## Tipos de questões:
+
+### Média:
+
+1. Tabela para escolher aquela que possui melhor custo-benefício, basta somar. 
+
+---
 ## Probabilidade
 
-Há a necessidade de pegar o espaço amostral e fazer bonitinho
-
+1. Questão para contar de maneiras o evento ocorre. Isso influ
 
 ---
 
@@ -30,3 +36,9 @@ Há a necessidade de pegar o espaço amostral e fazer bonitinho
 5. V - 01:40 Lógica 
 
 ---
+***23/07*** - Quarta feira
+
+1. V - 02:00 - Lógica
+2. V - 05:00 - Geometria plana; Como achar área de triângulos isósceles apenas com os catetos iguais - Consegui, mas por pouco, não li no enunciado que o triângulo isósceles era retângulo - Prestar mais atenção à isso. 
+3. V - 03:00 - Interpretação de gráfico básica
+4. V - 02:00 - Fazer média 
