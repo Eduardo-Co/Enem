@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "EvD"
             }
+          },
+          {
+            "id": "8bafd24233972963",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +205,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "a74ba70cc5418ed0",
+  "active": "8bafd24233972963",
   "lastOpenFiles": [
-    "Matemática/Geometria plana/Untitled Kanban.md",
     "Matemática/EvD.md",
+    "Matemática/Geometria plana/Untitled Kanban.md",
     "Física/Dinâmica/Untitled Kanban.md",
     "Física/Dinâmica/De questões/Decomposição Vetorial.md",
     "Física/img/Pasted image 20250722191557.png",
