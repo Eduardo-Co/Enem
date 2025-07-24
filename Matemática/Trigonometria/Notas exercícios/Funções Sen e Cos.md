@@ -20,3 +20,7 @@ A função Sen/Cos tem seu mínimo e máximo definido entre 1 e -1, então, não
 - o X altera o período
 - o B altera até onde ela ira (uma vez q ela só alterna entre e 1 e -1)
 - o A define um ponto de partida para ela, é a ***média entre o mínimo e o máximo.*** 
+
+Sabendo isso você entendeu a função $sin$ e a função $cos$
+
+---

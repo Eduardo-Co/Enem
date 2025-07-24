@@ -26,26 +26,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "804ff0ee63eec0c7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "183ab56a7efc5e31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matemática/Trigonometria/Notas exercícios/Funções Sen e Cos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Funções Sen e Cos"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -216,10 +196,10 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "520d63d22b57ca04",
+  "active": "ee170bc373330949",
   "lastOpenFiles": [
-    "Matemática/Trigonometria/Questões.md",
     "Matemática/Trigonometria/Notas exercícios/Funções Sen e Cos.md",
+    "Matemática/Trigonometria/Questões.md",
     "Matemática/Trigonometria/Notas exercícios/Cohi Cahi Coca - Cai bastante; principalmente em triângulos (30°,60°,90°).md",
     "Matemática/Trigonometria/Notas exercícios",
     "Matemática/Trigonometria/Radiano.md",
