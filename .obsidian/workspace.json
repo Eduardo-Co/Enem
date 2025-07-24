@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Trigonometria/Lei dos Cossenos e Áreas.md",
+                "file": "Matemática/Trigonometria/Cotangente Secante e Cossecante.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lei dos Cossenos e Áreas"
+              "title": "Cotangente Secante e Cossecante"
             }
           }
         ]
@@ -192,10 +192,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "20b4fce5db701f68",
+  "active": "c50e5038cfc5e04c",
   "lastOpenFiles": [
-    "Matemática/Trigonometria/Lei das Áreas.md",
     "Matemática/Trigonometria/Lei dos Cossenos e Áreas.md",
+    "Matemática/Trigonometria/Cotangente Secante e Cossecante.md",
+    "Matemática/Trigonometria/Lei das Áreas.md",
     "Matemática/Trigonometria/Arcos de uma circunferÊncia.md",
     "Pasted image 20250724091336.png",
     "Pasted image 20250724091027.png",
@@ -234,7 +235,6 @@
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
     "Física/Quantidade de Movimento/Colisões.md",
     "Física/Dinâmica/Força elástica.md",
-    "Física/Dinâmica/Polias móveis.md",
     "Física/Dinâmica",
     "Matemática/Untitled.canvas",
     "Biologia/Zoologia/Filho Chordata",
