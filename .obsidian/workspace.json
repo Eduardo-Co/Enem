@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Trigonometria/Radiano.md",
+                "file": "Matemática/Trigonometria/Lei dos Cossenos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Radiano"
+              "title": "Lei dos Cossenos"
             }
           }
         ]
@@ -194,9 +194,13 @@
   },
   "active": "c50e5038cfc5e04c",
   "lastOpenFiles": [
+    "Matemática/Trigonometria/Arcos de uma circunferÊncia.md",
+    "Matemática/Trigonometria/Lei dos Cossenos.md",
+    "Pasted image 20250724091336.png",
+    "Pasted image 20250724091027.png",
+    "Matemática/Trigonometria/Radiano.md",
     "Pasted image 20250724083952.png",
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
-    "Matemática/Trigonometria/Radiano.md",
     "Matemática/Trigonometria",
     "Química/Química orgânica/Função oxigenadas/Função Éter.md",
     "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
@@ -216,10 +220,7 @@
     "Química/img/Pasted image 20250723115437.png",
     "Química/img/Pasted image 20250723111625.png",
     "Química/img/Pasted image 20250723100100.png",
-    "Química/img/Pasted image 20250723095650.png",
     "Ink/Writing/2025.7.23 - 9.41am.writing",
-    "Química/img/Pasted image 20250723091240.png",
-    "Química/img/Pasted image 20250723093546.png",
     "Matemática/EvD.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Química orgânica/Função oxigenadas",
@@ -234,7 +235,6 @@
     "Física/Dinâmica/Força elástica.md",
     "Física/Dinâmica/Polias móveis.md",
     "Física/Dinâmica/Polia fixas.md",
-    "Física/Dinâmica/Planos inclinados.md",
     "Física/Dinâmica",
     "Matemática/Untitled.canvas",
     "Biologia/Zoologia/Filho Chordata",
