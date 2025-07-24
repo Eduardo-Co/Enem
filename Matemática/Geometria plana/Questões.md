@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] Triângulo retângulo isósceles
 - [ ] [[Comparação entre quadrilátero de diferentes ângulos e quadrado.]]
+- [ ] Descobrir sen, cos, tg, a partir de triângulos
+- [ ] Funções trigonométricas: sen
 
 
 ## Revisados
@@ -17,6 +19,7 @@ kanban-plugin: board
 
 ## Errados NOVAMENTE, incluir resumo!
 
+- [ ] Funções trigonométricas: sen
 
 
 
