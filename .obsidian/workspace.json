@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Relação fundamental da trigonometria"
             }
+          },
+          {
+            "id": "d62b1b6020e09160",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +206,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "c50e5038cfc5e04c",
+  "active": "d62b1b6020e09160",
   "lastOpenFiles": [
-    "Pasted image 20250724083952.png",
     "Matemática/Trigonometria/Relação fundamental da trigonometria.md",
+    "Matemática/Trigonometria/Função sen.md",
+    "Pasted image 20250724083952.png",
     "Pasted image 20250724095932.png",
     "Matemática/Trigonometria/Cotangente Secante e Cossecante.md",
     "Matemática/Trigonometria/Lei dos Cossenos e Áreas.md",
