@@ -6,11 +6,16 @@ kanban-plugin: board
 
 ## O que cai
 
-- [ ] Triângulo retângulo isósceles - Prestar atenção que ele é retângulo; geralmente é dado o cateto igual
+- [ ] Triângulo retângulo isósceles
 - [ ] [[Comparação entre quadrilátero de diferentes ângulos e quadrado.]]
 
 
-## Faltou das questões
+## Revisados
+
+- [ ] Desconhecer como se calcula área de um paralelogramo
+
+
+## Errados NOVAMENTE, incluir resumo!
 
 
 
@@ -18,6 +23,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

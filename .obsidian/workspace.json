@@ -18,6 +18,7 @@
                   "kanban-plugin": "board",
                   "list-collapse": [
                     false,
+                    false,
                     false
                   ]
                 }
@@ -83,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3705a3db096f470c",
