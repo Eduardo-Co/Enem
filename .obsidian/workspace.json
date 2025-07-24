@@ -11,20 +11,14 @@
             "id": "ee170bc373330949",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Geometria plana/Questões.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Calendário/2025-07-24.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Questões"
+              "icon": "lucide-file",
+              "title": "2025-07-24"
             }
           }
         ]
@@ -100,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Geometria plana/Questões.md",
+                "file": "Calendário/2025-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Questões"
+              "title": "Backlinks for 2025-07-24"
             }
           },
           {
@@ -148,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática/Geometria plana/Questões.md",
+                "file": "Calendário/2025-07-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Questões"
+              "title": "Outline of 2025-07-24"
             }
           },
           {
@@ -167,12 +161,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +184,9 @@
   },
   "active": "ee170bc373330949",
   "lastOpenFiles": [
+    "Calendário/2025-07-19.md",
+    "Calendário/2025-07-24.md",
+    "Matemática/Geometria plana/Questões.md",
     "Matemática/Geometria plana/Notas de cada questão/Comparação entre quadrilátero de diferentes ângulos e quadrado..md"
   ]
 }
