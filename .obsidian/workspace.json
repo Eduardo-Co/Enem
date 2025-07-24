@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Trigonometria/Cotangente Secante e Cossecante.md",
+                "file": "Matemática/Trigonometria/Relação fundamental da trigonometria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cotangente Secante e Cossecante"
+              "title": "Relação fundamental da trigonometria"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5110321044922
+    "width": 270.51103591918945
   },
   "right": {
     "id": "58e3cf5b5003b992",
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,14 +195,16 @@
   },
   "active": "c50e5038cfc5e04c",
   "lastOpenFiles": [
-    "Matemática/Trigonometria/Lei dos Cossenos e Áreas.md",
+    "Pasted image 20250724083952.png",
+    "Matemática/Trigonometria/Relação fundamental da trigonometria.md",
+    "Pasted image 20250724095932.png",
     "Matemática/Trigonometria/Cotangente Secante e Cossecante.md",
+    "Matemática/Trigonometria/Lei dos Cossenos e Áreas.md",
     "Matemática/Trigonometria/Lei das Áreas.md",
     "Matemática/Trigonometria/Arcos de uma circunferÊncia.md",
     "Pasted image 20250724091336.png",
     "Pasted image 20250724091027.png",
     "Matemática/Trigonometria/Radiano.md",
-    "Pasted image 20250724083952.png",
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
     "Matemática/Trigonometria",
     "Química/Química orgânica/Função oxigenadas/Função Éter.md",
@@ -221,7 +224,6 @@
     "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
     "Química/img/Pasted image 20250723115437.png",
     "Química/img/Pasted image 20250723111625.png",
-    "Química/img/Pasted image 20250723100100.png",
     "Ink/Writing/2025.7.23 - 9.41am.writing",
     "Matemática/EvD.md",
     "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -233,8 +235,6 @@
     "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Física/Cinemática/Movimentos Uniformes.md",
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
-    "Física/Quantidade de Movimento/Colisões.md",
-    "Física/Dinâmica/Força elástica.md",
     "Física/Dinâmica",
     "Matemática/Untitled.canvas",
     "Biologia/Zoologia/Filho Chordata",
