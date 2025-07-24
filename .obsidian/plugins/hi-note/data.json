@@ -515,6 +515,28 @@
         "isCloze": false,
         "filePath": "Química/Química orgânica/Função oxigenadas/Função Éster.md"
       }
+    },
+    "Matemática/Geometria plana/Untitled Kanban 1.md": {
+      "highlight-1753368120278-51": {
+        "text": "Comparação entre quadrilátero de diferentes ângulos e quadrado.",
+        "position": 51,
+        "paragraphOffset": 45,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753368120278-51",
+        "comments": [
+          {
+            "id": "comment-1753368168024-q1y6ngo33",
+            "content": "A resposta para isso é simples, ele terá sempre área menor que o quadrado. Mas para descobrir a área terá que isolar os triângulos e fazer a área do quadrado + a área dos triângulos",
+            "createdAt": 1753368168024,
+            "updatedAt": 1753368168024
+          }
+        ],
+        "createdAt": 1753368120278,
+        "updatedAt": 1753368168025,
+        "originalLength": 67,
+        "isCloze": false,
+        "filePath": "Matemática/Geometria plana/Untitled Kanban 1.md"
+      }
     }
   }
 }
