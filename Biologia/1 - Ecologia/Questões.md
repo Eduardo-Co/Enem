@@ -32,6 +32,9 @@ kanban-plugin: board
 - [ ] Impactos ambientais: Agrotóxico
 - [ ] Geração energia/Impactos Ambientais: Usinas nucleares
 - [ ] Impactos Ambientais: Maré negra
+- [ ] Ecossistema: Aumento do calor, provoca mudanças nas espécies, aumento populacional de águas-vivas
+- [ ] Relações Ecológicas + Ciclo biogeoquímico + Fotossíntese/Liberação de gases pelos produtores/algas
+- [ ] Rotação de culturas
 
 
 ## O que eu errei
@@ -50,6 +53,7 @@ kanban-plugin: board
 ## Com certeza devo estudar
 
 - [ ] Ciclos Biogeoquímicos
+- [ ] Rotação de culturas
 
 
 
