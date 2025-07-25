@@ -17,6 +17,9 @@ kanban-plugin: board
 - [ ] Ciclos Biogeoquímicos: Todos juntos
 - [ ] Sucessão ecológica: Função das plantas pioneiras na Ecese
 - [ ] Ciclos Biogeoquímicos: Nitrogênio
+- [ ] Impactos ambientais: Chuva ácida, o que a acidifica?
+- [ ] Impactos ambientais: Restauração de danos ao oceano, acidificação dos oceanos
+- [ ] Relações ecológicas: competição interespecífica
 
 
 ## O que eu errei
