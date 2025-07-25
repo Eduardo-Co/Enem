@@ -25,6 +25,13 @@ kanban-plugin: board
 - [ ] Sucessão ecológica: Características da vegetação pioneira (Ecese)
 - [ ] Impactos Ambientais: Papel do enxofre
 - [ ] Impactos Ambientais: Controle biológico
+- [ ] Biomas: Todos
+- [ ] Impactos ambientais: Corredores ecológicos
+- [ ] Ciclos Biogeoquímicos: Processo de Nitrificação
+- [ ] Impactos ambientais: Eutrofização
+- [ ] Impactos ambientais: Agrotóxico
+- [ ] Geração energia/Impactos Ambientais: Usinas nucleares
+- [ ] Impactos Ambientais: Maré negra
 
 
 ## O que eu errei
@@ -32,6 +39,7 @@ kanban-plugin: board
 - [ ] Impactos hidrelétricas
 - [ ] Tratamento de recursos hídricos - falta de interpretação de questões, não considerar
 - [ ] Ciclos Biogeoquímicos
+- [ ] Ciclos Biogeoquímicos: Processo de Nitrificação - Burrice dava para ter acertado sem saber, mas é bom estudar
 
 
 ## Sugestão
