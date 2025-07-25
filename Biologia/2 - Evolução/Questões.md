@@ -18,6 +18,7 @@ kanban-plugin: board
 - [ ] Conquista Terrestre: Pelas plantas - tubo polínico
 - [ ] Evolução: Motivo da morte dos dinossauros
 - [ ] Especiação: Fluxo gênico e isolamento reprodutivo
+- [ ] Evolução biológica: Diferenciação entre mamíferos, menos e mais da amamentação
 
 
 ## O que eu errei
