@@ -12,6 +12,12 @@ kanban-plugin: board
 - [ ] Período Glacial e Interglacial: Adaptação das plantas
 - [ ] Origem da vida: Primeiros indícios de vida
 - [ ] Seleção artificial: Cães
+- [ ] Neodarwinismo: Variação genética
+- [ ] Seleção Natural: Vermes Schistosoma
+- [ ] Teoria evolutiva: Cloroplastos e mitocôndrias
+- [ ] Conquista Terrestre: Pelas plantas - tubo polínico
+- [ ] Evolução: Motivo da morte dos dinossauros
+- [ ] Especiação: Fluxo gênico e isolamento reprodutivo
 
 
 ## O que eu errei
