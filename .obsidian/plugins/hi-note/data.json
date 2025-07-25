@@ -653,6 +653,12 @@
         "id": "highlight-1753444834908-1178",
         "comments": [
           {
+            "id": "comment-1753445897070-j6iwn18lc",
+            "content": "Aqui temos outro período muito longo. Poderia ter resolvido da seguinte forma: \"Esse panorama evidencia o pouco engajamento das mulheres na administração pública, ocasionado pela falta de identificação com meio. Isso se deve por elas não encontrarem alguém em que se espelhar ou de quem se inspirar; esse fator dificulta sua entrada na política.",
+            "createdAt": 1753445897070,
+            "updatedAt": 1753445897070
+          },
+          {
             "id": "comment-1753444841046-kiqbf3mj0",
             "content": "O período realmente ficou muito grande. Poderia ter quebrado da seguinte forma: \"Nesse sentido, a invisibilidade da mulher na política é consequência do preconceito que ainda perdura na sociedade. Por conseguinte, deputadas e senadoras são silenciadas e aquelas que aspiram à vida política são desestimuladas por estigmas sociais que afirmam que seu lugar é outro.\"",
             "createdAt": 1753444841046,
@@ -660,7 +666,7 @@
           }
         ],
         "createdAt": 1753444834908,
-        "updatedAt": 1753444841046,
+        "updatedAt": 1753445897070,
         "originalLength": 5,
         "isCloze": false,
         "filePath": "Redação/Eu/Minhas redações.md"
@@ -722,6 +728,26 @@
         "createdAt": 1753444943466,
         "updatedAt": 1753445026728,
         "originalLength": 63,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações.md"
+      },
+      "highlight-1753445951773-2006": {
+        "text": "fazendo uma ligação com os grandes feitos da ciência e da história proporcionados por elas",
+        "position": 2006,
+        "paragraphOffset": 1843,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753445951773-2006",
+        "comments": [
+          {
+            "id": "comment-1753445964096-jaxw58q47",
+            "content": "Consegui exemplificar a ação, MUITO BOM",
+            "createdAt": 1753445964096,
+            "updatedAt": 1753445964096
+          }
+        ],
+        "createdAt": 1753445951773,
+        "updatedAt": 1753445964096,
+        "originalLength": 94,
         "isCloze": false,
         "filePath": "Redação/Eu/Minhas redações.md"
       }
