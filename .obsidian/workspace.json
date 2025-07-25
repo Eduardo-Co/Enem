@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Biologia/1 - Ecologia/Questões.md",
+                "file": "Biologia/2 - Evolução/Questões.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -212,9 +212,11 @@
   },
   "active": "90ff1217e01ad102",
   "lastOpenFiles": [
+    "Biologia/1 - Ecologia/Questões.md",
+    "Biologia/2 - Evolução/Questões.md",
+    "Biologia/2 - Evolução/Tipos de seleção natural.md",
     "Biologia/1 - Ecologia/Teste de Ecologia.md",
     "Biologia/Untitled Kanban.md",
-    "Biologia/1 - Ecologia/Questões.md",
     "Redação/Eu/Minhas redações.md",
     "Ink/Writing/2025.7.25 - 13.26pm.writing",
     "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
