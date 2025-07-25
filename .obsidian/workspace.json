@@ -11,18 +11,14 @@
             "id": "ee170bc373330949",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Trigonometria/Questões.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "Redação/Eu/Minhas redações.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Questões"
+              "icon": "lucide-file",
+              "title": "Minhas redações"
             }
           }
         ]
@@ -174,9 +170,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "db16eb30a672045d",
+            "type": "leaf",
+            "state": {
+              "type": "comment-view",
+              "state": {},
+              "icon": "highlighter",
+              "title": "HiNote"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -196,10 +202,15 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "ee170bc373330949",
+  "active": "db16eb30a672045d",
   "lastOpenFiles": [
-    "Matemática/Trigonometria/Notas exercícios/Funções Sen e Cos.md",
+    "Redação/Eu/Untitled Kanban.md",
+    "Redação/Eu/Minhas redações.md",
+    "Redação/Eu/Progressão Enem e testes.md",
+    "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
+    "Redação/Eu/Meus repertórios.md",
     "Matemática/Trigonometria/Questões.md",
+    "Matemática/Trigonometria/Notas exercícios/Funções Sen e Cos.md",
     "Matemática/Trigonometria/Notas exercícios/Cohi Cahi Coca - Cai bastante; principalmente em triângulos (30°,60°,90°).md",
     "Matemática/Trigonometria/Notas exercícios",
     "Matemática/Trigonometria/Radiano.md",

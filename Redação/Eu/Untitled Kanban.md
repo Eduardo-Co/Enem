@@ -13,10 +13,15 @@ kanban-plugin: board
 
 
 
+## Progressão de nota
+
+- [ ] 960
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
