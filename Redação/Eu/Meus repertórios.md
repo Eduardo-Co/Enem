@@ -23,6 +23,9 @@
 # Meio Ambiente
 - [CF/88 – Proteção Ambiental (Art. 225 I-IV, VI)](#resumo-cf-meio-ambiente)
 
+# Culpar máquina estatal 
+- [Bauman – Ferramenta Estatal Zumbi](##resumo-bauman-zumbi)
+
 ---
 
 ## Resumo: O Feijão e o Sonho ^resumo-feijao-sonho
@@ -80,3 +83,8 @@
 
 
 
+
+## Resumo: Bauman – Ferramenta Estatal Zumbi ^resumo-bauman-zumbi
+- **Conceito:** "Ferramenta estatal" em estado de zumbi: o Estado‑nação mantém suas estruturas formais, porém já não exerce plenamente suas funções de proteção e regulação.  
+- **Causas:** Deslocamento do poder econômico‑financeiro para corporações e fluxos transnacionais na modernidade líquida.  
+- **Uso na redação:** Amparar discussões sobre crise do Estado, governança global e políticas públicas ineficazes frente à globalização.
