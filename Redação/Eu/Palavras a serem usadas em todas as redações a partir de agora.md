@@ -14,3 +14,8 @@
 - Nação
 - País
 ---
+
+## Causa da problemática:
+
+- Desafios sustentados por...
+- 
