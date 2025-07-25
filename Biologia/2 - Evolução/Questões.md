@@ -9,10 +9,15 @@ kanban-plugin: board
 - [ ] Carbonífero: Presença de oxigênio
 - [ ] Seleção Natural: Super-Bactérias
 - [ ] Surgimento da vida: Refutação da teoria da geração espontânea
+- [ ] Período Glacial e Interglacial: Adaptação das plantas
+- [ ] Origem da vida: Primeiros indícios de vida
+- [ ] Seleção artificial: Cães
 
 
 ## O que eu errei
 
+- [ ] Período Glacial e Interglacial: Adaptação das plantas
+- [ ] Seleção artificial: Cães - Questão meio viajada
 
 
 ## Sugestão
