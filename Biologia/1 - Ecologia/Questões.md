@@ -20,6 +20,11 @@ kanban-plugin: board
 - [ ] Impactos ambientais: Chuva ácida, o que a acidifica?
 - [ ] Impactos ambientais: Restauração de danos ao oceano, acidificação dos oceanos
 - [ ] Relações ecológicas: competição interespecífica
+- [ ] Impactos ambientais: Inibição de fotossíntese pela adição de poluentes aos rios
+- [ ] Impactos Ambientais: Reciclagem
+- [ ] Sucessão ecológica: Características da vegetação pioneira (Ecese)
+- [ ] Impactos Ambientais: Papel do enxofre
+- [ ] Impactos Ambientais: Controle biológico
 
 
 ## O que eu errei
