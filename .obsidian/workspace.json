@@ -11,21 +11,14 @@
             "id": "90ff1217e01ad102",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/2 - Evolução/Questões.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Questões"
+              "icon": "lucide-file",
+              "title": "2024 - Desafios para a valorização da herança africana no Brasil"
             }
           }
         ]
@@ -212,15 +205,15 @@
   },
   "active": "90ff1217e01ad102",
   "lastOpenFiles": [
-    "Biologia/1 - Ecologia/Questões.md",
+    "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
+    "Redação/Eu/Minhas redações.md",
     "Biologia/2 - Evolução/Questões.md",
+    "Biologia/1 - Ecologia/Questões.md",
     "Biologia/2 - Evolução/Tipos de seleção natural.md",
     "Biologia/1 - Ecologia/Teste de Ecologia.md",
     "Biologia/Untitled Kanban.md",
-    "Redação/Eu/Minhas redações.md",
     "Ink/Writing/2025.7.25 - 13.26pm.writing",
     "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
-    "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
     "Redação/Eu/Meus repertórios.md",
     "Calendário/2025-07-25.md",
     "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'",
