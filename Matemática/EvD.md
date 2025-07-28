@@ -47,3 +47,7 @@
 7. F - 01:50 - ***Conceito de número par e que possuí raiz:*** Ver os números que eram pares e possuem raízes
 	- ***Motivo do erro***: Não prestei atenção e não verifiquei a parte da raiz, realmente afobei. 
 ---
+
+***28/07*** - Segunda feira
+
+1. V - 07:43 - ***Porcentagem + Lógica:*** Questão que envolve vários passos para ser resolvida, incluindo porcentagem. Bem longa. 
