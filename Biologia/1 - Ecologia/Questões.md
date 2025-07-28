@@ -35,6 +35,7 @@ kanban-plugin: board
 - [ ] Ecossistema: Aumento do calor, provoca mudanças nas espécies, aumento populacional de águas-vivas
 - [ ] Relações Ecológicas + Ciclo biogeoquímico + Fotossíntese/Liberação de gases pelos produtores/algas
 - [ ] Rotação de culturas
+- [ ] ***Bioma***: Cerrado (Ceras) - Espinhos não combinam com cerrado.
 
 
 ## O que eu errei
@@ -43,6 +44,7 @@ kanban-plugin: board
 - [ ] Tratamento de recursos hídricos - falta de interpretação de questões, não considerar
 - [ ] Ciclos Biogeoquímicos
 - [ ] Ciclos Biogeoquímicos: Processo de Nitrificação - Burrice dava para ter acertado sem saber, mas é bom estudar
+- [ ] ***Bioma***: Cerrado (Ceras) - Espinhos não combinam com cerrado.
 
 
 ## Sugestão
@@ -54,6 +56,7 @@ kanban-plugin: board
 
 - [ ] Ciclos Biogeoquímicos
 - [ ] Rotação de culturas
+- [ ] Biomas
 
 
 
