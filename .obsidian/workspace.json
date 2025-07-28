@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/6 - Micologia/Fungos.md",
+                "file": "Biologia/Monera/Reprodução de Bactérias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fungos"
+              "title": "Reprodução de Bactérias"
             }
           }
         ]
@@ -205,6 +205,11 @@
   },
   "active": "f8552bf55d1b799a",
   "lastOpenFiles": [
+    "Biologia/Monera/Bactérias.md",
+    "Biologia/Monera/CianoBactérias.md",
+    "Biologia/Monera/Archeas.md",
+    "Biologia/6 - Micologia/Líquens.md",
+    "Biologia/6 - Micologia/Fungos.md",
     "Biologia/1 - Ecologia/Questões.md",
     "Biologia/Sistemas corpo Humano/Sistema Digestório/Untitled Kanban.md",
     "Pasted image 20250728162839.png",
@@ -237,10 +242,6 @@
     "Calendário/2025-07-25.md",
     "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'",
     "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
-    "Redação/Eu/Progressão Enem e testes.md",
-    "Redação/Eu/Untitled Kanban.md",
-    "Matemática/Trigonometria/Questões.md",
-    "Matemática/Trigonometria/Notas exercícios/Funções Sen e Cos.md",
     "Matemática/Trigonometria/Notas exercícios"
   ]
 }
