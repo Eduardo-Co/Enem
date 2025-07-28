@@ -90,4 +90,19 @@ O pâncreas está conectado Duodeno do intestino delgado.
 	- Nucleases:
 
 - ***Suco pancreático: Bicarbonato de Sódio + Enzimas digestivas***
+---
+---
+## Fígado - Função exócrina:
 
+- Produz **bile**, que é armazenada na **vesícula biliar** e liberada no **duodeno** (intestino delgado, mesma região do suco pancreático).
+
+- A bile **não é enzimática**, mas atua na **digestão de lipídios** por **emulsificação** – quebra de grandes gotículas de gordura em partículas menores, facilitando a ação da **lipase pancreática**.
+
+- A bile contém: **sais biliares, colesterol, pigmentos (como a bilirrubina)**, entre outros.
+	- bilirrubina: pigmento verde.
+
+- Também atua na **excreção de substâncias tóxicas**, como restos de medicamentos e bilirrubina (produto da degradação da hemoglobina).
+
+- Apesar de não conter enzimas, a bile é **essencial para a digestão e absorção de gorduras**.
+
+---
