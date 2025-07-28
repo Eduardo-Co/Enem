@@ -158,3 +158,10 @@ Muitas bactérias, fungos e protozoários - Aqui há a presença da ***microbiot
 - Eliminação das fezes
 
 ---
+## Hormônios:
+
+Regulam o começo e o término de processos biológicos.
+
+## Gastrina:
+
+Produzida no estômago, quando há a chegada de alimento no nele. 
