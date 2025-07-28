@@ -51,3 +51,6 @@
 ***28/07*** - Segunda feira
 
 1. V - 07:43 - ***Porcentagem + Lógica:*** Questão que envolve vários passos para ser resolvida, incluindo porcentagem. Bem longa. 
+2. V - 02:00 - ***Medidas de tendência central:*** mediana
+3. V - 06:00 - ***Operações básicas e lógica:*** Questão que envolvia achar frações de um todo, achar a quantidade liberada de acionamentos de um inseticida em um tempo. 
+4. 
