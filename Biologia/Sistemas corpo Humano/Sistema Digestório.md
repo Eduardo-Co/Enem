@@ -66,13 +66,14 @@ No estômago há:
 - Células principais: pepsina
 - Células Parietais: ácido clorídrico 
 
-A mistura de muco, pepsina e ácido clorídrico forma o suco gástrico.
+A mistura de ***muco***, ***pepsina*** e ***ácido clorídrico*** forma o ***suco gástrico.***
 
-***O estômago é protegido com muco, camada bem grossa, para proteger da ação de enzimas e da acidez do suco gástrico.***
+O estômago é protegido com ***muco***, camada bem grossa, para proteger da ação de enzimas e da acidez do suco gástrico.
 
-A liberação de ácido clorídrico e pepsina não é feita em seu estado final dentro das células, se não elas morreriam, então por isso elas liberam só os elementos (H e Cl) e pepsinogênio que está na forma inativa de pepsina.
+A liberação de ácido clorídrico e pepsina ***não é feita em seu estado final*** dentro das células, se não elas morreriam, então por isso elas liberam só os elementos (H e Cl) e pepsinogênio que está na forma inativa de pepsina.
 
-***O Estômago reserva o alimento, e envia aos poucos para o intestino delgado.***
+- O Estômago reserva o alimento, e envia aos poucos para o intestino delgado.
+- ***O Álcool e a cafeína é absorvido no estômago, o restante é no intestino.***
 
 ---
 ## Pâncreas - Função exócrina:
@@ -118,4 +119,22 @@ O pâncreas está conectado Duodeno do intestino delgado.
 
 - É aqui que ocorre a excreção da bile pelo fígado e do suco pancreático pelo pâncreas. 
 
+
+![[Pasted image 20250728100931.png]]
+
+## Jejuno:
+
+Aqui ocorrerá de fato a absorção dos nutrientes, através da parede do intestino. Ela é facilitada devido as evaginações, chamadas ***vilosidades intestinais.*** 
+
+As células presentes no intestino delgado são diferentes, possuem essas vilosidades. Há uma ***super potencialização da superfícies de contato.*** 
+![[Pasted image 20250728102106.png]]
+
+Veja que dentro das vilosidades há vasos sanguíneos, os nutrientes passam por eles. 
+
+### Como os nutrientes são distribuídos? 
+
+1. Veia porta hepática -> absorvidos no intestino vão para essas veias. 
+2. 
+
+---
 
