@@ -106,3 +106,16 @@ O pâncreas está conectado Duodeno do intestino delgado.
 - Apesar de não conter enzimas, a bile é **essencial para a digestão e absorção de gorduras**.
 
 ---
+## Intestino Delgado:
+
+### Divido em três partes: Duodeno - Jejuno - Íleo
+
+### Duodeno:
+
+- Existe uma produção de suco entérico no duodeno que servem para:
+	- ***Digerir*** carboidratos, ácidos nucléicos e proteínas: Feitas pela ***sacarase, lactase e maltase, nucleotidases e peptidases***
+	- Produzir ***muco*** para evitar danos que podem ser ocasionados pela acidez do suco gástrico.
+
+- É aqui que ocorre a excreção da bile pelo fígado e do suco pancreático pelo pâncreas. 
+
+
