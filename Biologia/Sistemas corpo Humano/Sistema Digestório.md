@@ -79,3 +79,15 @@ A liberação de ácido clorídrico e pepsina não é feita em seu estado final 
 
 O pâncreas está conectado Duodeno do intestino delgado.
 
+### Excreção:
+
+- ***Bicarbonato de sódio***: Ele excreta bicarbonato para poder regular a acidez do estômago, então, quando o alimento passa no intestino delgado, não está mais tão ácido. 
+
+- ***Enzimas digestiva***:
+	- Tripsina
+	- Lipase pancreática:
+	- Amilase pancreática:
+	- Nucleases:
+
+- ***Suco pancreático: Bicarbonato de Sódio + Enzimas digestivas***
+
