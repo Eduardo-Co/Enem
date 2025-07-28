@@ -34,9 +34,7 @@ As enzimas são produtos no retículo endoplasmático rugoso, após isso são tr
 - Movimento do corpo para auxiliar na digestão/Absorção
 
 ---
-# Órgãos:
-
-## Boca:
+# Boca:
 
 - Digestão mecânica: Responsável pela trituração do alimento, aumento a superfície de contato e da quebra de ***amido*** e ***glicogênio*** (polissacarídeos de reserva energética), por meio da enzima: Amilase Salivar ou Ptialina. 
 
@@ -44,19 +42,19 @@ As enzimas são produtos no retículo endoplasmático rugoso, após isso são tr
 
 - A saliva tem ***Lisozima***, enzima de ação ***antibacteriana***. 
 ---
-## Faringe:
+# Faringe:
 
 - Caminho que leva a bifurcação entre o sistema digestório e respiratório.
 
 ---
-## Esôfago:
+# Esôfago:
 
 - Tubo, após a faringe, responsável por fazer contrações para levar o bolo alimentar para o estômago. Movimento chamado de ações peristálticas. 
 
 - A alimentação não ocorre devido a ação da gravidade, mas sim desses movimentos peristálticos. 
 
 ---
-## Estômago:
+# Estômago:
 
  - Misturar alimento com suco gástrico.
  - Reservatório do alimento, antes de ir para o intestino.
@@ -76,7 +74,7 @@ A liberação de ácido clorídrico e pepsina ***não é feita em seu estado fin
 - ***O Álcool e a cafeína é absorvido no estômago, o restante é no intestino.***
 
 ---
-## Pâncreas - Função exócrina:
+# Pâncreas - Função exócrina:
 
 O pâncreas está conectado Duodeno do intestino delgado.
 
@@ -93,7 +91,7 @@ O pâncreas está conectado Duodeno do intestino delgado.
 - ***Suco pancreático: Bicarbonato de Sódio + Enzimas digestivas***
 ---
 ---
-## Fígado - Função exócrina:
+# Fígado - Função exócrina:
 
 - Produz **bile**, que é armazenada na **vesícula biliar** e liberada no **duodeno** (intestino delgado, mesma região do suco pancreático).
 
@@ -107,7 +105,7 @@ O pâncreas está conectado Duodeno do intestino delgado.
 - Apesar de não conter enzimas, a bile é **essencial para a digestão e absorção de gorduras**.
 
 ---
-## Intestino Delgado:
+# Intestino Delgado:
 
 ### Divido em três partes: Duodeno - Jejuno - Íleo
 
@@ -133,8 +131,30 @@ Veja que dentro das vilosidades há vasos sanguíneos, os nutrientes passam por 
 
 ### Como os nutrientes são distribuídos? 
 
-1. Veia porta hepática -> absorvidos no intestino vão para essas veias. 
-2. 
+1. Intestino (capilares - vasos sanguíneos) -> veia porta hepática
+2. Veia porta hepática -> fígado; o fígado vai selecionar e filtrar essas substâncias para não transmitir nenhuma toxina. 
+3. Fígado -> coração
+4. Coração -> todos os outros órgãos. 
+
+- ***Os lipídios são enviados para o vaso linfático, não nos capilares***.
+- Os líquidos são absorvidos também no intestino delgado.
+---
+# Intestino Grosso
+
+- Absorção de água, sais minerais e vitaminas.
+- Formação e eliminação das fezes
+
+Muitas bactérias, fungos e protozoários - Aqui há a presença da ***microbiota intestinal***
+![[Pasted image 20250728103110.png]]
+## Cécum:
+- Aqui há o apêndice, vaso saindo em baixo. Ocorre pelo acúmulo de bactérias e alimentos.
+- Cécum e apêndice é um resquício evolutivo, que nos animais herbívoros é responsável pela digestão de celulose.
+
+## Cólon:
+- Absorção de águas e sais mineiras
+- Formação da fezes
+
+ ## ***Reto***:
+- Eliminação das fezes
 
 ---
-
