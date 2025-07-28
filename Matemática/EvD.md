@@ -53,4 +53,5 @@
 1. V - 07:43 - ***Porcentagem + Lógica:*** Questão que envolve vários passos para ser resolvida, incluindo porcentagem. Bem longa. 
 2. V - 02:00 - ***Medidas de tendência central:*** mediana
 3. V - 06:00 - ***Operações básicas e lógica:*** Questão que envolvia achar frações de um todo, achar a quantidade liberada de acionamentos de um inseticida em um tempo. 
-4. 
+4. V - 04:31 - ***Achar a melhor opção dentre as apresentadas:*** Preciso encontra um método que seja capaz de verificar com mais velocidade qual é a operação maior ou menor. (ENEM PPL 2° dia 2019 questão 137)
+5. 

@@ -1333,6 +1333,28 @@
         "isCloze": false,
         "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md"
       }
+    },
+    "Matemática/EvD.md": {
+      "highlight-1753714621754-2046": {
+        "text": "V - 04:31 - ***Achar a melhor opção dentre as apresentadas:*** Preciso encontra um método que seja capaz de verificar com mais velocidade qual é a operação maior ou menor. (ENEM PPL 2° dia 2019 questão 137)",
+        "position": 2046,
+        "paragraphOffset": 1681,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753714621754-2046",
+        "comments": [
+          {
+            "id": "comment-1753714631475-ck8kecn4e",
+            "content": "Olha essa solução:\n\nO subtraiu de todos na multiplicação um termo menor do que o menor, simplificando a conta. Pode fazer isso?",
+            "createdAt": 1753714631475,
+            "updatedAt": 1753715137398
+          }
+        ],
+        "createdAt": 1753714621754,
+        "updatedAt": 1753715137398,
+        "originalLength": 210,
+        "isCloze": false,
+        "filePath": "Matemática/EvD.md"
+      }
     }
   }
 }
