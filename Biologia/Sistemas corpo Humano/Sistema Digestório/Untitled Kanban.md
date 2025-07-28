@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] Onde ocorre cada digestão
 - [ ] Quais enzimas participam em cada processo digestivo
 - [ ] Função das microvilosidades intestinais - Intestino delgado
+- [ ] Atuação da enzima lipase - Atua como detergente (tensoativo)
 
 
 ## Conclusão

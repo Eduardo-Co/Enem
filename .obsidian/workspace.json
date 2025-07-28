@@ -13,17 +13,19 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Biologia/Sistemas corpo Humano/Sistema Digestório/Untitled Kanban.md",
+                "file": "Biologia/1 - Ecologia/Questões.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
                     false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "Questões"
             }
           }
         ]
@@ -209,9 +211,9 @@
   },
   "active": "f8552bf55d1b799a",
   "lastOpenFiles": [
+    "Biologia/Sistemas corpo Humano/Sistema Digestório/Untitled Kanban.md",
     "Pasted image 20250728162839.png",
     "Matemática/EvD.md",
-    "Biologia/Sistemas corpo Humano/Sistema Digestório/Untitled Kanban.md",
     "Biologia/Sistemas corpo Humano/Sistema Digestório",
     "Biologia/Sistemas corpo Humano/Sistema Digestório/Sistema Digestório.md",
     "Pasted image 20250728103110.png",
