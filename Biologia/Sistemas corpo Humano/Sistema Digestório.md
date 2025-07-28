@@ -72,4 +72,10 @@ A mistura de muco, pepsina e ácido clorídrico forma o suco gástrico.
 
 A liberação de ácido clorídrico e pepsina não é feita em seu estado final dentro das células, se não elas morreriam, então por isso elas liberam só os elementos (H e Cl) e pepsinogênio que está na forma inativa de pepsina.
 
+***O Estômago reserva o alimento, e envia aos poucos para o intestino delgado.***
+
 ---
+## Pâncreas - Função exócrina:
+
+O pâncreas está conectado Duodeno do intestino delgado.
+
