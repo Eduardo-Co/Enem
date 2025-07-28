@@ -11,21 +11,14 @@
             "id": "f8552bf55d1b799a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/1 - Ecologia/Questões.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Biologia/6 - Micologia/Fungos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Questões"
+              "icon": "lucide-file",
+              "title": "Fungos"
             }
           }
         ]
@@ -212,6 +205,7 @@
   },
   "active": "f8552bf55d1b799a",
   "lastOpenFiles": [
+    "Biologia/1 - Ecologia/Questões.md",
     "Biologia/Sistemas corpo Humano/Sistema Digestório/Untitled Kanban.md",
     "Pasted image 20250728162839.png",
     "Matemática/EvD.md",
@@ -236,7 +230,6 @@
     "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
     "Redação/Eu/Minhas redações.md",
     "Biologia/2 - Evolução/Questões.md",
-    "Biologia/1 - Ecologia/Questões.md",
     "Biologia/2 - Evolução/Tipos de seleção natural.md",
     "Biologia/1 - Ecologia/Teste de Ecologia.md",
     "Ink/Writing/2025.7.25 - 13.26pm.writing",
