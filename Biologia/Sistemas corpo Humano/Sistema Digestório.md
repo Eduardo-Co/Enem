@@ -90,7 +90,6 @@ O pâncreas está conectado Duodeno do intestino delgado.
 
 - ***Suco pancreático: Bicarbonato de Sódio + Enzimas digestivas***
 ---
----
 # Fígado - Função exócrina:
 
 - Produz **bile**, que é armazenada na **vesícula biliar** e liberada no **duodeno** (intestino delgado, mesma região do suco pancreático).
@@ -158,10 +157,50 @@ Muitas bactérias, fungos e protozoários - Aqui há a presença da ***microbiot
 - Eliminação das fezes
 
 ---
-## Hormônios:
+# ***Hormônios Digestivos***
 
-Regulam o começo e o término de processos biológicos.
+Regulam **início, duração e término** de etapas da digestão, secretando enzimas e controlando o pH e motilidade.
 
-## Gastrina:
+###  **Gastrina**
 
-Produzida no estômago, quando há a chegada de alimento no nele. 
+- **Origem**: Células G do **estômago**
+- **Estímulo**: Presença de alimento no estômago
+- **Função**: Estimula a **produção de suco gástrico (HCl)** pelas células parietais
+- **Objetivo**: Início da digestão **química** no estômago
+
+###  **Secretina**
+
+- **Origem**: Duodeno (intestino delgado)
+- **Estímulo**: **Quimo ácido** (HCl) vindo do estômago
+- **Funções**:
+    - Estimula o fígado → **produção de bile**
+    - Estimula o pâncreas → **secreção de bicarbonato** (alcaliniza o quimo)
+    - Estimula o intestino → **suco entérico**
+- **Regulação negativa**: **Inibe a gastrina**, diminuindo a acidez
+
+###  **Colecistocinina (CCK)**
+
+- **Origem**: Duodeno
+- **Estímulo**: Presença de **gorduras e proteínas** no quimo
+- **Funções**:
+    - Estimula o **pâncreas** → liberação de enzimas digestivas (amilase, tripsina, lipase)
+    - Estimula a **vesícula biliar** → **liberação de bile**
+    - Reduz a motilidade gástrica (para dar tempo à digestão no intestino)
+
+### _**Grelina**_
+
+- **Origem**: Estômago (células oxínticas)
+- **Estímulo**: **Ausência de alimento** / estômago vazio
+- **Funções**:
+    - Estimula o **apetite** (hormônio "da fome")
+    - Ativa o hipotálamo → promove **busca por alimento**
+    - Estimula liberação de **GH** (hormônio do crescimento)
+
+### _**Leptina**_
+
+- **Origem**: **Tecido adiposo** (células adiposas)
+- **Estímulo**: **Acúmulo de gordura corporal**
+- **Funções**:
+    - **Inibe o apetite** (hormônio "da saciedade")
+    - Envia sinal ao hipotálamo de que o corpo está nutrido
+    - Participa da regulação do metabolismo energético
