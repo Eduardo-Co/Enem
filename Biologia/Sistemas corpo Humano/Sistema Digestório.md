@@ -53,7 +53,23 @@ As enzimas são produtos no retículo endoplasmático rugoso, após isso são tr
 
 - Tubo, após a faringe, responsável por fazer contrações para levar o bolo alimentar para o estômago. Movimento chamado de ações peristálticas. 
 
-- A alimentação não ocorre devido a ação da gravidade, mas sim desses mov
+- A alimentação não ocorre devido a ação da gravidade, mas sim desses movimentos peristálticos. 
 
 ---
+## Estômago:
 
+ - Misturar alimento com suco gástrico.
+ - Reservatório do alimento, antes de ir para o intestino.
+
+No estômago há:
+- Células mucosas: muco
+- Células principais: pepsina
+- Células Parietais: ácido clorídrico 
+
+A mistura de muco, pepsina e ácido clorídrico forma o suco gástrico.
+
+***O estômago é protegido com muco, camada bem grossa, para proteger da ação de enzimas e da acidez do suco gástrico.***
+
+A liberação de ácido clorídrico e pepsina não é feita em seu estado final dentro das células, se não elas morreriam, então por isso elas liberam só os elementos (H e Cl) e pepsinogênio que está na forma inativa de pepsina.
+
+---
