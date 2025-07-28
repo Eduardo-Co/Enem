@@ -47,7 +47,7 @@
 		{"id":"ee44cd5291bd2b86","type":"text","text":"Biocenose / Comunidade\n","x":-5506,"y":1190,"width":250,"height":60},
 		{"id":"4002b18236030e7a","type":"text","text":"Ecologia Básica e avançada","x":-7360,"y":300,"width":250,"height":60},
 		{"id":"0317b0c798c1dc26","type":"text","text":"Evolução\n","x":-3200,"y":240,"width":250,"height":50},
-		{"id":"77a1a2ab53705c4c","type":"text","text":"Biologia\n","x":-1200,"y":-40,"width":250,"height":50},
+		{"id":"77a1a2ab53705c4c","type":"text","text":"Biologia\n","x":-1200,"y":-40,"width":160,"height":50},
 		{"id":"cb5fe4c5cebe3b15","type":"text","text":"Sucessão ecológica","x":-7484,"y":751,"width":250,"height":60},
 		{"id":"6419bf4184c36eaa","type":"text","text":"Lamarck\n","x":-3200,"y":434,"width":250,"height":60},
 		{"id":"8b3138dcb42f1a90","type":"text","text":"1° Lei : Uso e desuso ","x":-3332,"y":648,"width":250,"height":60},
@@ -175,8 +175,11 @@
 		{"id":"0c5bb5a35bba6e5a","type":"text","text":"Fungos decompositores","x":15597,"y":263,"width":250,"height":60},
 		{"id":"b4ccfe456418b780","type":"text","text":"MicroRizinas","x":15897,"y":260,"width":250,"height":60},
 		{"id":"b1f2d721e97f259d","type":"text","text":"Características Gerais","x":16197,"y":263,"width":250,"height":60},
-		{"id":"9e1ddd897a999f45","x":16497,"y":261,"width":250,"height":60,"type":"text","text":"Reprodução"},
-		{"id":"fe0815cb397931d0","x":16797,"y":260,"width":250,"height":60,"type":"text","text":"Líquens"}
+		{"id":"9e1ddd897a999f45","type":"text","text":"Reprodução","x":16497,"y":261,"width":250,"height":60},
+		{"id":"fe0815cb397931d0","type":"text","text":"Líquens","x":16797,"y":260,"width":250,"height":60},
+		{"id":"fe6589cc51cc82fd","x":-13696,"y":424,"width":250,"height":60,"type":"text","text":"Botânica"},
+		{"id":"74522e24786e1d26","x":-14615,"y":617,"width":250,"height":60,"type":"text","text":"Flor"},
+		{"id":"a2f202afb0550f5f","x":-14941,"y":783,"width":250,"height":60,"type":"text","text":"Verti"}
 	],
 	"edges":[
 		{"id":"8879b600c42c49e3","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"d0b82dd16d5a8770","toSide":"top","color":"4"},
@@ -358,6 +361,9 @@
 		{"id":"c861a295de0818c6","fromNode":"86eeb144b33d2fbd","fromSide":"bottom","toNode":"b4ccfe456418b780","toSide":"top"},
 		{"id":"aa5dd347d83a8868","fromNode":"86eeb144b33d2fbd","fromSide":"bottom","toNode":"b1f2d721e97f259d","toSide":"top"},
 		{"id":"3181116dd82b2962","fromNode":"86eeb144b33d2fbd","fromSide":"bottom","toNode":"9e1ddd897a999f45","toSide":"top"},
-		{"id":"d2a8abea5d39b04b","fromNode":"86eeb144b33d2fbd","fromSide":"bottom","toNode":"fe0815cb397931d0","toSide":"top"}
+		{"id":"d2a8abea5d39b04b","fromNode":"86eeb144b33d2fbd","fromSide":"bottom","toNode":"fe0815cb397931d0","toSide":"top"},
+		{"id":"c1ff20c84fded26f","fromNode":"77a1a2ab53705c4c","fromSide":"bottom","toNode":"fe6589cc51cc82fd","toSide":"top"},
+		{"id":"12ee69fd96150641","fromNode":"fe6589cc51cc82fd","fromSide":"bottom","toNode":"74522e24786e1d26","toSide":"top"},
+		{"id":"6fe2aaa51e9eebc5","fromNode":"74522e24786e1d26","fromSide":"bottom","toNode":"a2f202afb0550f5f","toSide":"top"}
 	]
 }
