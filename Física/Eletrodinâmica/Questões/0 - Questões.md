@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] Consumo elétrico - Potência
 - [ ] Associação Lâmpadas em Paralelo
 - [ ] Associação de Geradores - Série
+- [ ] 2° Lei de Ohm
 
 
 ## O que eu errei
