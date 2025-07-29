@@ -15,6 +15,7 @@ kanban-plugin: board
 
 ## O que eu errei
 
+- [ ] [[Associação de resistores Paralelo, saber o número máximo de resistência para uma determinada corrente e tensão. (Questão ENEM 2019 - 103, CINZA)]]
 
 
 ## Estudar
