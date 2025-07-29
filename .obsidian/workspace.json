@@ -203,45 +203,6 @@
       "hi-note:HiNote": false
     }
   },
-  "floating": {
-    "id": "1bed2f177a0f045c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9a81ff520a0a0add",
-        "type": "window",
-        "children": [
-          {
-            "id": "09a5f235c3fe7585",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0f5edb56a4e995b1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "O que Estudar/Física.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Física"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2433,
-        "y": 160,
-        "width": 758,
-        "height": 704,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
   "active": "aa2de16d78872f1b",
   "lastOpenFiles": [
     "O que Estudar/Física.md",
