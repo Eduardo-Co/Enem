@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09cd075fbe33593b",
+        "id": "227297c2ca02a405",
         "type": "tabs",
         "children": [
           {
-            "id": "78139717d8476fa8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Física/Eletrodinâmica/Questões/0 - Questões.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "0 - Questões"
-            }
-          },
-          {
-            "id": "76bd2ada09c8b82e",
+            "id": "bb8cfe3f8ff27f44",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -47,8 +27,7 @@
               "title": "Untitled Kanban"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,17 +209,17 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "76bd2ada09c8b82e",
+  "active": "bb8cfe3f8ff27f44",
   "lastOpenFiles": [
+    "Física/Eletrodinâmica/Questões/0 - Questões.md",
+    "Física/Cinemática/Questões/Untitled Kanban.md",
     "Física/Cinemática/Movimentos Uniformes.md",
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
-    "Física/Cinemática/Questões/Untitled Kanban.md",
     "Física/Cinemática/Questões/Untitled.md",
     "Física/Termologia/Questões/Untitled Kanban.md",
     "Física/Cinemática/Questões",
     "Física/Termologia/Calorimetia.md",
     "Física/Termologia/Questões/Untitled.md",
-    "Física/Eletrodinâmica/Questões/0 - Questões.md",
     "Física/Termologia/Questões",
     "Física/Eletrodinâmica/Questões/Associação de resistores Paralelo, saber o número máximo de resistência para uma determinada corrente e tensão. (Questão ENEM 2019 - 103, CINZA).md",
     "Física/Eletrodinâmica/Questões/Raciocínio para cálculo de resistência e corrente.md",
