@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "420eecf728979d24",
+        "id": "a07721bcf19c3a4c",
         "type": "tabs",
         "children": [
           {
-            "id": "418eb9c5cb56d3c9",
+            "id": "aa2de16d78872f1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/hidroestática/Teorema de Stevin.md",
+                "file": "Física/Planejamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema de Stevin"
+              "title": "Planejamento"
             }
           }
         ]
@@ -203,13 +203,59 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "418eb9c5cb56d3c9",
+  "floating": {
+    "id": "1bed2f177a0f045c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9a81ff520a0a0add",
+        "type": "window",
+        "children": [
+          {
+            "id": "09a5f235c3fe7585",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0f5edb56a4e995b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "O que Estudar/Física.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Física"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2433,
+        "y": 160,
+        "width": 758,
+        "height": 704,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "aa2de16d78872f1b",
   "lastOpenFiles": [
-    "Física/hidroestática/Pressão.md",
+    "O que Estudar/Física.md",
+    "Física/Planejamento.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/img/Pasted image 20250728100931.png",
+    "Biologia/img/Pasted image 20250728102106.png",
+    "Pasted image 20250728162839.png",
+    "Biologia/img/Pasted image 20250728103110.png",
+    "Física/Eletrodinâmica/Untitled Kanban.md",
     "Física/hidroestática/Teorema de Stevin.md",
+    "Física/hidroestática/Pressão.md",
     "Física/hid.md",
     "Física/hidroestática",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Física/gravitação/Gravitação Universal.md",
     "Biologia/8 - Botânica/Raíz.md",
     "Cronograma.md",
@@ -227,22 +273,14 @@
     "Biologia/6 - Micologia/Fungos.md",
     "Biologia/1 - Ecologia/Questões.md",
     "Biologia/Sistemas corpo Humano/Sistema Digestório/Untitled Kanban.md",
-    "Pasted image 20250728162839.png",
     "Matemática/EvD.md",
     "Biologia/Sistemas corpo Humano/Sistema Digestório",
     "Biologia/Sistemas corpo Humano/Sistema Digestório/Sistema Digestório.md",
-    "Pasted image 20250728103110.png",
-    "Pasted image 20250728102106.png",
-    "Pasted image 20250728100931.png",
     "Biologia/Untitled Kanban.md",
     "Biologia/3 - Citologia/Organelas citoplasmáticas.md",
-    "Biologia/3 - Citologia/Microscopia.md",
-    "Biologia/Untitled.md",
     "Biologia/Sistemas corpo Humano",
     "Pasted image 20250724115043.png",
     "Biologia/Zoologia/Cladogrâmga.png",
-    "Biologia/Zoologia/Filo Mollusca.md",
-    "Biologia/Zoologia/Filo Cnidaria.md",
     "Ink/Writing/2025.7.25 - 13.26pm.writing",
     "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'",
     "Matemática/Trigonometria/Notas exercícios"
