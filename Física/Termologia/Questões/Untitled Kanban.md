@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] Equilíbrio térmico: Definição
 - [ ] Dilatação térmica: Lâmina bimetálica
 - [ ] Transformações isovolumétricas em gases: Pressão geladeira
+- [ ] Calor sensível
 
 
 ## O que eu errei
