@@ -25,17 +25,14 @@
             "id": "f913e731bedd2f23",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/Caixinhas.canvas",
-                "viewState": {
-                  "x": -12920.528893184552,
-                  "y": 1094.3091650047077,
-                  "zoom": -0.37511152049048646
-                }
+                "file": "Física/gravitação/Leis de Kepler.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-file",
+              "title": "Leis de Kepler"
             }
           }
         ],
@@ -223,8 +220,11 @@
   },
   "active": "f913e731bedd2f23",
   "lastOpenFiles": [
-    "Biologia/8 - Botânica/Raíz.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Física/gravitação/Leis de Kepler.md",
+    "Física/gravitação",
     "Biologia/Caixinhas.canvas",
+    "Biologia/8 - Botânica/Raíz.md",
     "Biologia/8 - Botânica/fruto.md",
     "Biologia/7 - Monera/Utilização.md",
     "Biologia/7 - Monera/Doenças bacterianas.md",
@@ -243,7 +243,6 @@
     "Pasted image 20250728103110.png",
     "Pasted image 20250728102106.png",
     "Pasted image 20250728100931.png",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Untitled Kanban.md",
     "Biologia/3 - Citologia/Organelas citoplasmáticas.md",
     "Biologia/3 - Citologia/Microscopia.md",
@@ -257,7 +256,6 @@
     "Biologia/Zoologia/Filo Annelida.md",
     "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md",
     "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
-    "Redação/Eu/Minhas redações.md",
     "Ink/Writing/2025.7.25 - 13.26pm.writing",
     "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'",
     "Matemática/Trigonometria/Notas exercícios"
