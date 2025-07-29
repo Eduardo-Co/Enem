@@ -9,6 +9,8 @@ kanban-plugin: board
 - [ ] Lei de Ohm: Aumentar a corrente em virtude de várias conexões em paralelo - diminui resistência
 - [ ] Consumo elétrico - Potência por hora
 - [ ] Consumo elétrico - Potência
+- [ ] Associação Lâmpadas em Paralelo
+- [ ] Associação de Geradores - Série
 
 
 ## O que eu errei
