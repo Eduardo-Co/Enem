@@ -9,6 +9,9 @@ kanban-plugin: board
 - [ ] Correntes de ar: Circulação de correntes de ar, ponto de vista de um exemplo - ar condicionado
 - [ ] Trocas de Calor: dissipador serpentinado da geladeira
 - [ ] Trocas de Calor: Corpo e ambiente - suor. Processo de condensação e impedimento do suor
+- [ ] Equilíbrio térmico: Definição
+- [ ] Dilatação térmica: Lâmina bimetálica
+- [ ] Transformações isovolumétricas em gases: Pressão geladeira
 
 
 ## O que eu errei
