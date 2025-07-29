@@ -1,0 +1,28 @@
+---
+
+kanban-plugin: board
+
+---
+
+## O que cai
+
+- [ ] Correntes de ar: Circulação de correntes de ar, ponto de vista de um exemplo - ar condicionado
+- [ ] Trocas de Calor: dissipador serpentinado da geladeira
+- [ ] Trocas de Calor: Corpo e ambiente - suor. Processo de condensação e impedimento do suor
+
+
+## O que eu errei
+
+
+
+## O que estudar
+
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
+```
+%%

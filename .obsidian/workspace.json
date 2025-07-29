@@ -33,7 +33,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Física/Eletrodinâmica/Questões/0 - Questões.md",
+                "file": "Física/Termologia/Questões/Untitled Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -44,7 +44,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "0 - Questões"
+              "title": "Untitled Kanban"
             }
           }
         ],
@@ -232,9 +232,12 @@
   },
   "active": "76bd2ada09c8b82e",
   "lastOpenFiles": [
+    "Física/Termologia/Questões/Untitled.md",
+    "Física/Termologia/Questões/Untitled Kanban.md",
+    "Física/Eletrodinâmica/Questões/0 - Questões.md",
+    "Física/Termologia/Questões",
     "Física/Eletrodinâmica/Questões/Associação de resistores Paralelo, saber o número máximo de resistência para uma determinada corrente e tensão. (Questão ENEM 2019 - 103, CINZA).md",
     "Física/Eletrodinâmica/Questões/Raciocínio para cálculo de resistência e corrente.md",
-    "Física/Eletrodinâmica/Questões/0 - Questões.md",
     "Foi.md",
     "Física/Eletrodinâmica/Untitled.md",
     "Física/Eletrodinâmica/Questões",
@@ -265,8 +268,6 @@
     "Biologia/7 - Monera/CianoBactérias.md",
     "Biologia/7 - Monera/Archeas.md",
     "Biologia/6 - Micologia/Líquens.md",
-    "Biologia/6 - Micologia/Fungos.md",
-    "Biologia/1 - Ecologia/Questões.md",
     "Biologia/Sistemas corpo Humano/Sistema Digestório",
     "Biologia/Sistemas corpo Humano",
     "Pasted image 20250724115043.png",
