@@ -7,6 +7,7 @@ kanban-plugin: board
 ## O que cai
 
 - [ ] Movimento Uniformemente variado - Lançamento oblíquo
+- [ ] Movimento retilíneo harmônico Simples
 
 
 ## O que errei
