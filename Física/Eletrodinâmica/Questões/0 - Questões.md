@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] Associação Lâmpadas em Paralelo
 - [ ] Associação de Geradores - Série
 - [ ] 2° Lei de Ohm
+- [ ] Consumo elétrico - Potência por hora; Junto à Q = m c $\Delta T$ - Termodinâmica
 
 
 ## O que eu errei

@@ -47,7 +47,8 @@
               "title": "0 - Questões"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +230,7 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "78139717d8476fa8",
+  "active": "76bd2ada09c8b82e",
   "lastOpenFiles": [
     "Física/Eletrodinâmica/Questões/Associação de resistores Paralelo, saber o número máximo de resistência para uma determinada corrente e tensão. (Questão ENEM 2019 - 103, CINZA).md",
     "Física/Eletrodinâmica/Questões/Raciocínio para cálculo de resistência e corrente.md",
