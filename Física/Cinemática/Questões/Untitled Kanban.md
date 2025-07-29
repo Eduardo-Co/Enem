@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Movimento Uniformemente variado - Lançamento oblíquo
 - [ ] Movimento retilíneo harmônico Simples
+- [ ] Equação da velocidade
 
 
 ## O que errei
