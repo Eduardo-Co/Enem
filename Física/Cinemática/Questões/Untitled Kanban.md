@@ -14,7 +14,7 @@ kanban-plugin: board
 
 ## O que errei
 
-- [ ] Vetorização de lançamentos verticais
+- [ ] [[Vetorização de lançamentos verticais]]
 
 
 ## Precisa estudar
