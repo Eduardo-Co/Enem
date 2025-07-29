@@ -8,24 +8,30 @@ Na parte da noite, revisar o que foi errado e revisar os conceitos - aqui eu vou
 ## Questões:
 
 Revisão em ciclos / Alternada:
+### Distribuição de questões por ciclo
 
-## Primeiro ciclo: 
-
-1. 15 Eletrodinâmica
-2. 10  Termologia
-3. 8 Ondulatória 
-4. 8 Cinemática 
-5. 6 Óptica
-6. 3 Dinâmica
-
----
-## Segundo ciclo:
-
-1. 10 Eletrodinâmica
-2. 8 Termologia
-3. 6 Ondulatória
-4. 6 Cinemática
-5. 5 Dinâmica
-6. 5 Trabalho e energia 
-7. 5 Magnetismo + + Eletroestática
-8. 5 Fluídos + Estática 
+- **Ciclo A – Incidência máxima (50)**
+    - 16 Eletrodinâmica
+    - 12 Termologia
+    - 8 Cinemática
+    - 6 Óptica
+    - 4 Dinâmica
+    - 4 Trabalho & Energia
+        
+- **Ciclo B – Ondas + fluidos (50)**
+    - 14 Ondulatória
+    - 10 Óptica
+    - 8 Fluidos/Estática
+    - 6 Eletrodinâmica
+    - 6 Termologia
+    - 6 Cinemática
+        
+- **Ciclo C – Alta dificuldade (50)**
+    - 12 Dinâmica
+    - 8 Trabalho & Energia
+    - 6 Magnetismo
+    - 4 Eletrostática
+    - 6 Eletrodinâmica
+    - 6 Termologia
+    - 4 Ondulatória
+    - 4 Óptica
