@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] Dilatação térmica: Lâmina bimetálica
 - [ ] Transformações isovolumétricas em gases: Pressão geladeira
 - [ ] Calor sensível
+- [ ] Trocas de calor: Irradiação - Convecção e Condução
 
 
 ## O que eu errei
