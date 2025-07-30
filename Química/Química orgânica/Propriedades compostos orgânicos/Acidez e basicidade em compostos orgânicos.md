@@ -12,3 +12,14 @@ Na química orgânica a teoria de Bronsted Lowry é dominante.
 Veja que sempre os ácidos carboxílicos e os fenóis são capazes de doar o elétron, e quem irá receber é a amina, ***ELAS TEM PARES DE ELÉTRONS LIVRES (NITROGÊNIO)***
 
 ---
+## Efeitos eletrônicos 
+
+## Nos ácidos:
+
+***Positivo:*** Diminui a acidez; "Empurra os elétrons". Quando na presença de elementos pouco eletronegativos tem a tendência de diminuir a relação entre o $H^+$ próton e o composto orgânico, fazendo com que quando seja liberado, tenha um caráter ***FRACO***.
+
+***Negativo:*** Aumenta a acidez; "Puxa os elétrons". Quando na presença de elementos muito eletronegativos tem a tendência de aumentar a relação entre o $H^+$ próton e o composto orgânico, fazendo com que, quando seja liberado, tenha um caráter ***FORTE***
+
+Nas bases (Aminas) o efeito é o contrário. 
+
+---
