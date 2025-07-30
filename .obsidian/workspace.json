@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
+                "file": "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reações de adição"
+              "title": "Reações de Eliminação"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
+                "file": "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reações de adição"
+              "title": "Outline of Reações de Eliminação"
             }
           },
           {
@@ -205,9 +205,12 @@
   },
   "active": "df9efb95cb36ef73",
   "lastOpenFiles": [
+    "Pasted image 20250730125748.png",
+    "Pasted image 20250730125159.png",
+    "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
+    "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
     "Pasted image 20250730124401.png",
     "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
-    "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
     "Pasted image 20250730114918.png",
     "Química/Química orgânica/Haletos/Compostos de Enxofre e Organometálicos.md",
     "Pasted image 20250730114029.png",
@@ -225,8 +228,6 @@
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
     "Pasted image 20250730092701.png",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
-    "Pasted image 20250730092150.png",
-    "Pasted image 20250730091627.png",
     "Química/Química orgânica/Isomeria/Isomeria plana.md",
     "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
@@ -246,7 +247,6 @@
     "Física/Eletrodinâmica/Questões/0 - Questões.md",
     "Física/Cinemática/Movimentos Uniformes.md",
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
-    "Física/Cinemática/Questões/Untitled.md",
     "Física/Cinemática/Questões",
     "Física/Termologia/Questões",
     "Física/Eletrodinâmica/Questões",

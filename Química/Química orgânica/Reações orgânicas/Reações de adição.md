@@ -48,3 +48,13 @@ Bom, fazemos a reação com halogênio, uma vez que o Hex-1-eno tem uma ligaçã
 ![[Pasted image 20250730124401.png]]
 
 ---
+## Regra de markovnikov
+
+***O hidrogênio vai sempre para o carbono mais hidrogenado da reação.*** 
+
+---
+## Adição de Kharasch 
+
+A exceção da regra de markovnikov. ***Quando o meio reacional tiver presença de PERÓXIDO e  $HBr$*** vai para o que tem menos hidrogênio. 
+
+---
