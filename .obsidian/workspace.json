@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ca95637004c7a804",
+        "id": "39095fa70b4355cf",
         "type": "tabs",
         "children": [
           {
-            "id": "df9efb95cb36ef73",
+            "id": "9e7399a60373a497",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
-                "mode": "source",
-                "source": false
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Reações de Eliminação"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
+                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reações de Eliminação"
+              "title": "Outline of LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           },
           {
@@ -203,50 +201,50 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "df9efb95cb36ef73",
+  "active": "9e7399a60373a497",
   "lastOpenFiles": [
-    "Pasted image 20250730125748.png",
-    "Pasted image 20250730125159.png",
-    "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
-    "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
-    "Pasted image 20250730124401.png",
-    "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
-    "Pasted image 20250730114918.png",
-    "Química/Química orgânica/Haletos/Compostos de Enxofre e Organometálicos.md",
-    "Pasted image 20250730114029.png",
-    "Química/Química orgânica/Hidrocarbonetos/Classificação de cadeias carbônicas.md",
-    "Química/Química orgânica/Hidrocarbonetos/Classificações do carbono.md",
+    "Química/img/Pasted image 20250730075800.png",
+    "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
+    "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
+    "Química/Química orgânica/Função oxigenadas/Função Álcool.md",
+    "Química/Química orgânica/Função oxigenadas/Função Aldeído e Cetona.md",
+    "Química/Química orgânica/Função oxigenadas/Função Éter.md",
+    "Química/Química orgânica/Função oxigenadas/Função Éster.md",
+    "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
     "Química/Química orgânica/Hidrocarbonetos/Hibridização do carbono.md",
+    "Química/Química orgânica/Hidrocarbonetos/Classificações do carbono.md",
+    "Química/Química orgânica/Hidrocarbonetos/Classificação de cadeias carbônicas.md",
     "Química/Química orgânica/Hidrocarbonetos/Regras de nomenclatura.md",
-    "Pasted image 20250730094703.png",
+    "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
+    "Química/Química orgânica/Cadeias aromáticas.md",
+    "Química/Química orgânica/Organôgenos.md",
+    "Química/Química orgânica/Representação das fórmulas estruturais.md",
+    "Química/Funções inorgânicas/Funções inorgânicas.md",
+    "Química/img/Pasted image 20250730125748.png",
+    "Química/img/Pasted image 20250730125159.png",
+    "Química/img/Pasted image 20250730124401.png",
+    "Química/img/Pasted image 20250730114918.png",
+    "Química/img/Pasted image 20250730114029.png",
+    "Química/img/Pasted image 20250730094703.png",
+    "Química/img/Pasted image 20250730093908.png",
+    "Química/img/Pasted image 20250730093244.png",
+    "Química/img/Pasted image 20250730093746.png",
+    "Química/img/Pasted image 20250730092954.png",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
+    "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
+    "Química/Química orgânica/Haletos/Compostos de Enxofre e Organometálicos.md",
     "Química/Química orgânica/Isomeria/Isomeria óptica.md",
     "Química/Química orgânica/Reações orgânicas",
-    "Pasted image 20250730093908.png",
-    "Pasted image 20250730093746.png",
-    "Pasted image 20250730093244.png",
-    "Pasted image 20250730092954.png",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
-    "Pasted image 20250730092701.png",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
     "Química/Química orgânica/Isomeria/Isomeria plana.md",
-    "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
-    "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
-    "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
     "Química/Química orgânica/Propriedades compostos orgânicos/Propriedades moléculas orgânicas.md",
     "Química/Química orgânica/Isomeria",
     "Química/Química orgânica/Propriedades compostos orgânicos/Acidez e basicidade em compostos orgânicos.md",
-    "Química/Química orgânica/Haletos/Haletos orgânicos.md",
     "Química/Química orgânica/Propriedades compostos orgânicos",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Química orgânica/Haletos",
-    "Química/Química orgânica/Funções Nitrogenadas/Amidas.md",
-    "Química/Química orgânica/Funções Nitrogenadas/Aminas.md",
-    "Física/Cinemática/Questões/Untitled Kanban.md",
     "Química/Química orgânica/Funções Nitrogenadas",
-    "Física/Cinemática/Questões/Vetorização de lançamentos verticais.md",
-    "Física/Eletrodinâmica/Questões/0 - Questões.md",
-    "Física/Cinemática/Movimentos Uniformes.md",
-    "Física/Cinemática/Lançamentos verticais e queda livre.md",
     "Física/Cinemática/Questões",
     "Física/Termologia/Questões",
     "Física/Eletrodinâmica/Questões",
