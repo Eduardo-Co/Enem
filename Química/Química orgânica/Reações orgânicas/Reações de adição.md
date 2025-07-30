@@ -33,3 +33,15 @@ O cátion será atraído pela ligação $\pi$, pois sobra elétron lá, enquanto
 
 # Teste de Bayer: 
 
+Tenho:
+- Cicloexano
+- Hex-1-eno
+
+Como saber a diferença entre os dois, levando em conta que tem a mesma cor e etc..
+
+Bom, fazemos a reação com halogênio, uma vez que o Hex-1-eno tem uma ligação dupla que será perdia pelo $Br_{2}$
+
+---
+
+
+
