@@ -22,4 +22,5 @@ São derivados de ácidos carboxílicos então coloca o nome do álcool e troca 
 - Eliminada pela urina, utilizada com ***adubo*** e matéria prima de ***explosivos***
 
 ## Proteínas:
-- Proteínas são amidas. 
+- Proteínas são ***amidas***. Ligação peptídica é a partir da reação de um ***ácido e uma amina***
+
