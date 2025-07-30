@@ -26,28 +26,23 @@
               "icon": "lucide-trello",
               "title": "Untitled Kanban"
             }
-          }
-        ]
-      },
-      {
-        "id": "a92a673f1bfa74bf",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6df379850597c703",
+            "id": "40fa449dec573686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Cinemática/Questões/Vetorização de lançamentos verticais.md",
+                "file": "Química/Química orgânica/Funções Nitrogenadas/Amians.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vetorização de lançamentos verticais"
+              "title": "Amians"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,8 +224,11 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "520d63d22b57ca04",
+  "active": "40fa449dec573686",
   "lastOpenFiles": [
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Química orgânica/Funções Nitrogenadas/Amians.md",
+    "Química/Química orgânica/Funções Nitrogenadas",
     "Física/Cinemática/Questões/Untitled Kanban.md",
     "Física/Cinemática/Questões/Vetorização de lançamentos verticais.md",
     "Física/Eletrodinâmica/Questões/0 - Questões.md",
@@ -251,7 +249,6 @@
     "Física/Eletrodinâmica/Tipos de corrente.md",
     "Física/Planejamento.md",
     "O que Estudar/Física.md",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/img/Pasted image 20250728100931.png",
     "Biologia/img/Pasted image 20250728102106.png",
     "Pasted image 20250728162839.png",
@@ -266,13 +263,10 @@
     "Física/gravitação/Leis de Kepler.md",
     "Física/gravitação",
     "Biologia/Caixinhas.canvas",
-    "Biologia/8 - Botânica/fruto.md",
-    "Biologia/7 - Monera/Utilização.md",
     "Biologia/Sistemas corpo Humano/Sistema Digestório",
     "Biologia/Sistemas corpo Humano",
     "Pasted image 20250724115043.png",
     "Biologia/Zoologia/Cladogrâmga.png",
-    "Ink/Writing/2025.7.25 - 13.26pm.writing",
-    "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'"
+    "Ink/Writing/2025.7.25 - 13.26pm.writing"
   ]
 }
