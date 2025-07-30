@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] Transesterificação
 - [ ] Nomenclatura compostos orgânicos - contar número de carbonos (prefixo)
 - [ ] Reações de neutralização - orgânica, bases de Bronsted-Lowry
+- [ ] Isomeria Geométrica - CIS e TRANS
 
 
 ## O que errei
@@ -24,6 +25,7 @@ kanban-plugin: board
 - [ ] Identificação de polaridade - tensoativos
 - [ ] [[Compostos Aniônico]]
 - [ ] [[Reações de neutralização - orgânica, bases de Bronsted-Lowry]]
+- [ ] Isomeria Geométrica - CIS e TRANS
 
 
 ## Devo revisar

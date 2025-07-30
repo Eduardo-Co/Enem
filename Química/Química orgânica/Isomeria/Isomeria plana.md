@@ -15,9 +15,15 @@ Isômeros pertencem a funções químicas diferentes.
 
 Comuns em Enóis, pois são instáveis. ![[Pasted image 20250730090746.png]]
 
+A isomeria só acontece entre:
+- Aldo - enóica
+- Ceto - enóica
+
+Aldeído e 
+
 ---
 
-## Isomeria de cadeia ou de nucléo
+## Isomeria de cadeia ou de nucleo
 
 É aquela que os isômeros têm cadeias diferentes.
 
@@ -32,7 +38,6 @@ Definição de cadeias diferentes:
 ## Isomeria de posição:
 
 Isômeros têm a mesma cadeia carbônica, mas diferem pela ***posição*** dos grupos funcionais, insaturações ou ramificações. ***Não leva em consideração heteroátomos***
-![[Pasted image 20250730091047.png]]
 
 ---
 ## Isomeria de compensação ou Metameria:
