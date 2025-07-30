@@ -38,10 +38,18 @@ por isso medicamentos devem ser guardados na ausência de luz e calor, para não
 
 ## Reações de adição:
 
-- Diminuição do número de reações $\pi$
-
+- Diminuição do número de reações $\pi$, aumenta número de átomos. 
 ## Reações de eliminação:
 
-- Contrário da adição, ou seja, aumenta o número de ligações $\pi$, há uma retirada de dois ou mais átomos.
+- Contrário da adição, ou seja, aumenta o número de ligações $\pi$, ou seja, há uma retirada de dois ou mais átomos, mesmo não aumentando as ligações covalentes.
 
-## Reações de 
+## Reações de substituição:
+
+- Número de $\pi$ não muda, há só uma troca de grupo de átomos
+
+## Reações de oxidação e redução: 
+
+Irá mudar o NOX do carbono. 
+- Eles colocam o [O] e [H] para indicar. Onde, hidrogênio representa: ***Redução.*** Oxigênio representa: ***Oxidação***
+
+
