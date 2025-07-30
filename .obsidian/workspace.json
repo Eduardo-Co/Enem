@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendário/2025-07-24.md",
+                "file": "Química/Química orgânica/Propriedades compostos orgânicos/Propriedades moléculas orgânicas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-24"
+              "title": "Outline of Propriedades moléculas orgânicas"
             }
           },
           {
@@ -182,11 +182,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
