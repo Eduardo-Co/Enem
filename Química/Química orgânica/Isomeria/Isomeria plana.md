@@ -19,7 +19,6 @@ A isomeria só acontece entre:
 - Aldo - enóica
 - Ceto - enóica
 
-Aldeído e 
 
 ---
 

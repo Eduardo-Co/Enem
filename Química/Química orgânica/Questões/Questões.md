@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] Nomenclatura compostos orgânicos - contar número de carbonos (prefixo)
 - [ ] Reações de neutralização - orgânica, bases de Bronsted-Lowry
 - [ ] Isomeria Geométrica - CIS e TRANS
+- [ ] Polaridade das substâncias
 
 
 ## O que errei
