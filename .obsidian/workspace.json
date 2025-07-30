@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Química orgânica/Isomeria/Isomeria óptica.md",
+                "file": "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isomeria óptica"
+              "title": "Classificações das reações orgânicas"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Química/Química orgânica/Isomeria/Isomeria óptica.md",
+                "file": "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Isomeria óptica"
+              "title": "Outline of Classificações das reações orgânicas"
             }
           },
           {
@@ -205,12 +205,15 @@
   },
   "active": "df9efb95cb36ef73",
   "lastOpenFiles": [
+    "Pasted image 20250730094703.png",
+    "Química/Química orgânica/Isomeria/Isomeria óptica.md",
+    "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
+    "Química/Química orgânica/Reações orgânicas",
     "Pasted image 20250730093908.png",
     "Pasted image 20250730093746.png",
     "Pasted image 20250730093244.png",
     "Pasted image 20250730092954.png",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
-    "Química/Química orgânica/Isomeria/Isomeria óptica.md",
     "Pasted image 20250730092701.png",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
     "Pasted image 20250730092150.png",
@@ -219,7 +222,6 @@
     "Pasted image 20250730091601.png",
     "Química/Química orgânica/Isomeria/Isomeria plana.md",
     "Pasted image 20250730091047.png",
-    "Pasted image 20250730090841.png",
     "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
     "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
@@ -247,10 +249,8 @@
     "Física/Termologia/Questões",
     "Física/Eletrodinâmica/Questões/Associação de resistores Paralelo, saber o número máximo de resistência para uma determinada corrente e tensão. (Questão ENEM 2019 - 103, CINZA).md",
     "Física/Eletrodinâmica/Questões/Raciocínio para cálculo de resistência e corrente.md",
-    "Foi.md",
     "Física/Eletrodinâmica/Questões",
     "Física/hidroestática",
-    "Física/gravitação",
     "Biologia/Caixinhas.canvas"
   ]
 }
