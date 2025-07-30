@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f0bf1f6cdf94370",
+        "id": "df798f456ec18045",
         "type": "tabs",
         "children": [
           {
-            "id": "29c9c5edd0bab646",
+            "id": "4f9fab79208792b3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Química/Química orgânica/Questões/Questões.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Química/Química orgânica/Função oxigenadas/Função Aldeído e Cetona.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Questões"
+              "icon": "lucide-file",
+              "title": "Função Aldeído e Cetona"
             }
           }
         ]
@@ -209,13 +203,14 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "29c9c5edd0bab646",
+  "active": "4f9fab79208792b3",
   "lastOpenFiles": [
-    "Química/Química orgânica/Questões/Reações de neutralização - orgânica, bases de Bronsted-Lowry.md",
+    "Química/Química orgânica/Questões/Questões.md",
     "Química/Química orgânica/Questões/Compostos Aniônico.md",
     "Química/Química orgânica/Propriedades compostos orgânicos/Acidez e basicidade em compostos orgânicos.md",
-    "Química/Química orgânica/Função oxigenadas/Função Éter.md",
     "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
+    "Química/Química orgânica/Questões/Reações de neutralização - orgânica, bases de Bronsted-Lowry.md",
+    "Química/Química orgânica/Função oxigenadas/Função Éter.md",
     "Química/Química orgânica/Função oxigenadas/Função Aldeído e Cetona.md",
     "Química/img/Pasted image 20250730092150.png",
     "Química/Química orgânica/Função oxigenadas/Função Álcool.md",
@@ -226,7 +221,6 @@
     "Química/img/Pasted image 20250730114918.png",
     "Química/img/Pasted image 20250730125159.png",
     "Química/img/Pasted image 20250716100347.png",
-    "Química/Química orgânica/Questões/Questões.md",
     "Química/Química orgânica/Isomeria/Isomeria óptica.md",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",

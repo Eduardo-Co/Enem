@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] Reações de neutralização - orgânica, bases de Bronsted-Lowry
 - [ ] Isomeria Geométrica - CIS e TRANS
 - [ ] Polaridade das substâncias
+- [ ] Reações de neutralização - neutralização com hidróxido de sódio
 
 
 ## O que errei
