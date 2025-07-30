@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] Reações orgânicas - Oxidação
 - [ ] Identificação de polaridade - tensoativos
 - [ ] Compostos Aniônico
+- [ ] Ligações Pi
 
 
 ## O que errei
