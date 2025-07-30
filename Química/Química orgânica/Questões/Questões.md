@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] Reações de neutralização - neutralização com hidróxido de sódio
 - [ ] Isomeria Óptica
 - [ ] Identificação de funções orgânicas - Aldeídos e Cetonas
+- [ ] Reações de neutralização - amina com suco de limão
 
 
 ## O que errei
