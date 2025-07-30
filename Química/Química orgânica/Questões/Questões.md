@@ -30,6 +30,7 @@ kanban-plugin: board
 
 - [ ] Organoclorados
 - [ ] Reconhecer funções ácidas e básicas
+- [ ] Grupo etóxi e metóxi
 
 
 
