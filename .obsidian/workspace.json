@@ -11,20 +11,14 @@
             "id": "29c9c5edd0bab646",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Química/Química orgânica/Questões/Questões.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Questões"
+              "icon": "lucide-file",
+              "title": "Reações de Eliminação"
             }
           }
         ]
@@ -59,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tautom",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Química/Química orgânica/Questões/Questões.md",
+                "file": "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Questões"
+              "title": "Outline of Reações de Eliminação"
             }
           },
           {
@@ -209,21 +204,23 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "29c9c5edd0bab646",
+  "active": "83f3b4b7499a9feb",
   "lastOpenFiles": [
+    "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
+    "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
+    "Química/Química orgânica/Haletos/Haletos orgânicos.md",
+    "Química/Química orgânica/Haletos/Compostos de Enxofre e Organometálicos.md",
+    "Química/Química orgânica/Questões/Questões.md",
     "Química/Química orgânica/Função oxigenadas/Função Éter.md",
     "Química/Química orgânica/Função oxigenadas/Função Éster.md",
     "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
     "Química/Química orgânica/Questões/Reações de neutralização - orgânica, bases de Bronsted-Lowry.md",
-    "Química/Química orgânica/Questões/Questões.md",
     "Química/Untitled Kanban.md",
     "Química/Untitled.canvas",
     "Química/Química orgânica/Questões/Compostos Aniônico.md",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
     "Química/Química orgânica/Funções Nitrogenadas/Aminas.md",
     "Química/Química orgânica/Funções Nitrogenadas/Amidas.md",
-    "Química/Química orgânica/Haletos/Haletos orgânicos.md",
-    "Química/Química orgânica/Haletos/Compostos de Enxofre e Organometálicos.md",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
     "Química/Química orgânica/Isomeria/Isomeria óptica.md",
     "Química/Química orgânica/Isomeria/Isomeria plana.md",
@@ -232,8 +229,6 @@
     "Terminologias em latim.md",
     "Z - Lumber",
     "Simulados.md",
-    "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
-    "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
     "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
