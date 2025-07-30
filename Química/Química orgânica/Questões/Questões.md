@@ -18,6 +18,8 @@ kanban-plugin: board
 - [ ] Isomeria Geométrica - CIS e TRANS
 - [ ] Polaridade das substâncias
 - [ ] Reações de neutralização - neutralização com hidróxido de sódio
+- [ ] Isomeria Óptica
+- [ ] Identificação de funções orgânicas - Aldeídos e Cetonas
 
 
 ## O que errei
