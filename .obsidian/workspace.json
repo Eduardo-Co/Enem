@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Química orgânica/Isomeria/Isomeria plana.md",
+                "file": "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isomeria plana"
+              "title": "Isomeria Geométrica (Cadeia fechadas)"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Química/Química orgânica/Isomeria/Isomeria plana.md",
+                "file": "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Isomeria plana"
+              "title": "Outline of Isomeria Geométrica (Cadeia fechadas)"
             }
           },
           {
@@ -205,12 +205,19 @@
   },
   "active": "df9efb95cb36ef73",
   "lastOpenFiles": [
+    "Química/Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
+    "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
+    "Pasted image 20250730092150.png",
+    "Pasted image 20250730091627.png",
+    "Pasted image 20250730091602.png",
+    "Pasted image 20250730091601.png",
+    "Química/Química orgânica/Isomeria/Isomeria plana.md",
+    "Pasted image 20250730091047.png",
     "Pasted image 20250730090841.png",
     "Pasted image 20250730090746.png",
     "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
     "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
-    "Química/Química orgânica/Isomeria/Isomeria plana.md",
     "Pasted image 20250730090237.png",
     "Química/Química orgânica/Propriedades compostos orgânicos/Propriedades moléculas orgânicas.md",
     "Química/Química orgânica/Isomeria",
@@ -242,15 +249,8 @@
     "Física/Eletrodinâmica/Untitled.md",
     "Física/Eletrodinâmica/Questões",
     "Física/Eletrodinâmica/01 - Questões Diárias.md",
-    "Física/Eletrodinâmica/Tipos de corrente.md",
-    "Biologia/img/Pasted image 20250728100931.png",
-    "Biologia/img/Pasted image 20250728102106.png",
-    "Pasted image 20250728162839.png",
-    "Biologia/img/Pasted image 20250728103110.png",
     "Física/hidroestática",
     "Física/gravitação",
-    "Biologia/Caixinhas.canvas",
-    "Pasted image 20250724115043.png",
-    "Biologia/Zoologia/Cladogrâmga.png"
+    "Biologia/Caixinhas.canvas"
   ]
 }

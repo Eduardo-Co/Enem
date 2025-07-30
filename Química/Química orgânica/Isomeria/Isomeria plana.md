@@ -31,4 +31,10 @@ Definição de cadeias diferentes:
 ---
 ## Isomeria de posição:
 
-Isômeros têm a mesma cadeia carbônica, mas diferem pela ***posição*** dos grupos funcionai 
+Isômeros têm a mesma cadeia carbônica, mas diferem pela ***posição*** dos grupos funcionais, insaturações ou ramificações. ***Não leva em consideração heteroátomos***
+![[Pasted image 20250730091047.png]]
+
+---
+## Isomeria de compensação ou Metameria:
+
+Isômeros diferem pela posição de um ***heteroátomo na cadeia carbônica***
