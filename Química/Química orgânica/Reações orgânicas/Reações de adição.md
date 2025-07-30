@@ -42,6 +42,9 @@ Como saber a diferença entre os dois, levando em conta que tem a mesma cor e et
 Bom, fazemos a reação com halogênio, uma vez que o Hex-1-eno tem uma ligação dupla que será perdia pelo $Br_{2}$
 
 ---
+## Adição de Haletos de hidrogênio (Eletrofílica) 
 
 
+![[Pasted image 20250730124401.png]]
 
+---
