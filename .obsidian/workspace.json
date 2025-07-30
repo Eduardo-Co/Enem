@@ -11,12 +11,14 @@
             "id": "9e7399a60373a497",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Classificações das reações orgânicas"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+                "file": "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "title": "Outline of Classificações das reações orgânicas"
             }
           },
           {
@@ -203,19 +205,26 @@
   },
   "active": "9e7399a60373a497",
   "lastOpenFiles": [
-    "Química/img/Pasted image 20250730075800.png",
-    "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
-    "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
-    "Química/Química orgânica/Função oxigenadas/Função Álcool.md",
-    "Química/Química orgânica/Função oxigenadas/Função Aldeído e Cetona.md",
-    "Química/Química orgânica/Função oxigenadas/Função Éter.md",
-    "Química/Química orgânica/Função oxigenadas/Função Éster.md",
+    "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
+    "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
+    "Química/Química orgânica/Questões/Questões.md",
+    "Química/Untitled Kanban.md",
+    "Química/Untitled.canvas",
+    "Química/Química orgânica/Haletos/Compostos de Enxofre e Organometálicos.md",
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
+    "Química/Química orgânica/Função oxigenadas/Função Aldeído e Cetona.md",
+    "Química/Química orgânica/Função oxigenadas/Função Éster.md",
+    "Química/Química orgânica/Função oxigenadas/Função Éter.md",
+    "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
+    "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
+    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Química orgânica/Questões",
+    "Química/img/Pasted image 20250730075800.png",
+    "Química/Química orgânica/Função oxigenadas/Função Álcool.md",
     "Química/Química orgânica/Hidrocarbonetos/Hibridização do carbono.md",
     "Química/Química orgânica/Hidrocarbonetos/Classificações do carbono.md",
     "Química/Química orgânica/Hidrocarbonetos/Classificação de cadeias carbônicas.md",
     "Química/Química orgânica/Hidrocarbonetos/Regras de nomenclatura.md",
-    "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
     "Química/Química orgânica/Cadeias aromáticas.md",
     "Química/Química orgânica/Organôgenos.md",
     "Química/Química orgânica/Representação das fórmulas estruturais.md",
@@ -229,11 +238,7 @@
     "Química/img/Pasted image 20250730093908.png",
     "Química/img/Pasted image 20250730093244.png",
     "Química/img/Pasted image 20250730093746.png",
-    "Química/img/Pasted image 20250730092954.png",
-    "LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
-    "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
-    "Química/Química orgânica/Haletos/Compostos de Enxofre e Organometálicos.md",
     "Química/Química orgânica/Isomeria/Isomeria óptica.md",
     "Química/Química orgânica/Reações orgânicas",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
@@ -241,14 +246,12 @@
     "Química/Química orgânica/Isomeria/Isomeria plana.md",
     "Química/Química orgânica/Propriedades compostos orgânicos/Propriedades moléculas orgânicas.md",
     "Química/Química orgânica/Isomeria",
-    "Química/Química orgânica/Propriedades compostos orgânicos/Acidez e basicidade em compostos orgânicos.md",
     "Química/Química orgânica/Propriedades compostos orgânicos",
     "Química/Química orgânica/Haletos",
     "Química/Química orgânica/Funções Nitrogenadas",
     "Física/Cinemática/Questões",
     "Física/Termologia/Questões",
     "Física/Eletrodinâmica/Questões",
-    "Física/hidroestática",
     "Biologia/Caixinhas.canvas"
   ]
 }
