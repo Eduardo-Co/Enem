@@ -9,12 +9,16 @@ kanban-plugin: board
 - [ ] Identificação de funções orgânicas - saber todas
 - [ ] Organoclorados
 - [ ] Reações orgânicas - Oxidação
+- [ ] Identificação de polaridade - tensoativos
+- [ ] Compostos Aniônico
 
 
 ## O que errei
 
 - [ ] Reações orgânicas - Oxidação
 - [ ] Atuação do permanganato de potássio ($KMnO_{4}$)
+- [ ] Identificação de polaridade - tensoativos
+- [ ] [[Compostos Aniônico]]
 
 
 ## Devo revisar
