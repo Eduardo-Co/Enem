@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] Compostos Aniônico
 - [ ] Ligações Pi
 - [ ] Transesterificação
+- [ ] Nomenclatura compostos orgânicos - contar número de carbonos (prefixo)
 
 
 ## O que errei
