@@ -3,7 +3,7 @@
 Reagente agora é a substância que vem depois do substrato, não mais o que está antes da seta. :O
 
 ---
-# Mecanismo de uma reação orgânica
+# Reagente - Mecanismo da reação
 
 ## Cisões:
 
@@ -25,9 +25,23 @@ Veja que o $C^+$ é um Eletrófilo e o $Cl^-$ será um nucleófilo.
 
 por isso medicamentos devem ser guardados na ausência de luz e calor, para não produzir radicais livres. 
 
-## Cisão heterolítica: 
+## Cisão Heterolítica: 
 - Ácido
 - Base
 - Sal
 - Água
+
+***O meio reacional*** vai definir o tipo de cisão.
+
 ---
+# Substrato - Classificação da reação
+
+## Reações de adição:
+
+- Diminuição do número de reações $\pi$
+
+## Reações de eliminação:
+
+- Contrário da adição, ou seja, aumenta o número de ligações $\pi$, há uma retirada de dois ou mais átomos.
+
+## Reações de 
