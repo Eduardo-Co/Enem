@@ -11,10 +11,20 @@
             "id": "29c9c5edd0bab646",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "Química/Química orgânica/Questões/Questões.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Questões"
             }
           }
         ]
@@ -138,12 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Química/Química orgânica/Questões/Questões.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Questões"
             }
           },
           {
@@ -198,7 +209,7 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "520d63d22b57ca04",
+  "active": "29c9c5edd0bab646",
   "lastOpenFiles": [
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
     "Química/Química orgânica/Funções Nitrogenadas/Aminas.md",

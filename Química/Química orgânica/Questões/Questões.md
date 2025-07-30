@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] Identificação de polaridade - tensoativos
 - [ ] Compostos Aniônico
 - [ ] Ligações Pi
+- [ ] Transesterificação
 
 
 ## O que errei
