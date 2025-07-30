@@ -28,6 +28,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "1bed6744d012a3c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a019e49e92ca4e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Função Fenol e Enol"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Química/Química orgânica/Questões/Questões.md",
+                "file": "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Questões"
+              "title": "Outline of Função Fenol e Enol"
             }
           },
           {
@@ -209,8 +229,13 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "29c9c5edd0bab646",
+  "active": "a019e49e92ca4e1d",
   "lastOpenFiles": [
+    "Química/Química orgânica/Questões/Reações de neutralização - orgânica, bases de Bronsted-Lowry.md",
+    "Química/Química orgânica/Questões/Questões.md",
+    "Química/Untitled Kanban.md",
+    "Química/Untitled.canvas",
+    "Química/Química orgânica/Questões/Compostos Aniônico.md",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
     "Química/Química orgânica/Funções Nitrogenadas/Aminas.md",
     "Química/Química orgânica/Funções Nitrogenadas/Amidas.md",
@@ -219,18 +244,14 @@
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
     "Química/Química orgânica/Isomeria/Isomeria óptica.md",
     "Química/Química orgânica/Isomeria/Isomeria plana.md",
-    "Química/Química orgânica/Questões/Questões.md",
     "Química/Química orgânica/Função oxigenadas/Função Álcool.md",
     "Química/Química orgânica/Função oxigenadas/Função Aldeído e Cetona.md",
     "Terminologias em latim.md",
     "Z - Lumber",
     "Simulados.md",
-    "Química/Química orgânica/Questões/Compostos Aniônico.md",
     "Química/Química orgânica/Função oxigenadas/Função Éter.md",
     "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
     "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
-    "Química/Untitled Kanban.md",
-    "Química/Untitled.canvas",
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
     "Química/Química orgânica/Função oxigenadas/Função Éster.md",
     "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
@@ -241,7 +262,6 @@
     "Química/Química orgânica/Hidrocarbonetos/Hibridização do carbono.md",
     "Química/Química orgânica/Hidrocarbonetos/Classificações do carbono.md",
     "Química/Química orgânica/Hidrocarbonetos/Classificação de cadeias carbônicas.md",
-    "Química/Química orgânica/Hidrocarbonetos/Regras de nomenclatura.md",
     "Química/img/Pasted image 20250730125748.png",
     "Química/img/Pasted image 20250730125159.png",
     "Química/img/Pasted image 20250730124401.png",
