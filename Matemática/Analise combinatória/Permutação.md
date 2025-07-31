@@ -20,3 +20,17 @@ Tem que realmente pensar na mistura das coisas e em cada bloquinho separado, com
 
 ---
 
+## 🔤 Anagramas – Permutação com Repetição
+
+**Definição:**
+
+Um **anagrama** é uma nova palavra ou sequência formada reorganizando as letras de uma palavra original.  
+Se algumas letras se repetem, usamos a **fórmula da permutação com repetição**:
+
+$$
+\text{Número de anagramas} = \frac{n!}{p_1! \cdot p_2! \cdot \ldots \cdot p_r!}
+$$
+
+Onde:
+- \( n \): número total de letras
+- fatoriais das quantidades de letras repetidas
