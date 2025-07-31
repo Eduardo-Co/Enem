@@ -35,3 +35,11 @@ $$
 $$
 ---
 ## Princípio de referência
+
+Preferência as partes que tem mais restrição no início.
+
+![[Pasted image 20250731093951.png]]
+Tem que ter muita atenção e levar em consideração cada casinha e pensar nas possibilidades de cada uma.
+
+
+
