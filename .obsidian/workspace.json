@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Analise combinatória/Combinação.md",
+                "file": "Matemática/Analise combinatória/Arranjo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combinação"
+              "title": "Arranjo"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "ab5e38921f1fedc6",
   "lastOpenFiles": [
-    "Matemática/Analise combinatória/Permutação.md",
     "Matemática/Analise combinatória/Combinação.md",
+    "Matemática/Analise combinatória/Arranjo.md",
+    "Matemática/Analise combinatória/Permutação.md",
     "Pasted image 20250731095326.png",
     "Matemática/Analise combinatória/Princípios.md",
     "Pasted image 20250731093951.png",
@@ -244,7 +245,6 @@
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
     "Química/Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
     "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
-    "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
     "Química/Untitled.canvas",
     "Z - Lumber",
     "Química/Química orgânica/Questões",

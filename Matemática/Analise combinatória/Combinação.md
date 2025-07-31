@@ -9,6 +9,10 @@ A fórmula da combinação é:
 $$
 C(n, k) = \binom{n}{k} = \frac{n!}{k! \cdot (n - k)!}
 $$
+ou
+$$
+C^p_{n} = \frac{n!}{k! \cdot (n - k)!}
+$$
 
 ---
 
@@ -38,3 +42,5 @@ Use combinação quando:
 Ex: selecionar 5 livros para ler entre 12 → combinação.  
 Ex: sortear 2 pessoas para prêmio sem ordem → combinação.
 
+
+---
