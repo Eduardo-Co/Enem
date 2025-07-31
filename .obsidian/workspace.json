@@ -11,17 +11,14 @@
             "id": "ab5e38921f1fedc6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Untitled.canvas",
-                "viewState": {
-                  "x": -881,
-                  "y": 677,
-                  "zoom": -2.0117194262128786
-                }
+                "file": "Matemática/Analise combinatória/Princípio Aditivo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Princípio Aditivo"
             }
           }
         ]
@@ -206,8 +203,10 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "520d63d22b57ca04",
+  "active": "ab5e38921f1fedc6",
   "lastOpenFiles": [
+    "Matemática/Untitled.canvas",
+    "Matemática/Analise combinatória/Princípio Aditivo.md",
     "Matemática/Analise combinatória",
     "Matemática/Untitled.md",
     "Matemática/probabilidade",
@@ -243,7 +242,6 @@
     "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
     "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
     "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
-    "Química/Química orgânica/Haletos/Haletos orgânicos.md",
     "Química/Untitled.canvas",
     "Z - Lumber",
     "Química/Química orgânica/Questões",
@@ -254,7 +252,6 @@
     "Química/Química orgânica/Isomeria",
     "Química/Química orgânica/Propriedades compostos orgânicos",
     "Química/Química orgânica/Haletos",
-    "Química/Química orgânica/Funções Nitrogenadas",
     "Biologia/Caixinhas.canvas"
   ]
 }
