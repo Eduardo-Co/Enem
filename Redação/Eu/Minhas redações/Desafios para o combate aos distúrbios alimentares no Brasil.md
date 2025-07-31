@@ -4,7 +4,7 @@ Atualmente, ==o foco em solucionar problemas== relacionados às doenças mentais
 
 Ademais, é imperativo ressaltar que a ausência da família fomenta a problemática. No livro de Franz Kafka, "Metamorfose", o autor traz uma metáfora sobre abandono parental, sofrido por pessoas que tem problemas psicológicos, e como isso gera um ambiente tóxico. Analogamente, indivíduos que possuem distúrbios alimentares tem sua doença relativizada - vista como banal ou algo que pode ser apenas ignorado -, esse ambiente, assim como no livro, favorece a autocobrança, pois os doentes creem nesse estigma posto pela família. Por conseguinte, não há uma busca por profissionais ==para o tratamento,== já que ==para família== não é considerado uma doença, agravando os sintomas. 
 
-Enfim, a falta de apoio parental contribuí com a manutenção do óbice retratado  
+Enfim, a falta de apoio parental ==contribuí== com a manutenção do óbice retratado  
 Em suma, medidas são necessárias para reverter essa realidade. Para isso, cabe ao Ministério da Educação promover campanhas de conscientização sobre transtornos psicológicos de cunho alimentar, sendo feitas por médicos que alertem a gravidade da doença, eles também devem dar instruções de como apoiar e ajudar quem está enfrentando esse problema. Com isso, espera-se criar um ambiente menos prejudicial e de maior acolhimento, influenciando na busca de psicólogos e psiquiatras.
 
 ## Erros:

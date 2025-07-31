@@ -1662,6 +1662,46 @@
         "originalLength": 22,
         "isCloze": false,
         "filePath": "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md"
+      },
+      "highlight-1753960515067-1917": {
+        "text": "para família",
+        "position": 1917,
+        "paragraphOffset": 1309,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753960515067-1917",
+        "comments": [
+          {
+            "id": "comment-1753960522630-798osncsl",
+            "content": "para a família",
+            "createdAt": 1753960522630,
+            "updatedAt": 1753960522630
+          }
+        ],
+        "createdAt": 1753960515067,
+        "updatedAt": 1753960522630,
+        "originalLength": 16,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md"
+      },
+      "highlight-1753960529166-2022": {
+        "text": "contribuí",
+        "position": 2022,
+        "paragraphOffset": 1989,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753960529166-2022",
+        "comments": [
+          {
+            "id": "comment-1753960576496-i9dww3ydn",
+            "content": "contribui - sem assento sempre",
+            "createdAt": 1753960576496,
+            "updatedAt": 1753960576496
+          }
+        ],
+        "createdAt": 1753960529166,
+        "updatedAt": 1753960576496,
+        "originalLength": 13,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md"
       }
     }
   }
