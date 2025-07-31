@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b0aa208bcc453717",
+        "id": "eafcffa65e7742ad",
         "type": "tabs",
         "children": [
           {
-            "id": "bfefab8a12740ef9",
+            "id": "66cc9b989be1c40b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
-                "mode": "source",
-                "source": false
+                "file": "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -203,8 +201,11 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "bfefab8a12740ef9",
+  "active": "66cc9b989be1c40b",
   "lastOpenFiles": [
+    "Redação/Repertórios/Onde usar cada um.md",
+    "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
+    "Redação/Untitled Kanban.md",
     "Redação/Eu/Progressão Enem e testes.md",
     "Redação/Eu/Meus repertórios.md",
     "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md",
@@ -236,10 +237,7 @@
     "Química/Química orgânica/Haletos/Haletos orgânicos.md",
     "Química/Química orgânica/Haletos/Compostos de Enxofre e Organometálicos.md",
     "Química/Química orgânica/Função oxigenadas/Função Éster.md",
-    "Química/Untitled Kanban.md",
     "Química/Untitled.canvas",
-    "Química/Química orgânica/Funções Nitrogenadas/Aminas.md",
-    "Química/Química orgânica/Funções Nitrogenadas/Amidas.md",
     "Z - Lumber",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Química orgânica/Questões",
