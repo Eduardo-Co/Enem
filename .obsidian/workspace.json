@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Analise combinatória/Arranjo.md",
+                "file": "Matemática/Analise combinatória/Combinação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arranjo"
+              "title": "Combinação"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "ab5e38921f1fedc6",
   "lastOpenFiles": [
-    "Matemática/Analise combinatória/Combinação.md",
     "Matemática/Analise combinatória/Arranjo.md",
+    "Matemática/Analise combinatória/Combinação.md",
     "Matemática/Analise combinatória/Permutação.md",
     "Pasted image 20250731095326.png",
     "Matemática/Analise combinatória/Princípios.md",
