@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "eafcffa65e7742ad",
+        "id": "5d3c663834e55056",
         "type": "tabs",
         "children": [
           {
-            "id": "66cc9b989be1c40b",
+            "id": "ab5e38921f1fedc6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Matemática/Untitled.canvas",
+                "viewState": {
+                  "x": -881,
+                  "y": 677,
+                  "zoom": -2.0117194262128786
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -201,8 +206,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "66cc9b989be1c40b",
+  "active": "520d63d22b57ca04",
   "lastOpenFiles": [
+    "Matemática/Analise combinatória",
+    "Matemática/Untitled.md",
+    "Matemática/probabilidade",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Repertórios/Onde usar cada um.md",
     "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
     "Redação/Untitled Kanban.md",
@@ -235,11 +244,8 @@
     "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
     "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
     "Química/Química orgânica/Haletos/Haletos orgânicos.md",
-    "Química/Química orgânica/Haletos/Compostos de Enxofre e Organometálicos.md",
-    "Química/Química orgânica/Função oxigenadas/Função Éster.md",
     "Química/Untitled.canvas",
     "Z - Lumber",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Química orgânica/Questões",
     "Química/img/Pasted image 20250730075800.png",
     "Química/img/Pasted image 20250730125748.png",
@@ -249,7 +255,6 @@
     "Química/Química orgânica/Propriedades compostos orgânicos",
     "Química/Química orgânica/Haletos",
     "Química/Química orgânica/Funções Nitrogenadas",
-    "Física/Cinemática/Questões",
     "Biologia/Caixinhas.canvas"
   ]
 }
