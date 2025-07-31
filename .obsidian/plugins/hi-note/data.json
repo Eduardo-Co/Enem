@@ -1355,6 +1355,48 @@
         "isCloze": false,
         "filePath": "Matemática/EvD.md"
       }
+    },
+    "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md": {
+      "highlight-1753959504176-0": {
+        "text": "Atualmente, o foco em solucionar problemas relacionados às doenças mentais vem aumentando, isso explica o motivo de atribuir à depressão e ansiedade o termo \"Doença do Século\"",
+        "position": 0,
+        "paragraphOffset": 0,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753959504176-0",
+        "comments": [
+          {
+            "id": "comment-1753959523766-ocjwe6o5z",
+            "content": "Aqui eu apresento uma introdução relacionada aso problemas mentais. Contextualizo.",
+            "createdAt": 1753959523766,
+            "updatedAt": 1753959523766
+          }
+        ],
+        "createdAt": 1753959504176,
+        "updatedAt": 1753959523766,
+        "originalLength": 179,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md"
+      },
+      "highlight-1753959552033-93": {
+        "text": ", isso explica",
+        "position": 93,
+        "paragraphOffset": 0,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753959552033-93",
+        "comments": [
+          {
+            "id": "comment-1753959576355-idt06uo9r",
+            "content": "Isso explica necessita de um truncamento na oração, fazendo duas. Não devia ter feito dessa forma.",
+            "createdAt": 1753959576355,
+            "updatedAt": 1753959576355
+          }
+        ],
+        "createdAt": 1753959552033,
+        "updatedAt": 1753959576355,
+        "originalLength": 18,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md"
+      }
     }
   }
 }

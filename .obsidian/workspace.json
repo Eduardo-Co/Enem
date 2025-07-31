@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aa12eb38891a620f",
+        "id": "b0aa208bcc453717",
         "type": "tabs",
         "children": [
           {
-            "id": "e6a8939f77e25ac1",
+            "id": "bfefab8a12740ef9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Química/Química orgânica/Questões/Questões.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Questões"
+              "icon": "lucide-file",
+              "title": "Desafios para o combate aos distúrbios alimentares no Brasil"
             }
           }
         ]
@@ -188,12 +182,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,10 +202,13 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "e6a8939f77e25ac1",
+  "active": "db16eb30a672045d",
   "lastOpenFiles": [
-    "Química/Química orgânica/Função oxigenadas/Função Aldeído e Cetona.md",
+    "Redação/Eu/Minhas redações.md",
+    "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md",
     "Química/Química orgânica/Questões/Questões.md",
+    "Redação/Eu/Minhas redações",
+    "Química/Química orgânica/Função oxigenadas/Função Aldeído e Cetona.md",
     "Química/Química orgânica/Questões/Compostos Aniônico.md",
     "Química/Química orgânica/Propriedades compostos orgânicos/Acidez e basicidade em compostos orgânicos.md",
     "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
@@ -244,11 +240,9 @@
     "Z - Lumber",
     "Simulados.md",
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
-    "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Química orgânica/Questões",
     "Química/img/Pasted image 20250730075800.png",
-    "Química/Química orgânica/Hidrocarbonetos/Hibridização do carbono.md",
     "Química/img/Pasted image 20250730125748.png",
     "Química/img/Pasted image 20250730124401.png",
     "Química/Química orgânica/Reações orgânicas",
@@ -257,7 +251,6 @@
     "Química/Química orgânica/Haletos",
     "Química/Química orgânica/Funções Nitrogenadas",
     "Física/Cinemática/Questões",
-    "Física/Termologia/Questões",
     "Biologia/Caixinhas.canvas"
   ]
 }
