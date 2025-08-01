@@ -214,16 +214,15 @@
 		{"id":"68a1a35da4b81384","type":"text","text":"Suberosa ou ramificação","x":-14360,"y":980,"width":250,"height":60},
 		{"id":"50f44e83af3ce9e4","type":"text","text":"Anatomia interna","x":-13400,"y":720,"width":250,"height":60},
 		{"id":"283ef3cd0d3ae10a","type":"text","text":"Primária","x":-13800,"y":980,"width":250,"height":60},
-		{"id":"942835bea4d7bbb2","x":-13400,"y":980,"width":250,"height":60,"type":"text","text":"Estrias de caspary"},
+		{"id":"942835bea4d7bbb2","type":"text","text":"Estrias de caspary","x":-13400,"y":980,"width":250,"height":60},
 		{"id":"ec0a63467b13afab","type":"text","text":"Cilindro central","x":-13925,"y":1180,"width":250,"height":60},
 		{"id":"d7d9046521e0104d","type":"text","text":"Endoderme","x":-13650,"y":1180,"width":250,"height":60},
-		{"id":"36afbb4f3bd82b9b","x":-13650,"y":1380,"width":250,"height":60,"type":"text","text":"Floema"},
+		{"id":"36afbb4f3bd82b9b","type":"text","text":"Floema","x":-13650,"y":1380,"width":250,"height":60},
 		{"id":"6a400574a0d2e3ea","type":"text","text":"Xilema","x":-13925,"y":1380,"width":250,"height":60},
 		{"id":"5afd2afb0ab52e4c","type":"text","text":"Epiderme","x":-14490,"y":1180,"width":250,"height":60},
 		{"id":"6fab55416a588925","type":"text","text":"Córtex","x":-14205,"y":1180,"width":250,"height":60},
 		{"id":"c8b6980619babfea","type":"text","text":"Periciclo","x":-14205,"y":1380,"width":250,"height":60},
-		{"id":"26df1014a58942d7","x":-13360,"y":1180,"width":250,"height":60,"type":"text","text":"Jovem / Pilífera"},
-		{"id":"4a8431842fff6dcf","type":"text","text":"Secundária","x":-12820,"y":980,"width":250,"height":60}
+		{"id":"26df1014a58942d7","type":"text","text":"Jovem / Pilífera","x":-13360,"y":1180,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8879b600c42c49e3","fromNode":"4002b18236030e7a","fromSide":"bottom","toNode":"d0b82dd16d5a8770","toSide":"top","color":"4"},
@@ -443,7 +442,6 @@
 		{"id":"693554d0e69f2565","fromNode":"85e762dc9181e9a5","fromSide":"bottom","toNode":"68a1a35da4b81384","toSide":"top"},
 		{"id":"8576d90236d2cf8d","fromNode":"ce7e80831c0b0779","fromSide":"bottom","toNode":"50f44e83af3ce9e4","toSide":"top"},
 		{"id":"5059ae660056ee2f","fromNode":"50f44e83af3ce9e4","fromSide":"bottom","toNode":"283ef3cd0d3ae10a","toSide":"top"},
-		{"id":"bb4f6035c316ae40","fromNode":"50f44e83af3ce9e4","fromSide":"bottom","toNode":"4a8431842fff6dcf","toSide":"top"},
 		{"id":"26b95234aa295776","fromNode":"283ef3cd0d3ae10a","fromSide":"bottom","toNode":"5afd2afb0ab52e4c","toSide":"top"},
 		{"id":"21c051b537324c3c","fromNode":"283ef3cd0d3ae10a","fromSide":"bottom","toNode":"6fab55416a588925","toSide":"top"},
 		{"id":"f06370bb3096c448","fromNode":"283ef3cd0d3ae10a","fromSide":"bottom","toNode":"d7d9046521e0104d","toSide":"top"},
