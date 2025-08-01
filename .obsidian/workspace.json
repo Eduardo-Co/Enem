@@ -11,10 +11,14 @@
             "id": "e4d39950aff9fc98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Plantas e tipo de respiração.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Plantas e tipo de respiração"
             }
           }
         ]
@@ -201,9 +205,15 @@
   },
   "active": "e4d39950aff9fc98",
   "lastOpenFiles": [
+    "Biologia/8 - Botânica/Questões/Questões.md",
+    "Biologia/5 - Bioenergia/Questões/Questões.md",
+    "Biologia/8 - Botânica/Angiospermas.md",
+    "Biologia/8 - Botânica/Questões",
+    "Biologia/5 - Bioenergia/Questões",
+    "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Plantas e tipo de respiração.md",
+    "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Leucoplasto e Amiloplasto.md",
     "Biologia/8 - Botânica/Fuvest/Gametas.md",
     "Biologia/8 - Botânica/Fuvest/Respiração das plantas.md",
-    "Biologia/8 - Botânica/Angiospermas.md",
     "Biologia/8 - Botânica/Folhas.md",
     "Biologia/8 - Botânica/Caracterização das plantas.md",
     "Biologia/8 - Botânica/Fuvest/Untitled",
@@ -232,11 +242,7 @@
     "Redação/Eu/Meus repertórios.md",
     "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md",
     "Redação/Eu/Minhas redações/Untitled Kanban.md",
-    "Redação/Eu/Minhas redações.md",
-    "Química/Química orgânica/Questões/Questões.md",
     "Redação/Eu/Minhas redações",
-    "Química/Química orgânica/Função oxigenadas/Função Aldeído e Cetona.md",
-    "Química/Química orgânica/Questões/Compostos Aniônico.md",
     "Química/img/Pasted image 20250730092150.png",
     "Química/img/Pasted image 20250730092701.png",
     "Química/img/Pasted image 20250730093244.png",
@@ -247,8 +253,6 @@
     "Química/Untitled.canvas",
     "Z - Lumber",
     "Química/Química orgânica/Questões",
-    "Química/img/Pasted image 20250730075800.png",
-    "Química/Química orgânica/Reações orgânicas",
-    "Química/Química orgânica/Isomeria"
+    "Química/img/Pasted image 20250730075800.png"
   ]
 }
