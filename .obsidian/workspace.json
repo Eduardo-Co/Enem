@@ -11,17 +11,14 @@
             "id": "ab5e38921f1fedc6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/Caixinhas.canvas",
-                "viewState": {
-                  "x": -13043.085813715868,
-                  "y": 1188.8902678455086,
-                  "zoom": -0.8802629870237421
-                }
+                "file": "Biologia/8 - Botânica/Folhas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-file",
+              "title": "Folhas"
             }
           }
         ]
@@ -208,6 +205,7 @@
   },
   "active": "ab5e38921f1fedc6",
   "lastOpenFiles": [
+    "Biologia/Caixinhas.canvas",
     "Biologia/Máximas da biologia.md",
     "Biologia/Untitled Kanban.md",
     "Biologia/4 - Bioquimica/Lipídeos.md",
@@ -247,7 +245,6 @@
     "Química/img/Pasted image 20250730114918.png",
     "Química/img/Pasted image 20250730125159.png",
     "Química/img/Pasted image 20250716100347.png",
-    "Química/Química orgânica/Isomeria/Isomeria óptica.md",
     "Química/Untitled.canvas",
     "Z - Lumber",
     "Química/Química orgânica/Questões",
@@ -255,7 +252,6 @@
     "Química/Química orgânica/Reações orgânicas",
     "Química/Química orgânica/Isomeria",
     "Química/Química orgânica/Propriedades compostos orgânicos",
-    "Química/Química orgânica/Haletos",
-    "Biologia/Caixinhas.canvas"
+    "Química/Química orgânica/Haletos"
   ]
 }
