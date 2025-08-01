@@ -1,0 +1,1 @@
+Os gametas encontram-se inativos nos gametófitos tanto feminino quanto masculino, quando eles se encontram ai sim, são 
