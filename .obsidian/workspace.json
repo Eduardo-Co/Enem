@@ -11,14 +11,17 @@
             "id": "ab5e38921f1fedc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Matemática/Analise combinatória/Permutação.md",
-                "mode": "source",
-                "source": false
+                "file": "Biologia/Caixinhas.canvas",
+                "viewState": {
+                  "x": -17346.98964431627,
+                  "y": 1307.293986088738,
+                  "zoom": -0.8802629870237421
+                }
               },
-              "icon": "lucide-file",
-              "title": "Permutação"
+              "icon": "lucide-layout-dashboard",
+              "title": "Caixinhas"
             }
           }
         ]
@@ -205,10 +208,13 @@
   },
   "active": "ab5e38921f1fedc6",
   "lastOpenFiles": [
+    "Biologia/Máximas da biologia.md",
+    "Biologia/Untitled Kanban.md",
+    "Biologia/4 - Bioquimica/Lipídeos.md",
+    "Matemática/Analise combinatória/Permutação.md",
     "Matemática/Analise combinatória/Princípios.md",
     "Matemática/Analise combinatória/Arranjo.md",
     "Matemática/Analise combinatória/Combinação.md",
-    "Matemática/Analise combinatória/Permutação.md",
     "Pasted image 20250731095326.png",
     "Pasted image 20250731093951.png",
     "Matemática/Untitled.canvas",
@@ -242,9 +248,6 @@
     "Química/img/Pasted image 20250730125159.png",
     "Química/img/Pasted image 20250716100347.png",
     "Química/Química orgânica/Isomeria/Isomeria óptica.md",
-    "Química/Química orgânica/Isomeria/Isomeria Geométrica (Cadeia fechadas).md",
-    "Química/Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
-    "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
     "Química/Untitled.canvas",
     "Z - Lumber",
     "Química/Química orgânica/Questões",
