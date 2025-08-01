@@ -1,3 +1,9 @@
+
+|Fase|Precisa de luz?|Precisa de CO₂?|Onde acontece?|
+|---|---|---|---|
+|**Reações de luz** (fotofosforilação)|✅|❌|Tilacoides|
+|**Ciclo de Calvin** (“fase escura”)|❌*|✅|Estroma|
+
 ### **O que é Fotossíntese?**
 
 - Processo em que **seres autotróficos** (plantas, algas, algumas bactérias) **convertem matéria inorgânica (CO₂ e H₂O) em matéria orgânica (glicose)**.
@@ -9,10 +15,10 @@
 
 ### **2. Etapas da Fotossíntese**
 
-|Etapa|Onde ocorre|O que usa|O que produz|Principal função|
-|---|---|---|---|---|
-|**Fase Clara**|Tilacoides (grana)|Luz e água|ATP, NADPH, O₂|Transformar energia luminosa em energia química (ATP e NADPH)|
-|**Fase Escura**|Estroma|CO₂, ATP e NADPH|Glicose|Usar ATP e NADPH para produzir glicose (matéria orgânica)|
+| Etapa           | Onde ocorre        | O que usa        | O que produz   | Principal função                                              |
+| --------------- | ------------------ | ---------------- | -------------- | ------------------------------------------------------------- |
+| **Fase Clara**  | Tilacoides (grana) | Luz e água       | ATP, NADPH, O₂ | Transformar energia luminosa em energia química (ATP e NADPH) |
+| **Fase Escura** | Estroma            | CO₂, ATP e NADPH | Glicose        | Usar ATP e NADPH para produzir glicose (matéria orgânica)     |
 
 ---
 

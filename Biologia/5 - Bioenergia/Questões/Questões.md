@@ -16,9 +16,10 @@ kanban-plugin: board
 
 
 
-## Colocar resumo
+## Plantas
 
 - [ ] Metabolismo das plantas e suas trocas gasosas - período
+- [ ] Onde ocorre a fotossíntese, clara e escura.
 
 
 
