@@ -11,10 +11,21 @@
             "id": "ff96edb5b88a876e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "Química/Termoquímica/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -201,6 +212,11 @@
   },
   "active": "ff96edb5b88a876e",
   "lastOpenFiles": [
+    "Química/Termoquímica/Entalpia.md",
+    "Química/Termoquímica/Untitled Kanban.md",
+    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
+    "Pasted image 20250731093951.png",
+    "Biologia/4 - Bioquimica/Água.md",
     "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
     "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Plantas e tipo de respiração.md",
     "Biologia/5 - Bioenergia/Questões/Questões.md",
@@ -226,7 +242,6 @@
     "Matemática/Analise combinatória/Arranjo.md",
     "Matemática/Analise combinatória/Combinação.md",
     "Pasted image 20250731095326.png",
-    "Pasted image 20250731093951.png",
     "Matemática/Untitled.canvas",
     "Matemática/Analise combinatória",
     "Matemática/Untitled.md",
@@ -235,9 +250,6 @@
     "Redação/Repertórios/Onde usar cada um.md",
     "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
     "Redação/Untitled Kanban.md",
-    "Redação/Eu/Progressão Enem e testes.md",
-    "Redação/Eu/Meus repertórios.md",
-    "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md",
     "Redação/Eu/Minhas redações",
     "Química/img/Pasted image 20250730092150.png",
     "Química/img/Pasted image 20250730092701.png",
@@ -248,7 +260,6 @@
     "Química/img/Pasted image 20250716100347.png",
     "Química/Untitled.canvas",
     "Z - Lumber",
-    "Química/Química orgânica/Questões",
-    "Química/img/Pasted image 20250730075800.png"
+    "Química/Química orgânica/Questões"
   ]
 }
