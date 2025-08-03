@@ -4,39 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "0280d85d8c2e7418",
+        "id": "158e79bb3d1be665",
         "type": "tabs",
         "children": [
           {
-            "id": "ff96edb5b88a876e",
+            "id": "464aa4d4ba13decc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "O que Estudar/Física.md",
-                "mode": "source",
-                "source": false
+                "file": "Química/Química orgânica/0 - Questões/Questões.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Física"
-            }
-          },
-          {
-            "id": "150587bb19719656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Química/Química orgânica/0 - Questões/Ação da geometria nas forças moleculares..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ação da geometria nas forças moleculares."
+              "icon": "lucide-trello",
+              "title": "Questões"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "1f835c8953878a78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "922fb3d3f941219e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Química/Química orgânica/0 - Questões/Reações de transesterificação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reações de transesterificação"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,12 +229,19 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "150587bb19719656",
+  "active": "922fb3d3f941219e",
   "lastOpenFiles": [
     "Química/Química orgânica/0 - Questões/Questões.md",
+    "Química/Química orgânica/0 - Questões/Reações de transesterificação.md",
+    "Química/Química orgânica/0 - Questões/Reações de neutralização - orgânica, bases de Bronsted-Lowry.md",
+    "Química/Química orgânica/0 - Questões/Compostos Aniônico.md",
     "Química/Química orgânica/0 - Questões/Ação da geometria nas forças moleculares..md",
-    "O que Estudar/imagens/Pasted image 20250406150946.png",
+    "Química/Untitled.canvas",
     "O que Estudar/Física.md",
+    "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
+    "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
+    "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
+    "O que Estudar/imagens/Pasted image 20250406150946.png",
     "Física/Quantidade de Movimento/Força impulsiva.md",
     "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
@@ -245,15 +263,9 @@
     "Biologia/8 - Botânica/Fuvest/Gametas.md",
     "Biologia/8 - Botânica/Fuvest/Respiração das plantas.md",
     "Biologia/8 - Botânica/Folhas.md",
-    "Biologia/8 - Botânica/Caracterização das plantas.md",
     "Biologia/8 - Botânica/Fuvest/Untitled",
     "Biologia/8 - Botânica/Fuvest",
-    "Biologia/8 - Botânica/Briófitas.md",
-    "Biologia/8 - Botânica/Pteridófitas.md",
     "Biologia/Caixinhas.canvas",
-    "Biologia/Máximas da biologia.md",
-    "Biologia/Untitled Kanban.md",
-    "Biologia/4 - Bioquimica/Lipídeos.md",
     "Pasted image 20250731095326.png",
     "Matemática/Untitled.canvas",
     "Matemática/Analise combinatória",
@@ -266,7 +278,6 @@
     "Química/img/Pasted image 20250730093908.png",
     "Química/img/Pasted image 20250730114918.png",
     "Química/img/Pasted image 20250730125159.png",
-    "Química/Untitled.canvas",
     "Z - Lumber",
     "Química/Química orgânica/0 - Questões"
   ]
