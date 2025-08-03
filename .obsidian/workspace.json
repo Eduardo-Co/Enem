@@ -25,12 +25,14 @@
             "id": "150587bb19719656",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "O que Estudar/imagens/Pasted image 20250406150946.png"
+                "file": "Química/Química orgânica/0 - Questões/Ação da geometria nas forças moleculares..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250406150946"
+              "icon": "lucide-file",
+              "title": "Ação da geometria nas forças moleculares."
             }
           }
         ],
@@ -218,6 +220,9 @@
   },
   "active": "150587bb19719656",
   "lastOpenFiles": [
+    "Química/Química orgânica/0 - Questões/Questões.md",
+    "Química/Química orgânica/0 - Questões/Ação da geometria nas forças moleculares..md",
+    "O que Estudar/imagens/Pasted image 20250406150946.png",
     "O que Estudar/Física.md",
     "Física/Quantidade de Movimento/Força impulsiva.md",
     "Física/Quantidade de Movimento/Quantidade de movimento.md",
@@ -249,8 +254,6 @@
     "Biologia/Máximas da biologia.md",
     "Biologia/Untitled Kanban.md",
     "Biologia/4 - Bioquimica/Lipídeos.md",
-    "Matemática/Analise combinatória/Permutação.md",
-    "Matemática/Analise combinatória/Princípios.md",
     "Pasted image 20250731095326.png",
     "Matemática/Untitled.canvas",
     "Matemática/Analise combinatória",
@@ -263,9 +266,8 @@
     "Química/img/Pasted image 20250730093908.png",
     "Química/img/Pasted image 20250730114918.png",
     "Química/img/Pasted image 20250730125159.png",
-    "Química/img/Pasted image 20250716100347.png",
     "Química/Untitled.canvas",
     "Z - Lumber",
-    "Química/Química orgânica/Questões"
+    "Química/Química orgânica/0 - Questões"
   ]
 }

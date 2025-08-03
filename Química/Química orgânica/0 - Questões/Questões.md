@@ -33,11 +33,12 @@ kanban-plugin: board
 - [ ] Isomeria Geométrica - CIS e TRANS
 
 
-## Devo revisar
+## Ter na revisão
 
 - [ ] Organoclorados
 - [ ] Reconhecer funções ácidas e básicas
 - [ ] Grupo etóxi e metóxi
+- [ ] [[Ação da geometria nas forças moleculares.]]
 
 
 
