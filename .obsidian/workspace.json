@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Quantidade de Movimento/Força impulsiva.md",
+                "file": "O que Estudar/Física.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Força impulsiva"
+              "title": "Física"
+            }
+          },
+          {
+            "id": "150587bb19719656",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "O que Estudar/imagens/Pasted image 20250406150946.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250406150946"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +216,11 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "ff96edb5b88a876e",
+  "active": "150587bb19719656",
   "lastOpenFiles": [
-    "Física/Quantidade de Movimento/Quantidade de movimento.md",
+    "O que Estudar/Física.md",
     "Física/Quantidade de Movimento/Força impulsiva.md",
+    "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
     "Física/Cinemática/Movimentos Uniformes.md",
     "Física/Cinemática/Questões/Vetorização de lançamentos verticais.md",
@@ -237,7 +251,6 @@
     "Biologia/4 - Bioquimica/Lipídeos.md",
     "Matemática/Analise combinatória/Permutação.md",
     "Matemática/Analise combinatória/Princípios.md",
-    "Matemática/Analise combinatória/Arranjo.md",
     "Pasted image 20250731095326.png",
     "Matemática/Untitled.canvas",
     "Matemática/Analise combinatória",
