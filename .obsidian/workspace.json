@@ -11,21 +11,14 @@
             "id": "ff96edb5b88a876e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Química/Termoquímica/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Quantidade de Movimento/Força impulsiva.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Força impulsiva"
             }
           }
         ]
@@ -212,8 +205,13 @@
   },
   "active": "ff96edb5b88a876e",
   "lastOpenFiles": [
-    "Química/Termoquímica/Entalpia.md",
+    "Física/Quantidade de Movimento/Quantidade de movimento.md",
+    "Física/Quantidade de Movimento/Força impulsiva.md",
+    "Física/Cinemática/Lançamentos verticais e queda livre.md",
+    "Física/Cinemática/Movimentos Uniformes.md",
+    "Física/Cinemática/Questões/Vetorização de lançamentos verticais.md",
     "Química/Termoquímica/Untitled Kanban.md",
+    "Química/Termoquímica/Entalpia.md",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Pasted image 20250731093951.png",
     "Biologia/4 - Bioquimica/Água.md",
@@ -240,16 +238,11 @@
     "Matemática/Analise combinatória/Permutação.md",
     "Matemática/Analise combinatória/Princípios.md",
     "Matemática/Analise combinatória/Arranjo.md",
-    "Matemática/Analise combinatória/Combinação.md",
     "Pasted image 20250731095326.png",
     "Matemática/Untitled.canvas",
     "Matemática/Analise combinatória",
-    "Matemática/Untitled.md",
     "Matemática/probabilidade",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Redação/Repertórios/Onde usar cada um.md",
-    "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
-    "Redação/Untitled Kanban.md",
     "Redação/Eu/Minhas redações",
     "Química/img/Pasted image 20250730092150.png",
     "Química/img/Pasted image 20250730092701.png",
