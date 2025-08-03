@@ -25,10 +25,15 @@ kanban-plugin: board
 - [ ] Definição de resistência elétrica nominal - todo circuíto?
 
 
+## Revisão
+
+- [ ] Análise de um circuito: Queda de tensão - 126 Enem 2019 (Caderno Azul)
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
