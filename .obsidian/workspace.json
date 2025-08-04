@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "158e79bb3d1be665",
+        "id": "3a9691e6e12ba5ed",
         "type": "tabs",
         "children": [
           {
-            "id": "464aa4d4ba13decc",
+            "id": "89cafc7851d8f771",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Sistemas corpo Humano/Sistema Excretor/Sistema Excretor.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sistema Excretor"
+              "title": "New tab"
             }
           }
         ]
@@ -203,10 +199,10 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "464aa4d4ba13decc",
+  "active": "89cafc7851d8f771",
   "lastOpenFiles": [
-    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Biologia/Sistemas corpo Humano/Sistema Excretor/Sistema Excretor.md",
+    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Biologia/Sistemas corpo Humano/Sistema circulatório/Sistema respiratório.md",
     "Biologia/Sistemas corpo Humano/Sistema Excretor",
     "Biologia/Sistemas corpo Humano/Sistema respiratório/Sistema respiratório.md",
