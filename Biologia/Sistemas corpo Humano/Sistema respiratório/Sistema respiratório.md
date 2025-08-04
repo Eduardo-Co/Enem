@@ -31,3 +31,11 @@ Aqui é presente as cordas vocais, emissão de sons.
 Após passar para laringe, o ar se ramifica em ***brônquios -> bronquíolos -> Alvéolos pulmonares.*** 
 
 ---
+## Inspiração e expiração
+
+- Expansão do tórax: Aumenta o volume, diminui pressão, ar entra.
+- Expiração: Diminui volume, aumenta pressão, ar sai.
+
+A expansão ocorre pela contração do diagrama e músculos intercostais
+
+---
