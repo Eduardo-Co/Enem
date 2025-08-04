@@ -14,3 +14,17 @@
 
 Se não há mistura de sangue, então é totalmente oxigenado, isso influência na endotermia - temperatura corporal. 
 
+As ***válvulas*** do coração impedem o refluxo de sangue, fechando sempre após ser bombeado.
+
+### Circuito Pulmonar e sistêmico:
+
+***Pulmonar:*** Coração -> pulmão -> coração. Aqui o lado direito envia o sangue para o pulmão, ocorre a troca gasosa e em seguida esse sangue volta para o coração - lado esquerdo. Aqui há uma válvula ***tricúspide*** que controla o fechamento para não ter refluxo. ***ELA É MAIS FRACA PORQUE A PRESSÃO É MAIOR***
+
+***Sistêmico:*** Coração -> Corpo -> Coração. Após receber o sangue do lado esquerdo, ele é enviado para o corpo todo. Aqui há uma válvula ***bicúspide*** que controla o fechamento para não ter refluxo. ***ELA É MAIS FORTE PORQUE A PRESSÃO É MAIOR*** 
+
+---
+
+
+
+
+
