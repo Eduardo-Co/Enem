@@ -40,7 +40,7 @@ Aqui chega o sangue e é filtrado nos Néfrons.
 - Aqui é reabsorvido todas os micronutrientes que passaram das artérias para o plasma.
 - No entanto não é absorvido tudo, principalmente de glicose, o que aumenta a concentração 
 - Aqui há secreção também
-### Alça néfrica
+### Alça néfrica - Alça de Henle
 
 Reabsorção de sódio e água, antes de excretar a urina. O tamanho dessa alça influência, por exemplo, na reabsorção de água pela urina, economizando água. 
 
