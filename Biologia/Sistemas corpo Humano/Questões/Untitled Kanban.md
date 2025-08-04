@@ -14,6 +14,7 @@ kanban-plugin: board
 
 ## Ter no resumo
 
+- [ ] Alça de Henle
 
 
 ## Estudar
