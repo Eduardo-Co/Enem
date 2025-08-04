@@ -11,14 +11,20 @@
             "id": "03e1ecbd9f2c0383",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "O que Estudar/Biologia.md",
-                "mode": "source",
-                "source": false
+                "file": "Matemática/Geometria Espacial/0 - Questões/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Biologia"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -205,6 +211,9 @@
   },
   "active": "03e1ecbd9f2c0383",
   "lastOpenFiles": [
+    "O que Estudar/Biologia.md",
+    "Matemática/Geometria Espacial/0 - Questões/Untitled Kanban.md",
+    "Matemática/Geometria Espacial/0 - Questões",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Z - Lumber/Cronograma.md",
     "Biologia/Caixinhas.canvas",
@@ -240,11 +249,9 @@
     "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
     "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
-    "Física/Quantidade de Movimento/Força impulsiva.md",
     "Pasted image 20250731093951.png",
     "Biologia/8 - Botânica/0 -Questões",
     "Biologia/5 - Bioenergia/0 - Questões",
-    "Biologia/8 - Botânica/Fuvest/Untitled",
     "Pasted image 20250731095326.png",
     "Matemática/Untitled.canvas",
     "Química/img/Pasted image 20250730092150.png",
