@@ -11,14 +11,20 @@
             "id": "89cafc7851d8f771",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "kanban",
               "state": {
-                "aFile": "Biologia/8 - Botânica/Questões/Questões.md",
-                "bFile": "Biologia/8 - Botânica/Questões/Questões.md",
-                "aRef": ""
+                "file": "Biologia/3 - Citologia/0 - Questões/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Questões"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -186,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,14 +211,17 @@
   },
   "active": "89cafc7851d8f771",
   "lastOpenFiles": [
+    "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
+    "Biologia/3 - Citologia/0 - Questões/Untitled Kanban.md",
+    "Biologia/3 - Citologia/0 - Questões",
+    "Biologia/1 - Ecologia/0 - Questões.md",
     "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
     "Biologia/8 - Botânica/0 -Questões/Questões.md",
-    "Biologia/Sistemas corpo Humano/0 -Questões/Untitled Kanban.md",
     "Excalidraw/Drawing 2025-08-04 11.11.33.excalidraw.md",
     "Biologia/Sistemas corpo Humano/Sistema Excretor/Sistema Excretor.md",
     "Biologia/Sistemas corpo Humano/Sistema linfático/Sistema linfático.md",
     "Biologia/Sistemas corpo Humano/Questões/Untitled.md",
-    "Biologia/Sistemas corpo Humano/0 -Questões",
+    "Biologia/Sistemas corpo Humano/0 - Questões",
     "Biologia/Sistemas corpo Humano/Sistema linfático",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Biologia/Sistemas corpo Humano/Sistema circulatório/Sistema respiratório.md",
@@ -237,13 +247,10 @@
     "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Física/Cinemática/Lançamentos verticais e queda livre.md",
     "Física/Cinemática/Movimentos Uniformes.md",
-    "Física/Cinemática/Questões/Vetorização de lançamentos verticais.md",
-    "Química/Termoquímica/Untitled Kanban.md",
     "Pasted image 20250731093951.png",
     "Biologia/8 - Botânica/0 -Questões",
     "Biologia/5 - Bioenergia/0 - Questões",
     "Biologia/8 - Botânica/Fuvest/Untitled",
-    "Biologia/8 - Botânica/Fuvest",
     "Biologia/Caixinhas.canvas",
     "Pasted image 20250731095326.png",
     "Matemática/Untitled.canvas",
