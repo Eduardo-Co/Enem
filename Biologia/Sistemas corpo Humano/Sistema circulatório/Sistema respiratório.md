@@ -23,6 +23,14 @@ As ***válvulas*** do coração impedem o refluxo de sangue, fechando sempre ap�
 ***Sistêmico:*** Coração -> Corpo -> Coração. Após receber o sangue do lado esquerdo, ele é enviado para o corpo todo. Aqui há uma válvula ***bicúspide*** que controla o fechamento para não ter refluxo. ***ELA É MAIS FORTE PORQUE A PRESSÃO É MAIOR*** 
 
 ---
+## Sódio e pressão do sangue
+
+Mais sódio, mais água, mais volume de sangue, maior pressão.
+
+### Pressão arterial: Vasoconstrição e vasodilatação
+
+***Vasoconstrição*** - aumenta pressão
+***Vasodilatação*** - diminui pressão
 
 
 

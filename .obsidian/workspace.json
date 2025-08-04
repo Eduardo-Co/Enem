@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Sistemas corpo Humano/Sistema circulatório/Sistema respiratório.md",
+                "file": "Biologia/Sistemas corpo Humano/Sistema Excretor/Sistema Excretor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistema respiratório"
-            }
-          },
-          {
-            "id": "71c5c5e1754effff",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "fb168ff9-e8b9-4928-94e0-b1c00a6d1634"
+              "title": "Sistema Excretor"
             }
           }
         ]
@@ -217,12 +205,14 @@
   },
   "active": "464aa4d4ba13decc",
   "lastOpenFiles": [
-    "Biologia/Sistemas corpo Humano/Sistema respiratório/Sistema respiratório.md",
+    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
+    "Biologia/Sistemas corpo Humano/Sistema Excretor/Sistema Excretor.md",
     "Biologia/Sistemas corpo Humano/Sistema circulatório/Sistema respiratório.md",
+    "Biologia/Sistemas corpo Humano/Sistema Excretor",
+    "Biologia/Sistemas corpo Humano/Sistema respiratório/Sistema respiratório.md",
     "Biologia/Sistemas corpo Humano/Sistema circulatório",
     "Física/Eletrodinâmica/Questões/0 - Questões.md",
     "Biologia/Sistemas corpo Humano/Sistema respiratório",
-    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Z - Lumber/Cronograma.md",
     "Química/Química orgânica/0 - Questões/Questões.md",
@@ -248,8 +238,6 @@
     "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
     "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Plantas e tipo de respiração.md",
     "Biologia/5 - Bioenergia/Questões/Questões.md",
-    "Biologia/8 - Botânica/Questões/Questões.md",
-    "Biologia/8 - Botânica/Angiospermas.md",
     "Biologia/8 - Botânica/Questões",
     "Biologia/5 - Bioenergia/Questões",
     "Biologia/8 - Botânica/Fuvest/Untitled",
@@ -259,7 +247,6 @@
     "Matemática/Untitled.canvas",
     "Matemática/Analise combinatória",
     "Matemática/probabilidade",
-    "Redação/Eu/Minhas redações",
     "Química/img/Pasted image 20250730092150.png",
     "Química/img/Pasted image 20250730092701.png",
     "Química/img/Pasted image 20250730093244.png",
