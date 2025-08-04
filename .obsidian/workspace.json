@@ -8,20 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89cafc7851d8f771",
+            "id": "03e1ecbd9f2c0383",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Biologia/Caixinhas.canvas",
-                "viewState": {
-                  "x": -15751.56618906204,
-                  "y": 1335.9237344462867,
-                  "zoom": -1.0129023629781888
-                }
+                "file": "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Caixinhas"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -206,8 +201,10 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "89cafc7851d8f771",
+  "active": "03e1ecbd9f2c0383",
   "lastOpenFiles": [
+    "Z - Lumber/Cronograma.md",
+    "Biologia/Caixinhas.canvas",
     "Biologia/Untitled Kanban.md",
     "Biologia/Máximas da biologia.md",
     "Biologia/3 - Citologia/0 - Questões/Untitled Kanban.md",
@@ -230,7 +227,6 @@
     "Física/Eletrodinâmica/Questões/0 - Questões.md",
     "Biologia/Sistemas corpo Humano/Sistema respiratório",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Z - Lumber/Cronograma.md",
     "Química/Química orgânica/0 - Questões/Questões.md",
     "Química/Química orgânica/0 - Questões/Reações de transesterificação.md",
     "Química/Química orgânica/0 - Questões/Reações de neutralização - orgânica, bases de Bronsted-Lowry.md",
@@ -243,12 +239,10 @@
     "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
     "Física/Quantidade de Movimento/Força impulsiva.md",
-    "Física/Quantidade de Movimento/Quantidade de movimento.md",
     "Pasted image 20250731093951.png",
     "Biologia/8 - Botânica/0 -Questões",
     "Biologia/5 - Bioenergia/0 - Questões",
     "Biologia/8 - Botânica/Fuvest/Untitled",
-    "Biologia/Caixinhas.canvas",
     "Pasted image 20250731095326.png",
     "Matemática/Untitled.canvas",
     "Química/img/Pasted image 20250730092150.png",
