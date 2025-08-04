@@ -11,12 +11,14 @@
             "id": "03e1ecbd9f2c0383",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "O que Estudar/Biologia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "Biologia"
             }
           }
         ]
@@ -203,6 +205,7 @@
   },
   "active": "03e1ecbd9f2c0383",
   "lastOpenFiles": [
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Z - Lumber/Cronograma.md",
     "Biologia/Caixinhas.canvas",
     "Biologia/Untitled Kanban.md",
@@ -226,7 +229,6 @@
     "Biologia/Sistemas corpo Humano/Sistema circulatório",
     "Física/Eletrodinâmica/Questões/0 - Questões.md",
     "Biologia/Sistemas corpo Humano/Sistema respiratório",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Química orgânica/0 - Questões/Questões.md",
     "Química/Química orgânica/0 - Questões/Reações de transesterificação.md",
     "Química/Química orgânica/0 - Questões/Reações de neutralização - orgânica, bases de Bronsted-Lowry.md",
