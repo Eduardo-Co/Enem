@@ -11,20 +11,17 @@
             "id": "89cafc7851d8f771",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Biologia/3 - Citologia/0 - Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Biologia/Caixinhas.canvas",
+                "viewState": {
+                  "x": -15751.56618906204,
+                  "y": 1335.9237344462867,
+                  "zoom": -1.0129023629781888
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-layout-dashboard",
+              "title": "Caixinhas"
             }
           }
         ]
@@ -211,8 +208,10 @@
   },
   "active": "89cafc7851d8f771",
   "lastOpenFiles": [
-    "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
+    "Biologia/Untitled Kanban.md",
+    "Biologia/Máximas da biologia.md",
     "Biologia/3 - Citologia/0 - Questões/Untitled Kanban.md",
+    "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
     "Biologia/3 - Citologia/0 - Questões",
     "Biologia/1 - Ecologia/0 - Questões.md",
     "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
@@ -245,8 +244,6 @@
     "O que Estudar/imagens/Pasted image 20250406150946.png",
     "Física/Quantidade de Movimento/Força impulsiva.md",
     "Física/Quantidade de Movimento/Quantidade de movimento.md",
-    "Física/Cinemática/Lançamentos verticais e queda livre.md",
-    "Física/Cinemática/Movimentos Uniformes.md",
     "Pasted image 20250731093951.png",
     "Biologia/8 - Botânica/0 -Questões",
     "Biologia/5 - Bioenergia/0 - Questões",
