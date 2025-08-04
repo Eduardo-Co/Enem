@@ -12,19 +12,29 @@ kanban-plugin: board
 
 
 
-## Ter no resumo
+## Estudar
+
+
+
+## Ter no resumo - Excretor
 
 - [ ] Alça de Henle
 
 
-## Estudar
+## Ter no resumo Digestório
 
+- [ ] Digestão de cada órgão
+
+
+## Circulatório
+
+- [ ] Vasoconstrição e vasodilatação - temperatura
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
