@@ -11,21 +11,26 @@
             "id": "464aa4d4ba13decc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Eletrodinâmica/Questões/0 - Questões.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Biologia/Sistemas corpo Humano/Sistema respiratório/Sistema respiratório.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "0 - Questões"
+              "icon": "lucide-file",
+              "title": "Sistema respiratório"
+            }
+          },
+          {
+            "id": "71c5c5e1754effff",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "fb168ff9-e8b9-4928-94e0-b1c00a6d1634"
             }
           }
         ]
@@ -212,6 +217,12 @@
   },
   "active": "464aa4d4ba13decc",
   "lastOpenFiles": [
+    "Física/Eletrodinâmica/Questões/0 - Questões.md",
+    "Biologia/Sistemas corpo Humano/Sistema respiratório/Sistema respiratório.md",
+    "Biologia/Sistemas corpo Humano/Sistema respiratório",
+    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Z - Lumber/Cronograma.md",
     "Química/Química orgânica/0 - Questões/Questões.md",
     "Química/Química orgânica/0 - Questões/Reações de transesterificação.md",
     "Química/Química orgânica/0 - Questões/Reações de neutralização - orgânica, bases de Bronsted-Lowry.md",
@@ -230,7 +241,6 @@
     "Física/Cinemática/Questões/Vetorização de lançamentos verticais.md",
     "Química/Termoquímica/Untitled Kanban.md",
     "Química/Termoquímica/Entalpia.md",
-    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Pasted image 20250731093951.png",
     "Biologia/4 - Bioquimica/Água.md",
     "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Fotossíntese.md",
@@ -241,9 +251,6 @@
     "Biologia/8 - Botânica/Questões",
     "Biologia/5 - Bioenergia/Questões",
     "Biologia/5 - Bioenergia/Cloroplastos e fotossíntese/Leucoplasto e Amiloplasto.md",
-    "Biologia/8 - Botânica/Fuvest/Gametas.md",
-    "Biologia/8 - Botânica/Fuvest/Respiração das plantas.md",
-    "Biologia/8 - Botânica/Folhas.md",
     "Biologia/8 - Botânica/Fuvest/Untitled",
     "Biologia/8 - Botânica/Fuvest",
     "Biologia/Caixinhas.canvas",
@@ -251,7 +258,6 @@
     "Matemática/Untitled.canvas",
     "Matemática/Analise combinatória",
     "Matemática/probabilidade",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Eu/Minhas redações",
     "Química/img/Pasted image 20250730092150.png",
     "Química/img/Pasted image 20250730092701.png",
@@ -259,7 +265,6 @@
     "Química/img/Pasted image 20250730093908.png",
     "Química/img/Pasted image 20250730114918.png",
     "Química/img/Pasted image 20250730125159.png",
-    "Z - Lumber",
-    "Química/Química orgânica/0 - Questões"
+    "Z - Lumber"
   ]
 }
