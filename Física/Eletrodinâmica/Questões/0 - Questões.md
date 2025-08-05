@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## O que cai
@@ -28,10 +30,14 @@ kanban-plugin: board
 - [ ] Análise de um circuito: Queda de tensão - 126 Enem 2019 (Caderno Azul)
 
 
+## Ter no Resumo
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
