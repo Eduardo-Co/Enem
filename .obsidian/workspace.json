@@ -13,10 +13,11 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Física/Termologia/Questões/Untitled Kanban.md",
+                "file": "Física/Eletrodinâmica/Questões/0 - Questões.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
                     false,
                     false,
                     false,
@@ -25,7 +26,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "0 - Questões"
             }
           }
         ]
@@ -212,6 +213,12 @@
   },
   "active": "d9b8753b964b76bd",
   "lastOpenFiles": [
+    "Física/Termologia/Questões/Untitled Kanban.md",
+    "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
+    "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
+    "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
+    "Química/Reações químicas/Reações químicas.md",
+    "Química/Reações químicas/Neutralização ou salificação.md",
     "Efeito Joule.md",
     "Física/Eletrodinâmica/Questões/0 - Questões.md",
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
@@ -239,17 +246,11 @@
     "Excalidraw/Drawing 2025-08-04 11.11.33.excalidraw.md",
     "Biologia/Sistemas corpo Humano/Sistema Excretor/Sistema Excretor.md",
     "Biologia/Sistemas corpo Humano/Sistema linfático/Sistema linfático.md",
-    "Biologia/Sistemas corpo Humano/Questões/Untitled.md",
     "Biologia/Sistemas corpo Humano/0 - Questões",
     "Biologia/Sistemas corpo Humano/Sistema linfático",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
-    "Biologia/Sistemas corpo Humano/Sistema circulatório/Sistema respiratório.md",
     "Biologia/Sistemas corpo Humano/Sistema Excretor",
-    "Biologia/Sistemas corpo Humano/Sistema respiratório/Sistema respiratório.md",
     "Biologia/Sistemas corpo Humano/Sistema circulatório",
-    "Química/Química orgânica/0 - Questões/Questões.md",
-    "Química/Química orgânica/0 - Questões/Reações de transesterificação.md",
-    "Química/Química orgânica/0 - Questões/Reações de neutralização - orgânica, bases de Bronsted-Lowry.md",
     "Química/Untitled.canvas",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
     "Pasted image 20250731093951.png",
