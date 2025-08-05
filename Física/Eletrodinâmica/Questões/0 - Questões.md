@@ -32,6 +32,7 @@ kanban-plugin: board
 
 ## Ter no Resumo
 
+- [ ] Efeito Joule
 
 
 
