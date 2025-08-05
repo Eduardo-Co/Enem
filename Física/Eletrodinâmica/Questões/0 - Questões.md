@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] Associação de Geradores - Série
 - [ ] 2° Lei de Ohm
 - [ ] Consumo elétrico - Potência por hora; Junto à Q = m c $\Delta T$ - Termodinâmica
+- [ ] 2° Lei de Ohm - resistividade e resistência
 
 
 ## O que eu errei
@@ -23,6 +24,7 @@ kanban-plugin: board
 ## Estudar
 
 - [ ] Definição de resistência elétrica nominal - todo circuíto?
+- [ ] Maquinas térmicas - colocar na revisão depois de ver
 
 
 ## Revisão
