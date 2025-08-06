@@ -9,6 +9,9 @@ kanban-plugin: board
 - [ ] Separação de misturas: Separação magnética
 - [ ] Água dura
 - [ ] Separação de Misturas: Decantação
+- [ ] Misturas: Titulação
+- [ ] Misturas: Titulação com neutralização
+- [ ] Solubilidade e precipitação
 
 
 ## O que eu errei
