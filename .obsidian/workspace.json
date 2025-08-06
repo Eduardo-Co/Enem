@@ -11,6 +11,20 @@
             "id": "8d700d12631be84f",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que Estudar/Química.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Química"
+            }
+          },
+          {
+            "id": "a9c8f4e6d4c76b68",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
@@ -19,7 +33,8 @@
               "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,8 +216,11 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "8d700d12631be84f",
+  "active": "a9c8f4e6d4c76b68",
   "lastOpenFiles": [
+    "O que Estudar/Química.md",
+    "Z - Lumber/Cronograma.md",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/img/Pasted image 20250806104501.png",
     "Matemática/img/Pasted image 20250731093951.png",
     "Matemática/img/Pasted image 20250731095326.png",
@@ -225,7 +243,6 @@
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
     "O que Estudar/Física.md",
     "Física/Eletrodinâmica/Untitled",
-    "Z - Lumber/Cronograma.md",
     "Matemática/Funções/0 - Questões/Forma fatorada da função do segundo grau.md",
     "Matemática/Funções/0 - Questões/Untitled Kanban.md",
     "Matemática/Funções/0 - Questões",
@@ -234,12 +251,10 @@
     "Matemática/Geometria analítica/0 - Questões",
     "O que Estudar/Biologia.md",
     "Matemática/Geometria Espacial/0 - Questões",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Caixinhas.canvas",
     "Biologia/Untitled Kanban.md",
     "Biologia/Máximas da biologia.md",
     "Biologia/3 - Citologia/0 - Questões/Untitled Kanban.md",
-    "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
     "Biologia/3 - Citologia/0 - Questões",
     "Biologia/Sistemas corpo Humano/0 - Questões",
     "Biologia/Sistemas corpo Humano/Sistema linfático",
