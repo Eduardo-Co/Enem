@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c0f10de70b11e4b",
+        "id": "7773e99ecb4bc884",
         "type": "tabs",
         "children": [
           {
-            "id": "d9b8753b964b76bd",
+            "id": "8d700d12631be84f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Eletrodinâmica/Questões/0 - Questões.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Química/Reações químicas/Oxiredução.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "0 - Questões"
+              "icon": "lucide-file",
+              "title": "Oxiredução"
             }
           }
         ]
@@ -211,16 +203,18 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "d9b8753b964b76bd",
+  "active": "8d700d12631be84f",
   "lastOpenFiles": [
+    "Química/Química orgânica/Reações orgânicas/Reação de Substituição.md",
+    "Química/Reações químicas/Oxiredução.md",
+    "Química/Reações químicas/Reações químicas.md",
+    "Física/Eletrodinâmica/Questões/0 - Questões.md",
     "Física/Termologia/Questões/Untitled Kanban.md",
     "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
     "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
     "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
-    "Química/Reações químicas/Reações químicas.md",
     "Química/Reações químicas/Neutralização ou salificação.md",
     "Efeito Joule.md",
-    "Física/Eletrodinâmica/Questões/0 - Questões.md",
     "Física/Eletrodinâmica/1° Lei de Ohm.md",
     "O que Estudar/Física.md",
     "Física/Eletrodinâmica/Untitled",
@@ -244,8 +238,6 @@
     "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
     "Biologia/8 - Botânica/0 -Questões/Questões.md",
     "Excalidraw/Drawing 2025-08-04 11.11.33.excalidraw.md",
-    "Biologia/Sistemas corpo Humano/Sistema Excretor/Sistema Excretor.md",
-    "Biologia/Sistemas corpo Humano/Sistema linfático/Sistema linfático.md",
     "Biologia/Sistemas corpo Humano/0 - Questões",
     "Biologia/Sistemas corpo Humano/Sistema linfático",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
