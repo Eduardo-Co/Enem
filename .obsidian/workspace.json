@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7773e99ecb4bc884",
+        "id": "45a612d3a7eae846",
         "type": "tabs",
         "children": [
           {
-            "id": "8d700d12631be84f",
+            "id": "f1570086ca2a532c",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Química/Misturas/0 - Questões/Untitled Kanban.md",
+                "file": "Química/Atomo/0 - questões/Untitled Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -210,10 +210,19 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "8d700d12631be84f",
+  "active": "520d63d22b57ca04",
   "lastOpenFiles": [
-    "Química/Misturas/0 - Questões/Centrifugação.md",
+    "Química/Atomo/0 - questões/Energia de ionização.md",
+    "Química/Atomo/0 - questões/Untitled Kanban.md",
+    "Química/Interações moleculares/Características de moléculas polares e apolares.md",
+    "Química/Atomo/0 - questões",
+    "Química/Interações moleculares/Estados da matéria.md",
+    "Química/Interações moleculares/Forças de Van der Waals ou Forças intermoleculares.md",
+    "Química/Interações moleculares/Ligações de hidrogênio e íons dipolo.md",
+    "Química/Interações moleculares/Polaridade de ligações.md",
+    "Química/Interações moleculares/Polaridade de moléculas.md",
     "Química/Misturas/0 - Questões/Untitled Kanban.md",
+    "Química/Misturas/0 - Questões/Centrifugação.md",
     "Física/Eletrodinâmica/Questões/Efeito Joule.md",
     "Química/Química orgânica/Função oxigenadas/Função Éter.md",
     "Química/Química orgânica/Função oxigenadas/Função Álcool.md",
@@ -231,19 +240,11 @@
     "Química/Misturas/Diluição.md",
     "Química/Misturas/0 - Questões",
     "Química/Misturas/Separação de misturas/Tratamento de esgoto.md",
-    "Química/Interações moleculares/Estados da matéria.md",
-    "Química/Interações moleculares/Polaridade de moléculas.md",
-    "Química/Interações moleculares/Polaridade de ligações.md",
-    "Química/Interações moleculares/Ligações de hidrogênio e íons dipolo.md",
-    "Química/Interações moleculares/Forças de Van der Waals ou Forças intermoleculares.md",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "O que Estudar/Química.md",
-    "Z - Lumber/Cronograma.md",
     "Química/img/Pasted image 20250806104501.png",
     "Matemática/img/Pasted image 20250731093951.png",
     "Matemática/img/Pasted image 20250731095326.png",
     "Química/img/Pasted image 20250806105432.png",
-    "Química/Química orgânica/Reações orgânicas/Obter hidrocarbonetos.md",
     "Química/img/Pasted image 20250806105543.png",
     "Química/img/Pasted image 20250806104725.png",
     "Física/Eletrodinâmica/Untitled",
@@ -255,7 +256,6 @@
     "Biologia/Sistemas corpo Humano/0 - Questões",
     "Biologia/Sistemas corpo Humano/Sistema linfático",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
-    "Biologia/Sistemas corpo Humano/Sistema Excretor",
     "Química/Untitled.canvas",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
     "Matemática/Untitled.canvas",
