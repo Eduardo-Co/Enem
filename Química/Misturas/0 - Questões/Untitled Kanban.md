@@ -15,6 +15,8 @@ kanban-plugin: board
 - [ ] Separação de misturas: Filtração
 - [ ] Separação de misturas: Solidificação Fracionada
 - [ ] Misturas: Solubilidade e Densidade - Conceito
+- [ ] Misturas: Titulação
+- [ ] Separação de Misturas: Destilação
 
 
 ## O que eu errei
