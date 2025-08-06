@@ -11,21 +11,14 @@
             "id": "8d700d12631be84f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Química/Misturas/0 - Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Química/Misturas/Separação de misturas/Misturas homogêneas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Misturas homogêneas"
             }
           }
         ]
@@ -60,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dissolvido",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,6 +206,14 @@
   "active": "8d700d12631be84f",
   "lastOpenFiles": [
     "Química/Misturas/Separação de misturas/Método de misturas heterogênias.md",
+    "Química/Misturas/Soluções.md",
+    "Química/Misturas/Solubilidade.md",
+    "Química/Ligações químicas/Ligação iônica.md",
+    "Biologia/Impactos ambientais/Egostos.md",
+    "Química/Misturas/Concentração Comum.md",
+    "Química/Funções inorgânicas/Bases/Bases.md",
+    "Biologia/4 - Bioquimica/Água.md",
+    "Química/Misturas/Diluição.md",
     "Química/Misturas/0 - Questões/Untitled Kanban.md",
     "Química/Misturas/0 - Questões",
     "Química/Misturas/Separação de misturas/Tratamento de esgoto.md",
@@ -238,14 +239,6 @@
     "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
     "Química/Reações químicas/Oxiredução.md",
     "Química/Química orgânica/Reações orgânicas/Nitração.md",
-    "Química/Química orgânica/Reações orgânicas/Reação de Substituição.md",
-    "Química/Reações químicas/Reações químicas.md",
-    "Física/Eletrodinâmica/Questões/0 - Questões.md",
-    "Física/Termologia/Questões/Untitled Kanban.md",
-    "Química/Reações químicas/Neutralização ou salificação.md",
-    "Efeito Joule.md",
-    "Física/Eletrodinâmica/1° Lei de Ohm.md",
-    "O que Estudar/Física.md",
     "Física/Eletrodinâmica/Untitled",
     "Matemática/Funções/0 - Questões",
     "Matemática/Geometria analítica/0 - Questões",

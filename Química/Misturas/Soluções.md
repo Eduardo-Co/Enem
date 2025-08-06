@@ -2,7 +2,9 @@
 
 É a junção de um **soluto** com um **solvente**, formando uma mistura de **aspecto visual único** (uma única fase visível).
 
-Sempre que aparecer dissolvido é homogêneo.
+***Sempre que aparecer dissolvido é homogêneo.***
+
+---
 ### Estados de Agregação
 
 As misturas homogêneas podem ocorrer em diferentes estados físicos:

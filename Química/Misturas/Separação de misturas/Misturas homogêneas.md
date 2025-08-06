@@ -10,3 +10,5 @@
 | **Extração por solvente**  | Diferente solubilidade em solventes           | Extração de cafeína do chá              |
 | **Fusão fracionada**       | Diferença nos pontos de fusão                 | Separação de ligas metálicas            |
 | **Sublimação**             | Um componente sublima (sólido para gás)       | Separação de iodo de misturas           |
+
+**Quando algo está _dissolvido_**, ele **forma uma solução homogênea** — as partículas estão **individualmente dispersas no solvente**, em nível molecular ou iônico. Como estão **completamente integradas ao líquido**, **não decantam**. Exemplo: o sal totalmente dissolvido na água.
