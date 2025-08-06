@@ -15,6 +15,7 @@ kanban-plugin: board
 ## ter no resumo
 
 - [ ] distância de ponto a reta
+- [ ] Equação da circunferência
 
 
 

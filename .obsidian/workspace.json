@@ -13,12 +13,10 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Química/Misturas/0 - Questões/Untitled Kanban.md",
+                "file": "Matemática/Geometria analítica/0 - Questões/Untitled Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
                     false,
                     false,
                     false
@@ -213,6 +211,7 @@
   },
   "active": "f1570086ca2a532c",
   "lastOpenFiles": [
+    "Química/Misturas/0 - Questões/Untitled Kanban.md",
     "Química/Química orgânica/0 - Questões/Questões.md",
     "Química/Química orgânica/Funções Nitrogenadas/Aminas.md",
     "Química/Química orgânica/Funções Nitrogenadas/Amidas.md",
@@ -224,7 +223,6 @@
     "Química/Química orgânica/Função oxigenadas/Função Álcool.md",
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
     "Química/Química orgânica/Hidrocarbonetos/Regras de nomenclatura.md",
-    "Química/Misturas/0 - Questões/Untitled Kanban.md",
     "Água dura.md",
     "Química/Misturas/0 - Questões/Centrifugação.md",
     "Química/Funções inorgânicas/Ácidos/Força ácido.md",
