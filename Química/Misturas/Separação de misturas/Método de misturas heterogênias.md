@@ -17,3 +17,8 @@
 | **Separação por funil de decantação** | Separação de líquidos imiscíveis por densidade         | Água e óleo                              |
 | **Extração líquido-líquido**          | Diferente solubilidade em dois líquidos imiscíveis     | Extração de compostos orgânicos          |
 |                                       |                                                        |                                          |
+
+## Em Misturas o Gráfico: Temperatura X Tempo pode não é constante se a molécula não for pura, caso ela seja, segue a regra do calor latente.
+
+
+---

@@ -46,3 +46,5 @@ As transições entre os estados físicos da matéria ocorrem mediante a absorç
 - **Ressublimação**: gasoso → sólido
 - **Ionização**: gasoso → plasma
 - **Desionização**: plasma → gasoso
+
+---
