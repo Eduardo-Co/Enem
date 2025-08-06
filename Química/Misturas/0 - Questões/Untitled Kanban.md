@@ -17,15 +17,22 @@ kanban-plugin: board
 - [ ] Misturas: Solubilidade e Densidade - Conceito
 - [ ] Misturas: Titulação
 - [ ] Separação de Misturas: Destilação
+- [ ] Separação de Misturas: Diferença entre decantação e centrifugação
 
 
 ## O que eu errei
 
 - [ ] Água dura
+- [ ] [[Centrifugação]]
 
 
 ## Ter no resumo
 
+- [ ] Separação de misturas, divida em:
+	- Heterogenia
+	- Homogenia
+	- Sólido x Líquido
+	- Líquido x Líquido
 
 
 ## Estudar
