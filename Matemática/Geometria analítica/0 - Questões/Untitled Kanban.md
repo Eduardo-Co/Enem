@@ -16,6 +16,8 @@ kanban-plugin: board
 
 - [ ] distância de ponto a reta
 - [ ] Equação da circunferência
+- [ ] Área de segmento circular
+- [ ] Área de setor circular
 
 
 
