@@ -9,3 +9,5 @@ Esse aqui é um método, uma hidrogenação catalítica.
 Aqui há um aumento da cadeia
 
 ---
+## Gordura + Alcool (Transesterificação) -> Ester + Biodisel
+## Gordura + Água (Hidrólise) -> Sabão

@@ -11,14 +11,12 @@
             "id": "8d700d12631be84f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Química/Química orgânica/Reações orgânicas/Obter hidrocarbonetos.md",
-                "mode": "source",
-                "source": false
+                "file": "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Obter hidrocarbonetos"
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -41,7 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -205,12 +203,14 @@
   },
   "active": "8d700d12631be84f",
   "lastOpenFiles": [
-    "Pasted image 20250806105543.png",
-    "Pasted image 20250806105432.png",
-    "Química/Química orgânica/Reações orgânicas/Oxidação e redução.md",
+    "Química/img/Pasted image 20250806104501.png",
+    "Matemática/img/Pasted image 20250731093951.png",
+    "Matemática/img/Pasted image 20250731095326.png",
+    "Química/img/Pasted image 20250806105432.png",
     "Química/Química orgânica/Reações orgânicas/Obter hidrocarbonetos.md",
-    "Pasted image 20250806104725.png",
-    "Pasted image 20250806104501.png",
+    "Química/img/Pasted image 20250806105543.png",
+    "Química/Química orgânica/Reações orgânicas/Oxidação e redução.md",
+    "Química/img/Pasted image 20250806104725.png",
     "Química/Química orgânica/Reações orgânicas/Reações de Eliminação.md",
     "Química/Química orgânica/Reações orgânicas/Reações de adição.md",
     "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
@@ -248,11 +248,8 @@
     "Biologia/Sistemas corpo Humano/Sistema circulatório",
     "Química/Untitled.canvas",
     "O que Estudar/imagens/Pasted image 20250406150946.png",
-    "Pasted image 20250731093951.png",
-    "Pasted image 20250731095326.png",
     "Matemática/Untitled.canvas",
     "Química/img/Pasted image 20250730092150.png",
-    "Química/img/Pasted image 20250730092701.png",
-    "Química/img/Pasted image 20250730093244.png"
+    "Química/img/Pasted image 20250730092701.png"
   ]
 }
