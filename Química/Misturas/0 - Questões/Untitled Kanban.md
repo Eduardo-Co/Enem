@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] Separação de Misturas: Diferença entre decantação e centrifugação
 - [ ] Separação de mistura: Decantação
 - [ ] Separação de misturas: Destilação - definição
+- [ ] Diferença de densidade e problemas correlatos a poluição de águas pela insuficiência de Luz
 
 
 ## O que eu errei
