@@ -12,6 +12,9 @@ kanban-plugin: board
 - [ ] Misturas: Titulação
 - [ ] Misturas: Titulação com neutralização
 - [ ] Solubilidade e precipitação
+- [ ] Separação de misturas: Filtração
+- [ ] Separação de misturas: Solidificação Fracionada
+- [ ] Misturas: Solubilidade e Densidade - Conceito
 
 
 ## O que eu errei
