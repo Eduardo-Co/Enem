@@ -40,6 +40,7 @@ kanban-plugin: board
 - [ ] Grupo etóxi e metóxi
 - [ ] [[Ação da geometria nas forças moleculares.]]
 - [ ] [[Reações de transesterificação]]
+- [ ] ***Todos os grupos, nomenclaturas e propriedades***
 
 
 
