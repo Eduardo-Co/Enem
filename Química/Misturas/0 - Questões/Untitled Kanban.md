@@ -19,11 +19,12 @@ kanban-plugin: board
 - [ ] Separação de Misturas: Destilação
 - [ ] Separação de Misturas: Diferença entre decantação e centrifugação
 - [ ] Separação de mistura: Decantação
+- [ ] Separação de misturas: Destilação - definição
 
 
 ## O que eu errei
 
-- [ ] Água dura
+- [ ] [[Água dura]]
 - [ ] [[Centrifugação]]
 
 
@@ -39,12 +40,17 @@ kanban-plugin: board
 ## Estudar
 
 - [ ] Água dura
+- [ ] Ultracentrifugação para o enriquecimento de urânio / de enriquecimento de urânio métodos
+
+
+## Estudos Concluídos
+
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
