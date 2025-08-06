@@ -18,6 +18,7 @@ kanban-plugin: board
 - [ ] Misturas: Titulação
 - [ ] Separação de Misturas: Destilação
 - [ ] Separação de Misturas: Diferença entre decantação e centrifugação
+- [ ] Separação de mistura: Decantação
 
 
 ## O que eu errei
