@@ -10,6 +10,7 @@ kanban-plugin: board
 
 ## O que errei
 
+- [ ] Escalas: Proporcionalidade junto às escalas, ficar atento
 
 
 ## Estudar
