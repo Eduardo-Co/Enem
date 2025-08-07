@@ -19,6 +19,7 @@ kanban-plugin: board
 ## Resumo
 
 - [ ] [[Forma fatorada da função do segundo grau]]
+- [ ] [[Valores máximos e valor mínimo]]
 
 
 
