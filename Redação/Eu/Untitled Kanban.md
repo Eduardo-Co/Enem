@@ -16,6 +16,8 @@ kanban-plugin: board
 ## Progressão de nota
 
 - [ ] 960
+- [ ] 800 -  Desafios para o combate aos distúrbios alimentares no Brasil
+- [ ] 960 - Invisibilidade feminina na política em questão no Brasil
 
 
 

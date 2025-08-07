@@ -14,19 +14,10 @@
 	- Sucesso. Especifiquei detalhes sobre a ação
 
 - ***Meio - Redação:*** 
+	- Sucesso. Especifiquei detalhes sobre o meio
 
-### ***2° Bateria de testes***:
-
-- ***Agente - Redação*** (Tentar falar a função do agente):  
-
-
-----
-## ***Escolha entre Causa e consequência:***
-
-### 1***° Bateria de testes***
-
-- ***Causa e Causa - Redação*** Invisibilidade feminina na política em questão no Brasil: 
-	- ***Obtive Sucesso na argumentação***. 200 Pontos. Tentei exemplificar e dar mais detalhes sobre as coisas que estava falando, aumentando a quantidade de palavras. ***Dando no total 2149 Caracteres. Preciso chegar em 3000*** 
+- ***Finalidade - Redação:*** A aporofobia como obstáculo à garantia da dignidade humana no Brasil
+	- ?
 
 ---
 
