@@ -13,3 +13,7 @@ $$
 4. P(A) + P(A barrado) = 1
 
 ---
+
+- ***Multiplica-se quando os eventos forem independentes***
+
+----
