@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "45a612d3a7eae846",
+        "id": "983277ce16f615bc",
         "type": "tabs",
         "children": [
           {
-            "id": "f1570086ca2a532c",
+            "id": "8ebe07ef0863f247",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redação/Eu/Minhas redações/A aporofobia como obstáculo à garantia da dignidade humana no Brasil fo.md",
+                "file": "Matemática/probabilidade/Probabilidade e suas definições.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A aporofobia como obstáculo à garantia da dignidade humana no Brasil fo"
+              "title": "Probabilidade e suas definições"
             }
           }
         ]
@@ -202,15 +202,17 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "f1570086ca2a532c",
+  "active": "8ebe07ef0863f247",
   "lastOpenFiles": [
+    "Matemática/probabilidade/Probabilidade e suas definições.md",
+    "Matemática/Untitled",
+    "Redação/Eu/Minhas redações/A aporofobia como obstáculo à garantia da dignidade humana no Brasil fo.md",
     "Redação/Eu/Minhas redações/Democratização do acesso ao ensino superior no Brasil.md",
     "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md",
     "Redação/Eu/Untitled Kanban.md",
     "Redação/Eu/Progressão Enem e testes.md",
     "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
     "Redação/Eu/Meus repertórios.md",
-    "Redação/Eu/Minhas redações/A aporofobia como obstáculo à garantia da dignidade humana no Brasil fo.md",
     "Matemática/Módulo/Remover o módulo.md",
     "Pasted image 20250806193256.png",
     "Matemática/img/Pasted image 20250626144555.png",
@@ -235,7 +237,6 @@
     "Química/Química orgânica/Função oxigenadas/Ácidos carboxílicos.md",
     "Química/Química orgânica/Hidrocarbonetos/Regras de nomenclatura.md",
     "Água dura.md",
-    "Química/Misturas/0 - Questões/Centrifugação.md",
     "Química/Atomo/0 - questões",
     "Química/Misturas/0 - Questões",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -248,7 +249,6 @@
     "Física/Eletrodinâmica/Untitled",
     "Matemática/Funções/0 - Questões",
     "Matemática/Geometria analítica/0 - Questões",
-    "Matemática/Geometria Espacial/0 - Questões",
     "Biologia/Caixinhas.canvas",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Química/Untitled.canvas",
