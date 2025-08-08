@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03e0e1df60dd3555",
+        "id": "80d5b36552b3f910",
         "type": "tabs",
         "children": [
           {
-            "id": "e8a6683882f114ac",
+            "id": "095bc59152c092d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguagens/Gêneros textuais/Gêneros Textuais.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gêneros Textuais"
+              "title": "New tab"
             }
           }
         ]
@@ -203,10 +199,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "e8a6683882f114ac",
+  "active": "095bc59152c092d2",
   "lastOpenFiles": [
-    "Linguagens/Funções da linguagem/Função da linguagem.md",
+    "Linguagens/Tipos textuais/Tipos textuais x Sequências textuais.md",
     "Linguagens/Gêneros textuais/Gêneros Textuais.md",
+    "Linguagens/Tipos textuais",
+    "Linguagens/Funções da linguagem/Função da linguagem.md",
     "Linguagens/Gêneros textuais",
     "Linguagens/Funções da linguagem/Elementos de comunicação.md",
     "Linguagens/Funções da linguagem",
@@ -241,9 +239,7 @@
     "Matemática/Geometria analítica/0 - Questões/Untitled Kanban.md",
     "Química/Misturas/0 - Questões/Untitled Kanban.md",
     "Química/Química orgânica/0 - Questões/Questões.md",
-    "Química/Química orgânica/Funções Nitrogenadas/Aminas.md",
     "Química/Atomo/0 - questões",
-    "Química/Misturas/0 - Questões",
     "Química/img/Pasted image 20250806104501.png",
     "Matemática/img/Pasted image 20250731093951.png",
     "Matemática/img/Pasted image 20250731095326.png",
