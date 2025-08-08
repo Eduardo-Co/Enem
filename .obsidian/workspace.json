@@ -26,8 +26,29 @@
               "icon": "lucide-trello",
               "title": "Untitled Kanban"
             }
+          },
+          {
+            "id": "6e0f65545fa3b85b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5fbba1464cce9b65",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,8 +230,9 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "095bc59152c092d2",
+  "active": "5fbba1464cce9b65",
   "lastOpenFiles": [
+    "Matemática/Geometria analítica/0 - Questões/Untitled Kanban.md",
     "Linguagens/Escolas Literárias/Poesia - Romantismo.md",
     "Linguagens/Escolas Literárias/Poesia - Arcadismo.md",
     "Linguagens/Escolas Literárias/Poesia - Quinhentismo e Barroco.md",
@@ -249,7 +271,6 @@
     "Matemática/Logarítmo/Untitled",
     "Matemática/Logarítmo",
     "Matemática/Untitled Kanban.md",
-    "Matemática/Pontos importantes.md",
     "Química/img/Pasted image 20250806104501.png",
     "Matemática/img/Pasted image 20250731093951.png",
     "Matemática/img/Pasted image 20250731095326.png",
