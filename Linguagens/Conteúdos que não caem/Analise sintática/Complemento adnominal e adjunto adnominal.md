@@ -1,3 +1,0 @@
-- Complemento nominal: termo preposicionado que completa o sentido dos nomes, tem preposição
-- Adjunto adnominal: função sintática que pode ficar dentro de outra função sintática. 
-- 

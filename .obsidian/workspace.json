@@ -11,21 +11,14 @@
             "id": "e8a6683882f114ac",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Funções/0 - Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Linguagens/Funções da linguagem/Função da linguagem.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Função da linguagem"
             }
           }
         ]
@@ -212,8 +205,11 @@
   },
   "active": "e8a6683882f114ac",
   "lastOpenFiles": [
-    "Matemática/Matemática básica/0 -Questões/Valores máximos e valor mínimo.md",
+    "Linguagens/Funções da linguagem/Elementos de comunicação.md",
+    "Linguagens/Funções da linguagem/Função da linguagem.md",
+    "Linguagens/Funções da linguagem",
     "Matemática/Funções/0 - Questões/Untitled Kanban.md",
+    "Matemática/Matemática básica/0 -Questões/Valores máximos e valor mínimo.md",
     "Matemática/Funções/0 - Questões/Forma fatorada da função do segundo grau.md",
     "Matemática/Matemática básica/0 -Questões/Untitled Kanban.md",
     "Matemática/Matemática básica/0 -Questões",
@@ -245,8 +241,6 @@
     "Química/Química orgânica/0 - Questões/Questões.md",
     "Química/Química orgânica/Funções Nitrogenadas/Aminas.md",
     "Química/Química orgânica/Funções Nitrogenadas/Amidas.md",
-    "Química/Química orgânica/Função oxigenadas/Grupos funcionais com oxigênio.md",
-    "Química/Química orgânica/Função oxigenadas/Função Fenol e Enol.md",
     "Química/Atomo/0 - questões",
     "Química/Misturas/0 - Questões",
     "Química/img/Pasted image 20250806104501.png",
@@ -256,7 +250,6 @@
     "Química/img/Pasted image 20250806105543.png",
     "Química/img/Pasted image 20250806104725.png",
     "Física/Eletrodinâmica/Untitled",
-    "Matemática/Funções/0 - Questões",
     "Biologia/Caixinhas.canvas",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Química/Untitled.canvas",
