@@ -18,3 +18,5 @@ Saudosismo; pessimismo; sonho (***fuga provisória***) morte (***fuga definitiva
 
 - Defesa de causas
 - Amor sensual
+---
+
