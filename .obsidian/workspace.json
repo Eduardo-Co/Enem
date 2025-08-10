@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80d5b36552b3f910",
+        "id": "a5d53d4fc2301c3b",
         "type": "tabs",
         "children": [
           {
-            "id": "095bc59152c092d2",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Matemática/Geometria analítica/0 - Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "6e0f65545fa3b85b",
+            "id": "a62eb9377db054c9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,29 +16,8 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "5fbba1464cce9b65",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Matemática/Geometria Espacial/0 - Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,9 +199,15 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "5fbba1464cce9b65",
+  "active": "a62eb9377db054c9",
   "lastOpenFiles": [
     "Matemática/Geometria analítica/0 - Questões/Untitled Kanban.md",
+    "Matemática/Trigonometria/0 - questões/Untitled Kanban.md",
+    "Matemática/Trigonometria/0 - questões/Rad para graus.md",
+    "Matemática/Trigonometria/0 - questões/Conversão rad para graus.md",
+    "Matemática/Trigonometria/0 - questões/Conversão radianos em graus.md",
+    "Matemática/Geometria Espacial/0 - Questões/Untitled Kanban.md",
+    "Matemática/Trigonometria/0 - questões",
     "Linguagens/Escolas Literárias/Poesia - Romantismo.md",
     "Linguagens/Escolas Literárias/Poesia - Arcadismo.md",
     "Linguagens/Escolas Literárias/Poesia - Quinhentismo e Barroco.md",
@@ -271,16 +236,10 @@
     "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md",
     "Redação/Eu/Untitled Kanban.md",
     "Redação/Eu/Progressão Enem e testes.md",
-    "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
-    "Redação/Eu/Meus repertórios.md",
-    "Matemática/Módulo/Remover o módulo.md",
     "Pasted image 20250806193256.png",
     "Matemática/img/Pasted image 20250626144555.png",
-    "Matemática/Logarítmo/log.md",
     "Matemática/Módulo",
     "Matemática/Logarítmo/Untitled",
-    "Matemática/Logarítmo",
-    "Matemática/Untitled Kanban.md",
     "Química/img/Pasted image 20250806104501.png",
     "Matemática/img/Pasted image 20250731093951.png",
     "Matemática/img/Pasted image 20250731095326.png",
