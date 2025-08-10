@@ -15,6 +15,7 @@ kanban-plugin: board
 ## Ter no resumo
 
 - [ ] Área esfera
+- [ ] Volume Esfera
 
 
 
