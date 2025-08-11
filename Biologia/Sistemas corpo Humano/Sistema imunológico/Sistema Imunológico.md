@@ -1,74 +1,54 @@
-## ​ Quartel-general
+# Exército do Sistema Imune — versão sem siglas
 
-- **Órgãos linfóides**: medula óssea e timo (formação das tropas); linfonodos, baço, MALT/Peyer (onde a batalha acontece).
+## Quartel-general
 
-##  Fortificações & sentinelas
+- **Órgãos primários:** medula óssea (origem e maturação de linfócitos B) e timo (maturação de linfócitos T).
 
-- **Barreiras físicas/químicas e microbiota**: pele, mucosas, muco, defensinas, enzimas.
-- **Sensores PRRs/TLRs**: capturam padrões de patógenos e disparam a resposta inata.
+- **Órgãos secundários:** linfonodos, baço e tecido linfoide associado à mucosa (inclui placas de Peyer) — onde a resposta é iniciada e organizada.
 
-##  Infantaria de choque (linha de frente)
+## Fortificações e sentinelas
 
-- **Neutrófilos**: chegam primeiro, fagocitam, liberam ROS e formam NETs.
-- **Macrófagos**: fagocitam, iniciam inflamação; depois ajudam na reparação.
+- **Barreiras:** pele, mucosas, muco, enzimas e defensinas; microbiota competindo com invasores.
 
-##  Forças especiais
+- **Sensores de perigo:** receptores de reconhecimento de padrões (por exemplo, receptores tipo Toll, do tipo NOD, tipo RIG-I e lectinas tipo C) detectam padrões de micróbios e sinais de dano e disparam a imunidade inata.
 
-- **Células NK**: eliminam células infectadas ou tumorais sem necessidade de reconhecimento específico.
+## Linha de frente (imunidade inata)
 
-##  Inteligência e comunicações
+- **Neutrófilos:** fazem fagocitose, liberam espécies reativas de oxigênio e formam armadilhas extracelulares de neutrófilos.
 
-- **Células dendríticas**: capturam antígenos e apresentam aos ***linfócitos T (CD4)***, conectando inata à adaptativa. Além disso, os ***Macrófagos e linfócitos B*** também apresentam. Logo, definindo um plano de ataque, o general decide se vale a pena ou não.
+- **Macrófagos:** fagocitam e iniciam inflamação; depois colaboram no reparo do tecido.
 
-- **Citocinas/quimiocinas**: coordenam e direcionam células imunes ao local da batalha.
+- **Sistema complemento:** marca micróbios para fagocitose (opsonização, como pela proteína C3b) e pode perfurar membranas (complexo de ataque à membrana).
 
-##  Estado-maior (comando e controle)
+- **Células exterminadoras naturais:** eliminam células com baixa apresentação de “sinal de próprio” (redução do complexo principal de histocompatibilidade de classe I).
 
-- **Linfócito T auxiliar (CD4⁺)**: coordena a tropa — ativa B, macrófagos e T citotóxicos; define o plano de ataque.
+## Inteligência e comunicações
 
-##  Comandos especializados
+- **Células dendríticas:** principais “apresentadoras” de antígeno; ativam linfócitos T virgens e conseguem realizar apresentação cruzada (colocam antígeno vindo de fora na bandeja de classe I para iniciar linfócitos T citotóxicos).
 
-- **Linfócito T citotóxico (CD8⁺)**: executa células infectadas usando perforina e granzimas ou via FasL.
+- **Citocinas e quimiocinas:** mensageiros que definem o tipo de resposta e direcionam as células ao foco da infecção.
 
-##  Artilharia
+## Estado-maior (coordenação)
 
-- **Linfócitos B → Plasmócitos → Anticorpos**:
-  - IgM/IgG: neutralizam e opsonizam.
-  - IgA: protege mucosas.
-  - IgE: mobiliza mastócitos/eosinófilos contra parasitas.
 
-##  Apoio de fogo contínuo
+- **Linfócitos T auxiliares (CD4):** decidem a rota (resposta com anticorpos × resposta citotóxica) e ativam linfócitos B, macrófagos e linfócitos T citotóxicos.
 
-- **Sistema complemento**: marca invasores (opsonização) e forma complexo de ataque à membrana.
+## Comandos especializados
 
-##  Engenharia & guerra química
+- **Linfócitos T citotóxicos (CD8):** reconhecem peptídeos exibidos pelo complexo principal de histocompatibilidade de classe I e induzem morte celular por perforina e granzimas ou pela via do receptor Fas; também secretam interferon gama e fator de necrose tumoral.
 
-- **Mastócitos, basófilos, eosinófilos**: atuam em alergias e contra parasitas (via IgE).
+## Artilharia
+- **Linfócitos B → plasmócitos → anticorpos:** o linfócito B apresenta antígeno em bandeja de classe II e recebe ajuda do linfócito T auxiliar (sinal coestimulador e citocinas).
+- **No centro germinativo (dentro do linfonodo):** ocorre hipermutação somática, maturação de afinidade e troca de classe de anticorpos → surgem plasmócitos de longa vida e linfócitos B de memória.
+- **Anticorpos principais:** imunoglobulina G e imunoglobulina M (neutralizam e marcam para fagocitose), imunoglobulina A (protege mucosas) e imunoglobulina E (atua com mastócitos e eosinófilos em alergias e contra parasitas).
 
-##  Reserva estratégica
-
-- **Células de memória (B e T)**: resposta mais rápida e eficaz em reexposições.
+## Reserva estratégica
+- **Células de memória (B e T):** garantem resposta muito mais rápida e eficaz na reexposição ao mesmo agente.
 
 ---
 
-**Ordem de combate**:  
+### Linha única para memorização
+**Inata segura e chama → célula dendrítica apresenta → linfócito T auxiliar decide → linfócito T citotóxico elimina células infectadas → linfócito B produz anticorpos e memória.**
 
-1. **Inata** ataca imediatamente e envia sinal de socorro.  
-
-2. **Adaptativa** chega depois, com precisão e com memória imunológica para reações futuras.
-
-> [!important] **Ponto fraco — ataque ao “general” (CD4⁺)**  
-> Quando vírus como o **HIV** destroem os linfócitos T auxiliares (CD4⁺), a coordenação do sistema — ou seja, o “comando geral” — fica comprometida. Uma contagem de CD4 inferior a **200 células/µL** define **AIDS**, abrindo caminho para infecções oportunistas.
-
----
-## Órgãos primários do sistema imune: Maturação dos linfócitos
-
-- Timo
-- Medula óssea
-
-## Órgãos secundários: Armazenamento
-
-- Baço
-- Apêndice
-- Linfonodos
----
+> [!important] Ponto fraco do sistema
+> Queda importante dos **linfócitos T auxiliares** (por exemplo, na infecção pelo vírus da imunodeficiência humana) desorganiza a coordenação da resposta e aumenta muito o risco de infecções oportunistas.
