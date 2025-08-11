@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "b8dfe3f0f64d7d66",
+        "id": "05e24ac302a0eb79",
         "type": "tabs",
         "children": [
           {
-            "id": "7088d73c75a757b8",
+            "id": "b5490ad99270268d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Biologia/Sistemas corpo Humano/Sistema Músculo-Esquelético/Sistema Músculo-Esquelético.md",
-                "mode": "source",
-                "source": false
+                "file": "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Sistema Músculo-Esquelético"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -203,10 +215,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "7088d73c75a757b8",
+  "active": "b5490ad99270268d",
   "lastOpenFiles": [
-    "Biologia/Sistemas corpo Humano/Sistema imunológico/Sistema Imunológico.md",
+    "Biologia/Sistemas corpo Humano/Sistema circulatório/Sistema respiratório.md",
+    "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
     "Biologia/Sistemas corpo Humano/Sistema Músculo-Esquelético/Sistema Músculo-Esquelético.md",
+    "Biologia/Sistemas corpo Humano/Sistema imunológico/Sistema Imunológico.md",
     "Biologia/Sistemas corpo Humano/Sistema Músculo-Esquelético",
     "Ink/Writing/2025.8.11 - 8.00am.writing",
     "Biologia/Sistemas corpo Humano/Sistema nervoso/Sistema nervoso.md",
@@ -216,7 +230,6 @@
     "Biologia/Sistemas corpo Humano/Sistema endócrino/Sistema endócrino.md",
     "Biologia/Sistemas corpo Humano/Sistema nervoso",
     "Biologia/Sistemas corpo Humano/Sistema Excretor/Sistema Excretor.md",
-    "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
     "Biologia/Sistemas corpo Humano/Sistema Digestório/Untitled Kanban.md",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Biologia/Sistemas corpo Humano/Sistema endócrino",
@@ -242,7 +255,6 @@
     "Linguagens/Funções da linguagem/Elementos de comunicação.md",
     "Matemática/Funções/0 - Questões/Untitled Kanban.md",
     "Matemática/Matemática básica/0 -Questões/Valores máximos e valor mínimo.md",
-    "Matemática/Funções/0 - Questões/Forma fatorada da função do segundo grau.md",
     "Matemática/Untitled.canvas",
     "Matemática/img/Pasted image 20250626144555.png",
     "Química/img/Pasted image 20250806104501.png",
