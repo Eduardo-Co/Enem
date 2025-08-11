@@ -23,4 +23,5 @@ Encontro entre ossos - produz movimento.
 
 Músculos se conectam ossos por meio de tendões. 
 
-***Contração muscular:*** Actina e Miosina; Contrair um músculo - miosina se encaixa na actina e contraí o músculo. Esse encaixe vem por: ***Impulsos nervosos*** que vem do ***cálcio*** e ATP 
+***Contração muscular:*** Actina e Miosina; Contrair um músculo - miosina se encaixa na actina e contraí o músculo. Esse encaixe vem por: ***Impulsos nervosos*** que vem do ***cálcio*** e ***ATP*** 
+
