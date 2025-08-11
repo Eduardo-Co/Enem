@@ -11,5 +11,13 @@
 - Termostato, fome, sede e produção de hormônios
 - ***Amídala:*** Memória emocional
 - ***Hipocampo:*** Memória temporária
----
-# Sistema nervoso periférico:
+
+
+![[Pasted image 20250811070601.png]]
+
+## Divisão parassimpática:
+- Descanso e digestão: AcetilColina
+
+## Divisão Simpática:
+- Ação, libido, luta e fuga: Adrenalina
+
