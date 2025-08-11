@@ -47,6 +47,11 @@ kanban-plugin: board
 
 
 
+## Muscoloesquelético
+
+- [ ] [[Fibras do corpo - tipos de músculos]] @[[2025-08-11]]
+
+
 ## Ter no resumo  Muscoloesquelético
 
 
@@ -55,6 +60,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false,false],"full-list-lane-width":true,"show-relative-date":true,"link-date-to-daily-note":true,"archive-with-date":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false,false,false],"full-list-lane-width":true,"show-relative-date":true,"link-date-to-daily-note":true,"archive-with-date":true}
 ```
 %%
