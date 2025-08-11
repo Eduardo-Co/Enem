@@ -35,6 +35,7 @@ kanban-plugin: board
 
 - [ ] Glândula Pineal - Hormônios secretados e suas funções @[[2025-08-11]]
 - [ ] [[Tireoide - Hormônios secretados e suas funções, bem como o que produz]] @[[2025-08-11]]
+- [ ] [[Insulina e Glucagon - Onde são produzidos e o que fazem]]
 
 
 ## Imunológico
