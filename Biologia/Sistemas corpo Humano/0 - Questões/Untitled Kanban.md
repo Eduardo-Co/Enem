@@ -23,22 +23,27 @@ kanban-plugin: board
 
 ## Ter no resumo Digestório
 
-- [ ] Digestão em cada órgão
+- [ ] Digestão em cada órgão @[[2025-08-04]]
 
 
 ## Ter no resumo Circulatório
 
-- [ ] Vasoconstrição e vasodilatação - temperatura
+- [ ] Vasoconstrição e vasodilatação - temperatura @[[2025-08-04]]
 
 
 ## Ter no resumo Endrócrino
 
 - [ ] Glândula Pineal - Hormônios secretados e suas funções @[[2025-08-11]]
+- [ ] [[Tireoide - Hormônios secretados e suas funções, bem como o que produz]] @[[2025-08-11]]
+
+
+## Imunológico
+
+- [ ] [[Produção de vacinas antivirais - função da proteína @2025-08-11]] @[[2025-08-11]]
 
 
 ## Ter no resumo  Imunológico
 
-- [ ] [[Produção de vacinas antivirais - função da proteína @2025-08-11]]
 
 
 ## Ter no resumo  Muscoloesquelético
@@ -49,6 +54,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false],"full-list-lane-width":true,"show-relative-date":true,"link-date-to-daily-note":true,"archive-with-date":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false,false],"full-list-lane-width":true,"show-relative-date":true,"link-date-to-daily-note":true,"archive-with-date":true}
 ```
 %%
