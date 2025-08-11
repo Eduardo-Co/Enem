@@ -74,5 +74,12 @@ Hipertireoidismo:
 - Urina com muito açúcar
 - Engorda
 
-Tipo 1: Nasce com
-Tipo 2: Desenv
+---
+## Córtex das adrenais
+
+- ***Cortisol***: Aumenta glicose no sangue degradando gorduras e proteínas
+- ***Aldosterona***: Reabsorção de sódio nos rins
+
+## Medula das adrenais:
+
+- ***Adrenalina e Noradrenalina***: Produção de glicose a partir de gordura e proteínas

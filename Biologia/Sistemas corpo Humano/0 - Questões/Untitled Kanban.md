@@ -23,7 +23,7 @@ kanban-plugin: board
 
 ## Ter no resumo Digestório
 
-- [ ] Digestão de cada órgão
+- [ ] Digestão em cada órgão
 
 
 ## Circulatório
