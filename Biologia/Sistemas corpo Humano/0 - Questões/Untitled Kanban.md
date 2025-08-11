@@ -38,7 +38,7 @@ kanban-plugin: board
 
 ## Ter no resumo  Imunológico
 
-- [ ] Produção de vacinas antivirais - função da proteína @[[2025-08-11]]
+- [ ] [[Produção de vacinas antivirais - função da proteína @2025-08-11]]
 
 
 ## Ter no resumo  Muscoloesquelético
