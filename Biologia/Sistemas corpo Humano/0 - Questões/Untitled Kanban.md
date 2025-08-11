@@ -40,6 +40,7 @@ kanban-plugin: board
 ## Imunológico
 
 - [ ] [[Produção de vacinas antivirais - função da proteína @2025-08-11]] @[[2025-08-11]]
+- [ ] [[Diferença entre antígeno e anticorpo]] @[[2025-08-11]]
 
 
 ## Ter no resumo  Imunológico
