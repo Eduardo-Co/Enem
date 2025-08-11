@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a5d53d4fc2301c3b",
+        "id": "77b76a0800172aff",
         "type": "tabs",
         "children": [
           {
-            "id": "a62eb9377db054c9",
+            "id": "30d1210d5c6f1567",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Geometria plana/0 - Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Biologia/Sistemas corpo Humano/Sistema endócrino/Sistema endócrino.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Sistema endócrino"
             }
           }
         ]
@@ -209,10 +203,13 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "a62eb9377db054c9",
+  "active": "30d1210d5c6f1567",
   "lastOpenFiles": [
-    "Matemática/Geometria plana/0 - Questões/Ângulos de um polígono regular.md",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/Sistemas corpo Humano/Sistema endócrino/Sistema endócrino.md",
+    "Biologia/Sistemas corpo Humano/Sistema endócrino",
     "Matemática/Geometria plana/0 - Questões/Untitled Kanban.md",
+    "Matemática/Geometria plana/0 - Questões/Ângulos de um polígono regular.md",
     "Matemática/Geometria plana/0 - Questões/Ângulos.md",
     "Matemática/Geometria plana/0 - Questões",
     "Matemática/Geometria analítica/0 - Questões/Untitled Kanban.md",
@@ -241,15 +238,11 @@
     "Matemática/Matemática básica/Razão e proporção/Escala.md",
     "O que Estudar/Matemática.md",
     "Matemática/Untitled.canvas",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Matemática básica/Razão e proporção/Untitled Kanban.md",
     "Matemática/probabilidade/Probabilidade e suas definições.md",
     "Matemática/Untitled",
-    "Redação/Eu/Minhas redações/A aporofobia como obstáculo à garantia da dignidade humana no Brasil fo.md",
-    "Redação/Eu/Minhas redações/Democratização do acesso ao ensino superior no Brasil.md",
     "Pasted image 20250806193256.png",
     "Matemática/img/Pasted image 20250626144555.png",
-    "Matemática/Módulo",
     "Química/img/Pasted image 20250806104501.png",
     "Matemática/img/Pasted image 20250731093951.png",
     "Matemática/img/Pasted image 20250731095326.png",
