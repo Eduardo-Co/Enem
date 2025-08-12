@@ -11,21 +11,14 @@
             "id": "f53313955e91e709",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Termologia/Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Mecânica/gravitação/Gravitação Universal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Gravitação Universal"
             }
           }
         ]
@@ -60,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "logar",
+                "query": "Potencial",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,8 +203,14 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "f53313955e91e709",
+  "active": "520d63d22b57ca04",
   "lastOpenFiles": [
+    "Física/Mecânica",
+    "Física/Mecânica/Quantidade de Movimento/Quantidade de movimento.md",
+    "Física/Mecânica/Quantidade de Movimento/Colisões.md",
+    "Física/Mecânica/Quantidade de Movimento/Força impulsiva.md",
+    "Física/Mecânica/Cinemática/Movimentos Uniformes.md",
+    "Física/Termologia/Questões/Untitled Kanban.md",
     "Física/Planejamento.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
     "Insulina e Glucagon - Onde são produzidos e o que fazem.md",
@@ -241,13 +240,7 @@
     "Matemática/Geometria analítica/0 - Questões/Untitled Kanban.md",
     "Matemática/Trigonometria/0 - questões/Untitled Kanban.md",
     "Matemática/Trigonometria/0 - questões/Rad para graus.md",
-    "Matemática/Trigonometria/0 - questões/Conversão rad para graus.md",
-    "Matemática/Trigonometria/0 - questões/Conversão radianos em graus.md",
-    "Matemática/Geometria Espacial/0 - Questões/Untitled Kanban.md",
     "Matemática/Trigonometria/0 - questões",
-    "Linguagens/Escolas Literárias/Poesia - Romantismo.md",
-    "Linguagens/Escolas Literárias/Poesia - Arcadismo.md",
-    "Linguagens/Escolas Literárias/Poesia - Quinhentismo e Barroco.md",
     "Linguagens/Escolas Literárias",
     "Linguagens/Tipos textuais",
     "Matemática/Untitled.canvas",
