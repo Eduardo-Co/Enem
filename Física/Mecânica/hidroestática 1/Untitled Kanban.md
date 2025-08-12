@@ -4,10 +4,9 @@ kanban-plugin: board
 
 ---
 
-## O que estudar
+## Ter no resumo
 
-- [ ] Harmônicos @{2025-08-12}
-- [ ] Equação da interferência @{2025-08-12}
+- [ ] Pressão hidroestática - formula
 
 
 
