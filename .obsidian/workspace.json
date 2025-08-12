@@ -11,21 +11,14 @@
             "id": "bc050759d94481b8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Termologia/Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Termologia/Questões/Maquinas térmicas + Sadi Carnot.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Maquinas térmicas + Sadi Carnot"
             }
           }
         ]
@@ -212,10 +205,12 @@
   },
   "active": "bc050759d94481b8",
   "lastOpenFiles": [
+    "Física/Termologia/Questões/Untitled Kanban.md",
+    "Biologia/Sistemas corpo Humano/0 - Questões/Insulina e Glucagon - Onde são produzidos e o que fazem.md",
+    "Física/Termologia/Questões/Maquinas térmicas + Sadi Carnot.md",
     "Física/Ondulatória/0 - questões/Harmônicos.md",
     "Física/Ondulatória/0 - questões/Untitled Kanban.md",
     "Pasted image 20250812175441.png",
-    "Física/Termologia/Questões/Untitled Kanban.md",
     "Física/Mecânica/hidroestática 1/Untitled Kanban.md",
     "Física/Mecânica/gravitação/Gravitação Universal.md",
     "Física/Mecânica/Energia potencial/Untitled Kanban.md",
@@ -235,7 +230,6 @@
     "Física/Mecânica/Quantidade de Movimento/Força impulsiva.md",
     "Física/Mecânica/Cinemática/Movimentos Uniformes.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
-    "Insulina e Glucagon - Onde são produzidos e o que fazem.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Fibras do corpo - tipos de músculos.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Diferença entre antígeno e anticorpo.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Tireoide - Hormônios secretados e suas funções, bem como o que produz.md",

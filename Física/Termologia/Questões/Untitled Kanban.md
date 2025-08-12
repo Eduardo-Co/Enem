@@ -22,7 +22,7 @@ kanban-plugin: board
 
 ## O que estudar
 
-- [ ] Maquinas térmicas + Sadi Carnot @{2025-08-12}
+- [ ] [[Maquinas térmicas + Sadi Carnot]]
 
 
 ## Resumo
