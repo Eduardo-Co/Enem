@@ -4,28 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f3821a2dbe332dc",
+        "id": "89958436f34bdae0",
         "type": "tabs",
         "children": [
           {
-            "id": "49d3e1513de93c45",
+            "id": "bc050759d94481b8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Termologia/Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Ondulatória/0 - questões/Harmônicos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Harmônicos"
             }
           }
         ]
@@ -210,9 +203,11 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "49d3e1513de93c45",
+  "active": "bc050759d94481b8",
   "lastOpenFiles": [
     "Física/Ondulatória/0 - questões/Untitled Kanban.md",
+    "Física/Ondulatória/0 - questões/Harmônicos.md",
+    "Física/Termologia/Questões/Untitled Kanban.md",
     "Física/Mecânica/hidroestática 1/Untitled Kanban.md",
     "Física/Mecânica/gravitação/Gravitação Universal.md",
     "Física/Mecânica/Energia potencial/Untitled Kanban.md",
@@ -231,7 +226,6 @@
     "Física/Mecânica/Quantidade de Movimento/Colisões.md",
     "Física/Mecânica/Quantidade de Movimento/Força impulsiva.md",
     "Física/Mecânica/Cinemática/Movimentos Uniformes.md",
-    "Física/Termologia/Questões/Untitled Kanban.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
     "Insulina e Glucagon - Onde são produzidos e o que fazem.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Fibras do corpo - tipos de músculos.md",
@@ -244,7 +238,6 @@
     "Biologia/Sistemas corpo Humano/Sistema imunológico/Sistema Imunológico.md",
     "Biologia/Sistemas corpo Humano/Sistema Músculo-Esquelético",
     "Ink/Writing/2025.8.11 - 8.00am.writing",
-    "Biologia/Sistemas corpo Humano/Sistema nervoso/Sistema nervoso.md",
     "Biologia/Sistemas corpo Humano/Sistema imunológico",
     "Biologia/img/Pasted image 20250811070601.png",
     "Matemática/img/Pasted image 20250806193256.png",
