@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Mecânica/Energia potencial/Fórmulas de Energia potencial.md",
+                "file": "Física/Mecânica/hidroestática 1/Pressão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fórmulas de Energia potencial"
+              "title": "Pressão"
             }
           }
         ]
@@ -205,8 +205,11 @@
   },
   "active": "f53313955e91e709",
   "lastOpenFiles": [
-    "Física/Planejamento.md",
+    "Física/Mecânica/hidroestática 1/Teorema de Stevin.md",
+    "Física/Mecânica/hidroestática 1/Pressão.md",
     "Física/Mecânica/Energia potencial/Fórmulas de Energia potencial.md",
+    "Física/Mecânica/Hidroestática",
+    "Física/Planejamento.md",
     "Física/Mecânica/Energia potencial",
     "Física/Mecânica/gravitação/Gravitação Universal.md",
     "Física/Mecânica",
@@ -240,9 +243,6 @@
     "Matemática/Geometria plana/0 - Questões/Ângulos de um polígono regular.md",
     "Matemática/Geometria plana/0 - Questões/Ângulos.md",
     "Matemática/Geometria plana/0 - Questões",
-    "Matemática/Geometria analítica/0 - Questões/Untitled Kanban.md",
-    "Matemática/Trigonometria/0 - questões/Untitled Kanban.md",
-    "Matemática/Trigonometria/0 - questões",
     "Matemática/Untitled.canvas",
     "Matemática/img/Pasted image 20250626144555.png",
     "Química/img/Pasted image 20250806104501.png",
