@@ -1,0 +1,3 @@
+- onda estacionária
+- relação com ressonância
+- Formula do número de armônicos.
