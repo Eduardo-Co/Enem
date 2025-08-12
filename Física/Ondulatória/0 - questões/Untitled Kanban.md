@@ -6,8 +6,7 @@ kanban-plugin: board
 
 ## O que estudar
 
-- [ ] [[Harmônicos]]
-- [ ] Equação da interferência @{2025-08-12}
+- [ ] [[Harmônicos]] @{2025-08-12}
 
 
 
