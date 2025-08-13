@@ -213,8 +213,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "hi-note:HiNote": false,
-      "remotely-save:Remotely Save": false
+      "hi-note:HiNote": false
     }
   },
   "active": "ac45776444c1401c",
