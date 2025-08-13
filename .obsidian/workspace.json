@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89958436f34bdae0",
+        "id": "f8a3343ae34116c0",
         "type": "tabs",
         "children": [
           {
-            "id": "bc050759d94481b8",
+            "id": "4a76c24374111634",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,11 +203,13 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "bc050759d94481b8",
+  "active": "4a76c24374111634",
   "lastOpenFiles": [
     "Pasted image 20250813072434.png",
-    "Química/Ciclos Bioquímicos/Ciclo do carbono.md",
+    "Pasted image 20250812175441.png",
     "Química/Ciclos Bioquímicos/Nitrogênio.md",
+    "Pasted image 20250813074416.png",
+    "Química/Ciclos Bioquímicos/Ciclo do carbono.md",
     "Química/Ciclos Bioquímicos/Oxigênio.md",
     "Química/Ciclos Bioquímicos/Água.md",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
@@ -217,7 +219,6 @@
     "Biologia/Sistemas corpo Humano/0 - Questões/Insulina e Glucagon - Onde são produzidos e o que fazem.md",
     "Física/Ondulatória/0 - questões/Harmônicos.md",
     "Física/Ondulatória/0 - questões/Untitled Kanban.md",
-    "Pasted image 20250812175441.png",
     "Física/Mecânica/hidroestática 1/Untitled Kanban.md",
     "Física/Mecânica/gravitação/Gravitação Universal.md",
     "Física/Mecânica/Energia potencial/Untitled Kanban.md",
@@ -251,8 +252,6 @@
     "Matemática/img/Pasted image 20250731093951.png",
     "Matemática/img/Pasted image 20250731095326.png",
     "Química/img/Pasted image 20250806105432.png",
-    "Química/img/Pasted image 20250806105543.png",
-    "Química/img/Pasted image 20250806104725.png",
     "Biologia/Caixinhas.canvas",
     "Química/Untitled.canvas"
   ]
