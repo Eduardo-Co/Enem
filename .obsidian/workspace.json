@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Química"
             }
+          },
+          {
+            "id": "ac45776444c1401c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "O que Estudar/imagens/Pasted image 20250406151005.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250406151005"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,8 +217,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "520d63d22b57ca04",
+  "active": "ac45776444c1401c",
   "lastOpenFiles": [
+    "O que Estudar/Química.md",
     "Untitled.canvas",
     "Química/Ligações químicas/Carga Formal.md",
     "Z - Lumber/Cronograma.md",
