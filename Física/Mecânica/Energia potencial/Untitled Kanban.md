@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Ter no resumo
 
-- [ ] Energia potencial Gravitacional @{2025-08-12}
+- [ ] [[Energia potencial Gravitacional]] @{2025-08-13}
 
 
 

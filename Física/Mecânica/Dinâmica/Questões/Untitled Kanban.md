@@ -11,10 +11,14 @@ kanban-plugin: board
 - [ ] Tipos de força e suas atuações: Gravitacional, elástica.
 
 
+## Ter no Resumo
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false]}
+{"kanban-plugin":"board","list-collapse":[false,false]}
 ```
 %%
