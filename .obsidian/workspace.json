@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Ciclos Bioquímicos/Água.md",
+                "file": "Química/Ciclos Bioquímicos/Ciclo do carbono.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Água"
+              "title": "Ciclo do carbono"
             }
           }
         ]
@@ -205,8 +205,10 @@
   },
   "active": "bc050759d94481b8",
   "lastOpenFiles": [
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Química/Ciclos Bioquímicos/Oxigênio.md",
+    "Química/Ciclos Bioquímicos/Ciclo do carbono.md",
     "Química/Ciclos Bioquímicos/Água.md",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Ciclos Bioquímicos",
     "Física/Termologia/Questões/Maquinas térmicas + Sadi Carnot.md",
     "Física/Termologia/Questões/Untitled Kanban.md",
@@ -237,7 +239,6 @@
     "Biologia/Sistemas corpo Humano/0 - Questões/Diferença entre antígeno e anticorpo.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Tireoide - Hormônios secretados e suas funções, bem como o que produz.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Produção de vacinas antivirais - função da proteína @2025-08-11.md",
-    "Biologia/Sistemas corpo Humano/Sistema endócrino/Sistema endócrino.md",
     "Biologia/Sistemas corpo Humano/Sistema Músculo-Esquelético",
     "Ink/Writing/2025.8.11 - 8.00am.writing",
     "Biologia/Sistemas corpo Humano/Sistema imunológico",

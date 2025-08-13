@@ -4,4 +4,4 @@
 - Infiltra 
 - Escoe
 
-Transpiração que formam nuvens, - 
+Transpiração que formam nuvens - Amazônia 

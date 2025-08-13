@@ -1,0 +1,3 @@
+- Produtores usam carbono da atmosfera e distribuí na cadeia
+- Decompositores também levam carbono
+- Quando não há a decomposição, pelos decompositores, seja por falta de oxigênio ou ambiente típicos, vira petróleo e combustível fóssil (hidrocarbonetos ricos em carbono)
