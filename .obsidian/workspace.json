@@ -11,6 +11,26 @@
             "id": "4a76c24374111634",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
+            "id": "9ca426aa52d0ae7d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "O que Estudar/Física.md",
@@ -21,7 +41,8 @@
               "title": "Física"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,11 +224,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "4a76c24374111634",
+  "active": "9ca426aa52d0ae7d",
   "lastOpenFiles": [
+    "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
+    "O que Estudar/Física.md",
     "O que Estudar/Biologia.md",
     "O que Estudar/Química.md",
-    "O que Estudar/Física.md",
     "Água dura.md",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Química/Cronograma de questões.md",
@@ -233,7 +255,6 @@
     "Física/Mecânica/gravitação/Gravitação Universal.md",
     "Física/Mecânica/Energia potencial/Untitled Kanban.md",
     "Física/Mecânica/Energia potencial/Fórmulas de Energia potencial.md",
-    "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
     "Física/Untitled Kanban.md",
     "Física/Planejamento.md",
     "Física/Caixinhas.canvas",
