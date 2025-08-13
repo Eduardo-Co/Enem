@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que Estudar/Química.md",
+                "file": "Química/Cronograma de questões.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Química"
-            }
-          },
-          {
-            "id": "ac45776444c1401c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "O que Estudar/imagens/Pasted image 20250406151005.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250406151005"
+              "title": "Cronograma de questões"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,9 +203,11 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "ac45776444c1401c",
+  "active": "4a76c24374111634",
   "lastOpenFiles": [
     "O que Estudar/Química.md",
+    "Química/Cronograma de questões.md",
+    "O que Estudar/imagens/Pasted image 20250406151005.png",
     "Untitled.canvas",
     "Química/Ligações químicas/Carga Formal.md",
     "Z - Lumber/Cronograma.md",
@@ -254,7 +243,6 @@
     "Física/Mecânica/Quantidade de Movimento/Colisões.md",
     "Física/Mecânica/Quantidade de Movimento/Força impulsiva.md",
     "Física/Mecânica/Cinemática/Movimentos Uniformes.md",
-    "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
     "Biologia/Sistemas corpo Humano/Sistema Músculo-Esquelético",
     "Ink/Writing/2025.8.11 - 8.00am.writing",
     "Biologia/Sistemas corpo Humano/Sistema imunológico",
@@ -266,7 +254,6 @@
     "Química/img/Pasted image 20250806104501.png",
     "Matemática/img/Pasted image 20250731093951.png",
     "Matemática/img/Pasted image 20250731095326.png",
-    "Química/img/Pasted image 20250806105432.png",
     "Biologia/Caixinhas.canvas",
     "Química/Untitled.canvas"
   ]
