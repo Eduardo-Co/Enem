@@ -12,9 +12,10 @@ kanban-plugin: board
 
 
 
-## Resumo
+## Ter no resumo
 
 - [ ] [[Ângulos de um polígono regular]]
+- [ ] Triângulos retângulos inscritos em uma circunferência @{2025-08-14}
 
 
 
