@@ -16,6 +16,7 @@ kanban-plugin: board
 
 - [ ] [[Ângulos de um polígono regular]]
 - [ ] Triângulos retângulos inscritos em uma circunferência @{2025-08-14}
+- [ ] Propriedades do baricentro @{2025-08-14}
 
 
 
