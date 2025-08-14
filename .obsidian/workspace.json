@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eea3bd23a71068d7",
+        "id": "9f9c9eca6daafd3c",
         "type": "tabs",
         "children": [
           {
-            "id": "da638971d4db917e",
+            "id": "09932d150dbed67c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Matemática/Geometria plana/0 - Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Calendário/2025-08-14.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "2025-08-14"
             }
           }
         ]
@@ -188,12 +182,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +202,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "da638971d4db917e",
+  "active": "09932d150dbed67c",
   "lastOpenFiles": [
+    "Calendário/2025-08-14.md",
+    "Matemática/Geometria plana/0 - Questões/Untitled Kanban.md",
     "Matemática/Geometria plana/0 - Questões/Ângulos de um polígono regular.md",
     "Matemática/Geometria Espacial/0 - Questões/Untitled Kanban.md",
-    "Matemática/Geometria plana/0 - Questões/Untitled Kanban.md",
     "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
     "Física/Mecânica/Quantidade de Movimento/Questões/Untitled Kanban.md",
     "Colisões perfeitamente elásticas e sua quantidade de movimento.md",
@@ -246,7 +240,6 @@
     "Química/Ciclos Bioquímicos/Água.md",
     "Química/Ciclos Bioquímicos",
     "Física/Termologia/Questões/Maquinas térmicas + Sadi Carnot.md",
-    "Física/Termologia/Questões/Untitled Kanban.md",
     "Física/Caixinhas.canvas",
     "Física/Ondulatória/0 - questões",
     "Física/Mecânica/Hidroestática",
