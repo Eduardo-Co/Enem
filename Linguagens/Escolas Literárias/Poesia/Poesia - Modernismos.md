@@ -8,3 +8,10 @@
 Liberdade estrutural, aqui muda-se tudo em relação à estrutura. ***Linguagem coloquial, acesso para os pobres.***
 
 ---
+# 2° Fase - A vida como ela é:
+
+## Construção; Simplicidade; Coloquialismo - Mais significativos e que levam a reflexão e construção de ideias
+
+## Características temáticas: Liberdade de expressão; incorporação do cotidiano aos temas da poesia
+
+---
