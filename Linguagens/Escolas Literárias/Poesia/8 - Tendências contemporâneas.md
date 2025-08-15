@@ -10,4 +10,6 @@ Aqui a liberdade é gigantescas: Imagens, Textos, loucura.
 # Tropicalismo: Cultura Nacional - Movimento Revolucionário (Ditadura Militar) 
 
 ---
-## 
+# Poesia marginal: Forte crítica social, com uso de temas às margens da sociedade.
+
+---
