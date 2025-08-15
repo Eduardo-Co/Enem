@@ -15,3 +15,11 @@ Liberdade estrutural, aqui muda-se tudo em relação à estrutura. ***Linguagem 
 ## Características temáticas: Liberdade de expressão; incorporação do cotidiano aos temas da poesia
 
 ---
+# 3° Fase - Liberdade poética: Posso fazer como era antes ou como é agora. 
+
+## Privilégio estético; Rigor na ***Forma poética***;
+
+## Características Temáticas: Privilégio da questão estética; A produção poética ***não é fruto da inspiração***
+
+---
+ 
