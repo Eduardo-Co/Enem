@@ -1,0 +1,3 @@
+- **O que é**: pequena glândula endócrina no **epitálamo**; calcifica com a idade.
+- **Hormônio**: **melatonina** (pico **à noite**). 
+- **Regulação**: **luz** da retina → **NSQ** (hipotálamo) → simpático → **noradrenalina**; **luz inibe**, **escuridão estimula**.

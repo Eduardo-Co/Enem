@@ -33,7 +33,7 @@ kanban-plugin: board
 
 ## Ter no resumo Endrócrino
 
-- [ ] Glândula Pineal - Hormônios secretados e suas funções
+- [ ] [[Glândula Pineal - Hormônios secretados e suas funções]]
 - [ ] [[Tireoide - Hormônios secretados e suas funções, bem como o que produz]] @[[2025-08-11]]
 - [ ] [[Insulina e Glucagon - Onde são produzidos e o que fazem]]
 

@@ -11,28 +11,14 @@
             "id": "b5bec496d16f3c64",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Biologia/Sistemas corpo Humano/0 - Questões/Tireoide - Hormônios secretados e suas funções, bem como o que produz.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Tireoide - Hormônios secretados e suas funções, bem como o que produz"
             }
           }
         ]
@@ -219,8 +205,10 @@
   },
   "active": "b5bec496d16f3c64",
   "lastOpenFiles": [
-    "Vasoconstrição e vasodilatação - temperatura.md",
+    "Biologia/Sistemas corpo Humano/0 - Questões/Tireoide - Hormônios secretados e suas funções, bem como o que produz.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
+    "Glândula Pineal - Hormônios secretados e suas funções.md",
+    "Vasoconstrição e vasodilatação - temperatura.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Diferença entre antígeno e anticorpo.md",
     "Digestão em cada órgão.md",
     "Biologia/Sistemas corpo Humano/Sistema Digestório/Sistema Digestório.md",
@@ -245,8 +233,6 @@
     "Linguagens/Escolas Literárias/Poesia/4 - Parnasianismo.md",
     "Linguagens/Escolas Literárias/Poesia/3 - Romantismo.md",
     "Linguagens/Escolas Literárias/Poesia",
-    "Calendário/2025-08-14.md",
-    "Matemática/Geometria plana/0 - Questões/Untitled Kanban.md",
     "Física/Mecânica/Quantidade de Movimento/Questões",
     "Física/Mecânica/Dinâmica/Questões",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",

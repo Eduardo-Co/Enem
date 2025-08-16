@@ -1,13 +1,10 @@
 # Tireoide — o que fazem os hormônios e por que importam
 
 > [!summary] **Essencial em 5 linhas**
-- A **tireoide** produz **triiodotironina** e **tiroxina**, que **aumentam o metabolismo** das células e ajustam **crescimento, calor e energia**.
+- A **tireoide** produz **triiodotironina** e **tiroxina**, que **aumentam o metabolismo** das células e ajustam **crescimento, calor e energia**. 
+	(***Hormônios T3 e T3***)
 
 - Elas **turbina** a produção de energia, **aquecem** o corpo, **aceleram** batimentos cardíacos e **favorecem** o desenvolvimento do cérebro e dos ossos.
-
-- A fabricação depende de ***iodo*** e de uma **enzima peroxidase**, que acopla iodo à **tireoglobulina** dentro do folículo tireoidiano.
-
-- O **hipotálamo** e a **hipófise** comandam por meio do **hormônio liberador de tireotropina** e do **hormônio estimulante da tireoide**, com **retroalimentação negativa**.
 
 - Falhas geram **hipotireoidismo** (lento, frio, ganho de peso) ou **hipertireoidismo** (acelerado, calor, perda de peso).
 
