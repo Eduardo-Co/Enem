@@ -23,17 +23,17 @@ kanban-plugin: board
 
 ## Ter no resumo Digestório
 
-- [ ] Digestão em cada órgão @[[2025-08-04]]
+- [ ] [[Digestão em cada órgão]] @[[2025-08-16]]
 
 
 ## Ter no resumo Circulatório
 
-- [ ] Vasoconstrição e vasodilatação - temperatura @[[2025-08-04]]
+- [ ] [[Vasoconstrição e vasodilatação - temperatura]] @[[2025-08-16]]
 
 
 ## Ter no resumo Endrócrino
 
-- [ ] Glândula Pineal - Hormônios secretados e suas funções @[[2025-08-11]]
+- [ ] Glândula Pineal - Hormônios secretados e suas funções
 - [ ] [[Tireoide - Hormônios secretados e suas funções, bem como o que produz]] @[[2025-08-11]]
 - [ ] [[Insulina e Glucagon - Onde são produzidos e o que fazem]]
 
