@@ -13,10 +13,11 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Biologia/1 - Ecologia/0 - Questões.md",
+                "file": "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
                     false,
                     false,
                     false,
@@ -25,7 +26,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "0 - Questões"
+              "title": "Questões"
             }
           }
         ]
@@ -212,6 +213,8 @@
   },
   "active": "b5bec496d16f3c64",
   "lastOpenFiles": [
+    "Biologia/3 - Citologia/0 - Questões/Untitled Kanban.md",
+    "Biologia/1 - Ecologia/0 - Questões.md",
     "Linguagens/Escolas Literárias/Poesia/1 - Quinhentismo e Barroco.md",
     "Linguagens/Escolas Literárias/Poesia/2 - Arcadismo.md",
     "Linguagens/Escolas Literárias/Poesia/Quinhentismo/Camões.md",
@@ -239,9 +242,7 @@
     "Energia potencial Gravitacional.md",
     "Física/Mecânica/Dinâmica/Questões/Untitled Kanban.md",
     "Física/Mecânica/Dinâmica/Questões/Decomposição Vetorial.md",
-    "Física/Mecânica/Dinâmica/Untitled.md",
     "Física/Mecânica/Dinâmica/Questões",
-    "O que Estudar/Física.md",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "Untitled.canvas",
