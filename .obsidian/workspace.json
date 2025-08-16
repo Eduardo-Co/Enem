@@ -13,12 +13,10 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
+                "file": "Biologia/Zoologia/1 - Cai no enem.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
                     false,
                     false,
                     false
@@ -26,7 +24,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Questões"
+              "title": "1 - Cai no enem"
             }
           }
         ]
@@ -213,6 +211,8 @@
   },
   "active": "b5bec496d16f3c64",
   "lastOpenFiles": [
+    "Biologia/8 - Botânica/0 -Questões/Questões.md",
+    "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
     "Biologia/3 - Citologia/0 - Questões/Untitled Kanban.md",
     "Biologia/1 - Ecologia/0 - Questões.md",
     "Linguagens/Escolas Literárias/Poesia/1 - Quinhentismo e Barroco.md",
@@ -240,8 +240,6 @@
     "Física/Mecânica/Quantidade de Movimento/Questões",
     "Física/Mecânica/Energia potencial/Untitled Kanban.md",
     "Energia potencial Gravitacional.md",
-    "Física/Mecânica/Dinâmica/Questões/Untitled Kanban.md",
-    "Física/Mecânica/Dinâmica/Questões/Decomposição Vetorial.md",
     "Física/Mecânica/Dinâmica/Questões",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
