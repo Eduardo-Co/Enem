@@ -4,27 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fa3c36862a53c46b",
+        "id": "456e43ecee17a2a0",
         "type": "tabs",
         "children": [
           {
-            "id": "d12d628c6cb8e91c",
+            "id": "58e2104222a9b20d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Biologia/Zoologia/1 - Cai no enem.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "1 - Cai no enem"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -209,11 +199,13 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "d12d628c6cb8e91c",
+  "active": "58e2104222a9b20d",
   "lastOpenFiles": [
     "Biologia/Sistemas corpo Humano/0 - Questões/Untitled Kanban.md",
-    "Biologia/Sistemas corpo Humano/0 - Questões/Insulina e Glucagon - Onde são produzidos e o que fazem.md",
+    "Alça de Henle.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Diferença entre antígeno e anticorpo.md",
+    "Biologia/Zoologia/1 - Cai no enem.md",
+    "Biologia/Sistemas corpo Humano/0 - Questões/Insulina e Glucagon - Onde são produzidos e o que fazem.md",
     "Biologia/Sistemas corpo Humano/0 - Questões/Tireoide - Hormônios secretados e suas funções, bem como o que produz.md",
     "Glândula Pineal - Hormônios secretados e suas funções.md",
     "Vasoconstrição e vasodilatação - temperatura.md",
@@ -226,7 +218,6 @@
     "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
     "Biologia/3 - Citologia/0 - Questões/Untitled Kanban.md",
     "Biologia/1 - Ecologia/0 - Questões.md",
-    "Biologia/Zoologia/1 - Cai no enem.md",
     "Linguagens/Escolas Literárias/Poesia/1 - Quinhentismo e Barroco.md",
     "Linguagens/Escolas Literárias/Poesia/2 - Arcadismo.md",
     "Linguagens/Escolas Literárias/Poesia/Quinhentismo/Camões.md",
@@ -237,7 +228,6 @@
     "Linguagens/Escolas Literárias/Poesia/7 - Modernismos.md",
     "Linguagens/Escolas Literárias/Poesia/6 - Pré-Modernismo.md",
     "Linguagens/Escolas Literárias/Poesia/5 - Simbolismo - Sugestão de vários significados.md",
-    "Linguagens/Escolas Literárias/Poesia/4 - Parnasianismo.md",
     "Linguagens/Escolas Literárias/Poesia",
     "Física/Mecânica/Quantidade de Movimento/Questões",
     "Física/Mecânica/Dinâmica/Questões",

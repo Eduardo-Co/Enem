@@ -18,7 +18,7 @@ kanban-plugin: board
 
 ## Ter no resumo - Excretor
 
-- [ ] Alça de Henle
+- [ ] [[Alça de Henle]] @[[2025-08-16]]
 
 
 ## Ter no resumo Digestório
@@ -36,6 +36,7 @@ kanban-plugin: board
 - [ ] [[Glândula Pineal - Hormônios secretados e suas funções]]
 - [ ] [[Tireoide - Hormônios secretados e suas funções, bem como o que produz]] @[[2025-08-11]]
 - [ ] [[Insulina e Glucagon - Onde são produzidos e o que fazem]]
+- [ ] Ciclos da menstruação e hormônios liberados
 
 
 ## Imunológico
