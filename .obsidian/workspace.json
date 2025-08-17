@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1d0a6dc370c60f9a",
+        "id": "0a35ea2aff10f466",
         "type": "tabs",
         "children": [
           {
-            "id": "15f25f0121f64f3d",
+            "id": "d8f0f6a32eacfa79",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Física/Mecânica/Dinâmica/Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "7c3f95df0da2e8a7",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Física/Mecânica/Dinâmica/Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,8 +199,14 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "7c3f95df0da2e8a7",
+  "active": "d8f0f6a32eacfa79",
   "lastOpenFiles": [
+    "Física/Ondulatória/0 - questões/Untitled Kanban.md",
+    "Física/Ondulatória/0 - questões/Harmônicos.md",
+    "Física/Mecânica/Cinemática/Movimentos Uniformes.md",
+    "Física/Mecânica/Dinâmica/Questões/Untitled Kanban.md",
+    "Energia potencial Gravitacional.md",
+    "Física/Mecânica/Energia potencial/Untitled Kanban.md",
     "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
     "Física/Mecânica/Cinemática/Questões/Energia cinética.md",
     "Física/Mecânica/Cinemática/Questões/Vetorização de lançamentos verticais.md",
@@ -250,13 +227,7 @@
     "Biologia/8 - Botânica/0 -Questões/Questões.md",
     "Biologia/8 - Botânica/Angiospermas.md",
     "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
-    "Biologia/3 - Citologia/0 - Questões/Untitled Kanban.md",
-    "Biologia/1 - Ecologia/0 - Questões.md",
-    "Linguagens/Escolas Literárias/Poesia/1 - Quinhentismo e Barroco.md",
-    "Linguagens/Escolas Literárias/Poesia/2 - Arcadismo.md",
-    "Linguagens/Escolas Literárias/Poesia/Quinhentismo/Camões.md",
     "Linguagens/Escolas Literárias/Poesia/Quinhentismo",
-    "Linguagens/Termos.md",
     "Linguagens/Escolas Literárias/Poesia",
     "Física/Mecânica/Quantidade de Movimento/Questões",
     "Física/Mecânica/Dinâmica/Questões",
