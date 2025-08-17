@@ -1,4 +1,4 @@
-# Onda estacionária
+ # Onda estacionária
 
 - **Definição:** superposição de **duas ondas de mesma frequência e velocidade** em **sentidos opostos** (geralmente por **reflexão**).
 
