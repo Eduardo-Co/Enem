@@ -36,7 +36,7 @@ kanban-plugin: board
 ## Ter na revisão
 
 - [ ] Organoclorados
-- [ ] Reconhecer funções ácidas e básicas
+- [ ] [[Reconhecer funções ácidas e básicas]]
 - [ ] Grupo etóxi e metóxi
 - [ ] [[Ação da geometria nas forças moleculares.]]
 - [ ] [[Reações de transesterificação]]
