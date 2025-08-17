@@ -17,7 +17,8 @@ kanban-plugin: board
 - [ ] Área esfera
 - [ ] Volume Esfera
 - [ ] Relação de Euler
-- [ ] Área Cone @{2025-08-14}
+- [ ] Volume Cone @{2025-08-14}
+- [ ] Volume pirâmide
 
 
 
