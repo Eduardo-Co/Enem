@@ -24,23 +24,18 @@ kanban-plugin: board
 ## Estudar
 
 - [ ] Definição de resistência elétrica nominal - todo circuíto?
-- [ ] Maquinas térmicas - colocar na revisão depois de ver
-
-
-## Revisão
-
 - [ ] Análise de um circuito: Queda de tensão - 126 Enem 2019 (Caderno Azul)
 
 
 ## Ter no Resumo
 
-- [ ] [[Efeito Joule]]
+- [ ] [[Efeito Joule]] @{2025-08-17}
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

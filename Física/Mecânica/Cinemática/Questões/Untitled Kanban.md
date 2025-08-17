@@ -23,8 +23,8 @@ kanban-plugin: board
 
 ## Ter no resumo
 
-- [ ] [[Vetorização de lançamentos verticais]]
-- [ ] [[Energia cinética]]
+- [ ] [[Vetorização de lançamentos verticais]] @{2025-08-17}
+- [ ] [[Energia cinética]] @{2025-08-17}
 
 
 
