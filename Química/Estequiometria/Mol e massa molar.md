@@ -1,4 +1,0 @@
-- Constante de avogadro 
-- definição de mol
-- massa molar
-- Volume molar

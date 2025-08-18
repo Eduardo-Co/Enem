@@ -1,4 +1,0 @@
-- fórmula molecular
-- fórmula mínima 
-- formula percentual
-- 

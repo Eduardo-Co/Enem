@@ -1,3 +1,0 @@
-- lei de lavousier 
-- Lei de Proust
-- 
