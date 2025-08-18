@@ -1,2 +1,5 @@
-- Carioeta: Duas membranas lipoproteicas - seletividade de substancias
-- 
+- ***Carioeta***: Duas membranas lipoproteicas - seletividade de substancias
+- ***Cromatina: Conjunto de DNA no núcleo;*** 
+- ***Histonas***: Organizam DNA no núcleo
+- ***Cromossomo: Conjunto de DNA no núcleo, porém muito enrolado.*** 
+---

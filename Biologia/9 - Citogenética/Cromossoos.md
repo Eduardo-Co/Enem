@@ -1,0 +1,5 @@
+- ***Cariótipo***
+- ***Cromossomos autossomos e sexuais*** - Diferença para herança
+- ***Cromossomos homólogos***
+- ***Cromátides irmãs - o que são?***
+
