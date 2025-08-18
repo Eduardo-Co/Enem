@@ -24,6 +24,7 @@ kanban-plugin: board
 
 - [ ] [[Maquinas térmicas + Sadi Carnot]]
 - [ ] Todos tipos de transformações e quais realizam trabalho
+- [ ] Condutividade térmica
 
 
 ## Resumo
