@@ -1,6 +1,6 @@
 - ***Cariótipo***
 - ***Cromossomos autossomos e sexuais*** - Diferença para herança
 - ***Cromossomos homólogos***
-- ***Cromátides irmãs - o que são?***
+- ***Cromátides irmãs - o que são, como funciona esse processo na divisão celular?***
 - ***Haploide e diploide***
-- 
+- ***Telômeros*** - comparação, exemplo:  ponta do cadarço do tênis 
