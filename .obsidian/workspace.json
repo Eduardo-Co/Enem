@@ -4,45 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "294ab33aa8b44fe2",
+        "id": "e29501d828438df5",
         "type": "tabs",
         "children": [
           {
-            "id": "958ec7cebb9db370",
+            "id": "ed7207b2a6f39990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que Estudar/Matemática.md",
+                "file": "Biologia/9 - Citogenética/Núcleo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matemática"
-            }
-          },
-          {
-            "id": "f6070dfe0b7f02b2",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Matemática/Geometria Espacial/0 - Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "Núcleo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,10 +203,13 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "f6070dfe0b7f02b2",
+  "active": "ed7207b2a6f39990",
   "lastOpenFiles": [
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/9 - Citogenética/Núcleo.md",
+    "Biologia/9 - Citogenética",
     "O que Estudar/Matemática.md",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Matemática/Geometria Espacial/0 - Questões/Untitled Kanban.md",
     "O que Estudar/Química.md",
     "Química/Química orgânica/0 - Questões/Grupo etóxi e metóxi.md",
     "O que Estudar/Física.md",
@@ -249,9 +231,8 @@
     "Física/Mecânica/hidroestática 1/Untitled Kanban.md",
     "Física/Mecânica/Dinâmica/Questões/Untitled Kanban.md",
     "Conversão rad para graus.md",
-    "Biologia/Sistemas corpo Humano/0 - Questões/Vasoconstrição e vasodilatação - temperatura.md",
+    "Biologia/11 - Sistemas corpo Humano/0 - Questões/Vasoconstrição e vasodilatação - temperatura.md",
     "Física/Mecânica/Quantidade de Movimento/Questões/Colisões perfeitamente elásticas e sua quantidade de movimento.md",
-    "Física/Mecânica/Cinemática/Energia potencial Gravitacional.md",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Física/img/Pasted image 20250812175441.png",
     "Untitled.canvas",
@@ -267,7 +248,6 @@
     "Física/Ondulatória/0 - questões",
     "Física/Mecânica/Hidroestática",
     "Física/Mecânica/Energia potencial",
-    "Física/Mecânica",
     "Biologia/img/Pasted image 20250811070601.png",
     "Matemática/img/Pasted image 20250806193256.png",
     "Matemática/Untitled.canvas",
