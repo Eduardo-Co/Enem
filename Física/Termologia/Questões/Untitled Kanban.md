@@ -23,6 +23,7 @@ kanban-plugin: board
 ## O que estudar
 
 - [ ] [[Maquinas térmicas + Sadi Carnot]]
+- [ ] Todos tipos de transformações e quais realizam trabalho
 
 
 ## Resumo

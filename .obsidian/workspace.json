@@ -13,10 +13,13 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Química/Estequiometria/0 - Questões/Untitled Kanban.md",
+                "file": "Física/Termologia/Questões/Untitled Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
+                    false,
                     false
                   ]
                 }
@@ -209,8 +212,9 @@
   },
   "active": "dfcafa538dd71e6b",
   "lastOpenFiles": [
-    "Como calcula-se o rendimento real.md",
+    "Química/Termoquímica/Untitled Kanban.md",
     "Química/Estequiometria/0 - Questões/Untitled Kanban.md",
+    "Como calcula-se o rendimento real.md",
     "Química/Estequiometria/Massa Atômica e molecular.md",
     "Química/Estequiometria/0 - Questões",
     "Química/Estequiometria/Mol e massa molar.md",
@@ -237,7 +241,6 @@
     "Reconhecer funções ácidas e básicas.md",
     "Química/Química orgânica/Propriedades compostos orgânicos/Acidez e basicidade em compostos orgânicos.md",
     "Química/Química orgânica/Propriedades compostos orgânicos/Propriedades moléculas orgânicas.md",
-    "Química/Química orgânica/Reações orgânicas/Classificações das reações orgânicas.md",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Física/img/Pasted image 20250812175441.png",
     "Untitled.canvas",
