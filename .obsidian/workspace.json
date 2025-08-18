@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/9 - Citogenética/Mitose e Meoise.md",
+                "file": "Biologia/9 - Citogenética/DNA e RNA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mitose e Meoise"
+              "title": "DNA e RNA"
+            }
+          },
+          {
+            "id": "43aa66063cb435fb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
         ]
@@ -205,13 +217,14 @@
   },
   "active": "ed7207b2a6f39990",
   "lastOpenFiles": [
-    "Biologia/9 - Citogenética/Cromossoos.md",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/9 - Citogenética/DNA e RNA.md",
     "Biologia/9 - Citogenética/Mitose e Meoise.md",
+    "Biologia/9 - Citogenética/Cromossoos.md",
     "Biologia/9 - Citogenética/Interfase.md",
     "Biologia/9 - Citogenética/Núcleo.md",
     "Biologia/9 - Citogenética",
     "O que Estudar/Matemática.md",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Matemática/Geometria Espacial/0 - Questões/Untitled Kanban.md",
     "O que Estudar/Química.md",
     "Química/Química orgânica/0 - Questões/Grupo etóxi e metóxi.md",
@@ -231,8 +244,6 @@
     "Física/Mecânica/Dinâmica/Questões/Decomposição Vetorial.md",
     "Física/Mecânica/Energia potencial/Untitled Kanban.md",
     "Física/Mecânica/Energia potencial/Fórmulas de Energia potencial.md",
-    "Física/Mecânica/hidroestática 1/Untitled Kanban.md",
-    "Física/Mecânica/Dinâmica/Questões/Untitled Kanban.md",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Física/img/Pasted image 20250812175441.png",
     "Untitled.canvas",
