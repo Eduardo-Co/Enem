@@ -11,21 +11,14 @@
             "id": "b53cffc9e6bd4639",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Mecânica/Cinemática/Lançamentos verticais e queda livre.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Lançamentos verticais e queda livre"
             }
           }
         ]
@@ -213,6 +206,7 @@
   },
   "active": "b53cffc9e6bd4639",
   "lastOpenFiles": [
+    "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
     "Física/Mecânica/Cinemática/Questões/Energia cinética.md",
     "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
     "Física/Termologia/Questões/Untitled Kanban.md",
@@ -242,7 +236,6 @@
     "Química/Estequiometria/Balanceamento químico.md",
     "Química/Estequiometria/Formulas Químicas.md",
     "Química/Estequiometria/Leis ponderais e volumétrica.md",
-    "Biologia/9 - Citogenética/DNA e RNA.md",
     "Biologia/9 - Citogenética",
     "Física/img/Pasted image 20250812175441.png",
     "Untitled.canvas",
