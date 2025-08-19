@@ -26,6 +26,7 @@ kanban-plugin: board
 
 ## Ciclo de Krebs
 
+- [ ] Oxigênio como aceptor final de elétrons - Muito cobrado, aparentemente.
 
 
 
