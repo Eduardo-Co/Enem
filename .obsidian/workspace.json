@@ -4,28 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b0e4fc017371746d",
+        "id": "561c6c496d4604dd",
         "type": "tabs",
         "children": [
           {
-            "id": "7446e25368c4014a",
+            "id": "aac221b92c909793",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Física/Mecânica/Cinemática/Questões/Movimento Circular.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Movimento Circular"
             }
           }
         ]
@@ -211,15 +204,16 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "7446e25368c4014a",
+  "active": "520d63d22b57ca04",
   "lastOpenFiles": [
+    "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
+    "Física/Mecânica/Cinemática/Questões/Movimento Circular.md",
     "Física/Mecânica/Cinemática/Movimentos Uniformes.md",
     "Física/Mecânica/Cinemática/Lançamentos verticais e queda livre.md",
-    "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
     "Física/Mecânica/Cinemática/Questões/Energia cinética.md",
     "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
     "Física/Termologia/Questões/Untitled Kanban.md",
-    "Todos tipos de transformações e quais realizam trabalho.md",
+    "Física/Mecânica/Cinemática/Questões/Todos tipos de transformações e quais realizam trabalho.md",
     "O que Estudar/Química.md",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Z - Lumber/Cronograma.md",
@@ -242,7 +236,6 @@
     "Química/Estequiometria/Mol e massa molar.md",
     "Química/Estequiometria/Pureza e rendimento.md",
     "Química/Estequiometria/Limitante e excesso.md",
-    "Química/Estequiometria/Balanceamento químico.md",
     "Biologia/9 - Citogenética",
     "Física/img/Pasted image 20250812175441.png",
     "Untitled.canvas",
