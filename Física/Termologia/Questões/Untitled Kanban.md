@@ -23,8 +23,8 @@ kanban-plugin: board
 ## O que estudar
 
 - [ ] [[Maquinas térmicas + Sadi Carnot]] @{2025-08-12}
-- [ ] [[Todos tipos de transformações e quais realizam trabalho]] ^pcho34
-- [ ] Condutividade térmica
+- [ ] [[Todos tipos de transformações e quais realizam trabalho]] @{2025-08-19} ^pcho34
+- [ ] Condutividade térmica @{2025-08-19}
 
 
 ## Resumo
