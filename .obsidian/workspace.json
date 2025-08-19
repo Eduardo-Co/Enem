@@ -13,11 +13,10 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
+                "file": "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
                     false,
                     false,
                     false,
@@ -26,7 +25,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Questões"
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -214,6 +213,8 @@
   },
   "active": "b53cffc9e6bd4639",
   "lastOpenFiles": [
+    "Física/Mecânica/Cinemática/Questões/Energia cinética.md",
+    "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
     "Física/Termologia/Questões/Untitled Kanban.md",
     "Todos tipos de transformações e quais realizam trabalho.md",
     "O que Estudar/Química.md",
@@ -242,8 +243,6 @@
     "Química/Estequiometria/Formulas Químicas.md",
     "Química/Estequiometria/Leis ponderais e volumétrica.md",
     "Biologia/9 - Citogenética/DNA e RNA.md",
-    "Biologia/9 - Citogenética/Mitose e Meoise.md",
-    "Biologia/9 - Citogenética/Cromossoos.md",
     "Biologia/9 - Citogenética",
     "Física/img/Pasted image 20250812175441.png",
     "Untitled.canvas",
