@@ -41,9 +41,21 @@
               "icon": "lucide-file",
               "title": "Matemática"
             }
+          },
+          {
+            "id": "6b4b73db28e60cf1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -225,7 +238,7 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "c8dac4bad2c352d1",
+  "active": "6b4b73db28e60cf1",
   "lastOpenFiles": [
     "Física/Termologia/Questões/Untitled Kanban.md",
     "Química/Termoquímica/Untitled Kanban.md",
