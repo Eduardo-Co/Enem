@@ -1,38 +1,43 @@
-## 🧂 Sais — Resumo Rápido
+# Nomenclatura dos Sais
 
-### 📌 Formação
-- **Sal é um composto iônico**, formado por reação de **ácido + base**:
+## Formação
+- Os sais surgem da **neutralização** entre um ácido e uma base:
   $$
-  \text{Ácido} + \text{Base} \rightarrow \text{Sal} + \text{Água}
+  \text{Ácido} + \text{Base} \;\;\longrightarrow\;\; \text{Sal} + \text{Água}
   $$
-- **Cátion**: Vem de base, **diferente de $H^+$**.
-- **Ânion**: Vem do ácido, **diferente de $OH^-$**.
-
-### ⚡ Propriedades
-- Estrutura cristalina **iônica**, mas seguem algumas propriedades de ligações covalentes (como solubilidade).
-- **Solúveis em água** liberam íons ⇒ **conduzem eletricidade**.
-- **Quebradiços** (frágeis).
-- **Todo sal considerado forte**: Em água, dissocia-se completamente em íons.
-
-### 💡 Tipos de Sais
-- **Sal normal (neutro)**: Ácido forte + base forte.
-- **Sal ácido**: Ácido forte + base fraca.
-- **Sal básico**: Ácido fraco + base forte.
-- **Sal misto**: Formado por dois tipos diferentes de ânion ou cátion.
-- **Sal hidratado**: Possui moléculas de água no retículo.
-
-### 🏷️ Nomenclatura dos Sais
-- **[Nome do ânion] de [nome do cátion]**
-- Ex: $NaCl$ = **Cloreto de sódio**
+- O **cátion (positivo)** vem da base.  
+- O **ânion (negativo)** vem do ácido.  
+- **Quem define o nome do sal é sempre o ácido de origem.**
 
 ---
 
-### 🧪 Resumo dos Caracteres dos Sais
+## Regras de nomenclatura
 
-| Ácido           | Base           | Tipo de Sal         | Caráter        |
-|-----------------|----------------|---------------------|----------------|
-| Forte           | Forte          | Sal neutro          | Neutro         |
-| Forte           | Fraca          | Sal ácido           | Ácido          |
-| Fraco           | Forte          | Sal básico          | Básico         |
+### 1. Ácidos terminados em **-ídrico** → Sais terminados em **-eto**
+- São os **hidrácidos** (não possuem oxigênio).
+- Exemplos:
+  - $HCl$ (**ácido clorídrico**) → $Cl^-$ (**cloreto**) → **cloreto de sódio** ($NaCl$)
+  - $HF$ (**ácido fluorídrico**) → $F^-$ (**fluoreto**) → **fluoreto de cálcio** ($CaF_2$)
+  - $HBr$ (**ácido bromídrico**) → $Br^-$ (**brometo**) → **brometo de potássio** ($KBr$)
 
-![[Pasted image 20250611095124.png]]
+### 2. Ácidos terminados em **-ico** → Sais terminados em **-ato**
+- São os **oxiácidos** mais comuns/fortes.
+- Exemplos:
+  - $H_2SO_4$ (**ácido sulfúrico**) → $SO_4^{2-}$ (**sulfato**) → **sulfato de bário** ($BaSO_4$)
+  - $HNO_3$ (**ácido nítrico**) → $NO_3^-$ (**nitrato**) → **nitrato de sódio** ($NaNO_3$)
+  - $H_2CO_3$ (**ácido carbônico**) → $CO_3^{2-}$ (**carbonato**) → **carbonato de cálcio** ($CaCO_3$)
+
+### 3. Ácidos terminados em **-oso** → Sais terminados em **-ito**
+- São os **oxiácidos menos oxigenados**.
+- Exemplos:
+  - $H_2SO_3$ (**ácido sulfuroso**) → $SO_3^{2-}$ (**sulfito**) → **sulfito de sódio** ($Na_2SO_3$)
+  - $HNO_2$ (**ácido nitroso**) → $NO_2^-$ (**nitrito**) → **nitrito de potássio** ($KNO_2$)
+
+---
+## Quadro-resumo
+
+| Tipo de ácido        | Exemplo ácido      | Ânion formado | Exemplo sal            |
+|----------------------|--------------------|---------------|------------------------|
+| **-ídrico → -eto**  | $HCl$ (clorídrico) | Cl⁻ (cloreto) | NaCl (cloreto de sódio)|
+| **-ico → -ato**     | $H_2SO_4$ (sulfúrico) | SO₄²⁻ (sulfato) | BaSO₄ (sulfato de bário)|
+| **-oso → -ito**     | $H_2SO_3$ (sulfuroso) | SO₃²⁻ (sulfito) | Na₂SO₃ (sulfito de sódio)|
