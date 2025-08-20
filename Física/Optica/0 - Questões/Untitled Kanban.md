@@ -15,10 +15,15 @@ kanban-plugin: board
 - [ ] [[Lentes e Espelhos]]
 
 
+## Fenômenos
+
+- [ ] Porque vidro é transparente?
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

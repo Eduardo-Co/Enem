@@ -1,4 +1,4 @@
-# Espelhos
+# Espelhos -> Pensar na colher
 
 ## Raios notáveis
 
@@ -54,9 +54,11 @@ Nas lentes a nomenclatura é trocada:
 - Concavo -> divergente
 - Convexo -> Convergente
 
-|Sistema|Tipo|Comportamento|Foco (sinal padrão de Gauss)|Imagem típica (casos gerais)|
-|---|---|---|---|---|
-|**Espelho**|**Côncavo**|**Convergente**|**f > 0**|Real/invertida (objeto fora de f); Virtual/direita e ampliada (objeto entre f e espelho)|
-|Espelho|Convexo|Divergente|**f < 0**|Sempre virtual, direita, menor|
-|**Lente**|**Convexa** (biconvexa, plano-convexa)|**Convergente**|**f > 0**|Real/invertida (objeto além de f); Virtual/direita e ampliada (objeto entre f e lente — lupa)|
-|Lente|Côncava (bicôncava, plano-côncava)|Divergente|**f < 0**|Sempre virtual, direita, menor|
+| Sistema     | Tipo                                   | Comportamento   | Foco (sinal padrão de Gauss) | Imagem típica (casos gerais)                                                                  |
+| ----------- | -------------------------------------- | --------------- | ---------------------------- | --------------------------------------------------------------------------------------------- |
+| **Espelho** | **Côncavo**                            | **Convergente** | **f > 0**                    | Real/invertida (objeto fora de f); Virtual/direita e ampliada (objeto entre f e espelho)      |
+| Espelho     | Convexo                                | Divergente      | **f < 0**                    | Sempre virtual, direita, menor                                                                |
+| **Lente**   | **Convexa** (biconvexa, plano-convexa) | **Convergente** | **f > 0**                    | Real/invertida (objeto além de f); Virtual/direita e ampliada (objeto entre f e lente — lupa) |
+| Lente       | Côncava (bicôncava, plano-côncava)     | Divergente      | **f < 0**                    | Sempre virtual, direita, menor                                                                |
+
+---
