@@ -13,12 +13,10 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Física/Optica/0 - Questões/Untitled Kanban.md",
+                "file": "Química/Funções inorgânicas/0 - Questões/Untitled Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
                     false
                   ]
                 }
@@ -212,8 +210,12 @@
   },
   "active": "52ea61a1d5d8b86d",
   "lastOpenFiles": [
-    "Porque vidro é transparente.md",
+    "Química/Funções inorgânicas/0 - QUESTÕES/Untitled.md",
+    "Química/Funções inorgânicas/0 - Questões/Untitled Kanban.md",
+    "Química/Funções inorgânicas/0 - Questões",
     "Física/Optica/0 - Questões/Untitled Kanban.md",
+    "Química/Funções inorgânicas/0 - QUESTÕES",
+    "Porque vidro é transparente.md",
     "Lentes e Espelhos.md",
     "Refração - Como desenhar de qualquer lado para onde tende a ir, lei de snell.md",
     "Fórmula da interferência.md",
@@ -243,8 +245,6 @@
     "Química/Química orgânica/0 - Questões/Reconhecer funções ácidas e básicas.md",
     "O que Estudar/Matemática.md",
     "O que Estudar/História e filosofia.md",
-    "Física/Termologia/Questões/Maquinas térmicas + Sadi Carnot.md",
-    "Física/Ondulatória/5 - Ressonância.md",
     "Química/Estequiometria/0 - Questões",
     "Biologia/9 - Citogenética",
     "Física/img/Pasted image 20250812175441.png",
@@ -252,11 +252,9 @@
     "Linguagens/Escolas Literárias/Poesia/Quinhentismo",
     "Linguagens/Escolas Literárias/Poesia",
     "Física/Mecânica/Quantidade de Movimento/Questões",
-    "Física/Mecânica/Dinâmica/Questões",
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "Pasted image 20250813072434.png",
     "Pasted image 20250813074416.png",
-    "Química/Ciclos Bioquímicos",
     "Física/Caixinhas.canvas",
     "Biologia/img/Pasted image 20250811070601.png",
     "Matemática/img/Pasted image 20250806193256.png",
