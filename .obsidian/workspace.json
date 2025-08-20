@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1422c946daa60fbb",
+        "id": "04dcbbeb01bcf92e",
         "type": "tabs",
         "children": [
           {
-            "id": "8edc63d3544ae452",
+            "id": "9ca386829a8ff747",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Química/Química orgânica/0 - Questões/Questões.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "O que Estudar/Química.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Questões"
+              "icon": "lucide-file",
+              "title": "Química"
             }
           }
         ]
@@ -210,13 +204,19 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "8edc63d3544ae452",
+  "active": "9ca386829a8ff747",
   "lastOpenFiles": [
+    "O que Estudar/Química.md",
+    "O que Estudar/imagens/Pasted image 20250406150918.png",
+    "O que Estudar/imagens/Pasted image 20250406150801.png",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "O que Estudar/Física.md",
+    "O que Estudar/Biologia.md",
+    "Química/Química orgânica/0 - Questões/Questões.md",
     "Química/Química orgânica/0 - Questões/Pasted image 20250820072410.png",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Química/Química orgânica/Organôgenos.md",
     "Química/Química orgânica/0 - Questões/Sabão X Detergente.md",
-    "Química/Química orgânica/0 - Questões/Questões.md",
     "Física/Mecânica/Cinemática/Questões/Movimento Circular.md",
     "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
     "Física/Mecânica/Cinemática/Movimentos Uniformes.md",
@@ -225,16 +225,12 @@
     "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
     "Física/Termologia/Questões/Untitled Kanban.md",
     "Física/Mecânica/Cinemática/Questões/Todos tipos de transformações e quais realizam trabalho.md",
-    "O que Estudar/Química.md",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Z - Lumber/Cronograma.md",
     "Untitled.base",
     "Química/Estequiometria/0 - Questões/Como calcula-se o rendimento real.md",
     "Química/Química orgânica/0 - Questões/Reconhecer funções ácidas e básicas.md",
-    "O que Estudar/Biologia.md",
     "O que Estudar/Matemática.md",
     "O que Estudar/História e filosofia.md",
-    "O que Estudar/Física.md",
     "Física/Termologia/Questões/Maquinas térmicas + Sadi Carnot.md",
     "Física/Ondulatória/5 - Ressonância.md",
     "Biologia/8 - Botânica/flores.md",
@@ -258,8 +254,6 @@
     "Biologia/img/Pasted image 20250811070601.png",
     "Matemática/img/Pasted image 20250806193256.png",
     "Matemática/Untitled.canvas",
-    "Matemática/img/Pasted image 20250626144555.png",
-    "Química/img/Pasted image 20250806104501.png",
     "Biologia/Caixinhas.canvas",
     "Química/Untitled.canvas"
   ]
