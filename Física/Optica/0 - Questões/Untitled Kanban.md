@@ -12,6 +12,7 @@ kanban-plugin: board
 
 - [ ] [[Fórmula da interferência]]
 - [ ] [[Refração - Como desenhar de qualquer lado para onde tende a ir, lei de snell]]
+- [ ] [[Lentes e Espelhos]]
 
 
 
