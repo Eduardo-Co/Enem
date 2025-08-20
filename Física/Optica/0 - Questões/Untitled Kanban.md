@@ -11,7 +11,7 @@ kanban-plugin: board
 ## Ter no resumo
 
 - [ ] [[Fórmula da interferência]]
-- [ ] Refração - Como desenhar de qualquer lado para onde tende a ir, lei de snell
+- [ ] [[Refração - Como desenhar de qualquer lado para onde tende a ir, lei de snell]]
 
 
 
