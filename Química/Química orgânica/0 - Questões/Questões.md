@@ -41,6 +41,7 @@ kanban-plugin: board
 - [ ] [[Ação da geometria nas forças moleculares.]] @{2025-08-17}
 - [ ] [[Reações de transesterificação]] @{2025-08-17}
 - [ ] ***Todos os grupos, nomenclaturas e propriedades***
+- [ ] [[Sabão X Detergente]]
 
 
 
