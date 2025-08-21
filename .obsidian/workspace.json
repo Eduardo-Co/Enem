@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "af4e5f5bf6f60563",
+        "id": "846066dca10609e1",
         "type": "tabs",
         "children": [
           {
-            "id": "c74452cdc327f08b",
+            "id": "c65d4cb7d9045d26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md",
+                "file": "O que Estudar/Matemática.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'"
+              "title": "Matemática"
+            }
+          },
+          {
+            "id": "bb7dca5417a9f908",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,11 +195,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,16 +217,21 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "c74452cdc327f08b",
+  "active": "bb7dca5417a9f908",
   "lastOpenFiles": [
     "O que Estudar/Matemática.md",
+    "Z - Lumber/Cronograma.md",
     "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Redação/Eu/Meus repertórios.md",
+    "Redação/Jargões conclusão.md",
     "Redação/Eu/Progressão Enem e testes.md",
+    "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
+    "Redação/Jargões desenvolvimento.md",
+    "Redação/Os textos motivadores.md",
+    "Redação/Sacadas sobre os títulos.md",
     "Redação/Eu/Untitled Kanban.md",
     "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Z - Lumber/Cronograma.md",
     "Química/Funções inorgânicas/Sais/Sal.md",
     "Química/Funções inorgânicas/0 - Questões/Untitled Kanban.md",
     "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
@@ -228,17 +247,11 @@
     "Porque vidro é transparente.md",
     "Lentes e Espelhos.md",
     "Refração - Como desenhar de qualquer lado para onde tende a ir, lei de snell.md",
-    "Fórmula da interferência.md",
     "Física/Optica/0 - Questões",
-    "O que Estudar/Química.md",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
-    "O que Estudar/Física.md",
-    "O que Estudar/Biologia.md",
-    "Química/Química orgânica/0 - Questões/Questões.md",
     "Química/Química orgânica/0 - Questões/Pasted image 20250820072410.png",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
-    "Química/Química orgânica/Organôgenos.md",
     "Untitled.base",
     "Química/Estequiometria/0 - Questões",
     "Biologia/9 - Citogenética",

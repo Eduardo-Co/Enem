@@ -23,11 +23,16 @@
 # Meio Ambiente
 - [CF/88 – Proteção Ambiental (Art. 225 I-IV, VI)](#resumo-cf-meio-ambiente)
 
-# Culpar máquina estatal 
+# ==Culpar máquina estatal== 
 - [Bauman – Ferramenta Estatal Zumbi](#resumo-bauman-zumbi)
 
-## Invisibilidade
+## ==Invisibilidade== 
 - [Djamila Ribeiro](#invisibilidade-problemas)
+
+## ==Ineficiência da Legislação==
+- [Gilberto Dimenstein – Crítica à Legislação Brasileira](#resumo-dimenstein-legislacao)
+
+
 
 ---
 
@@ -94,3 +99,9 @@
 
 ## Resumo Djamila Ribeiro - Invisibilidade^invisibilidade-problemas
 - De acordo com a pensadora brasileira Djamila Ribeiro, o primeiro passo a ser tomado para solucionar uma questão é tirá-la da invisibilidade
+
+
+## Resumo: Gilberto Dimenstein – Crítica à Legislação Brasileira ^resumo-dimenstein-legislacao
+- **Essência:** Dimenstein afirma que a legislação brasileira muitas vezes funciona apenas no papel, mas é ineficaz na prática cotidiana.  
+- **Exemplo:** Apesar de direitos garantidos constitucionalmente, como educação e segurança, a realidade é marcada por violações sistemáticas.  
+- **Uso na redação:** Serve como argumento crítico para mostrar o descompasso entre a lei e sua aplicação efetiva, fortalecendo análises sobre ineficiência estatal, impunidade ou falta de políticas públicas eficazes.

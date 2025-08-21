@@ -18,4 +18,9 @@
 ## Causa da problemática:
 
 - Desafios sustentados por...
-- 
+
+---
+## Introdução:
+
+Suscitadores da problemática.
+
