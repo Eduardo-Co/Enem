@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Matemática"
             }
+          },
+          {
+            "id": "fe110f6e836c045b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,8 +217,11 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "96e042b0119b0311",
+  "active": "fe110f6e836c045b",
   "lastOpenFiles": [
+    "O que Estudar/Matemática.md",
+    "Z - Lumber/Cronograma.md",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Funções inorgânicas/Sais/Sal.md",
     "Química/Funções inorgânicas/0 - Questões/Untitled Kanban.md",
     "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
@@ -226,7 +242,6 @@
     "O que Estudar/Química.md",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "O que Estudar/Física.md",
     "O que Estudar/Biologia.md",
     "Química/Química orgânica/0 - Questões/Questões.md",
@@ -237,9 +252,6 @@
     "Física/Mecânica/Cinemática/Questões/Movimento Circular.md",
     "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
     "Física/Mecânica/Cinemática/Movimentos Uniformes.md",
-    "Física/Mecânica/Cinemática/Lançamentos verticais e queda livre.md",
-    "Física/Mecânica/Cinemática/Questões/Energia cinética.md",
-    "Biologia/5 - Bioenergia/0 - Questões/Questões.md",
     "Untitled.base",
     "Química/Estequiometria/0 - Questões",
     "Biologia/9 - Citogenética",
