@@ -25,12 +25,14 @@
             "id": "fe110f6e836c045b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
+                "file": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "icon": "lucide-file",
+              "title": "2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'"
             }
           }
         ],
@@ -219,9 +221,11 @@
   },
   "active": "fe110f6e836c045b",
   "lastOpenFiles": [
+    "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
+    "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "O que Estudar/Matemática.md",
     "Z - Lumber/Cronograma.md",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "Química/Funções inorgânicas/Sais/Sal.md",
     "Química/Funções inorgânicas/0 - Questões/Untitled Kanban.md",
     "Química/Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
@@ -251,7 +255,6 @@
     "Química/Química orgânica/0 - Questões/Sabão X Detergente.md",
     "Física/Mecânica/Cinemática/Questões/Movimento Circular.md",
     "Física/Mecânica/Cinemática/Questões/Untitled Kanban.md",
-    "Física/Mecânica/Cinemática/Movimentos Uniformes.md",
     "Untitled.base",
     "Química/Estequiometria/0 - Questões",
     "Biologia/9 - Citogenética",
