@@ -874,28 +874,6 @@
         "filePath": "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md"
       }
     },
-    "Química/Química orgânica/Função oxigenadas/Função Éster.md": {
-      "highlight-1753290054650-243": {
-        "text": "***Características de um Éster: 2 oxigênios, um com dupla ligação e outro ligado a algum grupo ou a outra cadeia carbônica.***",
-        "position": 243,
-        "paragraphOffset": 243,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753290054650-243",
-        "comments": [
-          {
-            "id": "comment-1753290100068-8gckrqeev",
-            "content": "ENEM - 2012 - 1° DIA - Caderno AZUL",
-            "createdAt": 1753290100068,
-            "updatedAt": 1753290100068
-          }
-        ],
-        "createdAt": 1753290054650,
-        "updatedAt": 1753290100068,
-        "originalLength": 130,
-        "isCloze": false,
-        "filePath": "Química/Química orgânica/Função oxigenadas/Função Éster.md"
-      }
-    },
     "Matemática/Geometria plana/Untitled Kanban 1.md": {
       "highlight-1753368120278-51": {
         "text": "Comparação entre quadrilátero de diferentes ângulos e quadrado.",
@@ -2252,6 +2230,28 @@
         "originalLength": 50,
         "isCloze": false,
         "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
+      }
+    },
+    "Química/11 - Química orgânica/Função oxigenadas/Função Éster.md": {
+      "highlight-1753290054650-243": {
+        "text": "***Características de um Éster: 2 oxigênios, um com dupla ligação e outro ligado a algum grupo ou a outra cadeia carbônica.***",
+        "position": 243,
+        "paragraphOffset": 243,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753290054650-243",
+        "comments": [
+          {
+            "id": "comment-1753290100068-8gckrqeev",
+            "content": "ENEM - 2012 - 1° DIA - Caderno AZUL",
+            "createdAt": 1753290100068,
+            "updatedAt": 1753290100068
+          }
+        ],
+        "createdAt": 1753290054650,
+        "updatedAt": 1753290100068,
+        "originalLength": 130,
+        "isCloze": false,
+        "filePath": "Química/Química orgânica/Função oxigenadas/Função Éster.md"
       }
     }
   }
