@@ -11,10 +11,14 @@
             "id": "3e81ab137c47cfb2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Química/7- Cinética química/5 - Mecanismos de reação.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "5 - Mecanismos de reação"
             }
           }
         ]
@@ -201,6 +205,13 @@
   },
   "active": "3e81ab137c47cfb2",
   "lastOpenFiles": [
+    "Química/7- Cinética química/2 - Catalisadores.md",
+    "Química/7- Cinética química/1- Teoria das colisões.md",
+    "Química/6- Equilíbrio Químico/Lei de Diluição de Ostwald e PH.md",
+    "Química/6- Equilíbrio Químico/Equilíbrio químico.md",
+    "Química/6- Equilíbrio Químico/Equilíbrio Iônico.md",
+    "Química/6- Equilíbrio Químico/Deslocamento de equilíbrio.md",
+    "Química/6- Equilíbrio Químico/Constante de solubilidade Kps.md",
     "Química/Cronograma de questões.md",
     "Química/10 - Termoquímica/Entalpia.md",
     "Química/2 - Ligações químicas/Interações moleculares/Polaridade de moléculas.md",
@@ -222,13 +233,6 @@
     "Redação/Os textos motivadores.md",
     "Redação/Sacadas sobre os títulos.md",
     "Redação/Eu/Untitled Kanban.md",
-    "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md",
-    "Química/4 - Funções inorgânicas/Sais/Sal.md",
-    "Química/4 - Funções inorgânicas/0 - Questões/Untitled Kanban.md",
-    "Química/4 - Funções inorgânicas/Ácidos/Nomenclatura dos ácidos.md",
-    "Química/4 - Funções inorgânicas/Sais/Reações de Neutralização.md",
-    "Química/4 - Funções inorgânicas/Sais/Processo dissociativo dos sais.md",
-    "Química/4 - Funções inorgânicas/Ph.md",
     "Química/4 - Funções inorgânicas/0 - Questões",
     "Química/Funções inorgânicas/0 - QUESTÕES",
     "Física/Optica/0 - Questões",
