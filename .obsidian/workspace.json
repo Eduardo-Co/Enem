@@ -4,28 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b2c69837d175d9c",
+        "id": "05fb3f96aa1fed27",
         "type": "tabs",
         "children": [
           {
-            "id": "3e81ab137c47cfb2",
+            "id": "df4ebfca0786d121",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Química/1 - Atomo/0 - questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Química/1 - Atomo/2 - Distribuição eletrônica/Distribuição eletrônica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Distribuição eletrônica"
             }
           }
         ]
@@ -210,8 +203,11 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "3e81ab137c47cfb2",
+  "active": "df4ebfca0786d121",
   "lastOpenFiles": [
+    "Química/1 - Atomo/0 - questões/Energia de ionização.md",
+    "Química/1 - Atomo/1- Modelos atômicos/Modelos autais + resumo.md",
+    "Química/1 - Atomo/0 - questões/Untitled Kanban.md",
     "Química/7- Cinética química/5 - Mecanismos de reação.md",
     "Química/7- Cinética química/2 - Catalisadores.md",
     "Química/7- Cinética química/1- Teoria das colisões.md",
@@ -237,9 +233,6 @@
     "Redação/Jargões conclusão.md",
     "Redação/Eu/Progressão Enem e testes.md",
     "Redação/Eu/Palavras a serem usadas em todas as redações a partir de agora.md",
-    "Redação/Jargões desenvolvimento.md",
-    "Redação/Os textos motivadores.md",
-    "Redação/Sacadas sobre os títulos.md",
     "Química/4 - Funções inorgânicas/0 - Questões",
     "Química/Funções inorgânicas/0 - QUESTÕES",
     "Física/Optica/0 - Questões",
