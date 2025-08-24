@@ -1,0 +1,1 @@
+Visto no anki

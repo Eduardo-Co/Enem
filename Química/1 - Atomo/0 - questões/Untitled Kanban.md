@@ -15,6 +15,9 @@ kanban-plugin: board
 
 ## por no resumo
 
+- [ ] [[Propriedades periódicas]] @{2025-08-24}
+- [ ] Propriedades aperiódicas
+- [ ] Tipos de Forças intermoleculares
 
 
 ## estudar
