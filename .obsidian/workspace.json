@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "ec2a002469070fa3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
             "id": "75934bfb33d27d99",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "Matemática"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,7 +218,7 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "ec2a002469070fa3",
+  "active": "fc3d52eee4e70025",
   "lastOpenFiles": [
     "O que Estudar/Matemática.md",
     "O que Estudar/Física.md",
