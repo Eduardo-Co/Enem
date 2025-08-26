@@ -4,44 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "05fb3f96aa1fed27",
+        "id": "4880609dc453a892",
         "type": "tabs",
         "children": [
           {
-            "id": "df4ebfca0786d121",
+            "id": "fc3d52eee4e70025",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Química/1 - Atomo/0 - questões/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
-            "id": "5aca3e93563cccbd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LumberGeek-Cronograma-ENEM-Monstro-2025"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,10 +200,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "5aca3e93563cccbd",
+  "active": "fc3d52eee4e70025",
   "lastOpenFiles": [
-    "Z - Lumber/Cronograma.md",
     "Química/1 - Atomo/0 - questões/Untitled Kanban.md",
+    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
+    "Biologia/8 - Botânica/Histologia Vegetal.md",
+    "Z - Lumber/Cronograma.md",
     "Química/1 - Atomo/0 - questões/Propriedades periódicas.md",
     "Porque vidro é transparente.md",
     "Química/1 - Atomo/2 - Distribuição eletrônica/Distribuição eletrônica.md",
@@ -251,9 +229,6 @@
     "O que Estudar/Matemática.md",
     "Química/Atomo/Untitled",
     "Redação/Eu/Meus repertórios.md",
-    "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md",
     "Química/4 - Funções inorgânicas/0 - Questões",
     "Química/Funções inorgânicas/0 - QUESTÕES",
     "Física/Optica/0 - Questões",
