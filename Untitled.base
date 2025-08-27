@@ -4,5 +4,8 @@ views:
     order:
       - file.name
       - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
   - type: cards
     name: View
