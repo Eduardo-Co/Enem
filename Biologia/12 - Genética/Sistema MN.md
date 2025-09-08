@@ -1,0 +1,3 @@
+- Segundo sistema Sanguíneo
+- Aglutinogênio - Codominância
+- Formação dos anticorpos 
