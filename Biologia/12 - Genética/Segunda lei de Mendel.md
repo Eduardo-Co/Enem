@@ -1,0 +1,2 @@
+- Segregação independente 
+- 
