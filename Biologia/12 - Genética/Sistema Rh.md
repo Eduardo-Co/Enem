@@ -1,0 +1,5 @@
+- Antígeno RH
+- Anticorpo como gera
+- Doador Universal. 
+- Recessivo e dominante - dominância simples
+- parto
