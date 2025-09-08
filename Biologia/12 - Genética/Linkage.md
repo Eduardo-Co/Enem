@@ -1,0 +1,4 @@
+- Lei de morgan (3° lei)
+- Influencia do crossing over
+	- Parentais e recombinantes
+	- 
