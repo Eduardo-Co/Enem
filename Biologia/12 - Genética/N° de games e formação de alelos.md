@@ -1,0 +1,3 @@
+- Tipos diferentes de gametas, trabalhando com dois ou mais genes.  
+- Chuveirinho
+- Método da bifurcação
