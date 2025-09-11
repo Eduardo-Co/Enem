@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6daedd74aa9d77cd",
+        "id": "06a6e0eb22b5a1ae",
         "type": "tabs",
         "children": [
           {
-            "id": "258d1f478dff0004",
+            "id": "2315a7bf8582b358",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendário/2025-09-10.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-09-10"
-            }
-          },
-          {
-            "id": "15c0b815998490e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Química/11 - Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isomeria Geométrica (cadeia abertas)"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +199,7 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "15c0b815998490e7",
+  "active": "2315a7bf8582b358",
   "lastOpenFiles": [
     "Calendário/2025-09-10.md",
     "Química/11 - Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
