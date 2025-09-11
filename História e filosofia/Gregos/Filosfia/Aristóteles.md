@@ -1,4 +1,4 @@
-### **Resumo Aristóteles**
+ ### **Resumo Aristóteles**
 
 - **Empirismo Aristotélico:**
     - Aristóteles rompe com Platão, defendendo que o conhecimento vem dos sentidos e da experiência (empirismo), não de ideias inatas e separadas.
