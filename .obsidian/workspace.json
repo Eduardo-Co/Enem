@@ -11,20 +11,17 @@
             "id": "dc8842621a1d32b1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Enem-2/Biologia/Citologia/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Enem-2/Biologia/Citologia/Citologia_espaco_horizontal_OK.canvas",
+                "viewState": {
+                  "x": 966.8251720646213,
+                  "y": 1531.139153240055,
+                  "zoom": -2.0133159058691024
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-layout-dashboard",
+              "title": "Citologia_espaco_horizontal_OK"
             }
           }
         ]
@@ -210,9 +207,14 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "dc8842621a1d32b1",
+  "active": "520d63d22b57ca04",
   "lastOpenFiles": [
+    "Enem-2/Biologia/Citologia/Citologia_hierarquico.canvas",
     "Enem-2/Biologia/Citologia/citologia_topics.md",
+    "Enem-2/Biologia/Citologia/Citologia_hierarquia_setas_espacado.canvas",
+    "Enem-2/Biologia/Citologia/Citologia_espaco_horizontal_OK.canvas",
+    "Enem-2/Biologia/Citologia/Citologia_completo.canvas",
+    "Enem-2/Biologia/Citologia/Untitled Kanban.md",
     "Enem-2/Biologia/Citologia/Citologia_topics (1).canvas",
     "Enem-1/Química/Untitled.canvas",
     "Enem-1/Química/Untitled Kanban.md",
@@ -222,7 +224,6 @@
     "Enem-1/Biologia/1 - Ecologia/0 - Questões.md",
     "Enem-1/Biologia/1 - Ecologia/Teste de Ecologia.md",
     "Enem-2/Biologia/Citologia/Citologia.canvas",
-    "Enem-2/Biologia/Citologia/Untitled Kanban.md",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Enem-2/Biologia/Citologia/Untitled.canvas",
     "Enem-2/Biologia/Citologia",
@@ -261,9 +262,7 @@
     "O que Estudar/imagens/Pasted image 20250406151005.png",
     "Pasted image 20250813072434.png",
     "Pasted image 20250813074416.png",
-    "Enem-1/Física/Caixinhas.canvas",
     "Enem-1/Biologia/img/Pasted image 20250811070601.png",
-    "Enem-1/Matemática/img/Pasted image 20250806193256.png",
-    "Enem-1/Matemática/Untitled.canvas"
+    "Enem-1/Matemática/img/Pasted image 20250806193256.png"
   ]
 }
