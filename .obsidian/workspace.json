@@ -4,45 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "baa1b5f771ab45c6",
+        "id": "a957249c71f028e3",
         "type": "tabs",
         "children": [
           {
-            "id": "e67d840df69f521a",
+            "id": "dc8842621a1d32b1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Enem-2/Biologia/Citologia/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                "file": "Enem-2/Biologia/Citologia/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "5d4cec4c93fc7e63",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Enem-2/Biologia/Citologia/Citologia.canvas",
-                "viewState": {
-                  "x": 248.78159973459685,
-                  "y": 501.78402924243125,
-                  "zoom": -1.0305883198334231
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Citologia"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,16 +210,25 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "5d4cec4c93fc7e63",
+  "active": "dc8842621a1d32b1",
   "lastOpenFiles": [
     "Enem-2/Biologia/Citologia/citologia_topics.md",
+    "Enem-2/Biologia/Citologia/Citologia_topics (1).canvas",
+    "Enem-1/Química/Untitled.canvas",
+    "Enem-1/Química/Untitled Kanban.md",
+    "Enem-1/Biologia/Caixinhas.canvas",
+    "Enem-1/Biologia/Máximas da biologia.md",
+    "Enem-1/Biologia/Untitled Kanban.md",
+    "Enem-1/Biologia/1 - Ecologia/0 - Questões.md",
+    "Enem-1/Biologia/1 - Ecologia/Teste de Ecologia.md",
     "Enem-2/Biologia/Citologia/Citologia.canvas",
+    "Enem-2/Biologia/Citologia/Untitled Kanban.md",
+    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Enem-2/Biologia/Citologia/Untitled.canvas",
     "Enem-2/Biologia/Citologia",
     "ENEM.pdf",
     "Enem-2/Biologia",
     "Enem-2",
-    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Refração - Como desenhar de qualquer lado para onde tende a ir, lei de snell.md",
     "Untitled.base",
     "Porque vidro é transparente.md",
@@ -257,13 +251,7 @@
     "Enem-1/Biologia/12 - Genética/Herança Sexual.md",
     "Enem-1/Biologia/12 - Genética/Mapeamento de Cromossomos.md",
     "Enem-1/Biologia/12 - Genética/Linkage.md",
-    "Enem-1/Biologia/12 - Genética/N° de games e formação de alelos.md",
-    "Enem-1/Biologia/12 - Genética/Segunda lei de Mendel.md",
-    "Enem-1/Biologia/12 - Genética/Sistema Rh.md",
-    "Enem-1/Biologia/12 - Genética/Sistema MN.md",
     "Enem-1/Biologia/12 - Genética",
-    "Calendário/2025-09-03.md",
-    "Calendário/2025-09-02.md",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
@@ -276,8 +264,6 @@
     "Enem-1/Física/Caixinhas.canvas",
     "Enem-1/Biologia/img/Pasted image 20250811070601.png",
     "Enem-1/Matemática/img/Pasted image 20250806193256.png",
-    "Enem-1/Matemática/Untitled.canvas",
-    "Enem-1/Biologia/Caixinhas.canvas",
-    "Enem-1/Química/Untitled.canvas"
+    "Enem-1/Matemática/Untitled.canvas"
   ]
 }
