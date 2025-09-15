@@ -1,6 +1,286 @@
 {
   "comments": {
-    "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md": {
+    "Matemática/Geometria plana/Untitled Kanban 1.md": {
+      "highlight-1753368120278-51": {
+        "text": "Comparação entre quadrilátero de diferentes ângulos e quadrado.",
+        "position": 51,
+        "paragraphOffset": 45,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753368120278-51",
+        "comments": [
+          {
+            "id": "comment-1753368168024-q1y6ngo33",
+            "content": "A resposta para isso é simples, ele terá sempre área menor que o quadrado. Mas para descobrir a área terá que isolar os triângulos e fazer a área do quadrado + a área dos triângulos",
+            "createdAt": 1753368168024,
+            "updatedAt": 1753368168024
+          }
+        ],
+        "createdAt": 1753368120278,
+        "updatedAt": 1753368168025,
+        "originalLength": 67,
+        "isCloze": false,
+        "filePath": "Matemática/Geometria plana/Untitled Kanban 1.md"
+      }
+    },
+    "Redação/Eu/Minhas redações.md": {
+      "highlight-1753444378491-420": {
+        "text": "– provocando a exclusão desse grupo –, uma vez que somente pela voz ativa de um povo suas necessidades são colocadas em discussão.",
+        "position": 420,
+        "paragraphOffset": 189,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753444378491-420",
+        "comments": [
+          {
+            "id": "comment-1753444415117-0fdakmo3d",
+            "content": "Foi um exemplo, coloquei agora que a exclusão é um problema, pq suas necessidades não serão escutadas. Vamos ver como trabalho isso",
+            "createdAt": 1753444415117,
+            "updatedAt": 1753444415117
+          }
+        ],
+        "createdAt": 1753444378491,
+        "updatedAt": 1753444415117,
+        "originalLength": 134,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações.md"
+      },
+      "highlight-1753444429281-584": {
+        "text": "preconceito do brasileiro e a falta de representatividade da mulhe",
+        "position": 584,
+        "paragraphOffset": 189,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753444429281-584",
+        "comments": [
+          {
+            "id": "comment-1753444440184-rt6w0z74p",
+            "content": "Aqui está minha tese, meus argumentos.",
+            "createdAt": 1753444440184,
+            "updatedAt": 1753444440184
+          }
+        ],
+        "createdAt": 1753444429281,
+        "updatedAt": 1753444440184,
+        "originalLength": 70,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações.md"
+      },
+      "highlight-1753444463163-948": {
+        "text": "consequência do preconceito que ainda perdura na sociedade,",
+        "position": 948,
+        "paragraphOffset": 689,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753444463163-948",
+        "comments": [
+          {
+            "id": "comment-1753444502368-j50n65qz2",
+            "content": "Como aqui eu já afirmei e dei a cartada da citação, agora é só desenvolver esse argumento com mais 2 porquês e exemplo",
+            "createdAt": 1753444502368,
+            "updatedAt": 1753444516420
+          },
+          {
+            "id": "comment-1753444472894-7acnnp0kb",
+            "content": "faz um link bom com o repertório.",
+            "createdAt": 1753444472894,
+            "updatedAt": 1753444472894
+          }
+        ],
+        "createdAt": 1753444463163,
+        "updatedAt": 1753444516420,
+        "originalLength": 63,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações.md"
+      },
+      "highlight-1753444561330-1012": {
+        "text": "em que deputadas e senadoras são silenciadas e aquelas que aspiram à vida política são desestimuladas",
+        "position": 1012,
+        "paragraphOffset": 689,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753444561330-1012",
+        "comments": [
+          {
+            "id": "comment-1753444639063-0xehxkr24",
+            "content": "Beleza, trouxe a consequência da desestimulação, e que ela afeta a entrada dessas mulheres na política. Creio que tenha talvez faltado um exemplo ou mais um porque",
+            "createdAt": 1753444639063,
+            "updatedAt": 1753444639063
+          }
+        ],
+        "createdAt": 1753444561330,
+        "updatedAt": 1753444639063,
+        "originalLength": 105,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações.md"
+      },
+      "highlight-1753444654831-1172": {
+        "text": "que seu lugar é outro",
+        "position": 1151,
+        "paragraphOffset": 689,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753444654831-1172",
+        "comments": [
+          {
+            "id": "comment-1753444808671-xy437ktle",
+            "content": "Aqui caberia um exemplo, como foi dito pela corretora, é realmente algo que faltou no texto. Ela foi boa em me dar essa nota",
+            "createdAt": 1753444808671,
+            "updatedAt": 1753444808671
+          }
+        ],
+        "createdAt": 1753444654831,
+        "updatedAt": 1753444834868,
+        "originalLength": 25,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações.md"
+      },
+      "highlight-1753444834908-1178": {
+        "text": ".",
+        "position": 1178,
+        "paragraphOffset": 689,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753444834908-1178",
+        "comments": [
+          {
+            "id": "comment-1753445897070-j6iwn18lc",
+            "content": "Aqui temos outro período muito longo. Poderia ter resolvido da seguinte forma: \"Esse panorama evidencia o pouco engajamento das mulheres na administração pública, ocasionado pela falta de identificação com meio. Isso se deve por elas não encontrarem alguém em que se espelhar ou de quem se inspirar; esse fator dificulta sua entrada na política.",
+            "createdAt": 1753445897070,
+            "updatedAt": 1753445897070
+          },
+          {
+            "id": "comment-1753444841046-kiqbf3mj0",
+            "content": "O período realmente ficou muito grande. Poderia ter quebrado da seguinte forma: \"Nesse sentido, a invisibilidade da mulher na política é consequência do preconceito que ainda perdura na sociedade. Por conseguinte, deputadas e senadoras são silenciadas e aquelas que aspiram à vida política são desestimuladas por estigmas sociais que afirmam que seu lugar é outro.\"",
+            "createdAt": 1753444841046,
+            "updatedAt": 1753444841046
+          }
+        ],
+        "createdAt": 1753444834908,
+        "updatedAt": 1753445897070,
+        "originalLength": 5,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações.md"
+      },
+      "highlight-1753444893739-1486": {
+        "text": "Esse panorama evidencia o pouco engajamento das mulheres na administração pública",
+        "position": 1486,
+        "paragraphOffset": 1263,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753444893739-1486",
+        "comments": [
+          {
+            "id": "comment-1753444911627-zs91s4cps",
+            "content": "Foi um bom link, nem tinha como não ser bom, muito preciso - retirado dos textos motivadores.",
+            "createdAt": 1753444911627,
+            "updatedAt": 1753444911627
+          }
+        ],
+        "createdAt": 1753444893739,
+        "updatedAt": 1753444911627,
+        "originalLength": 85,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações.md"
+      },
+      "highlight-1753444920286-1573": {
+        "text": "ocasionado pela falta de identificação com esse meio",
+        "position": 1573,
+        "paragraphOffset": 1263,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753444920286-1573",
+        "comments": [
+          {
+            "id": "comment-1753444930450-80bglvssq",
+            "content": "Aqui eu apresento outro porquê. Excelente.",
+            "createdAt": 1753444930451,
+            "updatedAt": 1753444930451
+          }
+        ],
+        "createdAt": 1753444920286,
+        "updatedAt": 1753444930451,
+        "originalLength": 56,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações.md"
+      },
+      "highlight-1753444943466-1649": {
+        "text": "encontram alguém em quem se espelhar ou de quem se inspirar",
+        "position": 1649,
+        "paragraphOffset": 1263,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753444943466-1649",
+        "comments": [
+          {
+            "id": "comment-1753445026728-x7dhkew9o",
+            "content": "Opa, por coincidência aqui FOI ELOGIADO, provavelmente me fez tirar 200 pontos esse trecho. Veja que há um claro desenvolvimento de 3 pq. 1° - Falta de engajamento; 2° - Por não se identificar com meio; 3° - Não encontram inspiração ou espelhamento na política.",
+            "createdAt": 1753445026728,
+            "updatedAt": 1753445026728
+          }
+        ],
+        "createdAt": 1753444943466,
+        "updatedAt": 1753445026728,
+        "originalLength": 63,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações.md"
+      },
+      "highlight-1753445951773-2006": {
+        "text": "fazendo uma ligação com os grandes feitos da ciência e da história proporcionados por elas",
+        "position": 2006,
+        "paragraphOffset": 1843,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753445951773-2006",
+        "comments": [
+          {
+            "id": "comment-1753445964096-jaxw58q47",
+            "content": "Consegui exemplificar a ação, MUITO BOM",
+            "createdAt": 1753445964096,
+            "updatedAt": 1753445964096
+          }
+        ],
+        "createdAt": 1753445951773,
+        "updatedAt": 1753445964096,
+        "originalLength": 94,
+        "isCloze": false,
+        "filePath": "Redação/Eu/Minhas redações.md"
+      }
+    },
+    "Enem-1/Matemática/EvD.md": {
+      "highlight-1753714621754-2046": {
+        "text": "V - 04:31 - ***Achar a melhor opção dentre as apresentadas:*** Preciso encontra um método que seja capaz de verificar com mais velocidade qual é a operação maior ou menor. (ENEM PPL 2° dia 2019 questão 137)",
+        "position": 2046,
+        "paragraphOffset": 1681,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753714621754-2046",
+        "comments": [
+          {
+            "id": "comment-1753714631475-ck8kecn4e",
+            "content": "Olha essa solução:\n\nO subtraiu de todos na multiplicação um termo menor do que o menor, simplificando a conta. Pode fazer isso?",
+            "createdAt": 1753714631475,
+            "updatedAt": 1753715137398
+          }
+        ],
+        "createdAt": 1753714621754,
+        "updatedAt": 1753715137398,
+        "originalLength": 210,
+        "isCloze": false,
+        "filePath": "Matemática/EvD.md"
+      }
+    },
+    "Enem-1/Química/11 - Química orgânica/Função oxigenadas/Função Éster.md": {
+      "highlight-1753290054650-243": {
+        "text": "***Características de um Éster: 2 oxigênios, um com dupla ligação e outro ligado a algum grupo ou a outra cadeia carbônica.***",
+        "position": 243,
+        "paragraphOffset": 243,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1753290054650-243",
+        "comments": [
+          {
+            "id": "comment-1753290100068-8gckrqeev",
+            "content": "ENEM - 2012 - 1° DIA - Caderno AZUL",
+            "createdAt": 1753290100068,
+            "updatedAt": 1753290100068
+          }
+        ],
+        "createdAt": 1753290054650,
+        "updatedAt": 1753290100068,
+        "originalLength": 130,
+        "isCloze": false,
+        "filePath": "Química/Química orgânica/Função oxigenadas/Função Éster.md"
+      }
+    },
+    "Enem-1/Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md": {
       "highlight-1752837849236-479": {
         "text": "Logo, perante esse entrave, cabe a análise da estagnação estatal e da negligência educacional._",
         "position": 479,
@@ -874,243 +1154,7 @@
         "filePath": "Redação/Redação nota mil/2024 - Desafios para a valorização da herança africana no Brasil.md"
       }
     },
-    "Matemática/Geometria plana/Untitled Kanban 1.md": {
-      "highlight-1753368120278-51": {
-        "text": "Comparação entre quadrilátero de diferentes ângulos e quadrado.",
-        "position": 51,
-        "paragraphOffset": 45,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753368120278-51",
-        "comments": [
-          {
-            "id": "comment-1753368168024-q1y6ngo33",
-            "content": "A resposta para isso é simples, ele terá sempre área menor que o quadrado. Mas para descobrir a área terá que isolar os triângulos e fazer a área do quadrado + a área dos triângulos",
-            "createdAt": 1753368168024,
-            "updatedAt": 1753368168024
-          }
-        ],
-        "createdAt": 1753368120278,
-        "updatedAt": 1753368168025,
-        "originalLength": 67,
-        "isCloze": false,
-        "filePath": "Matemática/Geometria plana/Untitled Kanban 1.md"
-      }
-    },
-    "Redação/Eu/Minhas redações.md": {
-      "highlight-1753444378491-420": {
-        "text": "– provocando a exclusão desse grupo –, uma vez que somente pela voz ativa de um povo suas necessidades são colocadas em discussão.",
-        "position": 420,
-        "paragraphOffset": 189,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753444378491-420",
-        "comments": [
-          {
-            "id": "comment-1753444415117-0fdakmo3d",
-            "content": "Foi um exemplo, coloquei agora que a exclusão é um problema, pq suas necessidades não serão escutadas. Vamos ver como trabalho isso",
-            "createdAt": 1753444415117,
-            "updatedAt": 1753444415117
-          }
-        ],
-        "createdAt": 1753444378491,
-        "updatedAt": 1753444415117,
-        "originalLength": 134,
-        "isCloze": false,
-        "filePath": "Redação/Eu/Minhas redações.md"
-      },
-      "highlight-1753444429281-584": {
-        "text": "preconceito do brasileiro e a falta de representatividade da mulhe",
-        "position": 584,
-        "paragraphOffset": 189,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753444429281-584",
-        "comments": [
-          {
-            "id": "comment-1753444440184-rt6w0z74p",
-            "content": "Aqui está minha tese, meus argumentos.",
-            "createdAt": 1753444440184,
-            "updatedAt": 1753444440184
-          }
-        ],
-        "createdAt": 1753444429281,
-        "updatedAt": 1753444440184,
-        "originalLength": 70,
-        "isCloze": false,
-        "filePath": "Redação/Eu/Minhas redações.md"
-      },
-      "highlight-1753444463163-948": {
-        "text": "consequência do preconceito que ainda perdura na sociedade,",
-        "position": 948,
-        "paragraphOffset": 689,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753444463163-948",
-        "comments": [
-          {
-            "id": "comment-1753444502368-j50n65qz2",
-            "content": "Como aqui eu já afirmei e dei a cartada da citação, agora é só desenvolver esse argumento com mais 2 porquês e exemplo",
-            "createdAt": 1753444502368,
-            "updatedAt": 1753444516420
-          },
-          {
-            "id": "comment-1753444472894-7acnnp0kb",
-            "content": "faz um link bom com o repertório.",
-            "createdAt": 1753444472894,
-            "updatedAt": 1753444472894
-          }
-        ],
-        "createdAt": 1753444463163,
-        "updatedAt": 1753444516420,
-        "originalLength": 63,
-        "isCloze": false,
-        "filePath": "Redação/Eu/Minhas redações.md"
-      },
-      "highlight-1753444561330-1012": {
-        "text": "em que deputadas e senadoras são silenciadas e aquelas que aspiram à vida política são desestimuladas",
-        "position": 1012,
-        "paragraphOffset": 689,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753444561330-1012",
-        "comments": [
-          {
-            "id": "comment-1753444639063-0xehxkr24",
-            "content": "Beleza, trouxe a consequência da desestimulação, e que ela afeta a entrada dessas mulheres na política. Creio que tenha talvez faltado um exemplo ou mais um porque",
-            "createdAt": 1753444639063,
-            "updatedAt": 1753444639063
-          }
-        ],
-        "createdAt": 1753444561330,
-        "updatedAt": 1753444639063,
-        "originalLength": 105,
-        "isCloze": false,
-        "filePath": "Redação/Eu/Minhas redações.md"
-      },
-      "highlight-1753444654831-1172": {
-        "text": "que seu lugar é outro",
-        "position": 1151,
-        "paragraphOffset": 689,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753444654831-1172",
-        "comments": [
-          {
-            "id": "comment-1753444808671-xy437ktle",
-            "content": "Aqui caberia um exemplo, como foi dito pela corretora, é realmente algo que faltou no texto. Ela foi boa em me dar essa nota",
-            "createdAt": 1753444808671,
-            "updatedAt": 1753444808671
-          }
-        ],
-        "createdAt": 1753444654831,
-        "updatedAt": 1753444834868,
-        "originalLength": 25,
-        "isCloze": false,
-        "filePath": "Redação/Eu/Minhas redações.md"
-      },
-      "highlight-1753444834908-1178": {
-        "text": ".",
-        "position": 1178,
-        "paragraphOffset": 689,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753444834908-1178",
-        "comments": [
-          {
-            "id": "comment-1753445897070-j6iwn18lc",
-            "content": "Aqui temos outro período muito longo. Poderia ter resolvido da seguinte forma: \"Esse panorama evidencia o pouco engajamento das mulheres na administração pública, ocasionado pela falta de identificação com meio. Isso se deve por elas não encontrarem alguém em que se espelhar ou de quem se inspirar; esse fator dificulta sua entrada na política.",
-            "createdAt": 1753445897070,
-            "updatedAt": 1753445897070
-          },
-          {
-            "id": "comment-1753444841046-kiqbf3mj0",
-            "content": "O período realmente ficou muito grande. Poderia ter quebrado da seguinte forma: \"Nesse sentido, a invisibilidade da mulher na política é consequência do preconceito que ainda perdura na sociedade. Por conseguinte, deputadas e senadoras são silenciadas e aquelas que aspiram à vida política são desestimuladas por estigmas sociais que afirmam que seu lugar é outro.\"",
-            "createdAt": 1753444841046,
-            "updatedAt": 1753444841046
-          }
-        ],
-        "createdAt": 1753444834908,
-        "updatedAt": 1753445897070,
-        "originalLength": 5,
-        "isCloze": false,
-        "filePath": "Redação/Eu/Minhas redações.md"
-      },
-      "highlight-1753444893739-1486": {
-        "text": "Esse panorama evidencia o pouco engajamento das mulheres na administração pública",
-        "position": 1486,
-        "paragraphOffset": 1263,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753444893739-1486",
-        "comments": [
-          {
-            "id": "comment-1753444911627-zs91s4cps",
-            "content": "Foi um bom link, nem tinha como não ser bom, muito preciso - retirado dos textos motivadores.",
-            "createdAt": 1753444911627,
-            "updatedAt": 1753444911627
-          }
-        ],
-        "createdAt": 1753444893739,
-        "updatedAt": 1753444911627,
-        "originalLength": 85,
-        "isCloze": false,
-        "filePath": "Redação/Eu/Minhas redações.md"
-      },
-      "highlight-1753444920286-1573": {
-        "text": "ocasionado pela falta de identificação com esse meio",
-        "position": 1573,
-        "paragraphOffset": 1263,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753444920286-1573",
-        "comments": [
-          {
-            "id": "comment-1753444930450-80bglvssq",
-            "content": "Aqui eu apresento outro porquê. Excelente.",
-            "createdAt": 1753444930451,
-            "updatedAt": 1753444930451
-          }
-        ],
-        "createdAt": 1753444920286,
-        "updatedAt": 1753444930451,
-        "originalLength": 56,
-        "isCloze": false,
-        "filePath": "Redação/Eu/Minhas redações.md"
-      },
-      "highlight-1753444943466-1649": {
-        "text": "encontram alguém em quem se espelhar ou de quem se inspirar",
-        "position": 1649,
-        "paragraphOffset": 1263,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753444943466-1649",
-        "comments": [
-          {
-            "id": "comment-1753445026728-x7dhkew9o",
-            "content": "Opa, por coincidência aqui FOI ELOGIADO, provavelmente me fez tirar 200 pontos esse trecho. Veja que há um claro desenvolvimento de 3 pq. 1° - Falta de engajamento; 2° - Por não se identificar com meio; 3° - Não encontram inspiração ou espelhamento na política.",
-            "createdAt": 1753445026728,
-            "updatedAt": 1753445026728
-          }
-        ],
-        "createdAt": 1753444943466,
-        "updatedAt": 1753445026728,
-        "originalLength": 63,
-        "isCloze": false,
-        "filePath": "Redação/Eu/Minhas redações.md"
-      },
-      "highlight-1753445951773-2006": {
-        "text": "fazendo uma ligação com os grandes feitos da ciência e da história proporcionados por elas",
-        "position": 2006,
-        "paragraphOffset": 1843,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753445951773-2006",
-        "comments": [
-          {
-            "id": "comment-1753445964096-jaxw58q47",
-            "content": "Consegui exemplificar a ação, MUITO BOM",
-            "createdAt": 1753445964096,
-            "updatedAt": 1753445964096
-          }
-        ],
-        "createdAt": 1753445951773,
-        "updatedAt": 1753445964096,
-        "originalLength": 94,
-        "isCloze": false,
-        "filePath": "Redação/Eu/Minhas redações.md"
-      }
-    },
-    "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md": {
+    "Enem-1/Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md": {
       "highlight-1753450399817-232": {
         "text": "trabalho de cuidado seja reconhecido",
         "position": 232,
@@ -1312,29 +1356,189 @@
         "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/1° - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil.md"
       }
     },
-    "Matemática/EvD.md": {
-      "highlight-1753714621754-2046": {
-        "text": "V - 04:31 - ***Achar a melhor opção dentre as apresentadas:*** Preciso encontra um método que seja capaz de verificar com mais velocidade qual é a operação maior ou menor. (ENEM PPL 2° dia 2019 questão 137)",
-        "position": 2046,
-        "paragraphOffset": 1681,
+    "Enem-1/Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md": {
+      "highlight-1755768608580-24": {
+        "text": "Brasil, país do futuro",
+        "position": 24,
+        "paragraphOffset": 0,
         "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753714621754-2046",
+        "id": "highlight-1755768608580-24",
         "comments": [
           {
-            "id": "comment-1753714631475-ck8kecn4e",
-            "content": "Olha essa solução:\n\nO subtraiu de todos na multiplicação um termo menor do que o menor, simplificando a conta. Pode fazer isso?",
-            "createdAt": 1753714631475,
-            "updatedAt": 1753715137398
+            "id": "comment-1755768642868-umcdjodf2",
+            "content": "Inicialmente, apresenta-se um repertório, muito conhecido, que será utilizado para construção de uma antítese",
+            "createdAt": 1755768642868,
+            "updatedAt": 1755768642868
           }
         ],
-        "createdAt": 1753714621754,
-        "updatedAt": 1753715137398,
-        "originalLength": 210,
+        "createdAt": 1755768608580,
+        "updatedAt": 1755768642868,
+        "originalLength": 26,
         "isCloze": false,
-        "filePath": "Matemática/EvD.md"
+        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
+      },
+      "highlight-1755768663948-311": {
+        "text": "constante invisibilidade feminina relacionada ao trabalho de cuidado e seus impactos negativos na contemporaneidade não são características de um \"país do futuro\".",
+        "position": 311,
+        "paragraphOffset": 0,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1755768663948-311",
+        "comments": [
+          {
+            "id": "comment-1755768735558-nr4we3awg",
+            "content": "Refletindo melhor sobre a forma de criar um repertório e relaciona-lo com o tema: É interessante, ele cita algo que deveria acontecer mas diz que não acontece, não explica porque o Brasil está assim e não demonstra pq ele tá assim, afinal  o enem não cobraria isso, saber de dados seria necessário",
+            "createdAt": 1755768735558,
+            "updatedAt": 1755768735558
+          }
+        ],
+        "createdAt": 1755768663948,
+        "updatedAt": 1755768735558,
+        "originalLength": 167,
+        "isCloze": false,
+        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
+      },
+      "highlight-1755768750306-499": {
+        "text": "negligências governamentais impulsionam",
+        "position": 499,
+        "paragraphOffset": 0,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1755768750306-499",
+        "comments": [
+          {
+            "id": "comment-1755768774764-2kt0acbux",
+            "content": "Interessante, ele conseguiu agrupar os argumentos de modo que fique em um só tópico e já citou ele. Tentar fazer isso",
+            "createdAt": 1755768774764,
+            "updatedAt": 1755768774764
+          }
+        ],
+        "createdAt": 1755768750306,
+        "updatedAt": 1755768774764,
+        "originalLength": 43,
+        "isCloze": false,
+        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
+      },
+      "highlight-1755768976278-621": {
+        "text": "promovem o desenvolvimento de diversas desigualdades econômicas",
+        "position": 621,
+        "paragraphOffset": 0,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1755768976278-621",
+        "comments": [
+          {
+            "id": "comment-1755769002582-a74ezv0f2",
+            "content": "Opa, veja que aqui ele também colocou uma causa junta, interessante. Vejamos como ele abordará esse tipo de coisa",
+            "createdAt": 1755769002582,
+            "updatedAt": 1755769002582
+          }
+        ],
+        "createdAt": 1755768976278,
+        "updatedAt": 1755769002582,
+        "originalLength": 67,
+        "isCloze": false,
+        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
+      },
+      "highlight-1755769144743-826": {
+        "text": "suscitadores da problemática._",
+        "position": 826,
+        "paragraphOffset": 0,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1755769144743-826",
+        "comments": [
+          {
+            "id": "comment-1755769148215-trdyqwy72",
+            "content": "Apresentou o argumento",
+            "createdAt": 1755769148215,
+            "updatedAt": 1755769148215
+          }
+        ],
+        "createdAt": 1755769144743,
+        "updatedAt": 1755769148215,
+        "originalLength": 34,
+        "isCloze": false,
+        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
+      },
+      "highlight-1755769281091-992": {
+        "text": "potencializa a invisibilidade do esforço doméstico e de cuidados desse grupo",
+        "position": 992,
+        "paragraphOffset": 862,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1755769281091-992",
+        "comments": [
+          {
+            "id": "comment-1755769298339-ad73l93wd",
+            "content": "Apresentou o D1 normalmente, sem nenhuma surpresa.",
+            "createdAt": 1755769298339,
+            "updatedAt": 1755769298339
+          }
+        ],
+        "createdAt": 1755769281091,
+        "updatedAt": 1755769298339,
+        "originalLength": 80,
+        "isCloze": false,
+        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
+      },
+      "highlight-1755769321087-1111": {
+        "text": "Gilberto Dimenstein defende que a legislação brasileira funciona somente no papel e, na prática, é ineficiente.",
+        "position": 1111,
+        "paragraphOffset": 862,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1755769321087-1111",
+        "comments": [
+          {
+            "id": "comment-1755769328873-hrls19n1c",
+            "content": "Seria bom lembrar dessa citação",
+            "createdAt": 1755769328873,
+            "updatedAt": 1755769328873
+          }
+        ],
+        "createdAt": 1755769321087,
+        "updatedAt": 1755769328873,
+        "originalLength": 115,
+        "isCloze": false,
+        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
+      },
+      "highlight-1755769564672-1252": {
+        "text": "pode ser comprovada por meio",
+        "position": 1252,
+        "paragraphOffset": 862,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1755769564672-1252",
+        "comments": [
+          {
+            "id": "comment-1755769569239-db15ifkoa",
+            "content": "Deu um exemplo",
+            "createdAt": 1755769569239,
+            "updatedAt": 1755769569239
+          }
+        ],
+        "createdAt": 1755769564672,
+        "updatedAt": 1755769569239,
+        "originalLength": 32,
+        "isCloze": false,
+        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
+      },
+      "highlight-1755769609987-1475": {
+        "text": "dependência dessa parcela ao cuidado doméstico",
+        "position": 1475,
+        "paragraphOffset": 862,
+        "backgroundColor": "#ffeb3b",
+        "id": "highlight-1755769609987-1475",
+        "comments": [
+          {
+            "id": "comment-1755769645598-is80ynars",
+            "content": "Então o argumento é a dependência dessa parcela ao cuidado doméstico, obrigatório, pelas más aplicações das leis trabalhistas. No entanto, é desavlorizado por não ser remunerado??",
+            "createdAt": 1755769645598,
+            "updatedAt": 1755769645598
+          }
+        ],
+        "createdAt": 1755769609987,
+        "updatedAt": 1755769645598,
+        "originalLength": 50,
+        "isCloze": false,
+        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
       }
     },
-    "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md": {
+    "Enem-1/Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md": {
       "highlight-1753959504176-0": {
         "text": "Atualmente, o foco em solucionar problemas relacionados às doenças mentais vem aumentando, isso explica o motivo de atribuir à depressão e ansiedade o termo \"Doença do Século\"",
         "position": 0,
@@ -1682,7 +1886,7 @@
         "filePath": "Redação/Eu/Minhas redações/Desafios para o combate aos distúrbios alimentares no Brasil.md"
       }
     },
-    "Redação/Eu/Minhas redações/Democratização do acesso ao ensino superior no Brasil.md": {
+    "Enem-1/Redação/Eu/Minhas redações/Democratização do acesso ao ensino superior no Brasil.md": {
       "highlight-1754559822515-225": {
         "text": "acesso ao ensino superior está restrito",
         "position": 189,
@@ -2048,210 +2252,6 @@
         "originalLength": 83,
         "isCloze": false,
         "filePath": "Redação/Eu/Minhas redações/Democratização do acesso ao ensino superior no Brasil.md"
-      }
-    },
-    "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md": {
-      "highlight-1755768608580-24": {
-        "text": "Brasil, país do futuro",
-        "position": 24,
-        "paragraphOffset": 0,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1755768608580-24",
-        "comments": [
-          {
-            "id": "comment-1755768642868-umcdjodf2",
-            "content": "Inicialmente, apresenta-se um repertório, muito conhecido, que será utilizado para construção de uma antítese",
-            "createdAt": 1755768642868,
-            "updatedAt": 1755768642868
-          }
-        ],
-        "createdAt": 1755768608580,
-        "updatedAt": 1755768642868,
-        "originalLength": 26,
-        "isCloze": false,
-        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
-      },
-      "highlight-1755768663948-311": {
-        "text": "constante invisibilidade feminina relacionada ao trabalho de cuidado e seus impactos negativos na contemporaneidade não são características de um \"país do futuro\".",
-        "position": 311,
-        "paragraphOffset": 0,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1755768663948-311",
-        "comments": [
-          {
-            "id": "comment-1755768735558-nr4we3awg",
-            "content": "Refletindo melhor sobre a forma de criar um repertório e relaciona-lo com o tema: É interessante, ele cita algo que deveria acontecer mas diz que não acontece, não explica porque o Brasil está assim e não demonstra pq ele tá assim, afinal  o enem não cobraria isso, saber de dados seria necessário",
-            "createdAt": 1755768735558,
-            "updatedAt": 1755768735558
-          }
-        ],
-        "createdAt": 1755768663948,
-        "updatedAt": 1755768735558,
-        "originalLength": 167,
-        "isCloze": false,
-        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
-      },
-      "highlight-1755768750306-499": {
-        "text": "negligências governamentais impulsionam",
-        "position": 499,
-        "paragraphOffset": 0,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1755768750306-499",
-        "comments": [
-          {
-            "id": "comment-1755768774764-2kt0acbux",
-            "content": "Interessante, ele conseguiu agrupar os argumentos de modo que fique em um só tópico e já citou ele. Tentar fazer isso",
-            "createdAt": 1755768774764,
-            "updatedAt": 1755768774764
-          }
-        ],
-        "createdAt": 1755768750306,
-        "updatedAt": 1755768774764,
-        "originalLength": 43,
-        "isCloze": false,
-        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
-      },
-      "highlight-1755768976278-621": {
-        "text": "promovem o desenvolvimento de diversas desigualdades econômicas",
-        "position": 621,
-        "paragraphOffset": 0,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1755768976278-621",
-        "comments": [
-          {
-            "id": "comment-1755769002582-a74ezv0f2",
-            "content": "Opa, veja que aqui ele também colocou uma causa junta, interessante. Vejamos como ele abordará esse tipo de coisa",
-            "createdAt": 1755769002582,
-            "updatedAt": 1755769002582
-          }
-        ],
-        "createdAt": 1755768976278,
-        "updatedAt": 1755769002582,
-        "originalLength": 67,
-        "isCloze": false,
-        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
-      },
-      "highlight-1755769144743-826": {
-        "text": "suscitadores da problemática._",
-        "position": 826,
-        "paragraphOffset": 0,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1755769144743-826",
-        "comments": [
-          {
-            "id": "comment-1755769148215-trdyqwy72",
-            "content": "Apresentou o argumento",
-            "createdAt": 1755769148215,
-            "updatedAt": 1755769148215
-          }
-        ],
-        "createdAt": 1755769144743,
-        "updatedAt": 1755769148215,
-        "originalLength": 34,
-        "isCloze": false,
-        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
-      },
-      "highlight-1755769281091-992": {
-        "text": "potencializa a invisibilidade do esforço doméstico e de cuidados desse grupo",
-        "position": 992,
-        "paragraphOffset": 862,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1755769281091-992",
-        "comments": [
-          {
-            "id": "comment-1755769298339-ad73l93wd",
-            "content": "Apresentou o D1 normalmente, sem nenhuma surpresa.",
-            "createdAt": 1755769298339,
-            "updatedAt": 1755769298339
-          }
-        ],
-        "createdAt": 1755769281091,
-        "updatedAt": 1755769298339,
-        "originalLength": 80,
-        "isCloze": false,
-        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
-      },
-      "highlight-1755769321087-1111": {
-        "text": "Gilberto Dimenstein defende que a legislação brasileira funciona somente no papel e, na prática, é ineficiente.",
-        "position": 1111,
-        "paragraphOffset": 862,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1755769321087-1111",
-        "comments": [
-          {
-            "id": "comment-1755769328873-hrls19n1c",
-            "content": "Seria bom lembrar dessa citação",
-            "createdAt": 1755769328873,
-            "updatedAt": 1755769328873
-          }
-        ],
-        "createdAt": 1755769321087,
-        "updatedAt": 1755769328873,
-        "originalLength": 115,
-        "isCloze": false,
-        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
-      },
-      "highlight-1755769564672-1252": {
-        "text": "pode ser comprovada por meio",
-        "position": 1252,
-        "paragraphOffset": 862,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1755769564672-1252",
-        "comments": [
-          {
-            "id": "comment-1755769569239-db15ifkoa",
-            "content": "Deu um exemplo",
-            "createdAt": 1755769569239,
-            "updatedAt": 1755769569239
-          }
-        ],
-        "createdAt": 1755769564672,
-        "updatedAt": 1755769569239,
-        "originalLength": 32,
-        "isCloze": false,
-        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
-      },
-      "highlight-1755769609987-1475": {
-        "text": "dependência dessa parcela ao cuidado doméstico",
-        "position": 1475,
-        "paragraphOffset": 862,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1755769609987-1475",
-        "comments": [
-          {
-            "id": "comment-1755769645598-is80ynars",
-            "content": "Então o argumento é a dependência dessa parcela ao cuidado doméstico, obrigatório, pelas más aplicações das leis trabalhistas. No entanto, é desavlorizado por não ser remunerado??",
-            "createdAt": 1755769645598,
-            "updatedAt": 1755769645598
-          }
-        ],
-        "createdAt": 1755769609987,
-        "updatedAt": 1755769645598,
-        "originalLength": 50,
-        "isCloze": false,
-        "filePath": "Redação/Redação nota mil/2023 - Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'/2° - 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'.md"
-      }
-    },
-    "Química/11 - Química orgânica/Função oxigenadas/Função Éster.md": {
-      "highlight-1753290054650-243": {
-        "text": "***Características de um Éster: 2 oxigênios, um com dupla ligação e outro ligado a algum grupo ou a outra cadeia carbônica.***",
-        "position": 243,
-        "paragraphOffset": 243,
-        "backgroundColor": "#ffeb3b",
-        "id": "highlight-1753290054650-243",
-        "comments": [
-          {
-            "id": "comment-1753290100068-8gckrqeev",
-            "content": "ENEM - 2012 - 1° DIA - Caderno AZUL",
-            "createdAt": 1753290100068,
-            "updatedAt": 1753290100068
-          }
-        ],
-        "createdAt": 1753290054650,
-        "updatedAt": 1753290100068,
-        "originalLength": 130,
-        "isCloze": false,
-        "filePath": "Química/Química orgânica/Função oxigenadas/Função Éster.md"
       }
     }
   }
