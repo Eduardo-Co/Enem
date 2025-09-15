@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a957249c71f028e3",
+        "id": "10f080764c9552e6",
         "type": "tabs",
         "children": [
           {
-            "id": "dc8842621a1d32b1",
+            "id": "b5f62e2c76e3de3c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Enem-2/Biologia/Citologia/citologia.canvas",
-                "viewState": {
-                  "x": 485.21953988495534,
-                  "y": 325.32350995358865,
-                  "zoom": -0.5169488793001702
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "citologia"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -207,11 +200,13 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "dc8842621a1d32b1",
+  "active": "b5f62e2c76e3de3c",
   "lastOpenFiles": [
-    "Enem-2/Biologia/Citologia/Citologia_TREE_ok.canvas",
-    "Enem-2/Biologia/Citologia/citologia.canvas",
+    "Enem-2/Biologia/Citologia/Citologia-Mapa.canvas",
     "Enem-2/Biologia/Citologia/citologia_topics.md",
+    "Enem-2/Biologia/Citologia/Untitled Kanban.md",
+    "Enem-2/Biologia/Citologia/citologia.canvas",
+    "Enem-2/Biologia/Citologia/Citologia_TREE_ok.canvas",
     "Enem-2/Biologia/Citologia/Citologia_completo.canvas",
     "Enem-2/Biologia/Citologia/Citologia_MASTER.canvas",
     "Enem-2/Biologia/Citologia/Citologia_hierarquia_setas_espacado.canvas",
@@ -220,8 +215,6 @@
     "Enem-2/Biologia/Citologia/Citologia_topics (1).canvas",
     "Enem-2/Biologia/Citologia/Citologia_hierarquico.canvas",
     "Enem-2/Biologia/Citologia/citologia.canvas.md",
-    "Enem-2/Biologia/Citologia/Untitled Kanban.md",
-    "Enem-1/Química/Untitled.canvas",
     "Enem-1/Química/Untitled Kanban.md",
     "Enem-1/Biologia/Máximas da biologia.md",
     "Enem-1/Biologia/Untitled Kanban.md",
