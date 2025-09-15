@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1","type":"text","text":"📋 Esquema Geral – Citologia (Ensino Médio / Vestibulares)","x":0,"y":0,"width":400,"height":100},
+		{"id":"2","type":"text","text":"1. Fundamentos da Citologia\n- Teoria Celular (Schleiden, Schwann, Virchow)\n- Unidade estrutural, funcional e de origem\n- Tipos celulares: procariontes × eucariontes\n- Tamanho, forma e diversidade celular\n- Citoplasma (hialoplasma + organelas)","x":50,"y":150,"width":400,"height":230},
+		{"id":"3","type":"text","text":"2. Estrutura da Célula\n- Membrana plasmática: modelo mosaico fluido\n- Funções: permeabilidade seletiva, reconhecimento, comunicação\n- Especializações: microvilosidades, desmossomos, interdigitações, junções comunicantes\n- Transportes: difusão simples/facilitada, osmose, transporte ativo, endocitose, exocitose","x":500,"y":150,"width":400,"height":100},
+		{"id":"4","type":"text","text":"3. Organelas Citoplasmáticas\n- Ribossomos → síntese proteica\n- RER → proteínas de exportação\n- REL → lipídios, detoxificação, cálcio\n- Golgi → secreção, lisossomos, acrossomo\n- Lisossomos → digestão, apoptose\n- Peroxissomos → oxidação, detoxificação\n- Mitocôndrias → respiração celular, ATP\n- Cloroplastos → fotossíntese\n- Centríolos → fuso mitótico, cílios/flagelos\n- Citoesqueleto → sustentação, transporte, movimento\n- Vacúolos → armazenamento, osmose, turgor","x":950,"y":150,"width":400,"height":100},
+		{"id":"5","type":"text","text":"4. Núcleo Celular\n- Carioteca com poros nucleares\n- Cromatina: eucromatina × heterocromatina\n- Nucléolo: síntese de rRNA, ribossomos\n- Cromossomos: DNA condensado, centrômero, telômeros\n- Ciclo celular: G1, S, G2, mitose/meiose\n- Ploidia: haploides (n) × diploides (2n)","x":1400,"y":150,"width":400,"height":100},
+		{"id":"6","type":"text","text":"5. Divisão Celular\n- Mitose: 1 divisão → 2 células diploides\n  Fases: prófase, metáfase, anáfase, telófase, citocinese\n  Funções: crescimento, regeneração, reprodução assexuada\n- Meiose: 2 divisões → 4 células haploides diferentes\n  Crossing-over (prófase I) → variabilidade genética\n- Gametogênese:\n  Espermatogênese → 4 espermatozoides\n  Ovogênese → 1 óvulo + 3 corpúsculos polares","x":1850,"y":150,"width":400,"height":100}
+	],
+	"edges":[]
+}
