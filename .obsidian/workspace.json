@@ -11,12 +11,14 @@
             "id": "b5f62e2c76e3de3c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg"
+                "file": "Calendário/2025-09-15.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "fb168ff9-e8b9-4928-94e0-b1c00a6d1634"
+              "icon": "lucide-file",
+              "title": "2025-09-15"
             }
           }
         ]
@@ -184,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +205,8 @@
   },
   "active": "b5f62e2c76e3de3c",
   "lastOpenFiles": [
+    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
+    "Calendário/2025-09-15.md",
     "Enem-2/Biologia/Citologia/Citologia-Mapa.canvas",
     "Enem-2/Biologia/Citologia/citologia_topics.md",
     "Enem-2/Biologia/Citologia/Untitled Kanban.md",
@@ -222,7 +225,6 @@
     "Enem-1/Biologia/Untitled Kanban.md",
     "Enem-1/Biologia/1 - Ecologia/0 - Questões.md",
     "Enem-1/Biologia/1 - Ecologia/Teste de Ecologia.md",
-    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Enem-2/Biologia/Citologia",
     "ENEM.pdf",
     "Enem-2/Biologia",
@@ -247,7 +249,6 @@
     "Calendário/2025-09-08.md",
     "Enem-1/Biologia/12 - Genética/Interação Gênica.md",
     "Enem-1/Biologia/12 - Genética/Herança Sexual.md",
-    "Enem-1/Biologia/12 - Genética/Mapeamento de Cromossomos.md",
     "Enem-1/Biologia/12 - Genética",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
