@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "type": "text",
+      "text": "Citologia",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "2",
+      "type": "text",
+      "text": "1. Fundamentos da Citologia\n- Teoria Celular\n- Procarionte × Eucarionte\n- Tamanho, forma, diversidade\n- Citoplasma",
+      "x": -400,
+      "y": 200,
+      "width": 350,
+      "height": 200,
+      "color": "2"
+    },
+    {
+      "id": "3",
+      "type": "text",
+      "text": "2. Estrutura da Célula\n- Membrana (mosaico fluido)\n- Transportes (difusão, osmose, ativo)\n- Endocitose / Exocitose\n- Especializações",
+      "x": 400,
+      "y": 200,
+      "width": 350,
+      "height": 200,
+      "color": "3"
+    },
+    {
+      "id": "4",
+      "type": "text",
+      "text": "3. Organelas Citoplasmáticas\n- Ribossomos\n- RER e REL\n- Golgi\n- Lisossomos / Peroxissomos\n- Mitocôndrias / Cloroplastos\n- Citoesqueleto / Centríolos\n- Vacúolos",
+      "x": -400,
+      "y": 500,
+      "width": 350,
+      "height": 250,
+      "color": "4"
+    },
+    {
+      "id": "5",
+      "type": "text",
+      "text": "4. Núcleo Celular\n- Carioteca\n- Cromatina (eu/hetero)\n- Nucléolo\n- Cromossomos\n- Ciclo Celular (G1, S, G2)\n- Ploidia (n × 2n)",
+      "x": 400,
+      "y": 500,
+      "width": 350,
+      "height": 250,
+      "color": "5"
+    },
+    {
+      "id": "6",
+      "type": "text",
+      "text": "5. Divisão Celular\n- Mitose (fases)\n- Meiose I e II\n- Crossing-over\n- Gametogênese",
+      "x": 0,
+      "y": 800,
+      "width": 350,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "7",
+      "type": "text",
+      "text": "6. Conexão com Bioenergética\n- Mitocôndrias → Respiração\n- Cloroplastos → Fotossíntese\n- ATP\n- Lisossomos/Peroxissomos",
+      "x": -400,
+      "y": 1100,
+      "width": 350,
+      "height": 200,
+      "color": "7"
+    },
+    {
+      "id": "8",
+      "type": "text",
+      "text": "7. Aplicações em Vestibulares\n- Células-tronco\n- Cultura celular\n- Vírus\n- Experimentos clássicos (osmose, mitocôndrias, divisão)",
+      "x": 400,
+      "y": 1100,
+      "width": 350,
+      "height": 200,
+      "color": "8"
+    }
+  ],
+  "edges": [
+    {
+      "fromNode": "1",
+      "toNode": "2"
+    },
+    {
+      "fromNode": "1",
+      "toNode": "3"
+    },
+    {
+      "fromNode": "1",
+      "toNode": "4"
+    },
+    {
+      "fromNode": "1",
+      "toNode": "5"
+    },
+    {
+      "fromNode": "1",
+      "toNode": "6"
+    },
+    {
+      "fromNode": "1",
+      "toNode": "7"
+    },
+    {
+      "fromNode": "1",
+      "toNode": "8"
+    }
+  ]
+}

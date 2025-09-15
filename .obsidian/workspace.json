@@ -23,8 +23,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "5d4cec4c93fc7e63",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Enem-2/Biologia/Citologia/Citologia.canvas",
+                "viewState": {
+                  "x": 248.78159973459685,
+                  "y": 501.78402924243125,
+                  "zoom": -1.0305883198334231
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Citologia"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,11 +225,13 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "520d63d22b57ca04",
+  "active": "5d4cec4c93fc7e63",
   "lastOpenFiles": [
+    "Enem-2/Biologia/Citologia/citologia_topics.md",
+    "Enem-2/Biologia/Citologia/Citologia.canvas",
+    "Enem-2/Biologia/Citologia/Untitled.canvas",
     "Enem-2/Biologia/Citologia",
     "ENEM.pdf",
-    "Enem-2/Biologia/Citologia/Untitled.canvas",
     "Enem-2/Biologia",
     "Enem-2",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
@@ -244,9 +264,7 @@
     "Enem-1/Biologia/12 - Genética",
     "Calendário/2025-09-03.md",
     "Calendário/2025-09-02.md",
-    "Enem-1/Química/7- Cinética química/4 - Leis da velocidade.md",
     "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
-    "Química/Atomo/Untitled",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
     "Enem-1/Química/11 - Química orgânica/0 - Questões/Pasted image 20250820072410.png",
