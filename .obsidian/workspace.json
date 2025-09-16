@@ -11,20 +11,17 @@
             "id": "81faed37edaadc5d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Enem-2/Física/Cinemática/Cinemática.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Enem-2/Física/Magnetismo/magnetismo (1).canvas",
+                "viewState": {
+                  "x": 552.7427340274633,
+                  "y": 583.7752339746968,
+                  "zoom": -0.6440774222538928
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Cinemática"
+              "icon": "lucide-layout-dashboard",
+              "title": "magnetismo (1)"
             }
           }
         ]
@@ -84,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3705a3db096f470c",
@@ -213,8 +209,11 @@
   },
   "active": "81faed37edaadc5d",
   "lastOpenFiles": [
-    "Enem-2/Física/Cinemática/Untitled.canvas",
+    "Enem-2/Física/Magnetismo/magnetismo.canvas",
+    "Enem-2/Física/Magnetismo/magnetismo (1).canvas",
     "Enem-2/Física/Cinemática/Cinemática.md",
+    "Enem-2/Física/Magnetismo",
+    "Enem-2/Física/Cinemática/Untitled.canvas",
     "Enem-2/Física/Cinemática/Cinematica_Final_Colorido.canvas",
     "Enem-2/Física/Cinemática/Cinematica_Colorido.canvas",
     "Enem-2/Física/Cinemática/Cinematica_EnsinoMedio.canvas",
@@ -232,7 +231,6 @@
     "Enem-2/Física/Termologia",
     "Enem-2/Física",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
-    "Enem-2/Biologia/Citologia/Citologia-Mapa.canvas",
     "Enem-2/Biologia/Citologia/citologia_topics.md",
     "Enem-2/Biologia/Citologia/Untitled Kanban.md",
     "Enem-2/Biologia/Citologia/citologia.canvas.md",
@@ -246,7 +244,6 @@
     "Enem-2/Biologia",
     "Enem-2",
     "Refração - Como desenhar de qualquer lado para onde tende a ir, lei de snell.md",
-    "Untitled.base",
     "Porque vidro é transparente.md",
     "Lentes e Espelhos.md",
     "Fórmula da interferência.md",
