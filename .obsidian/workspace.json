@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10f080764c9552e6",
+        "id": "1320d27cfc741e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "b5f62e2c76e3de3c",
+            "id": "81faed37edaadc5d",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Enem-2/Física/Ondulatória/Untitled Kanban.md",
+                "file": "Enem-2/Física/Cinemática/Cinemática.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -24,7 +24,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "Cinemática"
             }
           }
         ]
@@ -210,10 +210,16 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "b5f62e2c76e3de3c",
+  "active": "81faed37edaadc5d",
   "lastOpenFiles": [
-    "Enem-2/Física/Ondulatória/ondulatoria_canvas.canvas",
+    "Enem-2/Física/Cinemática/Untitled.canvas",
+    "Enem-2/Física/Cinemática/Cinemática.md",
+    "Enem-2/Física/Cinemática/Cinematica_Final_Colorido.canvas",
+    "Enem-2/Física/Cinemática/Cinematica_Colorido.canvas",
+    "Enem-2/Física/Cinemática/Cinematica_EnsinoMedio.canvas",
+    "Enem-2/Física/Cinemática",
     "Enem-2/Física/Ondulatória/Untitled Kanban.md",
+    "Enem-2/Física/Ondulatória/ondulatoria_canvas.canvas",
     "Enem-2/Física/Ondulatória/Untitled.canvas",
     "Enem-2/Física/Termologia/Termologia (1).canvas",
     "Enem-2/Física/Ondulatória",
@@ -228,10 +234,6 @@
     "Enem-2/Biologia/Citologia/Citologia-Mapa.canvas",
     "Enem-2/Biologia/Citologia/citologia_topics.md",
     "Enem-2/Biologia/Citologia/Untitled Kanban.md",
-    "Enem-2/Biologia/Citologia/citologia.canvas",
-    "Enem-2/Biologia/Citologia/Citologia_TREE_ok.canvas",
-    "Enem-2/Biologia/Citologia/Citologia_completo.canvas",
-    "Enem-2/Biologia/Citologia/Citologia_MASTER.canvas",
     "Enem-2/Biologia/Citologia/citologia.canvas.md",
     "Enem-1/Química/Untitled Kanban.md",
     "Enem-1/Biologia/Máximas da biologia.md",
@@ -247,7 +249,6 @@
     "Porque vidro é transparente.md",
     "Lentes e Espelhos.md",
     "Fórmula da interferência.md",
-    "Enem-1",
     "Calendário/Durante minhas provas.md",
     "Calendário/2025-09-13.md",
     "Calendário/2025-09-12.md",
@@ -257,7 +258,6 @@
     "Enem-1/Química/11 - Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
     "Enem-1/História e filosofia/Gregos/Filosfia/Aristóteles.md",
     "Calendário/2025-09-09.md",
-    "Calendário/2025-09-08.md",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
     "Enem-1/Química/11 - Química orgânica/0 - Questões/Pasted image 20250820072410.png",
