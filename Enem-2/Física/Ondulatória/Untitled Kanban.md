@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Equação da onda
 - [ ] Energia da onda
+- [ ] Ressonância
 
 
 ## Faltou Questão
