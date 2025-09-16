@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Enem-2/Física/Termologia/Termologia (1).canvas",
+                "file": "Enem-2/Física/Ondulatória/ondulatoria_canvas.canvas",
                 "viewState": {
-                  "x": 1228.017371644209,
-                  "y": 1500.962366965076,
-                  "zoom": -1.1150019017604387
+                  "x": 1023.4366976893427,
+                  "y": 1080.6292331979978,
+                  "zoom": -0.8405808364744165
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Termologia (1)"
+              "title": "ondulatoria_canvas"
             }
           }
         ]
@@ -209,7 +209,11 @@
   },
   "active": "b5f62e2c76e3de3c",
   "lastOpenFiles": [
+    "Enem-2/Física/Ondulatória/Untitled Kanban.md",
+    "Enem-2/Física/Ondulatória/Untitled.canvas",
+    "Enem-2/Física/Ondulatória/ondulatoria_canvas.canvas",
     "Enem-2/Física/Termologia/Termologia (1).canvas",
+    "Enem-2/Física/Ondulatória",
     "Enem-2/Física/Termologia/Termologia.canvas",
     "Enem-2/Física/Termologia/temologia.canvas",
     "Calendário/2025-09-15.md",
@@ -225,9 +229,6 @@
     "Enem-2/Biologia/Citologia/Citologia_TREE_ok.canvas",
     "Enem-2/Biologia/Citologia/Citologia_completo.canvas",
     "Enem-2/Biologia/Citologia/Citologia_MASTER.canvas",
-    "Enem-2/Biologia/Citologia/Citologia_hierarquia_setas_espacado.canvas",
-    "Enem-2/Biologia/Citologia/Citologia_espaco_horizontal_OK.canvas",
-    "Enem-2/Biologia/Citologia/Citologia.canvas",
     "Enem-2/Biologia/Citologia/citologia.canvas.md",
     "Enem-1/Química/Untitled Kanban.md",
     "Enem-1/Biologia/Máximas da biologia.md",
@@ -248,14 +249,12 @@
     "Calendário/2025-09-13.md",
     "Calendário/2025-09-12.md",
     "Enem-1/Redação/Eu/Progressão Enem e testes.md",
-    "Não confirmado 881994.crdownload",
     "O que Estudar/Ranking Linguagens.md",
     "Calendário/2025-09-10.md",
     "Enem-1/Química/11 - Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
     "Enem-1/História e filosofia/Gregos/Filosfia/Aristóteles.md",
     "Calendário/2025-09-09.md",
     "Calendário/2025-09-08.md",
-    "Enem-1/Biologia/12 - Genética/Interação Gênica.md",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
     "Enem-1/Química/11 - Química orgânica/0 - Questões/Pasted image 20250820072410.png",
