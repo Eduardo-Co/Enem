@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"g_fund","type":"group","x":-320,"y":160,"width":720,"height":520,"color":"1","label":"1. Fundamentos do Magnetismo"},
+		{"id":"g_corr","type":"group","x":720,"y":160,"width":720,"height":520,"color":"2","label":"2. Campo Magnético de Correntes"},
+		{"id":"g_forc","type":"group","x":1840,"y":160,"width":720,"height":520,"color":"4","label":"3. Força Magnética em Cargas"},
+		{"id":"g_fio","type":"group","x":-320,"y":920,"width":720,"height":520,"color":"6","label":"4. Força em Correntes e Torque"},
+		{"id":"g_indu","type":"group","x":720,"y":920,"width":720,"height":520,"color":"1","label":"5. Indução Eletromagnética"},
+		{"id":"g_mat","type":"group","x":-320,"y":1760,"width":720,"height":520,"color":"5","label":"7. Materiais Magnéticos"},
+		{"id":"g_apli","type":"group","x":720,"y":1760,"width":720,"height":520,"color":"4","label":"8. Aplicações e Tecnologia"},
+		{"id":"g_adv","type":"group","x":1840,"y":920,"width":720,"height":520,"color":"6","label":"6. Tópicos Avançados (ITA/IME)"},
+		{"id":"h_g_apli","type":"text","text":"### 8. Aplicações e Tecnologia","x":740,"y":1780,"width":680,"height":80,"color":"6"},
+		{"id":"c_g_apli","type":"text","text":"- **Motores elétricos**, **geradores**, **transformadores**.\n- **Alto-falantes** e microfones dinâmicos; **solenóides** e relés.\n- Cartões magnéticos, **ressonância magnética (MRI)**.","x":740,"y":1880,"width":680,"height":380},
+		{"id":"h_g_indu","type":"text","text":"### 5. Indução Eletromagnética","x":740,"y":940,"width":680,"height":80,"color":"6"},
+		{"id":"c_g_indu","type":"text","text":"- **Fluxo magnético**: $\\Phi_B=B\\,A\\,\\cos\\theta$.\n- **Lei de Faraday**: $\\mathcal{E}= -\\dfrac{d\\Phi_B}{dt}$; **Lei de Lenz** (sinal/ oposição).\n- Aplicações: **geradores**, **transformadores (CA)**, frenagem magnética, indução em bobinas.","x":740,"y":1040,"width":680,"height":380},
+		{"id":"titulo","type":"text","text":"# 🧲 Magnetismo – Ensino Médio / Vestibulares","x":740,"y":-520,"width":720,"height":80},
+		{"id":"h_g_corr","type":"text","text":"### 2. Campo Magnético de Correntes","x":740,"y":180,"width":680,"height":80,"color":"6"},
+		{"id":"c_g_corr","type":"text","text":"- Experiência de **Oersted**; **regra da mão direita**.\n- Fio retilíneo longo: $B=\\mu_0\\,\\dfrac{I}{2\\pi r}$ (vácuo).\n- Espira circular (centro): $B=\\mu_0\\,\\dfrac{I}{2R}$.\n- Solenóide longo: $B=\\mu_0\\,nI$ com $n=\\dfrac{N}{L}$.\n","x":740,"y":280,"width":680,"height":380},
+		{"id":"h_g_mat","type":"text","text":"### 7. Materiais Magnéticos","x":-300,"y":1780,"width":680,"height":80,"color":"6"},
+		{"id":"c_g_mat","type":"text","text":"- **Diamagnéticos**, **paramagnéticos** e **ferromagnéticos**.\n- **Domínios magnéticos**, imantação/desimantação.\n- **Curva de histerese**: remanência e coercividade; materiais moles vs. duros.","x":-300,"y":1880,"width":680,"height":380},
+		{"id":"h_g_fio","type":"text","text":"### 4. Força em Correntes e Torque","x":-300,"y":940,"width":680,"height":80,"color":"6"},
+		{"id":"c_g_fio","type":"text","text":"- Força em fio retilíneo: $\\vec{F}=I\\,\\vec{L}\\times\\vec{B}$ (módulo $F=BIL\\,\\sin\\theta$).\n- Torque em espira: $\\vec{\\tau}=\\vec{\\mu}\\times\\vec{B}$, com **momento magnético** $\\mu=nIA$.\n- (Histórico) **Definição de ampere** pela força entre correntes.","x":-300,"y":1040,"width":680,"height":380},
+		{"id":"h_g_fund","type":"text","text":"### 1. Fundamentos do Magnetismo","x":-300,"y":180,"width":680,"height":80,"color":"6"},
+		{"id":"c_g_fund","type":"text","text":"- Ímãs naturais e artificiais; polos **N/S**; atração/repulsão; **inseparabilidade** dos polos.\n- Campo magnético **$\\vec{B}$**: linhas de campo, direção/sentido; unidade **Tesla (T)**.\n- Vetorialidade e representação (módulo, direção e sentido).\n- **Lei de Gauss para o magnetismo**: $\\nabla\\cdot\\vec{B}=0$ (inexistência de monopólos).\n","x":-300,"y":280,"width":680,"height":380},
+		{"id":"h_g_forc","type":"text","text":"### 3. Força Magnética em Cargas","x":1860,"y":180,"width":680,"height":80,"color":"6"},
+		{"id":"c_g_forc","type":"text","text":"- **Força de Laplace**: $\\vec{F}=q\\,\\vec{v}\\times\\vec{B}$; \n- Casos: $\\vec{v}\\perp\\vec{B}$ ⇒ **MCU**; $\\vec{v}\\parallel\\vec{B}$ ⇒ retilíneo.\n- Raio: $r=\\dfrac{mv}{qB}$; período: $T=\\dfrac{2\\pi m}{qB}$; frequência ciclotron $f=\\dfrac{qB}{2\\pi m}$.\n- **Trabalho do campo magnético = 0** (não altera $E_c$).","x":1860,"y":280,"width":680,"height":380},
+		{"id":"h_g_adv","type":"text","text":"### 9. Tópicos Avançados (ITA/IME)","x":1860,"y":940,"width":680,"height":80,"color":"6"},
+		{"id":"c_g_adv","type":"text","text":"- **Efeito Hall**: $V_H=\\dfrac{BI}{nqt}$ (conceitual).\n- **Equações de Maxwell** (qualitativo): $\\nabla\\cdot\\vec{B}=0$, $\\nabla\\times\\vec{E}=-\\dfrac{\\partial\\vec{B}}{\\partial t}$.\n- **Ciclótron**: $f=\\dfrac{qB}{2\\pi m}$.","x":1860,"y":1040,"width":680,"height":380}
+	],
+	"edges":[
+		{"id":"e_title_g_fund","fromNode":"titulo","fromSide":"bottom","toNode":"g_fund","toSide":"top","color":"6"},
+		{"id":"e_title_g_corr","fromNode":"titulo","fromSide":"bottom","toNode":"g_corr","toSide":"top","color":"6"},
+		{"id":"e_title_g_forc","fromNode":"titulo","fromSide":"bottom","toNode":"g_forc","toSide":"top","color":"6"},
+		{"id":"e_title_g_fio","fromNode":"titulo","fromSide":"bottom","toNode":"g_fio","toSide":"top","color":"6"},
+		{"id":"e_title_g_indu","fromNode":"titulo","fromSide":"bottom","toNode":"g_indu","toSide":"top","color":"6"},
+		{"id":"e_title_g_mat","fromNode":"titulo","fromSide":"bottom","toNode":"g_mat","toSide":"top","color":"6"},
+		{"id":"e_title_g_apli","fromNode":"titulo","fromSide":"bottom","toNode":"g_apli","toSide":"top","color":"6"},
+		{"id":"e_corr_fio","fromNode":"g_corr","fromSide":"bottom","toNode":"g_fio","toSide":"top","color":"6"},
+		{"id":"e_indu_apli","fromNode":"g_indu","fromSide":"bottom","toNode":"g_apli","toSide":"top","color":"6"},
+		{"id":"e_fund_corr","fromNode":"g_fund","fromSide":"bottom","toNode":"g_corr","toSide":"top","color":"6"},
+		{"id":"e_title_g_adv","fromNode":"titulo","fromSide":"bottom","toNode":"g_adv","toSide":"top","color":"6"}
+	]
+}
