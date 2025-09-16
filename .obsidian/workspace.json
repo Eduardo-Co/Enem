@@ -11,14 +11,17 @@
             "id": "b5f62e2c76e3de3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Calendário/2025-09-15.md",
-                "mode": "source",
-                "source": false
+                "file": "Enem-2/Física/Termologia/Termologia (1).canvas",
+                "viewState": {
+                  "x": 570.9570641182165,
+                  "y": 795.0554576609017,
+                  "zoom": -0.02798479798476331
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-09-15"
+              "icon": "lucide-layout-dashboard",
+              "title": "Termologia (1)"
             }
           }
         ]
@@ -186,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +209,15 @@
   },
   "active": "b5f62e2c76e3de3c",
   "lastOpenFiles": [
-    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
+    "Enem-2/Física/Termologia/Termologia (1).canvas",
+    "Enem-2/Física/Termologia/Termologia.canvas",
+    "Enem-2/Física/Termologia/temologia.canvas",
     "Calendário/2025-09-15.md",
+    "Enem-2/Física/Termologia/Novo(a) Documento de Texto.txt",
+    "Enem-2/Física/Termologia/Untitled.md",
+    "Enem-2/Física/Termologia",
+    "Enem-2/Física",
+    "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Enem-2/Biologia/Citologia/Citologia-Mapa.canvas",
     "Enem-2/Biologia/Citologia/citologia_topics.md",
     "Enem-2/Biologia/Citologia/Untitled Kanban.md",
@@ -217,8 +228,6 @@
     "Enem-2/Biologia/Citologia/Citologia_hierarquia_setas_espacado.canvas",
     "Enem-2/Biologia/Citologia/Citologia_espaco_horizontal_OK.canvas",
     "Enem-2/Biologia/Citologia/Citologia.canvas",
-    "Enem-2/Biologia/Citologia/Citologia_topics (1).canvas",
-    "Enem-2/Biologia/Citologia/Citologia_hierarquico.canvas",
     "Enem-2/Biologia/Citologia/citologia.canvas.md",
     "Enem-1/Química/Untitled Kanban.md",
     "Enem-1/Biologia/Máximas da biologia.md",
@@ -245,12 +254,8 @@
     "Enem-1/Química/11 - Química orgânica/Isomeria/Isomeria Geométrica (cadeia abertas).md",
     "Enem-1/História e filosofia/Gregos/Filosfia/Aristóteles.md",
     "Calendário/2025-09-09.md",
-    "epicuro-carta-sobre-a-felicidade.pdf",
     "Calendário/2025-09-08.md",
     "Enem-1/Biologia/12 - Genética/Interação Gênica.md",
-    "Enem-1/Biologia/12 - Genética/Herança Sexual.md",
-    "Enem-1/Biologia/12 - Genética",
-    "Z - Lumber/LumberGeek-Cronograma-ENEM-Monstro-2025.pdf",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
     "Enem-1/Química/11 - Química orgânica/0 - Questões/Pasted image 20250820072410.png",

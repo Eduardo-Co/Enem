@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "id": "n_title",
+      "type": "text",
+      "text": "📚 Termologia – Esquema Geral (Ensino Médio / Vestibulares)",
+      "x": 0,
+      "y": 0,
+      "width": 720,
+      "height": 120
+    },
+    {
+      "id": "g_fundamentos",
+      "type": "group",
+      "label": "1. Conceitos Fundamentais",
+      "x": 0,
+      "y": 600,
+      "width": 720,
+      "height": 520,
+      "color": "1"
+    },
+    {
+      "id": "t_fundamentos_hdr",
+      "type": "text",
+      "text": "Conceitos básicos",
+      "x": 20,
+      "y": 620,
+      "width": 680,
+      "height": 60
+    },
+    {
+      "id": "t_fundamentos_cnt",
+      "type": "text",
+      "text": "- Temperatura e escalas (C, K, F)\n- Conversões entre escalas\n- Calor × temperatura × energia interna\n- Lei Zero da Termodinâmica\n- Dilatação térmica (linear, superficial, volumétrica)\n- Dilatação aparente dos líquidos",
+      "x": 20,
+      "y": 700,
+      "width": 680,
+      "height": 400
+    },
+    {
+      "id": "g_calorimetria",
+      "type": "group",
+      "label": "2. Calorimetria",
+      "x": 800,
+      "y": 600,
+      "width": 720,
+      "height": 520,
+      "color": "2"
+    },
+    {
+      "id": "t_calorimetria_hdr",
+      "type": "text",
+      "text": "Trocas de calor",
+      "x": 820,
+      "y": 620,
+      "width": 680,
+      "height": 60
+    },
+    {
+      "id": "t_calorimetria_cnt",
+      "type": "text",
+      "text": "- Definição de calor\n- Capacidade térmica e calor específico\n- Q = m·c·ΔT\n- Princípio das trocas de calor\n- Calor latente e mudanças de estado\n- Q = m·L\n- Gráficos de aquecimento e resfriamento",
+      "x": 820,
+      "y": 700,
+      "width": 680,
+      "height": 400
+    },
+    {
+      "id": "g_propagacao",
+      "type": "group",
+      "label": "3. Propagação de Calor",
+      "x": 1600,
+      "y": 600,
+      "width": 720,
+      "height": 520,
+      "color": "4"
+    },
+    {
+      "id": "t_propagacao_hdr",
+      "type": "text",
+      "text": "Mecanismos",
+      "x": 1620,
+      "y": 620,
+      "width": 680,
+      "height": 60
+    },
+    {
+      "id": "t_propagacao_cnt",
+      "type": "text",
+      "text": "- Condução (lei de Fourier)\n- Convecção (natural e forçada)\n- Irradiação (Stefan–Boltzmann, corpo negro, emissividade)",
+      "x": 1620,
+      "y": 700,
+      "width": 680,
+      "height": 400
+    },
+    {
+      "id": "g_termodinamica",
+      "type": "group",
+      "label": "4. Termodinâmica",
+      "x": 0,
+      "y": 1200,
+      "width": 720,
+      "height": 520,
+      "color": "5"
+    },
+    {
+      "id": "t_termodinamica_hdr",
+      "type": "text",
+      "text": "Leis e processos",
+      "x": 20,
+      "y": 1220,
+      "width": 680,
+      "height": 60
+    },
+    {
+      "id": "t_termodinamica_cnt",
+      "type": "text",
+      "text": "- 1ª Lei: ΔU = Q – W\n- Processos: isotérmico, isobárico, isocórico, adiabático\n- Trabalho nos gráficos P×V\n- Gases ideais: PV = nRT\n- 2ª Lei: entropia, irreversibilidade\n- Máquinas térmicas, Ciclo de Carnot, rendimento\n- Refrigeradores e bombas de calor",
+      "x": 20,
+      "y": 1300,
+      "width": 680,
+      "height": 400
+    },
+    {
+      "id": "g_gases",
+      "type": "group",
+      "label": "5. Gases",
+      "x": 800,
+      "y": 1200,
+      "width": 720,
+      "height": 520,
+      "color": "6"
+    },
+    {
+      "id": "t_gases_hdr",
+      "type": "text",
+      "text": "Leis dos gases",
+      "x": 820,
+      "y": 1220,
+      "width": 680,
+      "height": 60
+    },
+    {
+      "id": "t_gases_cnt",
+      "type": "text",
+      "text": "- PV = nRT\n- Boyle–Mariotte (PV = const)\n- Gay–Lussac (P/T = const)\n- Charles (V/T = const)\n- Lei geral dos gases\n- Teoria cinética: energia cinética média, pressão molecular",
+      "x": 820,
+      "y": 1300,
+      "width": 680,
+      "height": 400
+    },
+    {
+      "id": "g_aplicacoes",
+      "type": "group",
+      "label": "6. Aplicações e Cotidiano",
+      "x": 1600,
+      "y": 1200,
+      "width": 720,
+      "height": 520,
+      "color": "2"
+    },
+    {
+      "id": "t_aplicacoes_hdr",
+      "type": "text",
+      "text": "Fenômenos do dia a dia",
+      "x": 1620,
+      "y": 1220,
+      "width": 680,
+      "height": 60
+    },
+    {
+      "id": "t_aplicacoes_cnt",
+      "type": "text",
+      "text": "- Termômetros e escalas\n- Dilatação em pontes e trilhos\n- Preservação de alimentos, uso do gelo\n- Geladeiras, ar-condicionado, motores\n- Efeito estufa e aquecimento global\n- Isolantes térmicos",
+      "x": 1620,
+      "y": 1300,
+      "width": 680,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "99404381-d42c-4761-b72a-6abcda95c1f7",
+      "fromNode": "n_title",
+      "toNode": "g_fundamentos",
+      "toEnd": "arrow",
+      "color": "5"
+    },
+    {
+      "id": "1b0cd6d2-e3c8-4789-8680-fc1eccf5fc99",
+      "fromNode": "n_title",
+      "toNode": "g_calorimetria",
+      "toEnd": "arrow",
+      "color": "5"
+    },
+    {
+      "id": "1270a13f-f8e1-4599-8bcd-bc393191f64e",
+      "fromNode": "n_title",
+      "toNode": "g_propagacao",
+      "toEnd": "arrow",
+      "color": "5"
+    },
+    {
+      "id": "96520b7c-dd73-43b8-b47d-cb1ce9b7ba1c",
+      "fromNode": "n_title",
+      "toNode": "g_termodinamica",
+      "toEnd": "arrow",
+      "color": "5"
+    },
+    {
+      "id": "1c6e2fe6-1da2-4829-adfe-9dcc8fed4b4a",
+      "fromNode": "n_title",
+      "toNode": "g_gases",
+      "toEnd": "arrow",
+      "color": "5"
+    },
+    {
+      "id": "2b732419-bee4-4c3c-8259-2f29adb4cb3d",
+      "fromNode": "n_title",
+      "toNode": "g_aplicacoes",
+      "toEnd": "arrow",
+      "color": "5"
+    }
+  ]
+}
