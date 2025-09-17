@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist.canvas",
+                "file": "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist_atualizado.canvas",
                 "viewState": {
-                  "x": 555.7933130805553,
-                  "y": 911.7418299584679,
-                  "zoom": -0.5898770808151627
+                  "x": -2441.2513527866017,
+                  "y": 394.17653762097524,
+                  "zoom": -0.6349555161026607
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "funcoes_inorganicas_checklist"
+              "title": "funcoes_inorganicas_checklist_atualizado"
             }
           }
         ]
@@ -210,8 +210,10 @@
   },
   "active": "ce9d89623f20d5e7",
   "lastOpenFiles": [
-    "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas.canvas",
+    "funcoes_inorganicas_didatico_plus.canvas",
     "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist.canvas",
+    "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas.canvas",
+    "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist_atualizado.canvas",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -241,8 +243,6 @@
     "Enem-2/Física/Magnetismo/magnetismo.canvas",
     "Enem-2/Física/Cinemática/Cinemática.md",
     "Enem-2/Física/Magnetismo",
-    "Enem-2/Física/Cinemática/Untitled.canvas",
-    "Enem-2/Física/Cinemática/Cinematica_Final_Colorido.canvas",
     "Enem-2/Física/Cinemática",
     "Enem-2/Física/Ondulatória/Untitled Kanban.md",
     "Enem-2/Física/Ondulatória",

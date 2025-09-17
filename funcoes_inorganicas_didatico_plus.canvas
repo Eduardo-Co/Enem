@@ -1,0 +1,574 @@
+{
+  "nodes": [
+    {
+      "type": "text",
+      "id": "n-title",
+      "x": -200,
+      "y": -420,
+      "width": 1400,
+      "height": 140,
+      "text": "# 📘 Funções Inorgânicas – Checklist (sem explicações)\nGuia de estudo por tópicos (completo, direto)."
+    },
+    {
+      "type": "group",
+      "id": "g-panorama",
+      "x": -1600,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "1) Panorama & Modelos",
+      "color": "1"
+    },
+    {
+      "type": "text",
+      "id": "t-panorama-h",
+      "x": -1580,
+      "y": 20,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-panorama-c",
+      "x": -1580,
+      "y": 100,
+      "width": 680,
+      "height": 400,
+      "text": "- [ ] Funções: ácidos; bases; sais; óxidos\n- [ ] Correlatos: peróxidos; superóxidos; hidretos; amônio; sais hidratados/ácidos/básicos/duplos\n- [ ] Modelos de acidez: Arrhenius; Brønsted–Lowry; Lewis\n- [ ] Critérios práticos: identificação de cada função; NOX; eletronegatividade; solubilidade"
+    },
+    {
+      "type": "group",
+      "id": "g-acidos",
+      "x": -800,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "2) Ácidos",
+      "color": "2"
+    },
+    {
+      "type": "text",
+      "id": "t-acidos-h",
+      "x": -780,
+      "y": 20,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-acidos-c",
+      "x": -780,
+      "y": 100,
+      "width": 680,
+      "height": 400,
+      "text": "- [ ] Identificação: hidrácidos × oxiácidos\n- [ ] Nomenclatura: ídrico; -oso/-ico; hipo-/per-\n- [ ] Força: tendências (raio; nº de O; EN do átomo central); poli-próticos\n- [ ] Reações: ionização; neutralização; oxidação\n- [ ] Cálculos: $K_a$; pH; mistura/diluição; titulação"
+    },
+    {
+      "type": "group",
+      "id": "g-bases",
+      "x": 0,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "3) Bases (Hidróxidos) & NH₃",
+      "color": "4"
+    },
+    {
+      "type": "text",
+      "id": "t-bases-h",
+      "x": 20,
+      "y": 20,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-bases-c",
+      "x": 20,
+      "y": 100,
+      "width": 680,
+      "height": 400,
+      "text": "- [ ] Identificação: hidróxidos (OH⁻); NH₃ (base)\n- [ ] Força × solubilidade: alcalinos; Ca/Sr/Ba\n- [ ] Nomenclatura (estoque quando necessário)\n- [ ] Reações: neutralização; precipitação\n- [ ] Cálculos: $K_b$; pOH; $K_w$; pH+pOH"
+    },
+    {
+      "type": "group",
+      "id": "g-sais",
+      "x": 800,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "4) Sais",
+      "color": "5"
+    },
+    {
+      "type": "text",
+      "id": "t-sais-h",
+      "x": 820,
+      "y": 20,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-sais-c",
+      "x": 820,
+      "y": 100,
+      "width": 680,
+      "height": 400,
+      "text": "- [ ] Tipos: neutros; ácidos (hidrogenossais); básicos; duplos/mistos; hidratados\n- [ ] Nomenclatura: …eto/…ito/…ato; cátion; NOX\n- [ ] Hidrólise salina: regras de pH\n- [ ] Solubilidade: regras gerais (nitratos; alcalinos; Ag⁺/Pb²⁺/Hg₂²⁺; haletos; sulfatos; carbonatos; fosfatos; hidróxidos)\n- [ ] Equilíbrio: $K_{ps}$; precipitação seletiva"
+    },
+    {
+      "type": "group",
+      "id": "g-oxidos",
+      "x": -1600,
+      "y": 620,
+      "width": 720,
+      "height": 520,
+      "label": "5) Óxidos",
+      "color": "6"
+    },
+    {
+      "type": "text",
+      "id": "t-oxidos-h",
+      "x": -1580,
+      "y": 640,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-oxidos-c",
+      "x": -1580,
+      "y": 720,
+      "width": 680,
+      "height": 380,
+      "text": "- [ ] Classificação: básicos; ácidos; anfóteros; neutros; mistos\n- [ ] Reações: com água; com ácidos/bases (anfóteros)\n- [ ] Nomenclatura: prefixos; estoque"
+    },
+    {
+      "type": "group",
+      "id": "g-perox",
+      "x": -800,
+      "y": 620,
+      "width": 720,
+      "height": 520,
+      "label": "6) Peróxidos & Superóxidos",
+      "color": "2"
+    },
+    {
+      "type": "text",
+      "id": "t-perox-h",
+      "x": -780,
+      "y": 640,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-perox-c",
+      "x": -780,
+      "y": 720,
+      "width": 680,
+      "height": 380,
+      "text": "- [ ] NOX: O–O (−1); O₂⁻ (−1/2)\n- [ ] Propriedades/reações: oxidantes; liberação de $O_2$\n- [ ] Nomenclatura: peróxido; superóxido"
+    },
+    {
+      "type": "group",
+      "id": "g-hidretos",
+      "x": 0,
+      "y": 620,
+      "width": 720,
+      "height": 520,
+      "label": "7) Hidretos",
+      "color": "4"
+    },
+    {
+      "type": "text",
+      "id": "t-hidretos-h",
+      "x": 20,
+      "y": 640,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-hidretos-c",
+      "x": 20,
+      "y": 720,
+      "width": 680,
+      "height": 380,
+      "text": "- [ ] Tipos: iônicos; covalentes; metálicos\n- [ ] Reatividade: com água → $H_2$ + base\n- [ ] Nomenclatura"
+    },
+    {
+      "type": "group",
+      "id": "g-nomen",
+      "x": 800,
+      "y": 620,
+      "width": 720,
+      "height": 520,
+      "label": "8) Nomenclatura – Síntese",
+      "color": "5"
+    },
+    {
+      "type": "text",
+      "id": "t-nomen-h",
+      "x": 820,
+      "y": 640,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-nomen-c",
+      "x": 820,
+      "y": 720,
+      "width": 680,
+      "height": 380,
+      "text": "- [ ] Ácidos: ídrico; -oso/-ico; hipo-/per-\n- [ ] Bases: hidróxido de + metal; NOX\n- [ ] Sais: …eto/…ito/…ato de + cátion; NOX\n- [ ] Óxidos: prefixos + óxido de + NOX\n- [ ] Hidretos/peróxidos/superóxidos: de + elemento"
+    },
+    {
+      "type": "group",
+      "id": "g-forca",
+      "x": -1600,
+      "y": 1240,
+      "width": 720,
+      "height": 520,
+      "label": "9) pH & Equilíbrios",
+      "color": "1"
+    },
+    {
+      "type": "text",
+      "id": "t-forca-h",
+      "x": -1580,
+      "y": 1260,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-forca-c",
+      "x": -1580,
+      "y": 1340,
+      "width": 680,
+      "height": 360,
+      "text": "- [ ] $K_w$; pH; pOH; pH+pOH\n- [ ] $K_a\\cdot K_b = K_w$\n- [ ] Tampões (Henderson–Hasselbalch)\n- [ ] $K_{ps}$; seleção de precipitados"
+    },
+    {
+      "type": "group",
+      "id": "g-reacoes",
+      "x": -800,
+      "y": 1240,
+      "width": 720,
+      "height": 520,
+      "label": "10) Reações Clássicas",
+      "color": "2"
+    },
+    {
+      "type": "text",
+      "id": "t-reacoes-h",
+      "x": -780,
+      "y": 1260,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-reacoes-c",
+      "x": -780,
+      "y": 1340,
+      "width": 680,
+      "height": 360,
+      "text": "- [ ] Neutralização (ácido + base → sal + água)\n- [ ] Dupla troca / precipitação\n- [ ] Simples troca (série eletroquímica)\n- [ ] Síntese / decomposição\n- [ ] Reações com água (óxidos; hidretos)"
+    },
+    {
+      "type": "group",
+      "id": "g-ident",
+      "x": 0,
+      "y": 1240,
+      "width": 720,
+      "height": 520,
+      "label": "11) Identificação Laboratorial",
+      "color": "4"
+    },
+    {
+      "type": "text",
+      "id": "t-ident-h",
+      "x": 20,
+      "y": 1260,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-ident-c",
+      "x": 20,
+      "y": 1340,
+      "width": 680,
+      "height": 360,
+      "text": "- [ ] Carbonatos/bicarbonatos + ácido → $CO_2$\n- [ ] Sais de amônio + base quente → $NH_3$\n- [ ] Testes: $AgNO_3$ (haletos); $Ba^{2+}$ (sulfatos)\n- [ ] Sulfetos + ácido → $H_2S$"
+    },
+    {
+      "type": "group",
+      "id": "g-topicos",
+      "x": 800,
+      "y": 1240,
+      "width": 720,
+      "height": 520,
+      "label": "12) Tópicos Conexos",
+      "color": "5"
+    },
+    {
+      "type": "text",
+      "id": "t-topicos-h",
+      "x": 820,
+      "y": 1260,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-topicos-c",
+      "x": 820,
+      "y": 1340,
+      "width": 680,
+      "height": 360,
+      "text": "- [ ] Oxirredução: NOX; agentes oxidantes/reduzentes\n- [ ] Soluções: concentração; diluição; mistura (ácidos/bases)\n- [ ] Titulação ácido–base; curvas de neutralização"
+    },
+    {
+      "type": "group",
+      "id": "g-pegas",
+      "x": -1600,
+      "y": 1860,
+      "width": 720,
+      "height": 520,
+      "label": "13) Pegadinhas",
+      "color": "6"
+    },
+    {
+      "type": "text",
+      "id": "t-pegas-h",
+      "x": -1580,
+      "y": 1880,
+      "width": 680,
+      "height": 60,
+      "text": "#### ✔ Checklist"
+    },
+    {
+      "type": "text",
+      "id": "t-pegas-c",
+      "x": -1580,
+      "y": 1960,
+      "width": 680,
+      "height": 360,
+      "text": "- [ ] HF (ácido fraco)\n- [ ] Ca(OH)₂ (base forte; baixa solubilidade)\n- [ ] H₂SO₄ (1ª forte; 2ª fraca)\n- [ ] Anfoterismo: Al₂O₃; ZnO; BeO\n- [ ] \"NH₄OH\" ≡ solução de NH₃(aq)"
+    },
+    {
+      "type": "group",
+      "id": "g-progresso",
+      "x": 1600,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "A) Painel de Progresso",
+      "color": "3"
+    },
+    {
+      "type": "text",
+      "id": "t-progresso",
+      "x": 1620,
+      "y": 20,
+      "width": 680,
+      "height": 460,
+      "text": "### Marque seu avanço por seção\n- [ ] 1) Panorama & Modelos\n- [ ] 2) Ácidos\n- [ ] 3) Bases & NH₃\n- [ ] 4) Sais\n- [ ] 5) Óxidos\n- [ ] 6) Peróxidos & Superóxidos\n- [ ] 7) Hidretos\n- [ ] 8) Nomenclatura – Síntese\n- [ ] 9) pH & Equilíbrios\n- [ ] 10) Reações Clássicas\n- [ ] 11) Identificação Laboratorial\n- [ ] 12) Tópicos Conexos\n- [ ] 13) Pegadinhas"
+    },
+    {
+      "type": "group",
+      "id": "g-revisao",
+      "x": 1600,
+      "y": 620,
+      "width": 720,
+      "height": 520,
+      "label": "B) Rotina de Revisões (D0, D2, D7, D15, D30)",
+      "color": "3"
+    },
+    {
+      "type": "text",
+      "id": "t-revisao",
+      "x": 1620,
+      "y": 640,
+      "width": 680,
+      "height": 480,
+      "text": "### Controle de revisões\nPreencha datas ou ✓\n- 1) Panorama: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 2) Ácidos: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 3) Bases: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 4) Sais: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 5) Óxidos: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 6) Peróx./Superóx.: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 7) Hidretos: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 8) Nomenclatura: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 9) pH/Equilíbrios: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 10) Reações: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 11) Identificação: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 12) Conexos: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]\n- 13) Pegadinhas: D0 [ ] D2 [ ] D7 [ ] D15 [ ] D30 [ ]"
+    },
+    {
+      "type": "group",
+      "id": "g-autoquiz",
+      "x": 1600,
+      "y": 1240,
+      "width": 720,
+      "height": 520,
+      "label": "C) Autoquiz Relâmpago",
+      "color": "3"
+    },
+    {
+      "type": "text",
+      "id": "t-autoquiz",
+      "x": 1620,
+      "y": 1260,
+      "width": 680,
+      "height": 480,
+      "text": "### Sem explicações — responda de cabeça\n1) Liste 6 ácidos fortes mais cobrados.\n2) Diga 4 bases fortes e 2 pouco solúveis.\n3) Classifique: Na2O, SO3, CO, Al2O3, Fe3O4.\n4) Dê a regra de pH para sais: BF+AF; BF+Af; Bf+AF; Bf+Af.\n5) Cite 5 regras de solubilidade úteis.\n6) Escreva Ka·Kb=Kw e pH+pOH.\n7) Defina quando um óxido é anfótero.\n8) Nomeie: HClO, HClO2, HClO3, HClO4 (tradicional).\n9) Escreva 3 testes rápidos de laboratório.\n10) Preveja o pH de NH4Cl(aq) e CH3COONa(aq)."
+    },
+    {
+      "type": "group",
+      "id": "g-treino",
+      "x": 1600,
+      "y": 1860,
+      "width": 720,
+      "height": 520,
+      "label": "D) Treino por Dificuldade",
+      "color": "3"
+    },
+    {
+      "type": "text",
+      "id": "t-treino",
+      "x": 1620,
+      "y": 1880,
+      "width": 680,
+      "height": 480,
+      "text": "### Planejamento de questões\n- Básico (10): [ ] [ ] [ ] [ ] [ ]  [ ] [ ] [ ] [ ] [ ]\n- Intermediário (10): [ ] [ ] [ ] [ ] [ ]  [ ] [ ] [ ] [ ] [ ]\n- Casca (10): [ ] [ ] [ ] [ ] [ ]  [ ] [ ] [ ] [ ] [ ]\n\n### Sessões (25min)\n- Sessão 1: [ ]   Sessão 2: [ ]   Sessão 3: [ ]   Sessão 4: [ ]"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-panorama",
+      "toSide": "top"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-acidos",
+      "toSide": "top"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-bases",
+      "toSide": "top"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-sais",
+      "toSide": "top"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-oxidos",
+      "toSide": "top"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-perox",
+      "toSide": "top"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-hidretos",
+      "toSide": "top"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-nomen",
+      "toSide": "top"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-forca",
+      "toSide": "top"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-reacoes",
+      "toSide": "top"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-ident",
+      "toSide": "top"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-topicos",
+      "toSide": "top"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g-pegas",
+      "toSide": "top"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n-title",
+      "fromSide": "right",
+      "toNode": "g-progresso",
+      "toSide": "left"
+    },
+    {
+      "id": "e15",
+      "fromNode": "g-progresso",
+      "fromSide": "bottom",
+      "toNode": "g-revisao",
+      "toSide": "top"
+    },
+    {
+      "id": "e16",
+      "fromNode": "g-revisao",
+      "fromSide": "bottom",
+      "toNode": "g-autoquiz",
+      "toSide": "top"
+    },
+    {
+      "id": "e17",
+      "fromNode": "g-autoquiz",
+      "fromSide": "bottom",
+      "toNode": "g-treino",
+      "toSide": "top"
+    }
+  ]
+}
