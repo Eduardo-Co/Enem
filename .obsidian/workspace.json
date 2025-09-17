@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias.canvas",
+                "file": "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (3).canvas",
                 "viewState": {
-                  "x": 230.74333336338358,
-                  "y": 630.3680085597922,
-                  "zoom": -0.0144872587708223
+                  "x": -1203.6749169516088,
+                  "y": 478.5746917410323,
+                  "zoom": -2.230859340417973
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "quimica_organica_enem_checklist_incidencias"
+              "title": "quimica_organica_enem_checklist_incidencias (3)"
             }
           }
         ]
@@ -209,8 +209,10 @@
   },
   "active": "ba719726d24ba36a",
   "lastOpenFiles": [
-    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist.canvas",
+    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (2).canvas",
+    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (3).canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias.canvas",
+    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist.canvas",
     "Enem-2/Química/Química orgânica",
     "Enem-2/Química/Misturas e Soluções/Misturas_e_Solucoes_ENEM (1).canvas",
     "Enem-2/Química/Termoquímica/Termoquimica_ENEM.canvas",
@@ -224,10 +226,8 @@
     "Enem-2/Química/Equilíbrio Químico",
     "Enem-2/Química/Cinética Química/cinetica_quimica_checklist.canvas",
     "Enem-2/Química/Cinética Química/Untitled Kanban 1 1.md",
-    "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist_atualizado.canvas",
     "Enem-2/Química/Funções inorgânicas/Untitled Kanban 1.md",
     "Enem-2/Química/Atomística e moléculas/Untitled Kanban.md",
-    "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist_puro.canvas",
     "Enem-2/Química/Cinética Química",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
