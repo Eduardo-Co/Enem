@@ -11,10 +11,17 @@
             "id": "ce9d89623f20d5e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas.canvas",
+                "viewState": {
+                  "x": -1390.0605493129358,
+                  "y": 2101.3685144329916,
+                  "zoom": -0.342969544444823
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "funcoes_inorganicas"
             }
           }
         ]
@@ -178,11 +185,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -197,11 +204,28 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "hi-note:HiNote": false
+      "hi-note:HiNote": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "ce9d89623f20d5e7",
   "lastOpenFiles": [
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas.canvas",
+    "Enem-2/Química/Funções inorgânicas",
     "Enem-2/Química/Atomística e moléculas/Atomistica_Moleculas_ENEM_Fuvest_Unicamp.canvas",
     "Enem-2/Química/Atomística e moléculas",
     "Calendário/2025-09-02.md",
@@ -218,7 +242,6 @@
     "Enem-2/Física/Magnetismo",
     "Enem-2/Física/Cinemática/Untitled.canvas",
     "Enem-2/Física/Cinemática/Cinematica_Final_Colorido.canvas",
-    "Enem-2/Física/Cinemática/Cinematica_Colorido.canvas",
     "Enem-2/Física/Cinemática",
     "Enem-2/Física/Ondulatória/Untitled Kanban.md",
     "Enem-2/Física/Ondulatória",
@@ -234,20 +257,6 @@
     "Enem-1/Química/Untitled Kanban.md",
     "Enem-1/Biologia/Máximas da biologia.md",
     "Enem-1/Biologia/Untitled Kanban.md",
-    "Enem-1/Biologia/1 - Ecologia/0 - Questões.md",
-    "Enem-1/Biologia/1 - Ecologia/Teste de Ecologia.md",
-    "Enem-2/Biologia/Citologia",
-    "ENEM.pdf",
-    "Refração - Como desenhar de qualquer lado para onde tende a ir, lei de snell.md",
-    "Porque vidro é transparente.md",
-    "Lentes e Espelhos.md",
-    "Fórmula da interferência.md",
-    "Calendário/Durante minhas provas.md",
-    "Calendário/2025-09-13.md",
-    "Calendário/2025-09-12.md",
-    "Enem-1/Redação/Eu/Progressão Enem e testes.md",
-    "O que Estudar/Ranking Linguagens.md",
-    "Calendário/2025-09-10.md",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
     "Enem-1/Química/11 - Química orgânica/0 - Questões/Pasted image 20250820072410.png",
