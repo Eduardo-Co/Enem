@@ -1,0 +1,372 @@
+{
+  "nodes": [
+    {
+      "id": "5495cffc-2708-4244-a8b4-eeae3f38ab82",
+      "type": "text",
+      "text": "# ✔ Checklist – Termoquímica (ENEM/Vestibulares)\n\n<small>Somente tópicos. Fórmulas em $\\LaTeX$ inline.</small>",
+      "x": 0,
+      "y": 0,
+      "width": 1200,
+      "height": 160
+    },
+    {
+      "id": "55f65999-20a0-4153-a099-ff3e73e8e27b",
+      "type": "group",
+      "label": "1) Fundamentos",
+      "x": 0,
+      "y": 240,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "#fecaca"
+    },
+    {
+      "id": "9fcceb09-5772-4a3e-9d81-75ca2ba3bc21",
+      "type": "text",
+      "text": "**✔ Checklist — 1) Fundamentos**",
+      "x": 16,
+      "y": 256,
+      "width": 688,
+      "height": 64
+    },
+    {
+      "id": "472c5ced-22a2-484c-a398-c3f5d202da2c",
+      "type": "text",
+      "text": "- [ ] Sistemas (aberto/fechado/isolado), estado, vizinhança\n- [ ] Calor × temperatura (conceitos e unidades)\n- [ ] Processos endotérmicos × exotérmicos (sinais de $\\Delta H$)\n- [ ] Perfis/diagramas energéticos da reação",
+      "x": 16,
+      "y": 336,
+      "width": 688,
+      "height": 392
+    },
+    {
+      "id": "78bcdcff-09c1-4fde-857e-dd162d674977",
+      "type": "group",
+      "label": "2) Calorimetria",
+      "x": 780,
+      "y": 240,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "#fed7aa"
+    },
+    {
+      "id": "f3158dc0-5f2b-44e5-bb7e-de48143dd9ac",
+      "type": "text",
+      "text": "**✔ Checklist — 2) Calorimetria**",
+      "x": 796,
+      "y": 256,
+      "width": 688,
+      "height": 64
+    },
+    {
+      "id": "144f9bd5-43e5-418e-9022-5233962e3813",
+      "type": "text",
+      "text": "- [ ] Calor específico ($c$) e capacidade térmica ($C$)\n- [ ] Calor sensível × calor latente\n- [ ] Misturas e trocas de calor (calorímetro ideal)\n- [ ] Curvas de aquecimento/resfriamento e mudanças de fase",
+      "x": 796,
+      "y": 336,
+      "width": 688,
+      "height": 392
+    },
+    {
+      "id": "9a8f3daa-434e-4fde-8bed-4f82af0ae308",
+      "type": "group",
+      "label": "3) Entalpia & Eq. Termoquímicas",
+      "x": 1560,
+      "y": 240,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "#bbf7d0"
+    },
+    {
+      "id": "12ceef27-a37a-4d4a-861c-3e33ca2573ff",
+      "type": "text",
+      "text": "**✔ Checklist — 3) Entalpia & Eq. Termoquímicas**",
+      "x": 1576,
+      "y": 256,
+      "width": 688,
+      "height": 64
+    },
+    {
+      "id": "8562eff7-75e4-4bee-a321-9907df619c8d",
+      "type": "text",
+      "text": "- [ ] $\\Delta H_{\\text{rxn}}$ e estados físicos na equação\n- [ ] Condições padrão ($\\Delta H^\\circ$)\n- [ ] Entalpia de formação ($\\Delta H_f^\\circ$)\n- [ ] Entalpia de combustão (PCI/PCS; poder calorífico)\n- [ ] Entalpia de dissolução/solvatação/hidratação\n- [ ] Entalpia de neutralização (ácido–base)",
+      "x": 1576,
+      "y": 336,
+      "width": 688,
+      "height": 392
+    },
+    {
+      "id": "495ce948-6f03-4198-87e1-aa41616046a5",
+      "type": "group",
+      "label": "4) Métodos de Cálculo de ΔH",
+      "x": 0,
+      "y": 820,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "#a5f3fc"
+    },
+    {
+      "id": "d0d2ff82-37b9-4a49-889a-60a551af082d",
+      "type": "text",
+      "text": "**✔ Checklist — 4) Métodos de Cálculo de ΔH**",
+      "x": 16,
+      "y": 836,
+      "width": 688,
+      "height": 64
+    },
+    {
+      "id": "2a00c423-6a9b-4b57-b120-f3210a379fb0",
+      "type": "text",
+      "text": "- [ ] Lei de Hess (combinação de reações)\n- [ ] Soma de entalpias de formação (produtos − reagentes)\n- [ ] Energias/entalpias de ligação (quebrar − formar)\n- [ ] Estimativas via calorimetria: $Q = m\\,c\\,\\Delta T$\n- [ ] Ajustes por estequiometria e estados físicos",
+      "x": 16,
+      "y": 916,
+      "width": 688,
+      "height": 392
+    },
+    {
+      "id": "e34251e2-1e38-4297-8015-debcdd97b5ec",
+      "type": "group",
+      "label": "5) Processos Físicos Relacionados",
+      "x": 780,
+      "y": 820,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "#ddd6fe"
+    },
+    {
+      "id": "ec577d86-eb76-42b6-8ea6-a91acb8c15fe",
+      "type": "text",
+      "text": "**✔ Checklist — 5) Processos Físicos Relacionados**",
+      "x": 796,
+      "y": 836,
+      "width": 688,
+      "height": 64
+    },
+    {
+      "id": "6c99d475-d417-47f5-a25b-48a452cd6779",
+      "type": "text",
+      "text": "- [ ] Mudanças de fase: fusão, vaporização, sublimação, etc.\n- [ ] Diagramas de fase (noções)\n- [ ] Soluções: dissolução endotérmica/exotérmica (qualitativo)",
+      "x": 796,
+      "y": 916,
+      "width": 688,
+      "height": 392
+    },
+    {
+      "id": "1be5bbe1-9b4e-4595-a33a-601b6cce66b8",
+      "type": "group",
+      "label": "6) Estequiometria Termoquímica",
+      "x": 1560,
+      "y": 820,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "#fecaca"
+    },
+    {
+      "id": "58d15a4d-9788-4a58-87a7-32657deda47e",
+      "type": "text",
+      "text": "**✔ Checklist — 6) Estequiometria Termoquímica**",
+      "x": 1576,
+      "y": 836,
+      "width": 688,
+      "height": 64
+    },
+    {
+      "id": "8cfd536e-c847-46be-a9f9-eb192b544e20",
+      "type": "text",
+      "text": "- [ ] Converter $\\Delta H$ por mol ↔ por massa ↔ por volume (gases)\n- [ ] Rendimento/impureza × energia liberada/absorvida\n- [ ] Escalonar equações (multiplicar/dividir e efeito em $\\Delta H$)",
+      "x": 1576,
+      "y": 916,
+      "width": 688,
+      "height": 392
+    },
+    {
+      "id": "1bcc5a40-0d16-4962-9231-b18d4546fd2e",
+      "type": "group",
+      "label": "7) Ligações com Outros Tópicos",
+      "x": 0,
+      "y": 1400,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "#fed7aa"
+    },
+    {
+      "id": "d2ef64e8-c2c5-463f-a483-4c50f28a8608",
+      "type": "text",
+      "text": "**✔ Checklist — 7) Ligações com Outros Tópicos**",
+      "x": 16,
+      "y": 1416,
+      "width": 688,
+      "height": 64
+    },
+    {
+      "id": "361d53b5-04f3-4557-91ae-01a536e7c89f",
+      "type": "text",
+      "text": "- [ ] $\\Delta H$ × energia de ativação (perfis energéticos)\n- [ ] Catalisador: altera caminho, não $\\Delta H$\n- [ ] Espontaneidade qualitativa (noções de $\\Delta G$ e entropia)",
+      "x": 16,
+      "y": 1496,
+      "width": 688,
+      "height": 392
+    },
+    {
+      "id": "72d4b851-f904-488a-9481-c08455721a61",
+      "type": "group",
+      "label": "8) Aplicações no ENEM",
+      "x": 780,
+      "y": 1400,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "#bbf7d0"
+    },
+    {
+      "id": "41cfae1d-4755-4614-9bfd-27883b798391",
+      "type": "text",
+      "text": "**✔ Checklist — 8) Aplicações no ENEM**",
+      "x": 796,
+      "y": 1416,
+      "width": 688,
+      "height": 64
+    },
+    {
+      "id": "14e83d3c-662a-4833-941b-1b5893c758a5",
+      "type": "text",
+      "text": "- [ ] Combustão & combustíveis (gasolina, etanol, diesel, GLP/GNV)\n- [ ] Eficiência energética e poder calorífico\n- [ ] Alimentação/“calorias” dos alimentos\n- [ ] Processos industriais/ambientais (emissões, balanços)\n- [ ] Fotossíntese/respiração (foco energético)\n- [ ] Leitura de gráficos/tabelas termoquímicas",
+      "x": 796,
+      "y": 1496,
+      "width": 688,
+      "height": 392
+    },
+    {
+      "id": "2ce441dd-e0fb-467a-ace9-525369da6ab5",
+      "type": "group",
+      "label": "9) Itens Clássicos de Prova",
+      "x": 1560,
+      "y": 1400,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "#a5f3fc"
+    },
+    {
+      "id": "c4f6c531-a89c-4b05-9fbc-39437675569d",
+      "type": "text",
+      "text": "**✔ Checklist — 9) Itens Clássicos de Prova**",
+      "x": 1576,
+      "y": 1416,
+      "width": 688,
+      "height": 64
+    },
+    {
+      "id": "f5160dca-25ce-43f9-acba-f64c60721763",
+      "type": "text",
+      "text": "- [ ] Determinar se libera/absorve calor a partir de dados/gráficos\n- [ ] Calcular $\\Delta H$ por Hess/$\\Delta H_f^\\circ$/ligações\n- [ ] Resolver calorimetria (misturas e mudança de fase)\n- [ ] Comparar combustíveis por energia liberada (unidades diversas)\n- [ ] Integrar leitura de gráficos/tabelas com contexto cotidiano",
+      "x": 1576,
+      "y": 1496,
+      "width": 688,
+      "height": 392
+    }
+  ],
+  "edges": [
+    {
+      "id": "da7d3d16-bd43-4b31-9a6e-43a16ad4be39",
+      "fromNode": "5495cffc-2708-4244-a8b4-eeae3f38ab82",
+      "fromSide": "bottom",
+      "toNode": "55f65999-20a0-4153-a099-ff3e73e8e27b",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "9fb22fb8-0a9e-4755-841a-168eb8ea94b0",
+      "fromNode": "5495cffc-2708-4244-a8b4-eeae3f38ab82",
+      "fromSide": "bottom",
+      "toNode": "78bcdcff-09c1-4fde-857e-dd162d674977",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "200d4691-c310-44e2-ba3d-129c4dd18bce",
+      "fromNode": "5495cffc-2708-4244-a8b4-eeae3f38ab82",
+      "fromSide": "bottom",
+      "toNode": "9a8f3daa-434e-4fde-8bed-4f82af0ae308",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "f869f9e4-bcfc-4c45-ac4a-e88457644b4f",
+      "fromNode": "5495cffc-2708-4244-a8b4-eeae3f38ab82",
+      "fromSide": "bottom",
+      "toNode": "495ce948-6f03-4198-87e1-aa41616046a5",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "4afffa53-3fc9-46e3-9ef4-27d8d622f88b",
+      "fromNode": "5495cffc-2708-4244-a8b4-eeae3f38ab82",
+      "fromSide": "bottom",
+      "toNode": "e34251e2-1e38-4297-8015-debcdd97b5ec",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "878c0de0-3839-451b-a275-f542d5e36280",
+      "fromNode": "5495cffc-2708-4244-a8b4-eeae3f38ab82",
+      "fromSide": "bottom",
+      "toNode": "1be5bbe1-9b4e-4595-a33a-601b6cce66b8",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "ff2572ca-b0d9-4b9a-81ca-d6f84939ea2e",
+      "fromNode": "5495cffc-2708-4244-a8b4-eeae3f38ab82",
+      "fromSide": "bottom",
+      "toNode": "1bcc5a40-0d16-4962-9231-b18d4546fd2e",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "63d84415-2075-4f91-8819-268e8efd6ed3",
+      "fromNode": "5495cffc-2708-4244-a8b4-eeae3f38ab82",
+      "fromSide": "bottom",
+      "toNode": "72d4b851-f904-488a-9481-c08455721a61",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "ca61b950-c262-45ec-b384-ced00d83fd5a",
+      "fromNode": "5495cffc-2708-4244-a8b4-eeae3f38ab82",
+      "fromSide": "bottom",
+      "toNode": "2ce441dd-e0fb-467a-ace9-525369da6ab5",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "a26f384a-94e4-4d50-bf8d-9c5d5c5d658e",
+      "fromNode": "9a8f3daa-434e-4fde-8bed-4f82af0ae308",
+      "fromSide": "bottom",
+      "toNode": "495ce948-6f03-4198-87e1-aa41616046a5",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "388c9283-37e3-4436-bcba-a734ef44cbeb",
+      "fromNode": "78bcdcff-09c1-4fde-857e-dd162d674977",
+      "fromSide": "bottom",
+      "toNode": "e34251e2-1e38-4297-8015-debcdd97b5ec",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "608d4637-98f7-45be-b596-1706d67e77e1",
+      "fromNode": "1be5bbe1-9b4e-4595-a33a-601b6cce66b8",
+      "fromSide": "bottom",
+      "toNode": "72d4b851-f904-488a-9481-c08455721a61",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "9f27c9c1-f5a5-4def-9164-b63d8fa66452",
+      "fromNode": "55f65999-20a0-4153-a099-ff3e73e8e27b",
+      "fromSide": "bottom",
+      "toNode": "2ce441dd-e0fb-467a-ace9-525369da6ab5",
+      "toSide": "top",
+      "arrow": "arrow"
+    }
+  ],
+  "version": "1.0.0"
+}
