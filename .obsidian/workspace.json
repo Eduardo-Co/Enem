@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "daa69bc4e2d0d5d3",
+        "id": "6ee227d463054721",
         "type": "tabs",
         "children": [
           {
-            "id": "34b6d2d7d109ed49",
+            "id": "e0b40b5535de3419",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (5).canvas",
                 "viewState": {
-                  "x": 1199.458867706949,
-                  "y": 846.6853937780038,
-                  "zoom": -1.5076915843136012
+                  "x": 2591.836607482621,
+                  "y": 1084.5908679757913,
+                  "zoom": -2.629541579512656
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 326.5110321044922
   },
   "right": {
     "id": "3705a3db096f470c",
@@ -207,10 +207,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "34b6d2d7d109ed49",
+  "active": "e0b40b5535de3419",
   "lastOpenFiles": [
-    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias.canvas",
+    "Enem-1/Química/11 - Química orgânica/Propriedades compostos orgânicos/Acidez e basicidade em compostos orgânicos.md",
+    "Enem-1/Química/11 - Química orgânica/Propriedades compostos orgânicos/Propriedades moléculas orgânicas.md",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (5).canvas",
+    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias.canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (4).canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (3).canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (2).canvas",
@@ -223,7 +225,6 @@
     "Enem-2/Química/Termoquímica",
     "Enem-2/Química/Eletroquímica",
     "Enem-2/Química/Equilíbrio Químico/Equilibrio_Quimico_ENEM (1).canvas",
-    "Enem-2/Química/Equilíbrio Químico/Equilibrio_Quimico_ENEM.canvas",
     "Enem-2/Química/Equilíbrio Químico",
     "Enem-2/Química/Cinética Química/Untitled Kanban 1 1.md",
     "Enem-2/Química/Funções inorgânicas/Untitled Kanban 1.md",
@@ -255,7 +256,6 @@
     "Enem-2/Física/Termologia/Untitled.md",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Enem-2/Biologia/Citologia/citologia_topics.md",
-    "Enem-2/Biologia/Citologia/Untitled Kanban.md",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
     "Enem-1/Química/11 - Química orgânica/0 - Questões/Pasted image 20250820072410.png",
