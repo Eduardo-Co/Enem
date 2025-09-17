@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Enem-2/Química/Termoquímica/Termoquimica_ENEM.canvas",
+                "file": "Enem-2/Química/Misturas e Soluções/Misturas_e_Solucoes_ENEM (1).canvas",
                 "viewState": {
-                  "x": 1429.190014836227,
-                  "y": 1844.8806667449603,
-                  "zoom": -0.3496609298594298
+                  "x": -360.3645223897843,
+                  "y": -500.15110414693453,
+                  "zoom": -0.6636353783011015
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Termoquimica_ENEM"
+              "title": "Misturas_e_Solucoes_ENEM (1)"
             }
           }
         ]
@@ -209,8 +209,10 @@
   },
   "active": "9a9ff93ee9c5b1f0",
   "lastOpenFiles": [
-    "Enem-2/Química/Eletroquímica/eletroquimica_checklist.canvas",
     "Enem-2/Química/Termoquímica/Termoquimica_ENEM.canvas",
+    "Enem-2/Química/Misturas e Soluções/Misturas_e_Solucoes_ENEM (1).canvas",
+    "Enem-2/Química/Misturas e Soluções",
+    "Enem-2/Química/Eletroquímica/eletroquimica_checklist.canvas",
     "Enem-2/Química/Termoquímica",
     "Enem-2/Química/Eletroquímica",
     "Enem-2/Química/Equilíbrio Químico/Equilibrio_Quimico_ENEM (1).canvas",
@@ -226,7 +228,6 @@
     "Enem-2/Química/Cinética Química",
     "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist.canvas",
     "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas.canvas",
-    "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_didatico_plus.canvas",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -249,7 +250,6 @@
     "Enem-2/Física/Magnetismo/Untitled Kanban.md",
     "Enem-2/Física/Cinemática/Cinemática.md",
     "Enem-2/Física/Magnetismo",
-    "Enem-2/Física/Cinemática",
     "Enem-2/Física/Ondulatória/Untitled Kanban.md",
     "Calendário/2025-09-15.md",
     "Enem-2/Física/Termologia/Untitled.md",
