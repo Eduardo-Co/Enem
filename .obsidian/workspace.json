@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Enem-2/Química/Cinética Química/cinetica_quimica_checklist_v2.canvas",
+                "file": "Enem-2/Química/Equilíbrio Químico/Equilibrio_Quimico_ENEM (1).canvas",
                 "viewState": {
-                  "x": -105.23902745754185,
-                  "y": 791.1380831845133,
-                  "zoom": -1.4271983869098421
+                  "x": 669.9768318453999,
+                  "y": 887.3562272870527,
+                  "zoom": -1.6324775191303496
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "cinetica_quimica_checklist_v2"
+              "title": "Equilibrio_Quimico_ENEM (1)"
             }
           }
         ]
@@ -204,13 +204,15 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "hi-note:HiNote": false,
-      "copilot:Open Copilot Chat": false
+      "hi-note:HiNote": false
     }
   },
-  "active": "4158f1fc2ef8c326",
+  "active": "520d63d22b57ca04",
   "lastOpenFiles": [
+    "Enem-2/Química/Equilíbrio Químico/Equilibrio_Quimico_ENEM (1).canvas",
+    "Enem-2/Química/Equilíbrio Químico/Equilibrio_Quimico_ENEM.canvas",
     "Enem-2/Química/Cinética Química/cinetica_quimica_checklist_v2.canvas",
+    "Enem-2/Química/Equilíbrio Químico",
     "Enem-2/Química/Cinética Química/cinetica_quimica_checklist.canvas",
     "Enem-2/Química/Cinética Química/Untitled Kanban 1 1.md",
     "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist_atualizado.canvas",
@@ -240,10 +242,8 @@
     "Enem-2/Química/Atomística e moléculas/Atomistica_Moleculas_ENEM_Fuvest_Unicamp.canvas",
     "Enem-2/Química/Atomística e moléculas",
     "Calendário/2025-09-02.md",
-    "Enem-2/Química/Atomistica_e_Moleculas (1).canvas",
     "Calendário/2025-09-16.md",
     "Enem-2/Química",
-    "Enem-2/Física/Magnetismo/magnetismo (2) (1).canvas",
     "Enem-2/Física/Magnetismo/Untitled Kanban.md",
     "Enem-2/Física/Cinemática/Cinemática.md",
     "Enem-2/Física/Magnetismo",
@@ -253,7 +253,6 @@
     "Calendário/2025-09-15.md",
     "Enem-2/Física/Termologia/Novo(a) Documento de Texto.txt",
     "Enem-2/Física/Termologia/Untitled.md",
-    "Enem-2/Física/Termologia",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "Enem-2/Biologia/Citologia/citologia_topics.md",
     "Enem-2/Biologia/Citologia/Untitled Kanban.md",

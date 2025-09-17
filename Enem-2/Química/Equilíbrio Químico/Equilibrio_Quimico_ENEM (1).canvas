@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"52704f86-3964-4cec-89e4-272d96a23973","type":"text","x":0,"y":0,"width":1480,"height":140,"text":"# 📘 Equilíbrio Químico – ENEM/Vestibulares\n**✔ Checklist (somente tópicos)**"},
+		{"id":"39cce84a-2b9e-48c1-b211-6509f5d17099","type":"group","x":0,"y":200,"width":720,"height":520,"label":"1) Fundamentos","color":"1"},
+		{"id":"0dd554b7-485e-467f-b0b8-68e109e6d51f","type":"text","x":20,"y":220,"width":680,"height":60,"text":"### 1) Fundamentos"},
+		{"id":"8acf033f-6de6-4cb7-b4fa-662c0606377f","type":"text","x":20,"y":300,"width":680,"height":380,"text":"- [ ] Reações reversíveis × irreversíveis; **equilíbrio dinâmico** (taxas direta = inversa)\n- [ ] Constantes de equilíbrio **Kc** e **Kp**; espécies que entram/ficam fora (sólidos e líquidos puros)\n- [ ] **Quociente de reação (Q)** e comparação com **K** (direção espontânea)\n- [ ] Operações com constantes: inverter, elevar, somar reações\n- [ ] **Tabelas ICE** (Inicial–Consumo–Equilíbrio) e aproximação do “x pequeno”"},
+		{"id":"4614c3a2-2e5a-497c-9dad-a8d47ab5442a","type":"group","x":820,"y":200,"width":720,"height":520,"label":"2) Deslocamentos – Princípio de Le Châtelier","color":"2"},
+		{"id":"310e3bf0-0505-4d03-9a68-42486b7e1c14","type":"text","x":840,"y":220,"width":680,"height":60,"text":"### 2) Deslocamentos – Princípio de Le Châtelier"},
+		{"id":"71ae9f64-c95e-4f3d-a78f-9f73f2e49a03","type":"text","x":840,"y":300,"width":680,"height":380,"text":"- [ ] Variação de **concentração**\n- [ ] **Pressão/volume** em sistemas gasosos (Δn(gás))\n- [ ] **Temperatura** (endotérmico × exotérmico; efeito em **K**)\n- [ ] **Gás inerte** (volume constante × pressão constante)\n- [ ] **Catalisador** (altera velocidade, não a posição do equilíbrio)"},
+		{"id":"17520402-2be8-43d1-969b-bb9362096c56","type":"group","x":0,"y":780,"width":720,"height":520,"label":"3) Equilíbrios ácido–base (aquosos)","color":"4"},
+		{"id":"b574c9f7-be5a-4e4c-bdd7-d63285dcd0bd","type":"text","x":20,"y":800,"width":680,"height":60,"text":"### 3) Equilíbrios ácido–base (aquosos)"},
+		{"id":"7da1c4e1-8eee-45e7-95f8-73d76d2189d8","type":"text","x":20,"y":880,"width":680,"height":380,"text":"- [ ] Modelos: **Arrhenius**; **Brønsted–Lowry** (pares conjugados)\n- [ ] **Produto iônico da água (Kw)**; **pH** e **pOH**; relação **pH + pOH = 14** (25 °C)\n- [ ] **Ka**, **Kb**; força ácida/básica; **pKa**, **pKb**\n- [ ] Ácidos/bases **polipróticos**; etapas sucessivas (Ka1 > Ka2 …)\n- [ ] **Hidrólise de sais** (sal de ácido/base forte × fraco); pH de soluções de sais\n- [ ] **Soluções tampão** (ácido fraco/base conjugada); capacidade tamponante; **Henderson–Hasselbalch**\n- [ ] **Titulações** (forte×forte; forte×fraco; fraco×forte): ponto de equivalência, indicador, curvas (noções)"},
+		{"id":"03aec31e-ebd8-474b-b7ba-8283b4151cb3","type":"group","x":820,"y":780,"width":720,"height":520,"label":"4) Equilíbrio de solubilidade (Kps)","color":"5"},
+		{"id":"b5a4087c-2e03-4ca1-936d-db447556b3d6","type":"text","x":840,"y":800,"width":680,"height":60,"text":"### 4) Equilíbrio de solubilidade (Kps)"},
+		{"id":"456ab70c-f10b-4641-94c5-bc8424f131c3","type":"text","x":840,"y":880,"width":680,"height":380,"text":"- [ ] **Produto de solubilidade (Kps)** e cálculo de **solubilidade**\n- [ ] **Efeito do íon comum**\n- [ ] **Precipitação fracionada/seletiva**; ordem de precipitação\n- [ ] **Complexação**/reações paralelas que alteram a solubilidade (noções)"},
+		{"id":"4a96313d-458d-40b6-8d1f-e1220c8f97de","type":"group","x":0,"y":1360,"width":720,"height":520,"label":"5) Equilíbrios gasosos e relação Kp–Kc","color":"6"},
+		{"id":"10d54277-459c-4e28-87b8-6345d79edc25","type":"text","x":20,"y":1380,"width":680,"height":60,"text":"### 5) Equilíbrios gasosos e relação Kp–Kc"},
+		{"id":"846b8b7c-e2c3-4266-a57f-b5b314d7285e","type":"text","x":20,"y":1460,"width":680,"height":380,"text":"- [ ] **Pressões parciais**; lei dos gases\n- [ ] Relação **$K_p = K_c (RT)^{\\Delta n}$**\n- [ ] Gráficos **concentração × tempo** e **pressão × tempo**"},
+		{"id":"f70cd4f7-aea5-4a94-b2d0-580e91537be4","type":"group","x":820,"y":1360,"width":720,"height":520,"label":"6) Aplicações no ENEM/vestibulares","color":"1"},
+		{"id":"7f5ad19d-ab89-4b3c-9089-599d52a5b8ab","type":"text","x":840,"y":1380,"width":680,"height":60,"text":"### 6) Aplicações no ENEM/vestibulares"},
+		{"id":"7775b84e-aa15-4767-8523-702e286bf055","type":"text","x":840,"y":1460,"width":680,"height":380,"text":"- [ ] **Rendimento/condições operacionais** (T/P) em processos industriais (ex.: **Haber–Bosch** para NH$_3$; **processo de contato** para H$_2$SO$_4$)\n- [ ] **Contextos ambientais/biológicos**: sistema **CO$_2$–H$_2$CO$_3$–HCO$_3^-$** (sangue, oceanos), **chuva ácida**, tratamento de água\n- [ ] Diferenciar **posição de equilíbrio × velocidade** de reação"}
+	],
+	"edges":[
+		{"id":"9274d1d8-25f1-48cc-b5be-b271641f891d","fromNode":"52704f86-3964-4cec-89e4-272d96a23973","toNode":"39cce84a-2b9e-48c1-b211-6509f5d17099","fromSide":"bottom","toSide":"top","arrows":"to"},
+		{"id":"65415f8a-89eb-4453-9e68-6be657fc07a7","fromNode":"52704f86-3964-4cec-89e4-272d96a23973","toNode":"4614c3a2-2e5a-497c-9dad-a8d47ab5442a","fromSide":"bottom","toSide":"top","arrows":"to"},
+		{"id":"2469cd0b-4926-424f-bc7f-94390bfa72d8","fromNode":"52704f86-3964-4cec-89e4-272d96a23973","toNode":"17520402-2be8-43d1-969b-bb9362096c56","fromSide":"bottom","toSide":"top","arrows":"to"},
+		{"id":"7eb5404a-7ec6-49be-a9bd-b87b96e3ba8a","fromNode":"52704f86-3964-4cec-89e4-272d96a23973","toNode":"03aec31e-ebd8-474b-b7ba-8283b4151cb3","fromSide":"bottom","toSide":"top","arrows":"to"},
+		{"id":"718f70e7-6a45-4895-93f9-37167bf30f12","fromNode":"52704f86-3964-4cec-89e4-272d96a23973","toNode":"4a96313d-458d-40b6-8d1f-e1220c8f97de","fromSide":"bottom","toSide":"top","arrows":"to"},
+		{"id":"b9921790-6230-49bb-b1a0-81453bdb35a2","fromNode":"52704f86-3964-4cec-89e4-272d96a23973","toNode":"f70cd4f7-aea5-4a94-b2d0-580e91537be4","fromSide":"bottom","toSide":"top","arrows":"to"},
+		{"id":"007595ba-55b6-4cd7-ae4e-8a3a19ce8b2e","fromNode":"0dd554b7-485e-467f-b0b8-68e109e6d51f","toNode":"310e3bf0-0505-4d03-9a68-42486b7e1c14","fromSide":"right","toSide":"left","arrows":"to"},
+		{"id":"f67c983d-4035-4ff8-bfb7-c47fe2a6f12d","fromNode":"0dd554b7-485e-467f-b0b8-68e109e6d51f","toNode":"b574c9f7-be5a-4e4c-bdd7-d63285dcd0bd","fromSide":"right","toSide":"left","arrows":"to"},
+		{"id":"32993ddd-7b37-473c-9715-e66e778cb5e6","fromNode":"0dd554b7-485e-467f-b0b8-68e109e6d51f","toNode":"10d54277-459c-4e28-87b8-6345d79edc25","fromSide":"right","toSide":"left","arrows":"to"},
+		{"id":"e4c03d70-6809-4e16-8291-2a976eac8789","fromNode":"b5a4087c-2e03-4ca1-936d-db447556b3d6","toNode":"7f5ad19d-ab89-4b3c-9089-599d52a5b8ab","fromSide":"right","toSide":"left","arrows":"to"},
+		{"id":"0c66b516-7599-4f91-839c-123fe7b05540","fromNode":"310e3bf0-0505-4d03-9a68-42486b7e1c14","toNode":"10d54277-459c-4e28-87b8-6345d79edc25","fromSide":"right","toSide":"left","arrows":"to"}
+	]
+}
