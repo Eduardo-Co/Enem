@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7a5b17b14db2c2ec",
+        "id": "9117fe0e639526a4",
         "type": "tabs",
         "children": [
           {
-            "id": "143657dc0643e65b",
+            "id": "ce9d89623f20d5e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendário/2025-09-02.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-09-02"
+              "title": "New tab"
             }
           }
         ]
@@ -204,10 +200,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "143657dc0643e65b",
+  "active": "ce9d89623f20d5e7",
   "lastOpenFiles": [
-    "Enem-2/Química/Atomistica_e_Moleculas (1).canvas",
+    "Enem-2/Química/Atomística e moléculas/Atomistica_Moleculas_ENEM_Fuvest_Unicamp.canvas",
+    "Enem-2/Química/Atomística e moléculas",
     "Calendário/2025-09-02.md",
+    "Enem-2/Química/Atomistica_e_Moleculas (1).canvas",
     "Calendário/2025-09-16.md",
     "Enem-2/Química",
     "Enem-2/Física/Magnetismo/magnetismo (2) (1).canvas",
@@ -221,7 +219,6 @@
     "Enem-2/Física/Cinemática/Untitled.canvas",
     "Enem-2/Física/Cinemática/Cinematica_Final_Colorido.canvas",
     "Enem-2/Física/Cinemática/Cinematica_Colorido.canvas",
-    "Enem-2/Física/Cinemática/Cinematica_EnsinoMedio.canvas",
     "Enem-2/Física/Cinemática",
     "Enem-2/Física/Ondulatória/Untitled Kanban.md",
     "Enem-2/Física/Ondulatória",
@@ -241,7 +238,6 @@
     "Enem-1/Biologia/1 - Ecologia/Teste de Ecologia.md",
     "Enem-2/Biologia/Citologia",
     "ENEM.pdf",
-    "Enem-2/Biologia",
     "Refração - Como desenhar de qualquer lado para onde tende a ir, lei de snell.md",
     "Porque vidro é transparente.md",
     "Lentes e Espelhos.md",
