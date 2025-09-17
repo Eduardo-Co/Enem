@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6ee227d463054721",
+        "id": "fc45e49b2f76fa74",
         "type": "tabs",
         "children": [
           {
-            "id": "e0b40b5535de3419",
+            "id": "eee8567f7c3de82e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (5).canvas",
-                "viewState": {
-                  "x": 2591.836607482621,
-                  "y": 1084.5908679757913,
-                  "zoom": -2.629541579512656
-                }
+                "file": "Calendário/2025-09-17.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "quimica_organica_enem_checklist_incidencias (5)"
+              "icon": "lucide-file",
+              "title": "2025-09-17"
             }
           }
         ]
@@ -185,11 +182,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 393.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -207,11 +204,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "e0b40b5535de3419",
+  "active": "eee8567f7c3de82e",
   "lastOpenFiles": [
+    "Calendário/2025-09-17.md",
+    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (5).canvas",
     "Enem-1/Química/11 - Química orgânica/Propriedades compostos orgânicos/Acidez e basicidade em compostos orgânicos.md",
     "Enem-1/Química/11 - Química orgânica/Propriedades compostos orgânicos/Propriedades moléculas orgânicas.md",
-    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (5).canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias.canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (4).canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (3).canvas",
@@ -255,7 +253,6 @@
     "Calendário/2025-09-15.md",
     "Enem-2/Física/Termologia/Untitled.md",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
-    "Enem-2/Biologia/Citologia/citologia_topics.md",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
     "Enem-1/Química/11 - Química orgânica/0 - Questões/Pasted image 20250820072410.png",
