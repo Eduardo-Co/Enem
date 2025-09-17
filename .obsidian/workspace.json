@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c4056ee7d1df61d9",
+        "id": "10c5c96d0c4326a0",
         "type": "tabs",
         "children": [
           {
-            "id": "4158f1fc2ef8c326",
+            "id": "9a9ff93ee9c5b1f0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Enem-2/Química/Equilíbrio Químico/Equilibrio_Quimico_ENEM (1).canvas",
-                "viewState": {
-                  "x": 669.9768318453999,
-                  "y": 887.3562272870527,
-                  "zoom": -1.6324775191303496
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Equilibrio_Quimico_ENEM (1)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
