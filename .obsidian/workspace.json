@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c9b90f27f16dc112",
+        "id": "daa69bc4e2d0d5d3",
         "type": "tabs",
         "children": [
           {
-            "id": "ba719726d24ba36a",
+            "id": "34b6d2d7d109ed49",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (3).canvas",
+                "file": "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (5).canvas",
                 "viewState": {
-                  "x": -1203.6749169516088,
-                  "y": 478.5746917410323,
-                  "zoom": -2.230859340417973
+                  "x": 1267.1482217405533,
+                  "y": 2102.4586813661867,
+                  "zoom": -1.3576669160074293
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "quimica_organica_enem_checklist_incidencias (3)"
+              "title": "quimica_organica_enem_checklist_incidencias (5)"
             }
           }
         ]
@@ -207,11 +207,13 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "ba719726d24ba36a",
+  "active": "34b6d2d7d109ed49",
   "lastOpenFiles": [
-    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (2).canvas",
-    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (3).canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias.canvas",
+    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (5).canvas",
+    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (4).canvas",
+    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (3).canvas",
+    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (2).canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist.canvas",
     "Enem-2/Química/Química orgânica",
     "Enem-2/Química/Misturas e Soluções/Misturas_e_Solucoes_ENEM (1).canvas",
@@ -222,9 +224,7 @@
     "Enem-2/Química/Eletroquímica",
     "Enem-2/Química/Equilíbrio Químico/Equilibrio_Quimico_ENEM (1).canvas",
     "Enem-2/Química/Equilíbrio Químico/Equilibrio_Quimico_ENEM.canvas",
-    "Enem-2/Química/Cinética Química/cinetica_quimica_checklist_v2.canvas",
     "Enem-2/Química/Equilíbrio Químico",
-    "Enem-2/Química/Cinética Química/cinetica_quimica_checklist.canvas",
     "Enem-2/Química/Cinética Química/Untitled Kanban 1 1.md",
     "Enem-2/Química/Funções inorgânicas/Untitled Kanban 1.md",
     "Enem-2/Química/Atomística e moléculas/Untitled Kanban.md",
