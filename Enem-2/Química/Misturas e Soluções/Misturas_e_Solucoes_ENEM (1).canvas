@@ -1,422 +1,51 @@
 {
-  "nodes": [
-    {
-      "id": "n_title",
-      "type": "text",
-      "x": -300,
-      "y": -1200,
-      "width": 1800,
-      "height": 120,
-      "color": "6",
-      "text": "# 📋 Misturas e Soluções – ENEM (✔ Checklist)\n\n> Somente tópicos (sem explicações)."
-    },
-    {
-      "id": "g1",
-      "type": "group",
-      "x": -1200,
-      "y": -800,
-      "width": 720,
-      "height": 520,
-      "label": "1) Fundamentos",
-      "color": "1"
-    },
-    {
-      "id": "t1_head",
-      "type": "text",
-      "x": -1180,
-      "y": -780,
-      "width": 680,
-      "height": 70,
-      "color": "1",
-      "text": "## 1) Fundamentos — ✔ Checklist"
-    },
-    {
-      "id": "t1_body",
-      "type": "text",
-      "x": -1170,
-      "y": -690,
-      "width": 660,
-      "height": 370,
-      "text": "- [ ] Matéria: substâncias puras × misturas; fase × componente; sistemas homogêneos × heterogêneos\n- [ ] Soluções: soluto, solvente, solução verdadeira; princípio 'semelhante dissolve semelhante' (polaridade)\n- [ ] Eletrólitos × não-eletrólitos; fortes × fracos (condutividade)"
-    },
-    {
-      "id": "g2",
-      "type": "group",
-      "x": -380,
-      "y": -800,
-      "width": 720,
-      "height": 520,
-      "label": "2) Classificação dos sistemas dispersos",
-      "color": "2"
-    },
-    {
-      "id": "t2_head",
-      "type": "text",
-      "x": -360,
-      "y": -780,
-      "width": 680,
-      "height": 70,
-      "color": "2",
-      "text": "## 2) Classificação dos sistemas dispersos — ✔ Checklist"
-    },
-    {
-      "id": "t2_body",
-      "type": "text",
-      "x": -350,
-      "y": -690,
-      "width": 660,
-      "height": 370,
-      "text": "- [ ] Solução verdadeira (partículas moleculares/iónicas)\n- [ ] Coloides: sol, gel, aerossol, espuma, emulsão — efeito Tyndall\n- [ ] Suspensões: sedimentação, filtração"
-    },
-    {
-      "id": "g3",
-      "type": "group",
-      "x": 440,
-      "y": -800,
-      "width": 720,
-      "height": 520,
-      "label": "3) Separação de misturas",
-      "color": "4"
-    },
-    {
-      "id": "t3_head",
-      "type": "text",
-      "x": 460,
-      "y": -780,
-      "width": 680,
-      "height": 70,
-      "color": "4",
-      "text": "## 3) Separação de misturas — ✔ Checklist"
-    },
-    {
-      "id": "t3_body",
-      "type": "text",
-      "x": 470,
-      "y": -690,
-      "width": 660,
-      "height": 370,
-      "text": "- [ ] Heterogêneas: peneiração, filtração, decantação, centrifugação, separação magnética, flotação\n- [ ] Homogêneas: evaporação, destilação simples, destilação fracionada, cromatografia\n- [ ] Extração/dissolução fracionada; cristalização; tratamento de água (etapas básicas)"
-    },
-    {
-      "id": "g4",
-      "type": "group",
-      "x": -1200,
-      "y": -180,
-      "width": 720,
-      "height": 520,
-      "label": "4) Concentração de soluções",
-      "color": "5"
-    },
-    {
-      "id": "t4_head",
-      "type": "text",
-      "x": -1180,
-      "y": -160,
-      "width": 680,
-      "height": 70,
-      "color": "5",
-      "text": "## 4) Concentração de soluções — ✔ Checklist"
-    },
-    {
-      "id": "t4_body",
-      "type": "text",
-      "x": -1170,
-      "y": -70,
-      "width": 660,
-      "height": 370,
-      "text": "- [ ] % m/m, % m/v, % v/v; g·L⁻¹; mg·L⁻¹; ppm/ppb\n- [ ] Molaridade (mol·L⁻¹), Molalidade (mol·kg⁻¹), Fração molar\n- [ ] Diluição (C₁V₁ = C₂V₂); mistura de soluções; preparo (vidrarias, padrão primário)"
-    },
-    {
-      "id": "g5",
-      "type": "group",
-      "x": -380,
-      "y": -180,
-      "width": 720,
-      "height": 520,
-      "label": "5) Solubilidade & estados da solução",
-      "color": "6"
-    },
-    {
-      "id": "t5_head",
-      "type": "text",
-      "x": -360,
-      "y": -160,
-      "width": 680,
-      "height": 70,
-      "color": "6",
-      "text": "## 5) Solubilidade & estados da solução — ✔ Checklist"
-    },
-    {
-      "id": "t5_body",
-      "type": "text",
-      "x": -350,
-      "y": -70,
-      "width": 660,
-      "height": 370,
-      "text": "- [ ] Insaturada × Saturada × Supersaturada; coeficiente de solubilidade\n- [ ] Curvas de solubilidade (T × solubilidade)\n- [ ] Fatores: temperatura (sólidos ↑, gases ↓); pressão em gases (Lei de Henry); natureza/polaridade"
-    },
-    {
-      "id": "g6",
-      "type": "group",
-      "x": 440,
-      "y": -180,
-      "width": 720,
-      "height": 520,
-      "label": "6) Propriedades coligativas",
-      "color": "2"
-    },
-    {
-      "id": "t6_head",
-      "type": "text",
-      "x": 460,
-      "y": -160,
-      "width": 680,
-      "height": 70,
-      "color": "2",
-      "text": "## 6) Propriedades coligativas — ✔ Checklist"
-    },
-    {
-      "id": "t6_body",
-      "type": "text",
-      "x": 470,
-      "y": -70,
-      "width": 660,
-      "height": 370,
-      "text": "- [ ] Tonoscopia (↓ pressão de vapor)\n- [ ] Ebulioscopia (↑ T ebulição)\n- [ ] Crioscopia (↓ T congelamento)\n- [ ] Osmose/pressão osmótica; osmose reversa"
-    },
-    {
-      "id": "g7",
-      "type": "group",
-      "x": -1200,
-      "y": 440,
-      "width": 720,
-      "height": 520,
-      "label": "7) Condução elétrica & iônica",
-      "color": "4"
-    },
-    {
-      "id": "t7_head",
-      "type": "text",
-      "x": -1180,
-      "y": 460,
-      "width": 680,
-      "height": 70,
-      "color": "4",
-      "text": "## 7) Condução elétrica & iônica — ✔ Checklist"
-    },
-    {
-      "id": "t7_body",
-      "type": "text",
-      "x": -1170,
-      "y": 550,
-      "width": 660,
-      "height": 370,
-      "text": "- [ ] Condutividade de soluções iônicas (dependência da concentração)\n- [ ] Eletrólitos fortes × fracos; aplicações"
-    },
-    {
-      "id": "g8",
-      "type": "group",
-      "x": -380,
-      "y": 440,
-      "width": 720,
-      "height": 520,
-      "label": "8) Ácido–base em solução (noções ENEM)",
-      "color": "5"
-    },
-    {
-      "id": "t8_head",
-      "type": "text",
-      "x": -360,
-      "y": 460,
-      "width": 680,
-      "height": 70,
-      "color": "5",
-      "text": "## 8) Ácido–base em solução (noções ENEM) — ✔ Checklist"
-    },
-    {
-      "id": "t8_body",
-      "type": "text",
-      "x": -350,
-      "y": 550,
-      "width": 660,
-      "height": 370,
-      "text": "- [ ] pH/pOH (25 °C: pH + pOH = 14); indicadores e faixas de viragem\n- [ ] Neutralização (estequiometria em solução)\n- [ ] Titulação ácido–base (ponto de equivalência; escolha do indicador)"
-    },
-    {
-      "id": "g9",
-      "type": "group",
-      "x": 440,
-      "y": 440,
-      "width": 720,
-      "height": 520,
-      "label": "9) Cotidiano & aplicações",
-      "color": "6"
-    },
-    {
-      "id": "t9_head",
-      "type": "text",
-      "x": 460,
-      "y": 460,
-      "width": 680,
-      "height": 70,
-      "color": "6",
-      "text": "## 9) Cotidiano & aplicações — ✔ Checklist"
-    },
-    {
-      "id": "t9_body",
-      "type": "text",
-      "x": 470,
-      "y": 550,
-      "width": 660,
-      "height": 370,
-      "text": "- [ ] Azeótropos (etanol–água); limites da destilação\n- [ ] Bebidas e teor alcoólico (ºGL, % v/v); combustíveis (etanol anidro × hidratado)\n- [ ] Exemplos comuns: soro 0,9% m/v, ligas metálicas, ar atmosférico, detergentes/emulsões"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e_title_1",
-      "fromNode": "n_title",
-      "fromSide": "bottom",
-      "toNode": "t1_head",
-      "toSide": "top",
-      "toEnd": "arrow",
-      "color": "1"
-    },
-    {
-      "id": "e_title_2",
-      "fromNode": "n_title",
-      "fromSide": "bottom",
-      "toNode": "t2_head",
-      "toSide": "top",
-      "toEnd": "arrow",
-      "color": "2"
-    },
-    {
-      "id": "e_title_3",
-      "fromNode": "n_title",
-      "fromSide": "bottom",
-      "toNode": "t3_head",
-      "toSide": "top",
-      "toEnd": "arrow",
-      "color": "4"
-    },
-    {
-      "id": "e_title_4",
-      "fromNode": "n_title",
-      "fromSide": "bottom",
-      "toNode": "t4_head",
-      "toSide": "top",
-      "toEnd": "arrow",
-      "color": "5"
-    },
-    {
-      "id": "e_title_5",
-      "fromNode": "n_title",
-      "fromSide": "bottom",
-      "toNode": "t5_head",
-      "toSide": "top",
-      "toEnd": "arrow",
-      "color": "6"
-    },
-    {
-      "id": "e_title_6",
-      "fromNode": "n_title",
-      "fromSide": "bottom",
-      "toNode": "t6_head",
-      "toSide": "top",
-      "toEnd": "arrow",
-      "color": "2"
-    },
-    {
-      "id": "e_title_7",
-      "fromNode": "n_title",
-      "fromSide": "bottom",
-      "toNode": "t7_head",
-      "toSide": "top",
-      "toEnd": "arrow",
-      "color": "4"
-    },
-    {
-      "id": "e_title_8",
-      "fromNode": "n_title",
-      "fromSide": "bottom",
-      "toNode": "t8_head",
-      "toSide": "top",
-      "toEnd": "arrow",
-      "color": "5"
-    },
-    {
-      "id": "e_title_9",
-      "fromNode": "n_title",
-      "fromSide": "bottom",
-      "toNode": "t9_head",
-      "toSide": "top",
-      "toEnd": "arrow",
-      "color": "6"
-    },
-    {
-      "id": "e_1_2",
-      "fromNode": "t1_head",
-      "fromSide": "right",
-      "toNode": "t2_head",
-      "toSide": "left",
-      "toEnd": "arrow",
-      "color": "4"
-    },
-    {
-      "id": "e_2_3",
-      "fromNode": "t2_head",
-      "fromSide": "right",
-      "toNode": "t3_head",
-      "toSide": "left",
-      "toEnd": "arrow",
-      "color": "4"
-    },
-    {
-      "id": "e_1_4",
-      "fromNode": "t1_head",
-      "fromSide": "right",
-      "toNode": "t4_head",
-      "toSide": "left",
-      "toEnd": "arrow",
-      "color": "4"
-    },
-    {
-      "id": "e_4_5",
-      "fromNode": "t4_head",
-      "fromSide": "right",
-      "toNode": "t5_head",
-      "toSide": "left",
-      "toEnd": "arrow",
-      "color": "4"
-    },
-    {
-      "id": "e_5_6",
-      "fromNode": "t5_head",
-      "fromSide": "right",
-      "toNode": "t6_head",
-      "toSide": "left",
-      "toEnd": "arrow",
-      "color": "4"
-    },
-    {
-      "id": "e_7_8",
-      "fromNode": "t7_head",
-      "fromSide": "right",
-      "toNode": "t8_head",
-      "toSide": "left",
-      "toEnd": "arrow",
-      "color": "4"
-    },
-    {
-      "id": "e_9_4",
-      "fromNode": "t9_head",
-      "fromSide": "right",
-      "toNode": "t4_head",
-      "toSide": "left",
-      "toEnd": "arrow",
-      "color": "4"
-    }
-  ],
-  "version": "1.0.0"
+	"nodes":[
+		{"id":"n_title","type":"text","x":-300,"y":-1200,"width":1800,"height":120,"color":"6","text":"# 📋 Misturas e Soluções – ENEM (✔ Checklist)\n\n> Somente tópicos (sem explicações)."},
+		{"id":"g1","type":"group","x":-1200,"y":-800,"width":720,"height":520,"label":"1) Fundamentos","color":"1"},
+		{"id":"t1_head","type":"text","x":-1180,"y":-780,"width":680,"height":70,"color":"1","text":"## 1) Fundamentos — ✔ Checklist"},
+		{"id":"t1_body","type":"text","x":-1170,"y":-690,"width":660,"height":370,"text":"- [ ] Matéria: substâncias puras × misturas; fase × componente; sistemas homogêneos × heterogêneos\n- [ ] Soluções: soluto, solvente, solução verdadeira; princípio 'semelhante dissolve semelhante' (polaridade)\n- [ ] Eletrólitos × não-eletrólitos; fortes × fracos (condutividade)"},
+		{"id":"g2","type":"group","x":-380,"y":-800,"width":720,"height":520,"label":"2) Classificação dos sistemas dispersos","color":"2"},
+		{"id":"t2_head","type":"text","x":-360,"y":-780,"width":680,"height":70,"color":"2","text":"## 2) Classificação dos sistemas dispersos — ✔ Checklist"},
+		{"id":"t2_body","type":"text","x":-350,"y":-690,"width":660,"height":370,"text":"- [ ] Solução verdadeira (partículas moleculares/iónicas)\n- [ ] Coloides: sol, gel, aerossol, espuma, emulsão — efeito Tyndall\n- [ ] Suspensões: sedimentação, filtração"},
+		{"id":"g3","type":"group","x":440,"y":-800,"width":720,"height":520,"label":"3) Separação de misturas","color":"4"},
+		{"id":"t3_head","type":"text","x":460,"y":-780,"width":680,"height":70,"color":"4","text":"## 3) Separação de misturas — ✔ Checklist"},
+		{"id":"t3_body","type":"text","x":470,"y":-690,"width":660,"height":370,"text":"- [ ] Heterogêneas: peneiração, filtração, decantação, centrifugação, separação magnética, flotação\n- [ ] Homogêneas: evaporação, destilação simples, destilação fracionada, cromatografia\n- [ ] Extração/dissolução fracionada; cristalização; tratamento de água (etapas básicas)"},
+		{"id":"g4","type":"group","x":-1200,"y":-180,"width":720,"height":520,"label":"4) Concentração de soluções","color":"5"},
+		{"id":"t4_head","type":"text","x":-1180,"y":-160,"width":680,"height":70,"color":"5","text":"## 4) Concentração de soluções — ✔ Checklist"},
+		{"id":"t4_body","type":"text","x":-1170,"y":-70,"width":660,"height":370,"text":"- [ ] % m/m, % m/v, % v/v; g·L⁻¹; mg·L⁻¹; ppm/ppb\n- [ ] Molaridade (mol·L⁻¹), Molalidade (mol·kg⁻¹), Fração molar\n- [ ] Diluição (C₁V₁ = C₂V₂); mistura de soluções; preparo (vidrarias, padrão primário)"},
+		{"id":"g5","type":"group","x":-380,"y":-180,"width":720,"height":520,"label":"5) Solubilidade & estados da solução","color":"6"},
+		{"id":"t5_head","type":"text","x":-360,"y":-160,"width":680,"height":70,"color":"6","text":"## 5) Solubilidade & estados da solução — ✔ Checklist"},
+		{"id":"t5_body","type":"text","x":-350,"y":-70,"width":660,"height":370,"text":"- [ ] Insaturada × Saturada × Supersaturada; coeficiente de solubilidade\n- [ ] Curvas de solubilidade (T × solubilidade)\n- [ ] Fatores: temperatura (sólidos ↑, gases ↓); pressão em gases (Lei de Henry); natureza/polaridade"},
+		{"id":"g6","type":"group","x":440,"y":-180,"width":720,"height":520,"label":"6) Propriedades coligativas","color":"2"},
+		{"id":"t6_head","type":"text","x":460,"y":-160,"width":680,"height":70,"color":"2","text":"## 6) Propriedades coligativas — ✔ Checklist"},
+		{"id":"t6_body","type":"text","x":470,"y":-70,"width":660,"height":370,"text":"- [ ] Tonoscopia (↓ pressão de vapor)\n- [ ] Ebulioscopia (↑ T ebulição)\n- [ ] Crioscopia (↓ T congelamento)\n- [ ] Osmose/pressão osmótica; osmose reversa"},
+		{"id":"g7","type":"group","x":-1200,"y":440,"width":720,"height":520,"label":"7) Condução elétrica & iônica","color":"4"},
+		{"id":"t7_head","type":"text","x":-1180,"y":460,"width":680,"height":70,"color":"4","text":"## 7) Condução elétrica & iônica — ✔ Checklist"},
+		{"id":"t7_body","type":"text","x":-1170,"y":550,"width":660,"height":370,"text":"- [ ] Condutividade de soluções iônicas (dependência da concentração)\n- [ ] Eletrólitos fortes × fracos; aplicações"},
+		{"id":"g8","type":"group","x":-380,"y":440,"width":720,"height":520,"label":"8) Ácido–base em solução (noções ENEM)","color":"5"},
+		{"id":"t8_head","type":"text","x":-360,"y":460,"width":680,"height":70,"color":"5","text":"## 8) Ácido–base em solução (noções ENEM) — ✔ Checklist"},
+		{"id":"t8_body","type":"text","x":-350,"y":550,"width":660,"height":370,"text":"- [ ] pH/pOH (25 °C: pH + pOH = 14); indicadores e faixas de viragem\n- [ ] Neutralização (estequiometria em solução)\n- [ ] Titulação ácido–base (ponto de equivalência; escolha do indicador)"},
+		{"id":"g9","type":"group","x":440,"y":440,"width":720,"height":520,"label":"9) Cotidiano & aplicações","color":"6"},
+		{"id":"t9_head","type":"text","x":460,"y":460,"width":680,"height":70,"color":"6","text":"## 9) Cotidiano & aplicações — ✔ Checklist"},
+		{"id":"t9_body","type":"text","x":470,"y":550,"width":660,"height":370,"text":"- [ ] Azeótropos (etanol–água); limites da destilação\n- [ ] Bebidas e teor alcoólico (ºGL, % v/v); combustíveis (etanol anidro × hidratado)\n- [ ] Exemplos comuns: soro 0,9% m/v, ligas metálicas, ar atmosférico, detergentes/emulsões"}
+	],
+	"edges":[
+		{"id":"e_title_1","fromNode":"n_title","fromSide":"bottom","toNode":"t1_head","toSide":"top","toEnd":"arrow","color":"1"},
+		{"id":"e_title_2","fromNode":"n_title","fromSide":"bottom","toNode":"t2_head","toSide":"top","toEnd":"arrow","color":"2"},
+		{"id":"e_title_3","fromNode":"n_title","fromSide":"bottom","toNode":"t3_head","toSide":"top","toEnd":"arrow","color":"4"},
+		{"id":"e_title_4","fromNode":"n_title","fromSide":"bottom","toNode":"t4_head","toSide":"top","toEnd":"arrow","color":"5"},
+		{"id":"e_title_5","fromNode":"n_title","fromSide":"bottom","toNode":"t5_head","toSide":"top","toEnd":"arrow","color":"6"},
+		{"id":"e_title_6","fromNode":"n_title","fromSide":"bottom","toNode":"t6_head","toSide":"top","toEnd":"arrow","color":"2"},
+		{"id":"e_title_7","fromNode":"n_title","fromSide":"bottom","toNode":"t7_head","toSide":"top","toEnd":"arrow","color":"4"},
+		{"id":"e_title_8","fromNode":"n_title","fromSide":"bottom","toNode":"t8_head","toSide":"top","toEnd":"arrow","color":"5"},
+		{"id":"e_title_9","fromNode":"n_title","fromSide":"bottom","toNode":"t9_head","toSide":"top","toEnd":"arrow","color":"6"},
+		{"id":"e_1_2","fromNode":"t1_head","fromSide":"right","toNode":"t2_head","toSide":"left","toEnd":"arrow","color":"4"},
+		{"id":"e_2_3","fromNode":"t2_head","fromSide":"right","toNode":"t3_head","toSide":"left","toEnd":"arrow","color":"4"},
+		{"id":"e_1_4","fromNode":"t1_head","fromSide":"right","toNode":"t4_head","toSide":"left","toEnd":"arrow","color":"4"},
+		{"id":"e_4_5","fromNode":"t4_head","fromSide":"right","toNode":"t5_head","toSide":"left","toEnd":"arrow","color":"4"},
+		{"id":"e_5_6","fromNode":"t5_head","fromSide":"right","toNode":"t6_head","toSide":"left","toEnd":"arrow","color":"4"},
+		{"id":"e_7_8","fromNode":"t7_head","fromSide":"right","toNode":"t8_head","toSide":"left","toEnd":"arrow","color":"4"},
+		{"id":"e_9_4","fromNode":"t9_head","fromSide":"right","toNode":"t4_head","toSide":"left","toEnd":"arrow","color":"4"}
+	],
+	"version":"1.0.0"
 }

@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "10c5c96d0c4326a0",
+        "id": "5567d7de430bdd7d",
         "type": "tabs",
         "children": [
           {
-            "id": "9a9ff93ee9c5b1f0",
+            "id": "25b90bc14027b566",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Enem-2/Química/Misturas e Soluções/Misturas_e_Solucoes_ENEM (1).canvas",
+                "file": "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist.canvas",
                 "viewState": {
-                  "x": -360.3645223897843,
-                  "y": -500.15110414693453,
-                  "zoom": -0.6636353783011015
+                  "x": 1101.2429770178057,
+                  "y": 2288.9921978410443,
+                  "zoom": -1.178111098087169
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Misturas_e_Solucoes_ENEM (1)"
+              "title": "quimica_organica_enem_checklist"
             }
           }
         ]
@@ -207,10 +207,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "9a9ff93ee9c5b1f0",
+  "active": "520d63d22b57ca04",
   "lastOpenFiles": [
-    "Enem-2/Química/Termoquímica/Termoquimica_ENEM.canvas",
+    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist.canvas",
+    "Enem-2/Química/Química orgânica",
     "Enem-2/Química/Misturas e Soluções/Misturas_e_Solucoes_ENEM (1).canvas",
+    "Enem-2/Química/Termoquímica/Termoquimica_ENEM.canvas",
     "Enem-2/Química/Misturas e Soluções",
     "Enem-2/Química/Eletroquímica/eletroquimica_checklist.canvas",
     "Enem-2/Química/Termoquímica",
@@ -227,7 +229,6 @@
     "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist_puro.canvas",
     "Enem-2/Química/Cinética Química",
     "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist.canvas",
-    "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas.canvas",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -249,7 +250,6 @@
     "Enem-2/Química",
     "Enem-2/Física/Magnetismo/Untitled Kanban.md",
     "Enem-2/Física/Cinemática/Cinemática.md",
-    "Enem-2/Física/Magnetismo",
     "Enem-2/Física/Ondulatória/Untitled Kanban.md",
     "Calendário/2025-09-15.md",
     "Enem-2/Física/Termologia/Untitled.md",
