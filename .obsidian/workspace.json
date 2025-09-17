@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas.canvas",
+                "file": "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist.canvas",
                 "viewState": {
-                  "x": -1390.0605493129358,
-                  "y": 2101.3685144329916,
-                  "zoom": -0.342969544444823
+                  "x": 555.7933130805553,
+                  "y": 911.7418299584679,
+                  "zoom": -0.5898770808151627
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "funcoes_inorganicas"
+              "title": "funcoes_inorganicas_checklist"
             }
           }
         ]
@@ -210,6 +210,8 @@
   },
   "active": "ce9d89623f20d5e7",
   "lastOpenFiles": [
+    "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas.canvas",
+    "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist.canvas",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -224,7 +226,6 @@
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas.canvas",
     "Enem-2/Química/Funções inorgânicas",
     "Enem-2/Química/Atomística e moléculas/Atomistica_Moleculas_ENEM_Fuvest_Unicamp.canvas",
     "Enem-2/Química/Atomística e moléculas",
@@ -256,7 +257,6 @@
     "Enem-2/Biologia/Citologia/citologia.canvas.md",
     "Enem-1/Química/Untitled Kanban.md",
     "Enem-1/Biologia/Máximas da biologia.md",
-    "Enem-1/Biologia/Untitled Kanban.md",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
     "Enem-1/Química/11 - Química orgânica/0 - Questões/Pasted image 20250820072410.png",
