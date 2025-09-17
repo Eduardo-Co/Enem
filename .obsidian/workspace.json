@@ -11,10 +11,17 @@
             "id": "4158f1fc2ef8c326",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Enem-2/Química/Cinética Química/cinetica_quimica_checklist_v2.canvas",
+                "viewState": {
+                  "x": -105.23902745754185,
+                  "y": 791.1380831845133,
+                  "zoom": -1.4271983869098421
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "cinetica_quimica_checklist_v2"
             }
           }
         ]
@@ -201,8 +208,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "520d63d22b57ca04",
+  "active": "4158f1fc2ef8c326",
   "lastOpenFiles": [
+    "Enem-2/Química/Cinética Química/cinetica_quimica_checklist_v2.canvas",
     "Enem-2/Química/Cinética Química/cinetica_quimica_checklist.canvas",
     "Enem-2/Química/Cinética Química/Untitled Kanban 1 1.md",
     "Enem-2/Química/Funções inorgânicas/funcoes_inorganicas_checklist_atualizado.canvas",
