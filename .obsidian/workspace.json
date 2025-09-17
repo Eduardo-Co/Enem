@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5567d7de430bdd7d",
+        "id": "c9b90f27f16dc112",
         "type": "tabs",
         "children": [
           {
-            "id": "25b90bc14027b566",
+            "id": "ba719726d24ba36a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias.canvas",
                 "viewState": {
-                  "x": 1522.4081316430704,
-                  "y": 1364.2749703981603,
-                  "zoom": -2.61517774866768
+                  "x": 92.67970433387592,
+                  "y": 630.3680085597922,
+                  "zoom": -0.0144872587708223
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -207,7 +207,7 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "25b90bc14027b566",
+  "active": "ba719726d24ba36a",
   "lastOpenFiles": [
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist.canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias.canvas",
