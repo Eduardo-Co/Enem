@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1320d27cfc741e2a",
+        "id": "7a5b17b14db2c2ec",
         "type": "tabs",
         "children": [
           {
-            "id": "81faed37edaadc5d",
+            "id": "143657dc0643e65b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Enem-2/Física/Magnetismo/magnetismo (2) (1).canvas",
-                "viewState": {
-                  "x": 741.3065614859264,
-                  "y": 3093.857638619368,
-                  "zoom": -0.8189122813648027
-                }
+                "file": "Calendário/2025-09-16.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "magnetismo (2) (1)"
+              "icon": "lucide-file",
+              "title": "2025-09-16"
             }
           }
         ]
@@ -189,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,10 +203,11 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "81faed37edaadc5d",
+  "active": "143657dc0643e65b",
   "lastOpenFiles": [
-    "Enem-2/Física/Magnetismo/Untitled Kanban.md",
+    "Calendário/2025-09-16.md",
     "Enem-2/Física/Magnetismo/magnetismo (2) (1).canvas",
+    "Enem-2/Física/Magnetismo/Untitled Kanban.md",
     "Enem-2/Física/Magnetismo/magnetismo (2) (1) 1.canvas",
     "Enem-2/Física/Magnetismo/Untitled.canvas",
     "Enem-2/Física/Magnetismo/magnetismo (1).canvas",
