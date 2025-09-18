@@ -11,17 +11,10 @@
             "id": "9e031b81d7ddb66f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Enem-2/Matemática/Matemática Básica/matematica_basica_enem_checklist.canvas",
-                "viewState": {
-                  "x": 1427.0580354461765,
-                  "y": 2414.4686158012946,
-                  "zoom": -1.5003543592669093
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "matematica_basica_enem_checklist"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -207,7 +200,7 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "9e031b81d7ddb66f",
+  "active": "520d63d22b57ca04",
   "lastOpenFiles": [
     "Enem-2/Matemática/Matemática Básica/matematica_basica_enem (2).canvas",
     "Enem-2/Matemática/Matemática Básica/matematica_basica_enem_checklist.canvas",
