@@ -1,0 +1,820 @@
+{
+  "nodes": [
+    {
+      "id": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "type": "note",
+      "x": 0,
+      "y": -700,
+      "width": 1400,
+      "height": 220,
+      "text": "# 📚 Matemática Básica (ENEM) — ✔ Checklist\n\n<sub>Somente tópicos (sem explicações). Cores = incidência no ENEM.</sub>"
+    },
+    {
+      "id": "0265f704-c271-4396-9e60-61b88d3bd3ba",
+      "type": "group",
+      "x": 0,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "1) Sistemas de Numeração & Conjuntos",
+      "color": "4"
+    },
+    {
+      "id": "6332dac4-c43c-4a3d-9192-06540a053a55",
+      "type": "note",
+      "x": 16,
+      "y": 16,
+      "width": 688,
+      "height": 90,
+      "text": "## 1) Sistemas de Numeração & Conjuntos"
+    },
+    {
+      "id": "96121c6a-271e-4d7a-9b6a-b4ed0c5bd72e",
+      "type": "note",
+      "x": 16,
+      "y": 120,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Leitura/escrita de números (decimais e fracionários)\n- [ ] Comparação/ordenação; valor absoluto\n- [ ] Conjuntos: N, Z, Q, R\n- [ ] Operações e propriedades (+, −, ×, ÷)\n- [ ] Aproximação, arredondamento e estimativa\n- [ ] Notação científica (10^n)\n- [ ] Desigualdades numéricas"
+    },
+    {
+      "id": "69ca754a-f77a-4520-be6a-4cb11df12e9d",
+      "type": "group",
+      "x": 800,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "2) Expressões (Numéricas e Algébricas)",
+      "color": "4"
+    },
+    {
+      "id": "a94b6603-79e7-4867-9061-31c7af2fe7e1",
+      "type": "note",
+      "x": 816,
+      "y": 16,
+      "width": 688,
+      "height": 90,
+      "text": "## 2) Expressões (Numéricas e Algébricas)"
+    },
+    {
+      "id": "d23f39b4-3f50-45af-9c4e-ce8caa8276fb",
+      "type": "note",
+      "x": 816,
+      "y": 120,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Prioridade de operações ((), [], {})\n- [ ] Simplificação/reescrita de expressões\n- [ ] Valor numérico de expressões"
+    },
+    {
+      "id": "fb5280ec-6791-4961-b08e-b97f14f87dfb",
+      "type": "group",
+      "x": 1600,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "3) Frações",
+      "color": "4"
+    },
+    {
+      "id": "e248a26e-228c-49ba-8ef8-da63847eb577",
+      "type": "note",
+      "x": 1616,
+      "y": 16,
+      "width": 688,
+      "height": 90,
+      "text": "## 3) Frações"
+    },
+    {
+      "id": "51f16558-7274-4b5f-be00-2902a4460125",
+      "type": "note",
+      "x": 1616,
+      "y": 120,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Equivalência e simplificação\n- [ ] Comparação (>, <, =)\n- [ ] Operações com frações\n- [ ] Conversões: fração ↔ decimal ↔ porcentagem"
+    },
+    {
+      "id": "11aa25df-f62a-4958-97b3-f4cdff5b5cf8",
+      "type": "group",
+      "x": 2400,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "4) Múltiplos e Divisores (MDC/MMC)",
+      "color": "4"
+    },
+    {
+      "id": "f913e2d6-2ec2-46ee-af7e-fa098d379f87",
+      "type": "note",
+      "x": 2416,
+      "y": 16,
+      "width": 688,
+      "height": 90,
+      "text": "## 4) Múltiplos e Divisores (MDC/MMC)"
+    },
+    {
+      "id": "7515056b-57fe-424a-b108-d2abcec4844b",
+      "type": "note",
+      "x": 2416,
+      "y": 120,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Critérios de divisibilidade\n- [ ] Decomposição em fatores primos\n- [ ] MDC e MMC"
+    },
+    {
+      "id": "1c4da9bd-d985-4bca-a8f0-812af663017b",
+      "type": "group",
+      "x": 0,
+      "y": 600,
+      "width": 720,
+      "height": 520,
+      "label": "5) Potenciação",
+      "color": "4"
+    },
+    {
+      "id": "79ee4604-5ce8-4162-8aa3-3f1a49994f22",
+      "type": "note",
+      "x": 16,
+      "y": 616,
+      "width": 688,
+      "height": 90,
+      "text": "## 5) Potenciação"
+    },
+    {
+      "id": "5ec5151c-10cc-4ce9-a015-ce07aecbf4e0",
+      "type": "note",
+      "x": 16,
+      "y": 720,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Propriedades das potências\n- [ ] Potências de 10; notação científica"
+    },
+    {
+      "id": "9c5a315a-d1dc-4da6-a73c-e25b415d7413",
+      "type": "group",
+      "x": 800,
+      "y": 600,
+      "width": 720,
+      "height": 520,
+      "label": "6) Radiciação",
+      "color": "4"
+    },
+    {
+      "id": "61ff34ea-b08b-4603-ac20-c4fe442add00",
+      "type": "note",
+      "x": 816,
+      "y": 616,
+      "width": 688,
+      "height": 90,
+      "text": "## 6) Radiciação"
+    },
+    {
+      "id": "a8f4ca78-321f-4dc2-89a1-a550f6d09321",
+      "type": "note",
+      "x": 816,
+      "y": 720,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Propriedades dos radicais\n- [ ] Relação potência ↔ raiz\n- [ ] Racionalização de denominadores"
+    },
+    {
+      "id": "06dc7dcf-b552-4558-87e2-1ecef745386b",
+      "type": "group",
+      "x": 1600,
+      "y": 600,
+      "width": 720,
+      "height": 520,
+      "label": "7) Produtos Notáveis & Fatoração — Expressões Algébricas",
+      "color": "5"
+    },
+    {
+      "id": "b2095ee0-57bb-401d-b366-afd987252d70",
+      "type": "note",
+      "x": 1616,
+      "y": 616,
+      "width": 688,
+      "height": 90,
+      "text": "## 7) Produtos Notáveis & Fatoração — Expressões Algébricas"
+    },
+    {
+      "id": "c6aa9820-0ae4-4d7c-b26f-21ca1b427de8",
+      "type": "note",
+      "x": 1616,
+      "y": 720,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Quadrado da soma/da diferença\n- [ ] Diferença de quadrados\n- [ ] Fator comum; por agrupamento\n- [ ] Trinômio quadrado perfeito"
+    },
+    {
+      "id": "63627628-fddf-418a-b1d8-55324a1f4299",
+      "type": "group",
+      "x": 2400,
+      "y": 600,
+      "width": 720,
+      "height": 520,
+      "label": "8) Equações do 1.º Grau",
+      "color": "2"
+    },
+    {
+      "id": "b38cece1-b6d7-4ff1-892a-58014cbf2ec5",
+      "type": "note",
+      "x": 2416,
+      "y": 616,
+      "width": 688,
+      "height": 90,
+      "text": "## 8) Equações do 1.º Grau"
+    },
+    {
+      "id": "7ebf46a7-d99c-4cc5-b1d7-9d7aaae2a17a",
+      "type": "note",
+      "x": 2416,
+      "y": 720,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Resolução de equações lineares\n- [ ] Modelagem de problemas\n- [ ] Inequações do 1.º grau (noções)"
+    },
+    {
+      "id": "24a9b13f-51d2-46da-bde1-5f5c6ba9d20f",
+      "type": "group",
+      "x": 0,
+      "y": 1200,
+      "width": 720,
+      "height": 520,
+      "label": "9) Equações do 2.º Grau",
+      "color": "2"
+    },
+    {
+      "id": "154439bd-1567-4668-97f2-e2ae236afe03",
+      "type": "note",
+      "x": 16,
+      "y": 1216,
+      "width": 688,
+      "height": 90,
+      "text": "## 9) Equações do 2.º Grau"
+    },
+    {
+      "id": "00c02089-e867-402c-9fd5-c95476dfe1ef",
+      "type": "note",
+      "x": 16,
+      "y": 1320,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Discriminante (Δ) e raízes\n- [ ] Forma fatorada\n- [ ] Vértice e concavidade\n- [ ] Inequações do 2.º grau (noções)"
+    },
+    {
+      "id": "4f608a05-3bc4-4571-b535-dde90e7b431d",
+      "type": "group",
+      "x": 800,
+      "y": 1200,
+      "width": 720,
+      "height": 520,
+      "label": "10) Sistema de Equações (2×2)",
+      "color": "2"
+    },
+    {
+      "id": "e45368ac-ab15-47fe-81e7-3d6f98a962bc",
+      "type": "note",
+      "x": 816,
+      "y": 1216,
+      "width": 688,
+      "height": 90,
+      "text": "## 10) Sistema de Equações (2×2)"
+    },
+    {
+      "id": "67cd9544-dfcd-4aa7-9c93-d9d3a33e264d",
+      "type": "note",
+      "x": 816,
+      "y": 1320,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Métodos: substituição e adição\n- [ ] Interpretação geométrica (interseção de retas)"
+    },
+    {
+      "id": "97e7da3c-6bf5-4691-b921-17ee18aa99cb",
+      "type": "group",
+      "x": 1600,
+      "y": 1200,
+      "width": 720,
+      "height": 520,
+      "label": "11) Equações Especiais",
+      "color": "5"
+    },
+    {
+      "id": "ba0a63e4-96e6-4a84-9447-6affe368e7a2",
+      "type": "note",
+      "x": 1616,
+      "y": 1216,
+      "width": 688,
+      "height": 90,
+      "text": "## 11) Equações Especiais"
+    },
+    {
+      "id": "a0b664d5-8042-498a-a54c-3fc45476f69e",
+      "type": "note",
+      "x": 1616,
+      "y": 1320,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Exponenciais simples\n- [ ] Logarítmicas simples"
+    },
+    {
+      "id": "c188f16b-f9c5-4ad2-891a-eb2abfd99c47",
+      "type": "group",
+      "x": 2400,
+      "y": 1200,
+      "width": 720,
+      "height": 520,
+      "label": "12) Razão, Proporção & Regra de Três",
+      "color": "1"
+    },
+    {
+      "id": "d92e3d27-7843-4d36-85f0-41c59d28aa83",
+      "type": "note",
+      "x": 2416,
+      "y": 1216,
+      "width": 688,
+      "height": 90,
+      "text": "## 12) Razão, Proporção & Regra de Três"
+    },
+    {
+      "id": "63dfba6d-ba95-4f31-a136-7a9e6599b1fc",
+      "type": "note",
+      "x": 2416,
+      "y": 1320,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Proporcionalidade direta\n- [ ] Proporcionalidade inversa\n- [ ] Regra de três simples e composta\n- [ ] Variação de grandezas"
+    },
+    {
+      "id": "3fc9dee2-64cf-4fc5-80a2-47bcd87b8677",
+      "type": "group",
+      "x": 0,
+      "y": 1800,
+      "width": 720,
+      "height": 520,
+      "label": "13) Transformação de Unidades (SI)",
+      "color": "2"
+    },
+    {
+      "id": "d48282d4-e88a-449a-ba7a-0ea205df19ef",
+      "type": "note",
+      "x": 16,
+      "y": 1816,
+      "width": 688,
+      "height": 90,
+      "text": "## 13) Transformação de Unidades (SI)"
+    },
+    {
+      "id": "1e33db4d-8484-4d94-a273-c81ff9d8fa05",
+      "type": "note",
+      "x": 16,
+      "y": 1920,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] SI e prefixos (mili, centi, quilo…)\n- [ ] Conversões de unidades\n- [ ] Estimativas de medida"
+    },
+    {
+      "id": "ce5f10f4-4830-4d7d-8fb9-891223f189b1",
+      "type": "group",
+      "x": 800,
+      "y": 1800,
+      "width": 720,
+      "height": 520,
+      "label": "14) Escalas",
+      "color": "2"
+    },
+    {
+      "id": "4362510f-6e81-433e-81d0-d00da60a0f46",
+      "type": "note",
+      "x": 816,
+      "y": 1816,
+      "width": 688,
+      "height": 90,
+      "text": "## 14) Escalas"
+    },
+    {
+      "id": "cc35a9ab-a6f3-4bb7-b590-9e3372125818",
+      "type": "note",
+      "x": 816,
+      "y": 1920,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Leitura de escalas cartográficas\n- [ ] Construção e aplicações com mapas/plantas"
+    },
+    {
+      "id": "c0a2d878-90d9-405e-b535-0df70a595ceb",
+      "type": "group",
+      "x": 1600,
+      "y": 1800,
+      "width": 720,
+      "height": 520,
+      "label": "15) Porcentagem",
+      "color": "1"
+    },
+    {
+      "id": "85b9e7c6-c87f-4111-9aff-fd886af68c56",
+      "type": "note",
+      "x": 1616,
+      "y": 1816,
+      "width": 688,
+      "height": 90,
+      "text": "## 15) Porcentagem"
+    },
+    {
+      "id": "12d36ef5-67a7-4e10-a2a0-b33f0ee13a9b",
+      "type": "note",
+      "x": 1616,
+      "y": 1920,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Cálculo de p% de um valor\n- [ ] Aumentos/Descontos simples e sucessivos\n- [ ] Variação percentual"
+    },
+    {
+      "id": "8f82534b-cd87-4827-9d33-2e9021c30967",
+      "type": "group",
+      "x": 2400,
+      "y": 1800,
+      "width": 720,
+      "height": 520,
+      "label": "16) Juros (Matemática Financeira)",
+      "color": "1"
+    },
+    {
+      "id": "1e4cf6ab-37b9-463b-bc64-776a0d512072",
+      "type": "note",
+      "x": 2416,
+      "y": 1816,
+      "width": 688,
+      "height": 90,
+      "text": "## 16) Juros (Matemática Financeira)"
+    },
+    {
+      "id": "749334c3-e1c5-4c9b-b214-26205138c6fd",
+      "type": "note",
+      "x": 2416,
+      "y": 1920,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Juros simples: C, i, t, M\n- [ ] Juros compostos: capitalização periódica, M\n- [ ] Taxas equivalentes e conversões (a.m., a.a.)"
+    },
+    {
+      "id": "52ed8199-571f-4bc6-81d0-2294040cb48c",
+      "type": "group",
+      "x": 0,
+      "y": 2400,
+      "width": 720,
+      "height": 520,
+      "label": "17) Funções & Gráficos (Afim/Quadrática)",
+      "color": "2"
+    },
+    {
+      "id": "086bce54-c66c-429d-9633-48c606d74741",
+      "type": "note",
+      "x": 16,
+      "y": 2416,
+      "width": 688,
+      "height": 90,
+      "text": "## 17) Funções & Gráficos (Afim/Quadrática)"
+    },
+    {
+      "id": "3d1c2a13-f752-4e41-8fa9-4ca42e571eee",
+      "type": "note",
+      "x": 16,
+      "y": 2520,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Função afim: leitura/interpretação\n- [ ] Função quadrática: leitura/interpretação\n- [ ] Plano cartesiano (noções)"
+    },
+    {
+      "id": "6ecccba5-2044-468b-9e85-837e1c305e2d",
+      "type": "group",
+      "x": 800,
+      "y": 2400,
+      "width": 720,
+      "height": 520,
+      "label": "18) Sequências (PA/PG)",
+      "color": "2"
+    },
+    {
+      "id": "a829cd7d-19fb-472f-9d84-ee08c37824ac",
+      "type": "note",
+      "x": 816,
+      "y": 2416,
+      "width": 688,
+      "height": 90,
+      "text": "## 18) Sequências (PA/PG)"
+    },
+    {
+      "id": "74ad18ff-e1de-4d81-a522-98eff06a4da7",
+      "type": "note",
+      "x": 816,
+      "y": 2520,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] PA: razão, termo geral, soma\n- [ ] PG: razão, termo geral, soma\n- [ ] Aplicações simples"
+    },
+    {
+      "id": "1f41c958-0b70-4a0b-a426-34069d2edae0",
+      "type": "group",
+      "x": 1600,
+      "y": 2400,
+      "width": 720,
+      "height": 520,
+      "label": "19) Leitura de Gráficos & Tabelas",
+      "color": "1"
+    },
+    {
+      "id": "28ec4925-f7db-4cb7-a19c-d6870d00f8dc",
+      "type": "note",
+      "x": 1616,
+      "y": 2416,
+      "width": 688,
+      "height": 90,
+      "text": "## 19) Leitura de Gráficos & Tabelas"
+    },
+    {
+      "id": "076efca3-4928-4f21-9d63-384a6b01adb0",
+      "type": "note",
+      "x": 1616,
+      "y": 2520,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Interpretação de gráficos e tabelas\n- [ ] Unidades e escalas nos gráficos\n- [ ] Tendências e variações"
+    },
+    {
+      "id": "eee72f25-fb41-4610-af21-78d1d5022b25",
+      "type": "group",
+      "x": 2400,
+      "y": 2400,
+      "width": 720,
+      "height": 520,
+      "label": "20) Estatística & Probabilidade",
+      "color": "2"
+    },
+    {
+      "id": "441ac349-772e-4dd1-9f19-5c34800556ae",
+      "type": "note",
+      "x": 2416,
+      "y": 2416,
+      "width": 688,
+      "height": 90,
+      "text": "## 20) Estatística & Probabilidade"
+    },
+    {
+      "id": "4e062a42-8d3f-407e-910f-d57133e8be10",
+      "type": "note",
+      "x": 2416,
+      "y": 2520,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Média, mediana, moda\n- [ ] Gráficos: barras, setores, histogramas\n- [ ] Probabilidade simples\n- [ ] Noções de variância/desvio padrão"
+    },
+    {
+      "id": "7f518b12-9423-46b8-8601-592f645fd50c",
+      "type": "group",
+      "x": 0,
+      "y": 3000,
+      "width": 720,
+      "height": 520,
+      "label": "Legenda de Cores (Incidência ENEM)",
+      "color": "6"
+    },
+    {
+      "id": "695d9b35-7c4e-4812-b35e-b36b3291de43",
+      "type": "note",
+      "x": 16,
+      "y": 3016,
+      "width": 688,
+      "height": 90,
+      "text": "## Legenda de Cores (Incidência ENEM)"
+    },
+    {
+      "id": "8851354d-6860-4219-9ce6-c01d7b44328d",
+      "type": "note",
+      "x": 16,
+      "y": 3120,
+      "width": 688,
+      "height": 372,
+      "text": "### ✔ Checklist\n- [ ] Vermelho (1) = Muito frequente\n- [ ] Laranja (2) = Frequente\n- [ ] Verde (4)   = Incidência média\n- [ ] Ciano (5)   = Ocasional\n- [ ] Roxo (6)    = Baixa incidência"
+    }
+  ],
+  "edges": [
+    {
+      "id": "f18413a2-1dc5-49b8-8f60-e22911222dab",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "6332dac4-c43c-4a3d-9192-06540a053a55",
+      "arrows": "to"
+    },
+    {
+      "id": "20e939ff-5b0f-4506-a084-873bee618d2f",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "a94b6603-79e7-4867-9061-31c7af2fe7e1",
+      "arrows": "to"
+    },
+    {
+      "id": "74d11c12-3bab-44a3-bd54-b9c2312cf490",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "e248a26e-228c-49ba-8ef8-da63847eb577",
+      "arrows": "to"
+    },
+    {
+      "id": "4f8c4b09-2d2b-4d31-b4ca-bafdaffba50f",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "f913e2d6-2ec2-46ee-af7e-fa098d379f87",
+      "arrows": "to"
+    },
+    {
+      "id": "3bc3642b-faae-4eeb-9238-cd3cef099d9c",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "79ee4604-5ce8-4162-8aa3-3f1a49994f22",
+      "arrows": "to"
+    },
+    {
+      "id": "aec40592-5568-4789-8eb9-b09074c4e191",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "61ff34ea-b08b-4603-ac20-c4fe442add00",
+      "arrows": "to"
+    },
+    {
+      "id": "97880b87-56fe-467e-a08f-95506faac08f",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "b2095ee0-57bb-401d-b366-afd987252d70",
+      "arrows": "to"
+    },
+    {
+      "id": "e29916bd-0aef-410b-bf29-4ffa4ae99cdb",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "b38cece1-b6d7-4ff1-892a-58014cbf2ec5",
+      "arrows": "to"
+    },
+    {
+      "id": "3fca3bd3-4874-485d-b956-b8b6b301424f",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "154439bd-1567-4668-97f2-e2ae236afe03",
+      "arrows": "to"
+    },
+    {
+      "id": "1ec7cf69-f1b7-4145-a2af-a38587e4e815",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "e45368ac-ab15-47fe-81e7-3d6f98a962bc",
+      "arrows": "to"
+    },
+    {
+      "id": "05208630-1a4f-4a9a-bb3d-b4383431b18b",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "ba0a63e4-96e6-4a84-9447-6affe368e7a2",
+      "arrows": "to"
+    },
+    {
+      "id": "ad13a4a0-beb5-4695-9e4e-dbb818145016",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "d92e3d27-7843-4d36-85f0-41c59d28aa83",
+      "arrows": "to"
+    },
+    {
+      "id": "fa2f56e0-51a5-4e15-a18a-2f4f54c30ab8",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "d48282d4-e88a-449a-ba7a-0ea205df19ef",
+      "arrows": "to"
+    },
+    {
+      "id": "51d89869-082d-4f3d-a5a4-6599c21a265d",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "4362510f-6e81-433e-81d0-d00da60a0f46",
+      "arrows": "to"
+    },
+    {
+      "id": "16fb6b62-78f6-4844-b5a1-67d020d55129",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "85b9e7c6-c87f-4111-9aff-fd886af68c56",
+      "arrows": "to"
+    },
+    {
+      "id": "43b232a4-cb85-4438-ace2-1bf02fb0f62e",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "1e4cf6ab-37b9-463b-bc64-776a0d512072",
+      "arrows": "to"
+    },
+    {
+      "id": "8fa409d8-c6f8-4b88-96c8-ebe1c485bcf7",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "086bce54-c66c-429d-9633-48c606d74741",
+      "arrows": "to"
+    },
+    {
+      "id": "20de6a59-d87f-4129-8ae4-40eb083d2d30",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "a829cd7d-19fb-472f-9d84-ee08c37824ac",
+      "arrows": "to"
+    },
+    {
+      "id": "c962989c-6457-42e0-8665-ce4c7cc651ad",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "28ec4925-f7db-4cb7-a19c-d6870d00f8dc",
+      "arrows": "to"
+    },
+    {
+      "id": "0af08d43-17e6-459f-a5f0-cbac22f3951d",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "441ac349-772e-4dd1-9f19-5c34800556ae",
+      "arrows": "to"
+    },
+    {
+      "id": "679d425b-d32a-437e-8d63-ff5c8d56bd80",
+      "fromNode": "ddb75b2f-54a9-4ccf-a883-3a80aad579c8",
+      "toNode": "695d9b35-7c4e-4812-b35e-b36b3291de43",
+      "arrows": "to"
+    },
+    {
+      "id": "216f34bb-33fe-46ee-bd02-31c4152cb4cb",
+      "fromNode": "d92e3d27-7843-4d36-85f0-41c59d28aa83",
+      "toNode": "85b9e7c6-c87f-4111-9aff-fd886af68c56",
+      "arrows": "to"
+    },
+    {
+      "id": "78525b9e-0fb5-45cb-b28b-54e665965780",
+      "fromNode": "d92e3d27-7843-4d36-85f0-41c59d28aa83",
+      "toNode": "1e4cf6ab-37b9-463b-bc64-776a0d512072",
+      "arrows": "to"
+    },
+    {
+      "id": "a70c783c-c371-4da7-a0fb-665da5ab6cd4",
+      "fromNode": "d92e3d27-7843-4d36-85f0-41c59d28aa83",
+      "toNode": "d48282d4-e88a-449a-ba7a-0ea205df19ef",
+      "arrows": "to"
+    },
+    {
+      "id": "ca9052b7-b918-4d4d-b7d8-aa86d6241cda",
+      "fromNode": "d92e3d27-7843-4d36-85f0-41c59d28aa83",
+      "toNode": "4362510f-6e81-433e-81d0-d00da60a0f46",
+      "arrows": "to"
+    },
+    {
+      "id": "244585f4-2acf-4c99-8883-85dd4c9282aa",
+      "fromNode": "85b9e7c6-c87f-4111-9aff-fd886af68c56",
+      "toNode": "1e4cf6ab-37b9-463b-bc64-776a0d512072",
+      "arrows": "to"
+    },
+    {
+      "id": "484ab2d9-10f5-4159-a089-8cbf3095dc22",
+      "fromNode": "28ec4925-f7db-4cb7-a19c-d6870d00f8dc",
+      "toNode": "85b9e7c6-c87f-4111-9aff-fd886af68c56",
+      "arrows": "to"
+    },
+    {
+      "id": "2fce9766-8556-46b0-90fe-fe04e836b403",
+      "fromNode": "28ec4925-f7db-4cb7-a19c-d6870d00f8dc",
+      "toNode": "441ac349-772e-4dd1-9f19-5c34800556ae",
+      "arrows": "to"
+    },
+    {
+      "id": "77708038-644a-487c-9da3-28841269ac79",
+      "fromNode": "086bce54-c66c-429d-9633-48c606d74741",
+      "toNode": "b38cece1-b6d7-4ff1-892a-58014cbf2ec5",
+      "arrows": "to"
+    },
+    {
+      "id": "e45b635b-3bdb-4f86-8e95-452375f98fd1",
+      "fromNode": "086bce54-c66c-429d-9633-48c606d74741",
+      "toNode": "154439bd-1567-4668-97f2-e2ae236afe03",
+      "arrows": "to"
+    },
+    {
+      "id": "2e2b4a11-4fa0-4da1-aba5-4d99dacf78ef",
+      "fromNode": "b2095ee0-57bb-401d-b366-afd987252d70",
+      "toNode": "154439bd-1567-4668-97f2-e2ae236afe03",
+      "arrows": "to"
+    },
+    {
+      "id": "f334d8df-542d-445a-8111-9d2ad863f490",
+      "fromNode": "79ee4604-5ce8-4162-8aa3-3f1a49994f22",
+      "toNode": "ba0a63e4-96e6-4a84-9447-6affe368e7a2",
+      "arrows": "to"
+    },
+    {
+      "id": "943e86c1-0b8c-440f-b19f-9be13bb31b0e",
+      "fromNode": "6332dac4-c43c-4a3d-9192-06540a053a55",
+      "toNode": "a94b6603-79e7-4867-9061-31c7af2fe7e1",
+      "arrows": "to"
+    },
+    {
+      "id": "6385df4f-5bd8-4d22-bb53-15018897e897",
+      "fromNode": "a94b6603-79e7-4867-9061-31c7af2fe7e1",
+      "toNode": "e248a26e-228c-49ba-8ef8-da63847eb577",
+      "arrows": "to"
+    },
+    {
+      "id": "3ff4edd4-06ce-4da8-bbfd-96b0cc6dace1",
+      "fromNode": "b38cece1-b6d7-4ff1-892a-58014cbf2ec5",
+      "toNode": "e45368ac-ab15-47fe-81e7-3d6f98a962bc",
+      "arrows": "to"
+    },
+    {
+      "id": "9ecc5389-0e94-47ae-9d19-9ccb4505314c",
+      "fromNode": "a829cd7d-19fb-472f-9d84-ee08c37824ac",
+      "toNode": "086bce54-c66c-429d-9633-48c606d74741",
+      "arrows": "to"
+    }
+  ],
+  "version": "1.0.0"
+}
