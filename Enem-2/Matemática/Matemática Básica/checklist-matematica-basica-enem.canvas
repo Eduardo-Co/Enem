@@ -1,0 +1,264 @@
+{
+  "version": "1.0.0",
+  "nodes": [
+    {
+      "id": "n-title",
+      "type": "text",
+      "text": "✔ Checklist — Matemática Básica (ENEM)\n<small>Formato: checklist didático, sem explicações. Cores por incidência ENEM. Fórmulas em MathJax inline.</small>",
+      "x": 0,
+      "y": 0,
+      "width": 1000,
+      "height": 120
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "1) Números e Operações",
+      "x": 0,
+      "y": 200,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "orange"
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "2) Equações e Inequações",
+      "x": 760,
+      "y": 200,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "orange"
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "3) Proporcionalidade e Porcentagens",
+      "x": 1520,
+      "y": 200,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "red"
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "4) Medidas e Escalas",
+      "x": 0,
+      "y": 760,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "red"
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "5) Noções de Exponenciais e Logaritmos",
+      "x": 760,
+      "y": 760,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "green"
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "6) Matemática Financeira Básica",
+      "x": 1520,
+      "y": 760,
+      "width": 720,
+      "height": 520,
+      "backgroundColor": "orange"
+    },
+    {
+      "id": "gLegend",
+      "type": "group",
+      "label": "Legenda de Cores (Incidência ENEM)",
+      "x": 2280,
+      "y": 200,
+      "width": 420,
+      "height": 520,
+      "backgroundColor": "purple"
+    },
+    {
+      "id": "h1",
+      "type": "text",
+      "text": "Números e Operações — Cabeçalho",
+      "x": 20,
+      "y": 220,
+      "width": 680,
+      "height": 40,
+      "group": "g1"
+    },
+    {
+      "id": "c1",
+      "type": "text",
+      "text": "- [ ] Sistemas de numeração e conjuntos: leitura/escrita; ordem/comparação; N, Z, Q, R; operações; aproximações; desigualdades.\n- [ ] Expressões: prioridade de operações; simplificação/reescrita; valor numérico; polinômios (+, −, × por monômio, ÷ por monômio).\n- [ ] Frações: equivalência/simplificação; comparação; operações; fração ↔ decimal ↔ porcentagem.\n- [ ] Múltiplos e divisores: critérios de divisibilidade; fatoração em primos; MDC/MMC.\n- [ ] Potenciação: propriedades; potências de 10; notação científica.\n- [ ] Radiciação: propriedades; potência ↔ raiz; racionalização.\n- [ ] Produtos notáveis e fatoração: quadrado da soma/da diferença; diferença de quadrados; fator comum; por agrupamento; trinômio quadrado perfeito; (opc.) soma/diferença de cubos.",
+      "x": 20,
+      "y": 270,
+      "width": 680,
+      "height": 420,
+      "group": "g1"
+    },
+    {
+      "id": "h2",
+      "type": "text",
+      "text": "Equações e Inequações — Cabeçalho",
+      "x": 780,
+      "y": 220,
+      "width": 680,
+      "height": 40,
+      "group": "g2"
+    },
+    {
+      "id": "c2",
+      "type": "text",
+      "text": "- [ ] Módulo (|x|): propriedades; equações; inequações.\n- [ ] Intervalos reais e reta: notação; união/interseção; representação.\n- [ ] Equações do 1.º grau: resolução; problemas de linguagem; inequações (noções).\n- [ ] Equações do 2.º grau: Δ, raízes, coeficientes; forma fatorada; vértice/concavidade; inequações (noções).\n- [ ] Sistemas 2×2: substituição; adição; interpretação geométrica (interseção de retas).",
+      "x": 780,
+      "y": 270,
+      "width": 680,
+      "height": 420,
+      "group": "g2"
+    },
+    {
+      "id": "h3",
+      "type": "text",
+      "text": "Proporcionalidade e Porcentagens — Cabeçalho",
+      "x": 1540,
+      "y": 220,
+      "width": 680,
+      "height": 40,
+      "group": "g3"
+    },
+    {
+      "id": "c3",
+      "type": "text",
+      "text": "- [ ] Razão, proporção e regra de três: direta; inversa; simples e composta.\n- [ ] Repartição proporcional: direta, inversa e mista.\n- [ ] Porcentagem: p% de um valor; aumentos/descontos simples e sucessivos; variação percentual; pontos percentuais.",
+      "x": 1540,
+      "y": 270,
+      "width": 680,
+      "height": 420,
+      "group": "g3"
+    },
+    {
+      "id": "h4",
+      "type": "text",
+      "text": "Medidas e Escalas — Cabeçalho",
+      "x": 20,
+      "y": 780,
+      "width": 680,
+      "height": 40,
+      "group": "g4"
+    },
+    {
+      "id": "c4",
+      "type": "text",
+      "text": "- [ ] Transformações de unidades (principais — sem temperatura):\n      • Comprimento: mm ↔ cm ↔ m ↔ km.\n      • Área: mm² ↔ cm² ↔ m² (fator ao quadrado).\n      • Volume: mm³ ↔ cm³ ↔ m³ (fator ao cubo).\n      • Capacidade: mL ↔ L (1 L = 1 dm^3 = 1000 mL).\n      • Massa: mg ↔ g ↔ kg ↔ t.\n      • Tempo: s ↔ min ↔ h ↔ dia.\n      • Ângulo: grau ↔ radiano (π rad = 180°).\n- [ ] Escalas (linear × área × volume):\n      • Linear (comprimentos).\n      • Área/Volume: não lineares.\n      • Relações de fator: comprimento k, área k^2, volume k^3.\n      • Aplicações: mapas e plantas.",
+      "x": 20,
+      "y": 830,
+      "width": 680,
+      "height": 420,
+      "group": "g4"
+    },
+    {
+      "id": "h5",
+      "type": "text",
+      "text": "Noções de Exponenciais e Logaritmos — Cabeçalho",
+      "x": 780,
+      "y": 780,
+      "width": 680,
+      "height": 40,
+      "group": "g5"
+    },
+    {
+      "id": "c5",
+      "type": "text",
+      "text": "- [ ] Logaritmos (noções): definição; propriedades básicas; mudança de base.\n- [ ] Equações especiais: exponenciais simples; logarítmicas simples.",
+      "x": 780,
+      "y": 830,
+      "width": 680,
+      "height": 420,
+      "group": "g5"
+    },
+    {
+      "id": "h6",
+      "type": "text",
+      "text": "Matemática Financeira Básica — Cabeçalho",
+      "x": 1540,
+      "y": 780,
+      "width": 680,
+      "height": 40,
+      "group": "g6"
+    },
+    {
+      "id": "c6",
+      "type": "text",
+      "text": "- [ ] Juros simples: capital, taxa, tempo, montante.\n- [ ] Juros compostos: capitalização periódica, montante.\n- [ ] Taxas equivalentes: a.m., a.a., conversões básicas.",
+      "x": 1540,
+      "y": 830,
+      "width": 680,
+      "height": 420,
+      "group": "g6"
+    },
+    {
+      "id": "leg-text",
+      "type": "text",
+      "text": "Cores por incidência no ENEM:\n- Vermelho = Muito frequente\n- Laranja = Frequente\n- Verde = Incidência média\n- Ciano = Ocasional\n- Roxo = Baixa incidência",
+      "x": 2300,
+      "y": 220,
+      "width": 380,
+      "height": 200,
+      "group": "gLegend"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g1",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g2",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g3",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g4",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g5",
+      "toSide": "top",
+      "arrow": "arrow"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n-title",
+      "fromSide": "bottom",
+      "toNode": "g6",
+      "toSide": "top",
+      "arrow": "arrow"
+    }
+  ]
+}

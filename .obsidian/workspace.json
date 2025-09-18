@@ -11,10 +11,17 @@
             "id": "9e031b81d7ddb66f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Enem-2/Matemática/Matemática Básica/checklist-matematica-basica-enem.canvas",
+                "viewState": {
+                  "x": 1276.7363548573278,
+                  "y": 633.074554956671,
+                  "zoom": -1.1483208522481967
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "checklist-matematica-basica-enem"
             }
           }
         ]
@@ -200,10 +207,11 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "520d63d22b57ca04",
+  "active": "9e031b81d7ddb66f",
   "lastOpenFiles": [
-    "Enem-2/Matemática/Matemática Básica/matematica_basica_enem (2).canvas",
     "Enem-2/Matemática/Matemática Básica/matematica_basica_enem_checklist.canvas",
+    "Enem-2/Matemática/Matemática Básica/checklist-matematica-basica-enem.canvas",
+    "Enem-2/Matemática/Matemática Básica/matematica_basica_enem (2).canvas",
     "Enem-2/Matemática/Matemática Básica/matematica_basica_enem (3).canvas",
     "Enem-2/Matemática/Matemática Básica/Matematica_Basica_ENEM__recorte.canvas",
     "Enem-2/Matemática/Matemática Básica/matematica_basica_enem (1).canvas",
@@ -217,7 +225,6 @@
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias.canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (4).canvas",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (3).canvas",
-    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (2).canvas",
     "Enem-2/Química/Química orgânica",
     "Enem-2/Química/Misturas e Soluções",
     "Enem-2/Química/Termoquímica",
