@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fc45e49b2f76fa74",
+        "id": "2c8130d1a826b04e",
         "type": "tabs",
         "children": [
           {
-            "id": "eee8567f7c3de82e",
+            "id": "07eaea6a1552e346",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendário/2025-09-17.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-09-17"
+              "title": "New tab"
             }
           }
         ]
@@ -204,8 +200,13 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "eee8567f7c3de82e",
+  "active": "520d63d22b57ca04",
   "lastOpenFiles": [
+    "Enem-2/Matemática/Matemática Básica/Matematica_Basica_ENEM__recorte.canvas",
+    "Enem-2/Matemática/Matemática Básica/matematica_basica_enem (1).canvas",
+    "Enem-2/Matemática/Matemática Básica/Matematica_Basica_ENEM.canvas",
+    "Enem-2/Matemática/Matemática Básica",
+    "Enem-2/Matemática",
     "Calendário/2025-09-17.md",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (5).canvas",
     "Enem-1/Química/11 - Química orgânica/Propriedades compostos orgânicos/Acidez e basicidade em compostos orgânicos.md",
@@ -219,10 +220,8 @@
     "Enem-2/Química/Misturas e Soluções/Misturas_e_Solucoes_ENEM (1).canvas",
     "Enem-2/Química/Termoquímica/Termoquimica_ENEM.canvas",
     "Enem-2/Química/Misturas e Soluções",
-    "Enem-2/Química/Eletroquímica/eletroquimica_checklist.canvas",
     "Enem-2/Química/Termoquímica",
     "Enem-2/Química/Eletroquímica",
-    "Enem-2/Química/Equilíbrio Químico/Equilibrio_Quimico_ENEM (1).canvas",
     "Enem-2/Química/Equilíbrio Químico",
     "Enem-2/Química/Cinética Química/Untitled Kanban 1 1.md",
     "Enem-2/Química/Funções inorgânicas/Untitled Kanban 1.md",
@@ -243,15 +242,12 @@
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
     "Enem-2/Química/Funções inorgânicas",
-    "Enem-2/Química/Atomística e moléculas",
     "Calendário/2025-09-02.md",
     "Calendário/2025-09-16.md",
-    "Enem-2/Química",
     "Enem-2/Física/Magnetismo/Untitled Kanban.md",
     "Enem-2/Física/Cinemática/Cinemática.md",
     "Enem-2/Física/Ondulatória/Untitled Kanban.md",
     "Calendário/2025-09-15.md",
-    "Enem-2/Física/Termologia/Untitled.md",
     "fb168ff9-e8b9-4928-94e0-b1c00a6d1634.jpeg",
     "O que Estudar/imagens/Pasted image 20250406150918.png",
     "O que Estudar/imagens/Pasted image 20250406150801.png",
