@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2c8130d1a826b04e",
+        "id": "9a03d15c4fae75b7",
         "type": "tabs",
         "children": [
           {
-            "id": "9e031b81d7ddb66f",
+            "id": "7b7edf78b803ad2c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Enem-2/Matemática/Matemática Básica/checklist-matematica-basica-enem.canvas",
+                "file": "Enem-2/Matemática/Matemática Básica/matematica_basica.canvas",
                 "viewState": {
-                  "x": 1171.156924692704,
-                  "y": 651.7551139245795,
-                  "zoom": -1.304621727545377
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "checklist-matematica-basica-enem"
+              "title": "matematica_basica"
             }
           }
         ]
@@ -207,10 +207,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "9e031b81d7ddb66f",
+  "active": "7b7edf78b803ad2c",
   "lastOpenFiles": [
-    "Enem-2/Matemática/Matemática Básica/matematica_basica_enem_checklist.canvas",
     "Enem-2/Matemática/Matemática Básica/checklist-matematica-basica-enem.canvas",
+    "Enem-2/Matemática/Matemática Básica/checklist-matematica-basica-enem-v3.canvas",
+    "Enem-2/Matemática/Matemática Básica/matematica_basica.canvas",
+    "Enem-2/Matemática/Matemática Básica/matematica_basica_enem_checklist.canvas",
     "Enem-2/Matemática/Matemática Básica/matematica_basica_enem (2).canvas",
     "Enem-2/Matemática/Matemática Básica/matematica_basica_enem (3).canvas",
     "Enem-2/Matemática/Matemática Básica/Matematica_Basica_ENEM__recorte.canvas",
@@ -223,8 +225,6 @@
     "Enem-1/Química/11 - Química orgânica/Propriedades compostos orgânicos/Acidez e basicidade em compostos orgânicos.md",
     "Enem-1/Química/11 - Química orgânica/Propriedades compostos orgânicos/Propriedades moléculas orgânicas.md",
     "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias.canvas",
-    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (4).canvas",
-    "Enem-2/Química/Química orgânica/quimica_organica_enem_checklist_incidencias (3).canvas",
     "Enem-2/Química/Química orgânica",
     "Enem-2/Química/Misturas e Soluções",
     "Enem-2/Química/Termoquímica",
