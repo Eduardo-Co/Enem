@@ -15,9 +15,9 @@
               "state": {
                 "file": "Enem-2/Linguagens/Escolas Literárias/escolas-literarias-enem_v2.canvas",
                 "viewState": {
-                  "x": 881.5334766970693,
-                  "y": 1362.275156829959,
-                  "zoom": -0.5085628038547673
+                  "x": 1461.202999355961,
+                  "y": 919.8824897948653,
+                  "zoom": -1.8060154872409526
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922
+    "width": 241.5110321044922
   },
   "right": {
     "id": "3705a3db096f470c",
