@@ -1,0 +1,481 @@
+{
+  "nodes": [
+    {
+      "id": "efa7750b-ba72-4bd8-aa47-8905101758bb",
+      "type": "text",
+      "x": 0,
+      "y": -280,
+      "width": 1600,
+      "height": 180,
+      "text": "# Escolas Literárias — ENEM (palavras-chave, conceito e autores)\nResumo enxuto para revisão."
+    },
+    {
+      "id": "ebf56e48-b14a-490f-b21d-208438b71417",
+      "type": "group",
+      "x": 3040,
+      "y": -300,
+      "width": 700,
+      "height": 280,
+      "label": "Legenda de Cores (Incidência ENEM)",
+      "color": "4"
+    },
+    {
+      "id": "962660e0-cff1-475e-8967-c066971dc3e3",
+      "type": "text",
+      "x": 3060,
+      "y": -280,
+      "width": 660,
+      "height": 240,
+      "text": "**Vermelho** = Muito frequente\n**Laranja** = Frequente\n**Verde** = Incidência média\n**Ciano** = Ocasional\n**Roxo** = Baixa incidência\n\n_Dica:_ priorize Vermelho/Laranja na reta final."
+    },
+    {
+      "id": "ed3887f3-a329-4631-96c9-a117e172650d",
+      "type": "group",
+      "x": 0,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "Trovadorismo",
+      "color": "6"
+    },
+    {
+      "id": "31a6c944-545d-4698-87c8-134967c7f198",
+      "type": "text",
+      "x": 20,
+      "y": 20,
+      "width": 680,
+      "height": 80,
+      "text": "### Trovadorismo"
+    },
+    {
+      "id": "3a503d28-b9eb-439f-8cba-067c3e47ebc5",
+      "type": "text",
+      "x": 20,
+      "y": 110,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Lírica medieval galego-portuguesa, poesia cantada.\n\n**Palavras-chave:** cantigas de amigo/amor/escárnio/maldizer; paralelismo; leixa-pren; cancioneiros; feudalismo\n\n**Autores (ENEM):** D. Dinis"
+    },
+    {
+      "id": "68905455-e11c-4971-af82-93088e648da2",
+      "type": "group",
+      "x": 760,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "Humanismo",
+      "color": "5"
+    },
+    {
+      "id": "c575e193-17b4-4c06-934d-816bbbef7603",
+      "type": "text",
+      "x": 780,
+      "y": 20,
+      "width": 680,
+      "height": 80,
+      "text": "### Humanismo"
+    },
+    {
+      "id": "7889acdd-f712-4cee-b572-5c9874d30e41",
+      "type": "text",
+      "x": 780,
+      "y": 110,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Transição medieval → renascentista; valorização do humano e da história.\n\n**Palavras-chave:** crônica histórica; teatro moral; antropocentrismo inicial\n\n**Autores (ENEM):** Fernão Lopes; Gil Vicente"
+    },
+    {
+      "id": "71f9400a-67b8-4895-a55a-cd3916c4f2e4",
+      "type": "group",
+      "x": 1520,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "Classicismo",
+      "color": "5"
+    },
+    {
+      "id": "aadad54b-4b7d-49b4-a907-3208c1438e7a",
+      "type": "text",
+      "x": 1540,
+      "y": 20,
+      "width": 680,
+      "height": 80,
+      "text": "### Classicismo"
+    },
+    {
+      "id": "6533f60c-3b96-4961-ac2c-22e45d3ec4d9",
+      "type": "text",
+      "x": 1540,
+      "y": 110,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Renascentismo; ideal de equilíbrio e medida clássica.\n\n**Palavras-chave:** épica; soneto; harmonia; imitatio\n\n**Autores (ENEM):** Luís de Camões"
+    },
+    {
+      "id": "d9a372ac-9cb8-4165-b941-229ab9607001",
+      "type": "group",
+      "x": 2280,
+      "y": 0,
+      "width": 720,
+      "height": 520,
+      "label": "Quinhentismo (Brasil)",
+      "color": "5"
+    },
+    {
+      "id": "a21f7db3-6fd4-4353-9682-33b87c4f3311",
+      "type": "text",
+      "x": 2300,
+      "y": 20,
+      "width": 680,
+      "height": 80,
+      "text": "### Quinhentismo (Brasil)"
+    },
+    {
+      "id": "df023041-b8b6-4800-a588-0a4a2c67af3f",
+      "type": "text",
+      "x": 2300,
+      "y": 110,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Textos do “descobrimento” e da catequese no Brasil.\n\n**Palavras-chave:** crônicas/cartas de viagem; visão eurocêntrica; catequese jesuítica\n\n**Autores (ENEM):** Pero Vaz de Caminha; José de Anchieta"
+    },
+    {
+      "id": "b6216ec9-2cea-4cad-9b95-9cf23f585aa3",
+      "type": "group",
+      "x": 0,
+      "y": 560,
+      "width": 720,
+      "height": 520,
+      "label": "Barroco",
+      "color": "1"
+    },
+    {
+      "id": "ffe55a42-ac81-4b0c-a440-bdf3722efe9c",
+      "type": "text",
+      "x": 20,
+      "y": 580,
+      "width": 680,
+      "height": 80,
+      "text": "### Barroco"
+    },
+    {
+      "id": "820a960d-0bc1-4fec-9c0c-c1821cc38c32",
+      "type": "text",
+      "x": 20,
+      "y": 670,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Conflito espiritual (mundo × fé) na Contrarreforma.\n\n**Palavras-chave:** antítese; hipérbole; conceptismo; cultismo; efemeridade\n\n**Autores (ENEM):** Gregório de Matos; Padre Antônio Vieira"
+    },
+    {
+      "id": "6115d624-109a-4478-9f4e-0009d56969e8",
+      "type": "group",
+      "x": 760,
+      "y": 560,
+      "width": 720,
+      "height": 520,
+      "label": "Arcadismo",
+      "color": "2"
+    },
+    {
+      "id": "c3c0e3b3-c956-4424-80ab-78b37c90c2e6",
+      "type": "text",
+      "x": 780,
+      "y": 580,
+      "width": 680,
+      "height": 80,
+      "text": "### Arcadismo"
+    },
+    {
+      "id": "69480347-ceb8-429b-88ed-e7db7df60e89",
+      "type": "text",
+      "x": 780,
+      "y": 670,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Neoclassicismo pastoral e simplicidade.\n\n**Palavras-chave:** bucolismo; carpe diem; fugere urbem; equilíbrio\n\n**Autores (ENEM):** Tomás A. Gonzaga; Cláudio M. da Costa; Basílio da Gama"
+    },
+    {
+      "id": "729204fe-592a-4d87-8e1c-366b39a5037e",
+      "type": "group",
+      "x": 1520,
+      "y": 560,
+      "width": 720,
+      "height": 520,
+      "label": "Romantismo",
+      "color": "1"
+    },
+    {
+      "id": "e105978d-9269-494a-9db5-4401eaf787b9",
+      "type": "text",
+      "x": 1540,
+      "y": 580,
+      "width": 680,
+      "height": 80,
+      "text": "### Romantismo"
+    },
+    {
+      "id": "3517023c-90dc-49b9-9f2b-bad0b8602fb9",
+      "type": "text",
+      "x": 1540,
+      "y": 670,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Subjetivismo, nacionalismo e liberdade formal.\n\n**Palavras-chave:** 1ª indianista; 2ª ultrarromântica; 3ª condoreira; prosa urbana/regional\n\n**Autores (ENEM):** Gonçalves Dias; Álvares de Azevedo; Castro Alves; José de Alencar"
+    },
+    {
+      "id": "5c722e09-ddf2-4daa-9168-a7d4cf013afb",
+      "type": "group",
+      "x": 2280,
+      "y": 560,
+      "width": 720,
+      "height": 520,
+      "label": "Realismo & Naturalismo",
+      "color": "1"
+    },
+    {
+      "id": "75cb2534-13c0-4ba0-a57a-58db369650c6",
+      "type": "text",
+      "x": 2300,
+      "y": 580,
+      "width": 680,
+      "height": 80,
+      "text": "### Realismo & Naturalismo"
+    },
+    {
+      "id": "20dcd38d-5a55-4496-a9e7-878536704637",
+      "type": "text",
+      "x": 2300,
+      "y": 670,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Objetividade crítica (Realismo) e determinismo (Naturalismo).\n\n**Palavras-chave:** análise psicológica; crítica social; zoomorfização; cientificismo\n\n**Autores (ENEM):** Machado de Assis; Aluísio Azevedo; Eça de Queirós"
+    },
+    {
+      "id": "493c9310-60cc-45ff-93e9-6dce1da8b620",
+      "type": "group",
+      "x": 0,
+      "y": 1120,
+      "width": 720,
+      "height": 520,
+      "label": "Parnasianismo",
+      "color": "4"
+    },
+    {
+      "id": "a4eb48e1-b946-44ea-9439-ab3c9a583ccb",
+      "type": "text",
+      "x": 20,
+      "y": 1140,
+      "width": 680,
+      "height": 80,
+      "text": "### Parnasianismo"
+    },
+    {
+      "id": "8bfccdde-e981-4f3d-a372-289286a396f8",
+      "type": "text",
+      "x": 20,
+      "y": 1230,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Estética formalista: “arte pela arte”.\n\n**Palavras-chave:** soneto; rigor métrico; objetividade; descrição escultórica\n\n**Autores (ENEM):** Olavo Bilac; Alberto de Oliveira; Raimundo Correia"
+    },
+    {
+      "id": "bd929496-573f-46bc-a632-2ba6b0314101",
+      "type": "group",
+      "x": 760,
+      "y": 1120,
+      "width": 720,
+      "height": 520,
+      "label": "Simbolismo",
+      "color": "4"
+    },
+    {
+      "id": "66f7687e-2a0a-4026-a349-58d3532d4c42",
+      "type": "text",
+      "x": 780,
+      "y": 1140,
+      "width": 680,
+      "height": 80,
+      "text": "### Simbolismo"
+    },
+    {
+      "id": "e047d385-018b-43be-b477-6c0d4bde74a0",
+      "type": "text",
+      "x": 780,
+      "y": 1230,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Subjetividade mística e sugestão.\n\n**Palavras-chave:** musicalidade; sinestesia; transcendência; imagens vagas\n\n**Autores (ENEM):** Cruz e Sousa; Alphonsus de Guimaraens"
+    },
+    {
+      "id": "89603f94-75c6-4092-9bd7-da73ce1e8f78",
+      "type": "group",
+      "x": 1520,
+      "y": 1120,
+      "width": 720,
+      "height": 520,
+      "label": "Pré-Modernismo",
+      "color": "2"
+    },
+    {
+      "id": "f5b71994-600f-433d-8cc4-5736fe862c59",
+      "type": "text",
+      "x": 1540,
+      "y": 1140,
+      "width": 680,
+      "height": 80,
+      "text": "### Pré-Modernismo"
+    },
+    {
+      "id": "39d4c988-7998-4f15-9500-42dc3929cce7",
+      "type": "text",
+      "x": 1540,
+      "y": 1230,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Transição crítica: denúncia social/urbana/sertão.\n\n**Palavras-chave:** linguagem coloquial; marginalidade; regionalismo; urbanização\n\n**Autores (ENEM):** Euclides da Cunha; Lima Barreto; Augusto dos Anjos; Monteiro Lobato"
+    },
+    {
+      "id": "0b2f3130-1755-457a-bca8-636545e1cc0f",
+      "type": "group",
+      "x": 2280,
+      "y": 1120,
+      "width": 720,
+      "height": 520,
+      "label": "Modernismo (Brasil)",
+      "color": "1"
+    },
+    {
+      "id": "a68c382b-2a4e-4bb6-9eba-3ea650c1ac31",
+      "type": "text",
+      "x": 2300,
+      "y": 1140,
+      "width": 680,
+      "height": 80,
+      "text": "### Modernismo (Brasil)"
+    },
+    {
+      "id": "2814fac0-115e-4cdc-be51-ff34353ef9c2",
+      "type": "text",
+      "x": 2300,
+      "y": 1230,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Ruptura estética e brasilidade (1922→).\n\n**Palavras-chave:** Semana de 22; manifestos Pau-Brasil/Antropofagia; 1930 regionalismo/psicológico; Pós-45 rigor/Concretismo\n\n**Autores (ENEM):** Mário de Andrade; Oswald de Andrade; Manuel Bandeira; C. D. de Andrade; Graciliano Ramos; João Cabral de Melo Neto"
+    },
+    {
+      "id": "0b452065-9609-468c-9131-a6177f0e5062",
+      "type": "group",
+      "x": 0,
+      "y": 1680,
+      "width": 720,
+      "height": 520,
+      "label": "Modernismo (Portugal)",
+      "color": "5"
+    },
+    {
+      "id": "c016b0aa-8b45-4d87-acfb-090df28b2e4f",
+      "type": "text",
+      "x": 20,
+      "y": 1700,
+      "width": 680,
+      "height": 80,
+      "text": "### Modernismo (Portugal)"
+    },
+    {
+      "id": "24dd8cc2-69ed-477c-b272-1f099c794d1c",
+      "type": "text",
+      "x": 20,
+      "y": 1790,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Vanguardas e heteronímia.\n\n**Palavras-chave:** revista Orpheu; sensacionismo; intersecionismo\n\n**Autores (ENEM):** Fernando Pessoa (Caeiro, Campos, Reis); Mário de Sá-Carneiro"
+    },
+    {
+      "id": "6c193b55-d4d9-44de-b976-d1860f8255c7",
+      "type": "group",
+      "x": 760,
+      "y": 1680,
+      "width": 720,
+      "height": 520,
+      "label": "Vanguardas Europeias",
+      "color": "2"
+    },
+    {
+      "id": "e3324cac-9e18-41e9-92d3-e4fc082d6f7a",
+      "type": "text",
+      "x": 780,
+      "y": 1700,
+      "width": 680,
+      "height": 80,
+      "text": "### Vanguardas Europeias"
+    },
+    {
+      "id": "009cae69-8b66-427a-abd1-cbc681bc1f1d",
+      "type": "text",
+      "x": 780,
+      "y": 1790,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Movimentos de ruptura que influenciam 1922.\n\n**Palavras-chave:** cubismo; futurismo; expressionismo; dadaísmo; surrealismo; colagem/automatismo\n\n**Autores (ENEM):** Marinetti; Breton; (influências gerais)"
+    },
+    {
+      "id": "4513292c-9137-4152-b5ec-0f185ab25f00",
+      "type": "group",
+      "x": 1520,
+      "y": 1680,
+      "width": 720,
+      "height": 520,
+      "label": "Literatura Contemporânea (BR)",
+      "color": "2"
+    },
+    {
+      "id": "33717939-20ca-4417-ad4e-8c4843904adc",
+      "type": "text",
+      "x": 1540,
+      "y": 1700,
+      "width": 680,
+      "height": 80,
+      "text": "### Literatura Contemporânea (BR)"
+    },
+    {
+      "id": "2196610b-00f1-4dbe-885b-300a952bb4ae",
+      "type": "text",
+      "x": 1540,
+      "y": 1790,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Pluralismo estético e novas vozes.\n\n**Palavras-chave:** autoficção; metalinguagem; slam; crônica; HQ/graphic novel; periferias\n\n**Autores (ENEM):** Conceição Evaristo; Itamar V. Junior; Raduan Nassar; Carolina M. de Jesus"
+    },
+    {
+      "id": "e92e94a6-8418-4df7-9c16-66254364b31f",
+      "type": "group",
+      "x": 2280,
+      "y": 1680,
+      "width": 720,
+      "height": 520,
+      "label": "Lusofonias (PLP)",
+      "color": "5"
+    },
+    {
+      "id": "0567e62e-157d-45b5-9117-07ba1e3a6b44",
+      "type": "text",
+      "x": 2300,
+      "y": 1700,
+      "width": 680,
+      "height": 80,
+      "text": "### Lusofonias (PLP)"
+    },
+    {
+      "id": "b6613f10-491f-41f5-a4cd-42aa78682866",
+      "type": "text",
+      "x": 2300,
+      "y": 1790,
+      "width": 680,
+      "height": 380,
+      "text": "**Conceito:** Literaturas de língua portuguesa fora do Brasil.\n\n**Palavras-chave:** pós-colonialismo; identidade; memória; hibridismo\n\n**Autores (ENEM):** Mia Couto; Pepetela; José Saramago"
+    }
+  ],
+  "edges": []
+}
